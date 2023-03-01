@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oegfe73w",
+    "last_mod": "2014-08-30T21:34:01.640Z",
+    "ordering": 609,
+    "target_goals": [],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "Lagrange multipliers are used to derive the mean field updates."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgvoegfe73w"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "curse of dimensionality",
+    "pointers": "* One way around the curse of dimensionality is to use parametric models such as  [linear regression](linear_regression) .\n* Another solution is to apply a dimensionality reduction algorithm such as  [principal component analysis (PCA)](principal_component_analysis) .",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 1.2945980167079727,
+    "summary": "The curse of dimensionality refers to a collection of counterintuitive properties of high-dimensional spaces which make it difficult to learn using purely local algorithms such as K nearest neighbors.\n",
+    "last_mod": "2014-09-14T21:52:22.651Z",
+    "tag": "curse_of_dimensionality",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ugfgl8p3"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:16:17.333Z",
+    "url": "http://c.learncodethehardway.org/book/ex15.html",
+    "cresource": "57y1bphqia4",
+    "ordering": -1,
+    "location_text": "Exercise 15, \"Pointers dreaded pointers\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f3kc04jg8ir"
+}

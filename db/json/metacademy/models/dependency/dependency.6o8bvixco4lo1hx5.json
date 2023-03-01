@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o4lo1hx5",
+    "last_mod": "2014-08-31T15:44:53.878Z",
+    "ordering": 621,
+    "target_goals": ["7iak06bdhf"],
+    "source_goals": ["7j1zifs4o1u", "nalihqciovl"],
+    "source": "6o8bvixc",
+    "reason": "The second-order condition for convexity is that the second-derivative matrix be positive semidefinite."
+  },
+  "model": "graph.dependency",
+  "pk": "6o8bvixco4lo1hx5"
+}

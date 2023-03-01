@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:33:12.751Z",
+    "url": "http://c.learncodethehardway.org/book/ex37.html",
+    "cresource": "nrml2ypedhd",
+    "ordering": -1,
+    "location_text": "Exercise 37, \"Hashmaps\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ms4ra1v3cgz"
+}

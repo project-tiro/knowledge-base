@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian networks",
+    "pointers": "* Bayes nets are closely related to  [Markov random fields (MRFs)](markov_random_fields) , a graphical model formalism which is good at representing soft constraints between variables.\n* Neither Bayes nets nor MRFs are  [strictly more powerful](bayes_nets_vs_mrfs_representation)  than the other.\n* Bayes nets can also be characterized in terms of their conditional independencies. The conditional independencies can be found using  [d-separation](d_separation) .\n* Often we are interested in\n**  [inferring the conditional probabilities](bayes_net_inference)  of some variables given others\n**  [learning the parameters of the network](bayes_net_parameter_learning)  from data\n* The Bayes net representation assumes all the relevant information about the problem is contained in the joint distribution over all the variables.  [Causal networks](causal_networks)  are a closely related formalism which captures more details about the causal relationships.",
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 2.3201471613856057,
+    "summary": "Bayesian networks are a graphical formalism for representing the structure of a probabilistic model, i.e. the ways in which the random variables may depend on each other. Intuitively, they are good at representing domains with a causal structure, and the edges in the graph determine which variables directly influence which other variables. They can be equivalently viewed as representing a factorization structure of the joint probability distribution, or as encoding a set of conditional independence assumptions about the distribution.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bayesian_networks",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ht7tx1xs"
+}

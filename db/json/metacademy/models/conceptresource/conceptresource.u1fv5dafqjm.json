@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "cam6w537",
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:14:00.886Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "sobwr3rqb79"
+  },
+  "model": "graph.conceptresource",
+  "pk": "u1fv5dafqjm"
+}

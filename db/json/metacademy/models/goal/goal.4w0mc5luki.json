@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* The algorithm only applies to trees (where a node has at most one parent) rather than polytrees (where a node can have multiple parents). Why does it fail for polytrees?",
+    "concept": "j80iaykc",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "4w0mc5luki"
+}

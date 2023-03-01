@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:06:37.342Z",
+    "url": "",
+    "cresource": "azdduh1xlej",
+    "ordering": -1,
+    "location_text": "Chapter 4, \"Exceptions\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "sk9geeit506"
+}

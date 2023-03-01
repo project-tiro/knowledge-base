@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "prs7rd4cza",
+    "ordering": 0,
+    "location_text": "section \"Chinese Restaurant Franchise\"",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "deth33tft7"
+}

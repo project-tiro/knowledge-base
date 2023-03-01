@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4n3f60w8",
+    "last_mod": "2014-08-30T21:34:01.727Z",
+    "ordering": -1,
+    "target_goals": ["3zpbku1zz6t"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "The probability density function includes a matrix inverse."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnaf4n3f60w8"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:45:11.537Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-17-bellman-ford/",
+    "cresource": "zyxp7ap4e56",
+    "ordering": -1,
+    "location_text": "Lecture 17, \"Bellman-Ford\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "imzww320dls"
+}

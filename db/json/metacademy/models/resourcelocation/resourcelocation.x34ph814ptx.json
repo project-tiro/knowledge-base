@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:34:16.994Z",
+    "url": "",
+    "cresource": "7e31n7w9gbb",
+    "ordering": -1,
+    "location_text": "Lecture \"Depth-first search (DFS), topological sort,\" starting from 18:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x34ph814ptx"
+}

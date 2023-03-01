@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "gvp31pbp",
+    "last_mod": "2014-08-30T21:34:00.816Z",
+    "ordering": -1,
+    "target_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "Expected value is a property of random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv5gvp31pbp"
+}

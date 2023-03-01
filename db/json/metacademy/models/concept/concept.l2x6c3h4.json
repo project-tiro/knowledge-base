@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conditional random fields",
+    "pointers": null,
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.519784779191168,
+    "summary": "MRFs encode factorization and conditional independence structure in a joint distribution over some set of random variables. Conditional random fields (CRFs) instead directly encode the same kind of structure in the conditional distribution of one set of random variables given another. This allows them to represent more complex dependencies in the conditional distribution. They are commonly used in computer vision and natural language processing.\n",
+    "last_mod": "2014-09-21T01:42:02.942Z",
+    "tag": "conditional_random_fields",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "l2x6c3h4"
+}

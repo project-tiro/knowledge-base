@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fyslhiko",
+    "last_mod": "2014-08-30T23:52:08.699Z",
+    "ordering": 0,
+    "target_goals": ["5zv1cyiyqh6", "96u5ytc78og", "goy0dn31fjy", "rxw7ns5pvdq"],
+    "source_goals": [],
+    "source": "gzaovo18",
+    "reason": "Logistic regression is a binary linear classifier"
+  },
+  "model": "graph.dependency",
+  "pk": "gzaovo18fyslhiko"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T15:05:46.134Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap8.pdf#page=10",
+    "cresource": "1mb22iipwyo",
+    "ordering": -1,
+    "location_text": "Lecture notes 8, \"Connections,\" subsection 7, \"Existence of connections,\" pages 10-11 (only the part about partitions of unity)",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "310wtiukea2"
+}

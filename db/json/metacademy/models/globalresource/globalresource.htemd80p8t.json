@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Hierarchical Dirichlet Processes",
+    "url": "http://www.cs.berkeley.edu/~jordan/papers/hdp.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Yee Whye Teh', u'Michael I Jordan', u'Matthew J Beal', u'David M Blei']",
+    "edition_years": null,
+    "resource_type": "technical report"
+  },
+  "model": "graph.globalresource",
+  "pk": "htemd80p8t"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "C strings",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.3752906887532281,
+    "summary": "In C, strings are represented as arrays of characters, terminated by a special null character. The C standard library provides several functions for manipulating strings. Unfortunately, one needs to be very careful when using these to avoid buffer overflow bugs.\n",
+    "last_mod": "2014-09-14T18:00:57.844Z",
+    "tag": "c_strings",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "99werltk"
+}

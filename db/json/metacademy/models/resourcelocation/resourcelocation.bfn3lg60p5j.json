@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T20:54:39.522Z",
+    "url": "http://en.wikipedia.org/wiki/B-tree",
+    "cresource": "nqjvk2i0we4",
+    "ordering": -1,
+    "location_text": "Article \"B-tree\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bfn3lg60p5j"
+}

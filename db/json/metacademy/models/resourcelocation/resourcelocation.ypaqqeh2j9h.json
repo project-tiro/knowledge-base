@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:58:52.335Z",
+    "url": "",
+    "cresource": "vgwvsrsjnbq",
+    "ordering": -1,
+    "location_text": "Section 6.4, \"Imperfect, real-time decisions,\" pages 171-175",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ypaqqeh2j9h"
+}

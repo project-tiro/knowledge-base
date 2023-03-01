@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://class.coursera.org/ml-003/lecture/view?lecture_id=36",
+    "cresource": "q0ai0fj9c1",
+    "ordering": 3,
+    "location_text": "Lecture \"Simplified cost function and gradient descent\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qapc2jjc45"
+}

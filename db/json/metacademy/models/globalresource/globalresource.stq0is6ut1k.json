@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A reference on the Java programming language, aimed at people who already have some programming experience; also available through Safari Books Online",
+    "version_num": 0,
+    "title": "Java in a Nutshell",
+    "url": "http://www.amazon.com/Java-Nutshell-Benjamin-J-Evans/dp/1449370829/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-09-14T18:24:49.346Z",
+    "authors": "[u'Benjamin J. Evans', u'David Flanagan']",
+    "edition_years": "[]",
+    "resource_type": "reference book"
+  },
+  "model": "graph.globalresource",
+  "pk": "stq0is6ut1k"
+}

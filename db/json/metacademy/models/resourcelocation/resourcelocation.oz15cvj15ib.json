@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:14:49.608Z",
+    "url": "http://introcs.cs.princeton.edu/java/44st/",
+    "cresource": "6f6clbc81if",
+    "ordering": -1,
+    "location_text": "Section 4.4, \"Symbol tables\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "oz15cvj15ib"
+}

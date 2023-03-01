@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "soijtwtk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 401,
+    "target_goals": [],
+    "source_goals": ["1g3eemq2ak", "9m41e376n2", "nd8c9fggpp"],
+    "source": "g2b5lqga",
+    "reason": "KL divergence is part of the variational objective function."
+  },
+  "model": "graph.dependency",
+  "pk": "g2b5lqgasoijtwtk"
+}

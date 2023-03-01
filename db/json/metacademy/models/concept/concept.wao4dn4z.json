@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational Bayes EM",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Variational Bayes EM is the application of variational Bayes to latent variable models. In the approximating distribution, the latent variables and parameters are independent, and often there are additional variational approximations within either the latent variables or the parameters.\n",
+    "last_mod": "2014-08-30T20:17:46.226Z",
+    "tag": "variational_bayes_em",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wao4dn4z"
+}

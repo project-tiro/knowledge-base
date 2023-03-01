@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T02:59:56.899Z",
+    "url": "http://www.cs.elte.hu/geometry/csikos/dif/dif8.pdf",
+    "cresource": "695s2nchrru",
+    "ordering": -1,
+    "location_text": "Unit 8, \"Topological and differentiable manifolds,\" pages 1-4",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xkpxnxgpmk7"
+}

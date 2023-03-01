@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jcuxtsdx",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 779,
+    "target_goals": ["1bh0tshy1p", "l42z5lh0oo", "q5vwcwqjm5"],
+    "source_goals": ["70dcc4lk3f", "v6egxrlebf"],
+    "source": "zlyqzsgn",
+    "reason": "The gradient ascent update rule for generalized linear models has a convenient form."
+  },
+  "model": "graph.dependency",
+  "pk": "zlyqzsgnjcuxtsdx"
+}

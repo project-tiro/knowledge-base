@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/column-space-and-nullspace/",
+    "cresource": "t6ahwupud4",
+    "ordering": 0,
+    "location_text": "Lecture \"Column space and nullspace\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "t3xn1r6d5f"
+}

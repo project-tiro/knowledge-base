@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "yxzkzlu3ao",
+    "ordering": 0,
+    "location_text": "Section 8.2, \"The Turing machine,\" pages 324-335",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cvzvg1649z"
+}

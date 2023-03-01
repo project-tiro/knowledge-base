@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://cs229.stanford.edu/notes/cs229-notes1.pdf#page=7",
+    "cresource": "l53u6u1qs4",
+    "ordering": 0,
+    "location_text": "Chapter 1, section 2, pages 7-11 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9tz60g6zy9"
+}

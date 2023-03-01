@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:14:15.086Z",
+    "url": "",
+    "cresource": "38o69u7bck5",
+    "ordering": -1,
+    "location_text": "Section 10.8, \"Tools for testing\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ju0o3d3clsa"
+}

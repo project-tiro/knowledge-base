@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* If the input variables are sampled uniformly from a D-dimensional box, and one uses KNN as the learning algorithm, why can the number of training examples needed to achieve a given accuracy be exponential in D?",
+    "concept": "ugfgl8p3",
+    "last_mod": "2014-09-14T21:52:22.635Z"
+  },
+  "model": "graph.goal",
+  "pk": "jlpi3pffcs"
+}

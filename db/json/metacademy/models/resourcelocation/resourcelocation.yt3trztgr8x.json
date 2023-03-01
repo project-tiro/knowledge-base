@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:35:01.338Z",
+    "url": "http://www.wisdom.weizmann.ac.il/~yakov/Geometry/7.pdf",
+    "cresource": "8ebgenmkuik",
+    "ordering": -1,
+    "location_text": "Part 6, \"Differential forms on manifolds\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yt3trztgr8x"
+}

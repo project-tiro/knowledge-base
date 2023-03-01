@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Gaussian Belief Propagation: Theory and Application",
+    "url": "http://arxiv.org/pdf/0811.2518.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Danny Bickson']",
+    "edition_years": null,
+    "resource_type": "thesis"
+  },
+  "model": "graph.globalresource",
+  "pk": "83cqcomuch"
+}

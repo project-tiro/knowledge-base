@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "target": "i97bwag1",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["ce6oa8yewvr", "idnhc0wcs3e", "mun2mvhkwzj", "qgofzm06qrg", "swhrzys2m6u", "x8l8umkugyl"],
+    "source_goals": [
+      "0fblaa6li9k",
+      "4lj8wtz2iwo",
+      "5833l4t5p3z",
+      "72ymb7e61v5",
+      "n1mgrr6fbsj",
+      "o3qc3s5alym",
+      "qthbarjkvtj",
+      "t2eibk471rz",
+      "t8rg8xobeh7",
+      "ub2z1fmz2wy"
+    ],
+    "source": "855sc8u4",
+    "reason": "A flow is an action of a vector field"
+  },
+  "model": "graph.dependency",
+  "pk": "855sc8u4i97bwag1"
+}

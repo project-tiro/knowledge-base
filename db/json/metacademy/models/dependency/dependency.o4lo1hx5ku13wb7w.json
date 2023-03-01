@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ku13wb7w",
+    "last_mod": "2014-10-11T21:03:43.495Z",
+    "ordering": 1,
+    "target_goals": ["0e4vey24wa0", "2gw3zpuh5pc", "i4pp41euycc", "td05a2545is"],
+    "source_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source": "o4lo1hx5",
+    "reason": "Analyzing convergence requires a strong convexity assumption"
+  },
+  "model": "graph.dependency",
+  "pk": "o4lo1hx5ku13wb7w"
+}

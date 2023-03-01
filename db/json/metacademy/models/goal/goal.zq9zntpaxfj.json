@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to compute orthogonal bases using Gram-Schmidt",
+    "concept": "n3btymcr",
+    "last_mod": "2014-10-11T21:21:34.520Z"
+  },
+  "model": "graph.goal",
+  "pk": "zq9zntpaxfj"
+}

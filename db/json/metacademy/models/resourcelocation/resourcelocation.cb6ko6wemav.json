@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:42:27.879Z",
+    "url": "https://class.coursera.org/algo-004/lecture/32",
+    "cresource": "anufp0olr5x",
+    "ordering": -1,
+    "location_text": "Lecture \"Graph representations\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cb6ko6wemav"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "mixture of Gaussians models",
+    "pointers": "*  [K-means](k_means)  is a simpler clustering model which is faster to fit and often used as an initialization.\n* When there isn't enough data to fit a general mixture of Gaussians, here are some alternative models:\n**  [Bayesian mixture of Gaussians](bayesian_mixture_of_gaussians)\n**  [mixture of factor analyzers](mixture_of_factor_analyzers)\n**  [co-clustering](co_clustering)\n**  [Bayesian clustered tensor factorization](bayesian_clustered_tensor_factorization)\n* When the clusters aren't likely to be shaped like Gaussians, consider these clustering models:\n**  [spectral clustering](spectral_clustering)\n**  [mean-shift](mean_shift)\n*  [Chinese restaurant processes](crp_clustering)  let us fit a mixture of Gaussians when the number of components isn't known in advance.",
+    "tags": ["machinelearning"],
+    "learn_time": 0.9795404333228593,
+    "summary": "Mixture of Gaussians is a probabilistic model commonly used for clustering: partitioning a set of data points into a set of clusters, where data points within a cluster are similar to one another. \n",
+    "last_mod": "2014-08-30T18:08:16.483Z",
+    "tag": "mixture_of_gaussians",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ndwscpao"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An undergraduate textbook in mathematical logic, with proofs.",
+    "version_num": 0,
+    "title": "A Mathematical Introduction to Logic",
+    "url": "http://www.amazon.com/Mathematical-Introduction-Logic-Second-Edition/dp/0122384520",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Herbert B. Enderton']",
+    "edition_years": "[u'1972', u'2001']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "psdeikotva"
+}

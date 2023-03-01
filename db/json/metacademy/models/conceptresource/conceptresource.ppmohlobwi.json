@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "u223r2u4",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "afk8gozrmy"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ppmohlobwi"
+}

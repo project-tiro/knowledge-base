@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "kucnbr1j16",
+    "ordering": 0,
+    "location_text": "Section 9.4, \"Properties of maximum likelihood estimators,\" pages 124-126",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0ak29vlwbo"
+}

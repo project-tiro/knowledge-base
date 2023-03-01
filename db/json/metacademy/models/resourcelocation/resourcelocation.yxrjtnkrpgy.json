@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-27T01:28:05.097Z",
+    "url": "",
+    "cresource": "y846h62xgtd",
+    "ordering": -1,
+    "location_text": "Section 6.1, \"The BFGS method,\" pages 136-143",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yxrjtnkrpgy"
+}

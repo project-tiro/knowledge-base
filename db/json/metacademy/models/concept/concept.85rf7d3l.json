@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "AVL trees",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.1080523797329673,
+    "summary": "AVL trees, named after their inventors, are a kind of binary search tree which automatically maintains balance in order to support efficient search, insertion, and deletion. This data structure is based on maintaining the invariant that the heights of the left and right subtrees of a given node can differ by at most 1.\n",
+    "last_mod": "2014-08-27T19:17:11.199Z",
+    "tag": "avl_trees",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "85rf7d3l"
+}

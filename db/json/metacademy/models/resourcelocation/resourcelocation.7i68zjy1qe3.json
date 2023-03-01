@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:52:38.304Z",
+    "url": "https://class.coursera.org/algo-004/lecture/149",
+    "cresource": "9dfit2tpdgq",
+    "ordering": -1,
+    "location_text": "Lecture \"Insertion in a red-black tree\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7i68zjy1qe3"
+}

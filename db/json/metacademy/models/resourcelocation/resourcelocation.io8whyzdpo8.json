@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:18:42.200Z",
+    "url": "",
+    "cresource": "h73qpacjhcq",
+    "ordering": -1,
+    "location_text": "Section 15.2, \"Tries,\" pages 628-636",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "io8whyzdpo8"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "q2rwucp3",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 101,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "qp1bbj0r",
+    "reason": "We can optimize the objective function using the same IRLS method as in logistic regression."
+  },
+  "model": "graph.dependency",
+  "pk": "qp1bbj0rq2rwucp3"
+}

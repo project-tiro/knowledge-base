@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9qd1a8d6",
+    "last_mod": "2014-09-14T04:14:34.682Z",
+    "ordering": -1,
+    "target_goals": ["4cgc1ll3rwz", "k8j9zqs1pz4", "sciukb923a9"],
+    "source_goals": ["81os9p13dyd", "jcszpyxqmh1", "jzqv6t7ufwu"],
+    "source": "wahfxtxd",
+    "reason": "Linked lists are one way to represent lists of edges"
+  },
+  "model": "graph.dependency",
+  "pk": "wahfxtxd9qd1a8d6"
+}

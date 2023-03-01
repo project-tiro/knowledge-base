@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=301",
+    "cresource": "wpkkyi59ht",
+    "ordering": 0,
+    "location_text": "Section 8.7, \"Bagging,\" pages 282-288 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "acljeg8d0o"
+}

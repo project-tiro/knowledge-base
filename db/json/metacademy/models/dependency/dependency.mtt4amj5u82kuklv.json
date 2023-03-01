@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u82kuklv",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 183,
+    "target_goals": ["65i2tidhb7", "8kfod9tzw3", "m5su444gco", "zajv192dbk"],
+    "source_goals": ["b70kqe47xt", "meclrzvv2m", "zzyua2m7re"],
+    "source": "mtt4amj5",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "mtt4amj5u82kuklv"
+}

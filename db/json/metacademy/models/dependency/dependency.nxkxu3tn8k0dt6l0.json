@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8k0dt6l0",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 2,
+    "target_goals": ["0767evmfjc", "m2hycnuqnj"],
+    "source_goals": ["3vkr6d2jd5", "826r35kbgf", "aix0qht1i5", "pf6ucrmbo7", "pyouwosbai"],
+    "source": "nxkxu3tn",
+    "reason": "The proof of Tarski's Theorem involves representability in arithmetic."
+  },
+  "model": "graph.dependency",
+  "pk": "nxkxu3tn8k0dt6l0"
+}

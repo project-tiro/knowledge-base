@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multi-dimensional arrays in C",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 2.074829226865284,
+    "summary": "Multi-dimensional arrays refer to arrays which take multiple indices. In C, these can be represented either by allocating a fixed-size array on the stack or in terms of an array of arrays. The latter is more flexible, but it leads to some tricky pointer arithmetic.",
+    "last_mod": "2014-09-07T03:48:56.255Z",
+    "tag": "multi_dimensional_arrays_in_c",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "z4efgcsu"
+}

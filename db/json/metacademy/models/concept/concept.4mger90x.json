@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "search problems",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 1.9660651820764585,
+    "summary": "Many AI tasks can be formulated as search problems, which are defined in terms of an idealized \"state\" which encapsulates all the relevant facts about the world. The agent can apply various actions which modify the state, and the objective is to find a sequence of actions which reach a \"goal state\" which satisfies certain conditions. Sometimes each operator is assigned a cost, and the objective is to find the sequence with lowest cost. \n",
+    "last_mod": "2014-11-08T20:38:06.026Z",
+    "tag": "search_problems",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "4mger90x"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Boltzmann machines",
+    "pointers": "*  [Restricted Boltzmann machines (RBMs)](restricted_boltzmann_machines)  are a special case of Boltzmann machines often used in practice.\n* The model distribution can also be approximated using the  [mean field approximation](mean_field) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.5258958387228894,
+    "summary": "Boltzmann machines are a kind of probabilistic neural network used in density modeling. They can be viewed as an MRF with only pairwise connections between units, and where the units are typically binary-valued. Restricted Boltzmann machines (RBMs) are a widely used special case.\n",
+    "last_mod": "2014-08-31T00:19:34.372Z",
+    "tag": "boltzmann_machines",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m8no247q"
+}

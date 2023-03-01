@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "9z5lspitxhc",
+    "ordering": -1,
+    "location_text": "Section 2.3, \"Nondeterministic finite automata,\" pages 55-68",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "g9xiaecasaf"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T18:52:22.456Z",
+    "url": "http://www.math.ethz.ch/~acannas/Papers/symplectic.pdf#page=12",
+    "cresource": "eafx7td22qb",
+    "ordering": -1,
+    "location_text": "Section 1.5, \"Darboux and Moser Theorems,\" pages 12-13",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "g4a11v8ga1k"
+}

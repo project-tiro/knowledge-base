@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Godel numbering",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 2.084102188326144,
+    "summary": "One can define a system (\"Godel numbering\") for encoding expressions and derivations (in some logical system) as numbers. All the syntactic operations needed to verify derivations are recursive and can be represented in arithmetic. This shows that any logical theory which includes arithmetic is powerful enough to talk about itself. This idea is used to construct self-referential sentences in Godel's Incompleteness Theorem and related results.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "godel_numbering",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3x39kkn2"
+}

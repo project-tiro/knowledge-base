@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "z3xr2y3eojb",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"Differential forms,\" from pages 201-210",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "utzenb8l4zv"
+}

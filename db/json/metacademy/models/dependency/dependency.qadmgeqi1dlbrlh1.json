@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1dlbrlh1",
+    "last_mod": "2014-08-30T21:34:01.620Z",
+    "ordering": -1,
+    "target_goals": ["dqvpyo518ox"],
+    "source_goals": ["7ndjgfffphw", "xo0il98yzii"],
+    "source": "qadmgeqi",
+    "reason": "This trick uses the transformation method."
+  },
+  "model": "graph.dependency",
+  "pk": "qadmgeqi1dlbrlh1"
+}

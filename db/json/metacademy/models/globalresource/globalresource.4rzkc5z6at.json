@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook giving a broad overview of all of AI.",
+    "version_num": 0,
+    "title": "Artificial Intelligence: a Modern Approach",
+    "url": "http://aima.cs.berkeley.edu/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-11-08T23:16:34.967Z",
+    "authors": "[u'Stuart Russell', u'Peter Norvig']",
+    "edition_years": "[u'1995', u'2002', u'2010']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "4rzkc5z6at"
+}

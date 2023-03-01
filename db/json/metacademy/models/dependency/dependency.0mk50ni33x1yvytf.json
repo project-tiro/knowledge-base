@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x1yvytf",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 37,
+    "target_goals": ["5c4cw97u53", "7e65781ifa", "t7k7cfbbs5"],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "The particle filter approximates the conditional distribution of the states given the observations."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni33x1yvytf"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what constructors are, how to define them, and when they are called; know about destructors as well, if those are used in the language",
+    "concept": "x865hwhs",
+    "last_mod": "2014-09-11T02:30:06.071Z"
+  },
+  "model": "graph.goal",
+  "pk": "mz97vyjyzy6"
+}

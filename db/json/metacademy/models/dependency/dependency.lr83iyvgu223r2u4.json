@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u223r2u4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 26,
+    "target_goals": [],
+    "source_goals": ["6mfkdu2n9n", "rstg5clahw"],
+    "source": "lr83iyvg",
+    "reason": "LDA is a Bayesian version of pLSA."
+  },
+  "model": "graph.dependency",
+  "pk": "lr83iyvgu223r2u4"
+}

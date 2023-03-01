@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "abstract data types",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.4556880712572684,
+    "summary": "An abstract data type is a specification of the behavior of a data type (often a class) without reference to its underlying implementation. Data abstraction is one of the fundamental principles of software engineering, since it facilitates the decomposition of a problem into independent chunks and allows the implementation of the data type to change without breaking the client code.\n",
+    "last_mod": "2014-09-14T16:02:36.785Z",
+    "tag": "abstract_data_types",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "h61ljzls"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "cur88yvtm6",
+    "ordering": 0,
+    "location_text": "Sections 5.1, \"The properties of determinants,\" and 5.2, \"Permutations and cofactors,\" pages 244-263",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3dgnbirt12"
+}

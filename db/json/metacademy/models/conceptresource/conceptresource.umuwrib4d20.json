@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "iszv8c6h",
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:08:13.934Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[{u'title': u'recursion (programming)'}]",
+    "global_resource": "c1emvz7tytr"
+  },
+  "model": "graph.conceptresource",
+  "pk": "umuwrib4d20"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:45:57.541Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap12.pdf#page=4",
+    "cresource": "eisoqvcesmo",
+    "ordering": -1,
+    "location_text": "Chapter 12, \"Tensors,\" section 4, \"Musical isomorphisms,\" pages 4-5",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "i0bg9rj11ex"
+}

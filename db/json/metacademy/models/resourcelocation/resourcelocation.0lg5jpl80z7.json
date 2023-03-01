@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/automata/lecture/6",
+    "cresource": "8nn5moeyksu",
+    "ordering": -1,
+    "location_text": "Lecture \"Regular expressions,\" starting from 12:10",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0lg5jpl80z7"
+}

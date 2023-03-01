@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "eoh18sqa",
+    "last_mod": "2014-08-30T23:43:17.918Z",
+    "ordering": 1,
+    "target_goals": ["3s6sgjdtwf", "xm4gzjxchm"],
+    "source_goals": [],
+    "source": "3cqp31aa",
+    "reason": "The goal of Bayesian decision theory is to minimize the expected loss under the posterior for a particular loss function."
+  },
+  "model": "graph.dependency",
+  "pk": "3cqp31aaeoh18sqa"
+}

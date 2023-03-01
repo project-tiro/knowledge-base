@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "generalized linear models",
+    "pointers": "* Important example of generalized linear models include:\n**  [linear regression](linear_regression)\n**  [logistic regression](logistic_regression)\n**  [multinomial logistic regression](multinomial_logistic_regression)\n*  [Exponential family PCA](exponential_family_pca)  is a class of matrix factorization models based on the same ideas as generalized linear models.",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 2.118856132035809,
+    "summary": "Generalized linear models are a class of linear models which unify several widely used models, including linear regression and logistic regression. The distribution over each output is assumed to be an exponential family distribution whose natural parameters are a linear function of the inputs. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "generalized_linear_models",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jcuxtsdx"
+}

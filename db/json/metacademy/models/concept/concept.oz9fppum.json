@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "soft weight sharing in neural nets",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 0.8632311737355802,
+    "summary": "Soft weight sharing is a form of regularization for neural networks where groups of weights are encouraged to have similar values.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "soft_weight_sharing_neural_nets",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "oz9fppum"
+}

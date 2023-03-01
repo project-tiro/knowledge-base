@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hd7liqdv",
+    "last_mod": "2014-08-30T21:34:00.690Z",
+    "ordering": -1,
+    "target_goals": ["55729ahbpy3", "sqe14w72r1z", "w5fbm1fk6kf", "xdgc7kdmjk8", "y8kovmmv6b9"],
+    "source_goals": ["1qbgshd37b6", "cuiidrvc102", "htvmvj3oesq"],
+    "source": "b72bqd7z",
+    "reason": "An inner product is an operation defined on a vector space."
+  },
+  "model": "graph.dependency",
+  "pk": "b72bqd7zhd7liqdv"
+}

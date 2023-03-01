@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "trust regions",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 2.062313570899534,
+    "summary": "Trust region methods are a way of damping the updates in second-order optimization algorithms, based on the intuition that the curvature information is untrustworthy outside of a certain radius from the current point. They work by (perhaps approximately) minimizing the quadratic objective function subject to a norm constraint.\n",
+    "last_mod": "2014-11-19T02:58:33.356Z",
+    "tag": "trust_regions",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "cen9nzhn"
+}

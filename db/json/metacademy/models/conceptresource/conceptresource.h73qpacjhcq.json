@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "b6ahvae4",
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:19:33.250Z",
+    "ordering": -1,
+    "notes": "[u'This section covers the case of binary tries; the multiway case is analogous.']",
+    "goals_covered": [],
+    "edition": "3",
+    "additional_dependencies": "[]",
+    "global_resource": "7apewiijdhx"
+  },
+  "model": "graph.conceptresource",
+  "pk": "h73qpacjhcq"
+}

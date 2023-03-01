@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "s37gm518xj",
+    "ordering": 0,
+    "location_text": "Section 5.9, \"The gamma distribution,\" pages 295-301",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ub9ivhfork"
+}

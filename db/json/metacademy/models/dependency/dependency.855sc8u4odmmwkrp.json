@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "target": "odmmwkrp",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 1,
+    "target_goals": ["77qaa2sybke", "beu6trbj6gh", "lf6enm082te", "vlxmvze1f3l", "w39t3ysuc45"],
+    "source_goals": [
+      "0fblaa6li9k",
+      "4lj8wtz2iwo",
+      "5833l4t5p3z",
+      "72ymb7e61v5",
+      "n1mgrr6fbsj",
+      "o3qc3s5alym",
+      "qthbarjkvtj",
+      "t2eibk471rz",
+      "t8rg8xobeh7",
+      "ub2z1fmz2wy"
+    ],
+    "source": "855sc8u4",
+    "reason": "Tensor fields are defined in terms of the tangent bundle"
+  },
+  "model": "graph.dependency",
+  "pk": "855sc8u4odmmwkrp"
+}

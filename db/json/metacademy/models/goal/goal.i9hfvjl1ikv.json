@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what constraint the sizes of the matrices must satisfy for the product to be defined",
+    "concept": "9p3calmt",
+    "last_mod": "2014-08-30T17:57:43.374Z"
+  },
+  "model": "graph.goal",
+  "pk": "i9hfvjl1ikv"
+}

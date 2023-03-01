@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian PCA",
+    "pointers": "*  [Probabilistic matrix factorization (PMF)](probabilistic_matrix_factorization)  is another Bayesian formulation of PCA, used for predicting missing entries of a matrix.\n* We can perform inference in this model using  [Gibbs sampling](gibbs_sampling) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "By formulating PCA as a Bayesian model, we can auotmatically choose a latent dimensionality by maximizing the (approximate) marginal likelihood of the model.\n",
+    "last_mod": "2014-08-31T00:11:22.277Z",
+    "tag": "bayesian_pca",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "sjfdj1qn"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "i3qwmbmd7w",
+    "ordering": 0,
+    "location_text": "Section 1.1, \"Vectors in R^n\", pages 1-6",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xxq20jgh88"
+}

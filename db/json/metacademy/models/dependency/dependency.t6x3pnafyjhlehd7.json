@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "yjhlehd7",
+    "last_mod": "2014-10-11T21:24:39.872Z",
+    "ordering": -1,
+    "target_goals": ["20v6gosbsc9", "ralmg75o0n0", "umprwxuy7dg"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "PD matrices are closed under matrix inverses."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnafyjhlehd7"
+}

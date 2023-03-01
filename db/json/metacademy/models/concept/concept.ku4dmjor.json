@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "rejection sampling",
+    "pointers": "*  [Importance sampling](importance_sampling)  is a way of getting weighted samples from a distribution and is useful in many of the same situations.\n*  [Adaptive rejection sampling](adaptive_rejection_sampling)  is a way to improve the sampler based on the rejected samples  [ (go to concept)](adaptive_rejection_sampling)\n* Other commonly used sampling methods include:\n**  [Gibbs sampling](gibbs_sampling) , a generic and widely applicable sampling algorithm\n**  [particle filters](particle_filter) , which are useful for time series modeling\n**  [Metropolis-Hastings algorithm](metropolis_hastings) , which is very general",
+    "tags": ["pgm", "probabilitytheor"],
+    "learn_time": 0.6997034640853326,
+    "summary": "Rejection sampling (RS) is a monte carlo method for sampling from a potentially complex distribution p(x) given a simpler distribution q(x). RS is applicable when we can evaluate p(x) easily and sample from q(x) easily. The basic idea is to scale q(x) by some constant K such that K*q(x) >= p*(x) for all x, where p(x) = 1/Z p*(x) for some constant Z (that is, we only need to know p(x) up to a normalization factor, which is common in practice). RS operates by sampling a value x0 from q(x) and then generating a uniform random number, u, between [0, K*q(x0)]. If u <= p*(x0) we keep x0 as a valid sample from p(x), else we discard x0.",
+    "last_mod": "2014-08-30T19:07:38.869Z",
+    "tag": "rejection_sampling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ku4dmjor"
+}

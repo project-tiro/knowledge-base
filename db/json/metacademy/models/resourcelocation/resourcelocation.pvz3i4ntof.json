@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=7zDARfKVm7s",
+    "cresource": "c0qz4ikr4y",
+    "ordering": 0,
+    "location_text": "video lecture: (ML 14.6) Forward-Backward algorithm for HMMs ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pvz3i4ntof"
+}

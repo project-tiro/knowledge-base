@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "local search",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 1.1778208295033228,
+    "summary": "Local search algorithms are search algorithms which only maintain the current state, and not the way in which it was constructed. Local search algorithms often take the form of \"hill climbing,\" where the state is iteratively replaced with a nearby one which improves the objective function.\n",
+    "last_mod": "2014-11-08T22:32:46.952Z",
+    "tag": "local_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "7cedq6br"
+}

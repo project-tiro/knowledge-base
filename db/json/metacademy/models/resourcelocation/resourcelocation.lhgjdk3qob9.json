@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:13:43.722Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-3-insertion-sort-merge-sort",
+    "cresource": "v7s0i8xrv59",
+    "ordering": -1,
+    "location_text": "Lecture 3, \"Insertion sort, merge sort,\" up to 24:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lhgjdk3qob9"
+}

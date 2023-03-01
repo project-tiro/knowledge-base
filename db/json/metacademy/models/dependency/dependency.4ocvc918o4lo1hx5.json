@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o4lo1hx5",
+    "last_mod": "2014-08-30T21:34:00.390Z",
+    "ordering": 618,
+    "target_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source_goals": ["h1dr5u0ml6m", "hlonikcuk0x", "zqfd16t4kpj"],
+    "source": "4ocvc918",
+    "reason": "Convex functions are defined in terms of vectors."
+  },
+  "model": "graph.dependency",
+  "pk": "4ocvc918o4lo1hx5"
+}

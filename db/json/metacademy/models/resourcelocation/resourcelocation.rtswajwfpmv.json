@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "k4as8j7zvie",
+    "ordering": -1,
+    "location_text": "Chapter 22, \"Symplectic manifolds,\" up through subsection \"The Darboux Theorem,\" pages 564-574",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rtswajwfpmv"
+}

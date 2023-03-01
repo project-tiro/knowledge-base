@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ub4pkcy",
+    "last_mod": "2014-08-30T23:41:05.769Z",
+    "ordering": 903,
+    "target_goals": ["m0rsh3wia9"],
+    "source_goals": ["dgbbyg8wi63", "v7qz6bqtp96"],
+    "source": "eah2lnit",
+    "reason": "The closed form for the Bayesian score includes the Gamma function."
+  },
+  "model": "graph.dependency",
+  "pk": "eah2lnit9ub4pkcy"
+}

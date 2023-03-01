@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "u638jbmo",
+    "last_mod": "2014-08-30T21:34:01.076Z",
+    "ordering": 219,
+    "target_goals": ["8gbauivtgd", "a3yw0dohh4", "nie24b42kd"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The bootstrap is often used for estimating the variance of an estimator."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpu638jbmo"
+}

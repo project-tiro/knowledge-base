@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "8vhx3x66",
+    "last_mod": "2014-08-30T21:34:01.592Z",
+    "ordering": -1,
+    "target_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source": "nw2kqzlz",
+    "reason": "The gradient gives another way to represent the linear approximation to a function."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlz8vhx3x66"
+}

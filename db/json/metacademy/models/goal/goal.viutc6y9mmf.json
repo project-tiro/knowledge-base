@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what equation must be satisfied by the optimal solution to an optimization problem with one or more equality or inequality constraints",
+    "concept": "qevfxfgv",
+    "last_mod": "2014-08-30T17:12:23.332Z"
+  },
+  "model": "graph.goal",
+  "pk": "viutc6y9mmf"
+}

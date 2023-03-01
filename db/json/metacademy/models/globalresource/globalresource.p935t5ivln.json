@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graudate-level statistical learning textbook with a focus on frequentist methods.",
+    "version_num": 0,
+    "title": "The Elements of Statistical Learning",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Trevor Hastie', u'Robert Tibshirani', u'Jerome Friedman']",
+    "edition_years": "[u'2001', u'2009']",
+    "resource_type": "online textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "p935t5ivln"
+}

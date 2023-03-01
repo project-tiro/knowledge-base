@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "75bzyvan",
+    "last_mod": "2014-09-14T03:46:12.421Z",
+    "ordering": -1,
+    "target_goals": ["sfqm8ovzrar", "tp7vcx0o4po"],
+    "source_goals": ["z55uhg8vixg"],
+    "source": "0wxbs715",
+    "reason": "Recursive backtracking can be implemented with a stack"
+  },
+  "model": "graph.dependency",
+  "pk": "0wxbs71575bzyvan"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rumvdnn8",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 347,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "One of the main advantages of the von Mises distribution is that maximum likelihood estimation is easy."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5irumvdnn8"
+}

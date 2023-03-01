@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "jcuxtsdx",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'Section 5 explains logistic regression.']",
+    "goals_covered": ["1bh0tshy1p", "l42z5lh0oo", "q5vwcwqjm5"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "pgbcriymvi"
+  },
+  "model": "graph.conceptresource",
+  "pk": "349a4vjosh"
+}

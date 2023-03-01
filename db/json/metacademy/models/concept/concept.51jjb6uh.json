@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "boosting as optimization",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.5941365931463398,
+    "summary": "AdaBoost can be interpreted as a sequential procedure for minimizing the exponential loss on the training set with respect to the coefficients of a particular basis function expansion. This leads to generalizations of the algorithm to different loss functions.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "boosting_as_optimization",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "51jjb6uh"
+}

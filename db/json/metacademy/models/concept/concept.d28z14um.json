@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "LASSO",
+    "pointers": "*  [Ridge regression](ridge_regression)  is another regularized version of linear regression, using an L2 penalty instead of L1. \n* The LASSO encourages sparsity of the weight vector. If we believe certain features are likely to be important as a group, we can use  [group sparsity](group_sparsity)  instead.\n* Some algorithms for optimizing the LASSO objective include:\n**  [stochastic gradient descent](stochastic_gradient_descent)\n**  [least angle regression (LARS)](lars)\n**  [Fast Iterative Shrinkage-Thresholding Algorithm (FISTA)](fista)\n* Other uses of L1 regularization include:\n**  [sparse coding for learning representations](sparse_coding)\n**  [learning sparse undirected graphical models](learning_sparse_undirected_models)\n**  [compressed sensing](compressed_sensing)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.4589539209160511,
+    "summary": "The Lasso is a form of regularized linear regression. Unlike ridge regression, it puts an L1 penalty on the weights, which encourages sparsity, i.e. it encourages most of the weights to be exactly zero. The general trick of using L1 norms to encourage sparsity is widely used in machine learning.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "lasso",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "d28z14um"
+}

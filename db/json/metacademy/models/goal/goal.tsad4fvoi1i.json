@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how to use the functions malloc, realloc, and free in C",
+    "concept": "98kl8bwj",
+    "last_mod": "2014-09-07T00:21:57.587Z"
+  },
+  "model": "graph.goal",
+  "pk": "tsad4fvoi1i"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:32:39.807Z",
+    "url": "https://www.udacity.com/course/viewer#!/c-cs271/l-48678875/e-48729333/m-48713745",
+    "cresource": "mfw4srsugkc",
+    "ordering": -1,
+    "location_text": "Part 2, \"Problem solving,\" from \"Tree search\" through \"More on uniform cost search\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vsc9oak3ytf"
+}

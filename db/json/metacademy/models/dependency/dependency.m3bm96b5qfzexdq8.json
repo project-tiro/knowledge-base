@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qfzexdq8",
+    "last_mod": "2014-08-30T21:34:01.396Z",
+    "ordering": 528,
+    "target_goals": ["7coi54wpsq", "d06x379joc"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The proof of the theorem uses partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5qfzexdq8"
+}

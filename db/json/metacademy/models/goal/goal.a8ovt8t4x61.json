@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "What is the computational complexity of a single iteration of the algorithm (not counting the cost of function and gradient evaluations)?",
+    "concept": "lsy1fxwx",
+    "last_mod": "2014-10-27T01:40:03.263Z"
+  },
+  "model": "graph.goal",
+  "pk": "a8ovt8t4x61"
+}

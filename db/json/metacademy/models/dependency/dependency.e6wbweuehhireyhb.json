@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hhireyhb",
+    "last_mod": "2014-08-30T21:34:00.865Z",
+    "ordering": -1,
+    "target_goals": ["7b63gohuk81", "bci8rtkn87z", "fl55u7n9udi", "pjk95398o69"],
+    "source_goals": ["8fj8lm8rzbh", "hmp334zr5ya", "on5x0psvprs", "qqckxwupr7i"],
+    "source": "e6wbweue",
+    "reason": "When it's intractable to sample exactly from a slice, we need to use a more general M-H update."
+  },
+  "model": "graph.dependency",
+  "pk": "e6wbweuehhireyhb"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "interfaces and abstract classes in Java",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.561483079182447,
+    "summary": "In Java, one often wants to define a class hierarchy where it doesn't make sense to specify a particular implementation of the superclass. A good example is the Collection, a type which includes container implementations as diverse as arrays and hash tables. Interfaces and abstract classes are two ways to specify abstract types which can't themselves be instantiated, but which can be used to write polymorphic code.\n",
+    "last_mod": "2014-09-14T18:31:23.420Z",
+    "tag": "interfaces_and_abstract_classes_in_java",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "a97uu186"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ub4pkcy",
+    "last_mod": "2014-08-30T23:40:14.920Z",
+    "ordering": 901,
+    "target_goals": ["m0rsh3wia9"],
+    "source_goals": ["4mjb1dlm54", "4n0u0b3sdo", "uyspc07txs", "xntiq9ywo6"],
+    "source": "b390zq0h",
+    "reason": "The Bayesian scoring criterion is the Bayes factor for a particular model."
+  },
+  "model": "graph.dependency",
+  "pk": "b390zq0h9ub4pkcy"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "tangent propagation",
+    "pointers": "* Some other strategies for learning invariances:\n** building it explicitly into the architecture, as in  [convolutional nets](convolutional_nets)\n**  [augmenting the training set](augmenting_training_set_warped)  with warped examples\n**  [Tikhonov regularization](tikhonov_regularization) , which penalizes instability with respect to noise",
+    "tags": ["machinelearning"],
+    "learn_time": 0.6725270926450841,
+    "summary": "Tangent propagation is a way of regularizing neural nets. It encourages the representation to be invariant by penalizing large changes in the representation when small transformations are applied to the inputs.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "tangent_propagation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3en4pz2w"
+}

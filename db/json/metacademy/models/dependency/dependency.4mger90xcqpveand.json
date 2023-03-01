@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:02.326Z",
+    "ordering": 0,
+    "target_goals": [
+      "246z5s3q6vc",
+      "58ab8u7kc4h",
+      "5stylb6ltat",
+      "908iyypiafw",
+      "a9csgloznzv",
+      "nos1t19gous",
+      "zq2llagdy6c",
+      "zshysmdzqxx"
+    ],
+    "source_goals": ["5a0sbkdff9u", "bzmtb4zbq4i"],
+    "source": "4mger90x",
+    "reason": "Uninformed search is a class of search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "4mger90xcqpveand"
+}

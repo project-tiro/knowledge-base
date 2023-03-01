@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uq6rlqz5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["q0ofito8z39"],
+    "source_goals": ["99bpot2su0", "ovaenxt0k1"],
+    "source": "d6mxd3dv",
+    "reason": "One must view relations as sets to see why you can't define cardinal numbers as equivalence classes."
+  },
+  "model": "graph.dependency",
+  "pk": "d6mxd3dvuq6rlqz5"
+}

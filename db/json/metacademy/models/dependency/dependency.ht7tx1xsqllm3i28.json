@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qllm3i28",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 575,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "ht7tx1xs",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ht7tx1xsqllm3i28"
+}

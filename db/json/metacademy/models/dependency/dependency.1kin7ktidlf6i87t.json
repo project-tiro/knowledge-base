@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dlf6i87t",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 856,
+    "target_goals": ["6qbc3aax7t", "ejtxbyd8hb", "nszbpuwsz1", "xl4xf18wpt"],
+    "source_goals": ["lkm62k61h2", "zyusu8um7l"],
+    "source": "1kin7kti",
+    "reason": "The L-S theorems are about the semantics of first-order logic."
+  },
+  "model": "graph.dependency",
+  "pk": "1kin7ktidlf6i87t"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian MRFs",
+    "pointers": "* We often want to do one of the following in Gaussian MRFs:\n**  [answer conditional probability queries](inference_in_gaussian_mrfs)\n**  [learn the parameters](gaussian_mrf_parameter_learning)\n* There are also  [Gaussian Bayes nets](linear_gaussian_models) , and the structure shows up in the Cholesky factorization of the covariance matrix.\n* Important special cases include\n**  [Gauss-Markov processes](gauss_markov_processes)\n**  [grid-structured Gaussian MRFs](grid_structured_gaussian_mrfs)\n* Gaussian conditional random fields (CRFs) are  [useful in low-level image processing](crfs_image_processing) .\n* Many algorithms which are inefficient or inexact for general MRFs are efficient and exact for Gaussian MRFs. Examples include:\n** inferring the mean with  [loopy belief propagation](gaussian_loopy_belief_propagation)\n** \"learning the parameters:gaussian_mrf_parameter_learning",
+    "tags": ["pgm"],
+    "learn_time": 0.5746865225148475,
+    "summary": "Gaussian Markov random fields (MRFs) are MRFs where the variables are all jointly Gaussian. The graph structure is reflected in the sparsity pattern of the precision matrix.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_mrfs",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "nzeueobi"
+}

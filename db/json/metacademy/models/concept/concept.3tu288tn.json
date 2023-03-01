@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "adaptive rejection sampling",
+    "pointers": "*  [Adaptive Metropolis rejection sampling](adaptive_metropolis_rejection_sampling)  is a generalization of ARS that is applicable when the distribution is not log-concave\n* ARS can be performed by computing secants (rather than tangents) and thus a can be accomplished without computing the derivative of the log density; see Gilks, W. R. (1992) Derivative-free adaptive rejection sampling for Gibbs sampling. Bayesian Statistics 4,",
+    "tags": ["pgm"],
+    "learn_time": 1.1564908004076142,
+    "summary": "Adaptive rejection sampling (ARS) is a technique used to automatically choose and refine an envelope distribution, q(z), for rejection sampling of distribution p(z). ARS initially forms an envelope distribution, q(z), as a piecewise combination of intersecting line segments that outline p(z). These line segments are the tangents of log(p(z)) evaluated along a set of initial grid points and are guaranteed to enclose p(z) if p(z) is log-concave (the derivative of log(p(z)) is nonincreasing) -- this property holds for a large number of distributions. ARS then proceeds like rejection sampling, though if a sampled point is rejected at point x* then the tangent of log(p(x*)) is added to the envelope distributions, which shrinks the proposal distribution around the true distribution and leads to fewer rejected samples later on.",
+    "last_mod": "2014-08-30T21:37:57.089Z",
+    "tag": "adaptive_rejection_sampling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3tu288tn"
+}

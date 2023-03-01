@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "naive Bayes",
+    "pointers": "* Naive Bayes is a  [generative model](generative_vs_discriminative) .\n* Rather than performing a maximum likelihood estimation of the Naive Bayes model, we can  [use Bayesian inference](bayesian_naive_bayes)  to obtain posterior beliefs for the classes given the observed data.\n* Here are some other commonly used classification algorithms:\n**  [perceptron](perceptron)\n**  [logistic regression](logistic_regression)\n**  [support vector machines (SVMs)](support_vector_machines)\n**  [Gaussian discriminant analysis](gaussian_discriminant_analysis)",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.8687623463221652,
+    "summary": "Naive Bayes is a modeling assumption used in classification, where we assume the observed data are conditionally independent given their class assignments. Despite its name, the standard naive Bayes model does not use Bayesian inference, but rather, a maximum likelihood estimation.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "naive_bayes",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dnvrf1nm"
+}

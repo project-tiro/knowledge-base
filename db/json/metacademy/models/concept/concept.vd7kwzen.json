@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "principal component analysis (proof)",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 0.8620247157196836,
+    "summary": "The proof that principal component analysis (PCA) finds the subspace maximizing the variance and minimizing the reconstruction error.\n",
+    "last_mod": "2014-08-30T18:49:58.608Z",
+    "tag": "pca_proof",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vd7kwzen"
+}

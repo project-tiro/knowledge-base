@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://linear.ups.edu/html/section-SD.html",
+    "cresource": "fp9ex9z1ek",
+    "ordering": 0,
+    "location_text": "Section \"Similarity and diagonalization\" ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "v1lzyskmrr"
+}

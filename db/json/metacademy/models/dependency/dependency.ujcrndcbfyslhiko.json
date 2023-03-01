@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fyslhiko",
+    "last_mod": "2014-08-30T23:52:33.822Z",
+    "ordering": 3,
+    "target_goals": ["5zv1cyiyqh6"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Fitting logistic regression requires solving an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbfyslhiko"
+}

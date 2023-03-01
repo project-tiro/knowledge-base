@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vg0jaqar",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 695,
+    "target_goals": ["7l0j3kix9g", "cwrrz0yfky", "qjivwiu3ev"],
+    "source_goals": ["1pb8m91v4t", "gt5mcrv9g2", "q1cmx9sfi2", "sak5rxzyk2", "zfxkrcthbd"],
+    "source": "bjleobug",
+    "reason": "Mutual information is defined in terms of conditional entropy."
+  },
+  "model": "graph.dependency",
+  "pk": "bjleobugvg0jaqar"
+}

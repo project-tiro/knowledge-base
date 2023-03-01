@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "functions and relations as sets",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 1.3936200332541984,
+    "summary": "Ordered pairs, relations, and functions can all be defined in terms of sets. This is part of why set theory is such a powerful framework in the foundations of mathematics.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "functions_and_relations_as_sets",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "d6mxd3dv"
+}

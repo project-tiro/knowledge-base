@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know some terminology: current state, objective function, hill climbing, global maximum, local maximum, plateau",
+    "concept": "7cedq6br",
+    "last_mod": "2014-11-08T22:32:46.934Z"
+  },
+  "model": "graph.goal",
+  "pk": "hn3hpprd7k3"
+}

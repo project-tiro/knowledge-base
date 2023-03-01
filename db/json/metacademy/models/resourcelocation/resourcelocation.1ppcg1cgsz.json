@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/point-distance-to-plane",
+    "cresource": "xvzr0kludd",
+    "ordering": 2,
+    "location_text": "Lecture \"Point distance to plane\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1ppcg1cgsz"
+}

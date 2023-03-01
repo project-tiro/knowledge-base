@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:32:16.007Z",
+    "url": "https://class.coursera.org/algo-004/lecture/57",
+    "cresource": "f8yrzu6dw01",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Dijkstra's shortest path algorithm\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ahb8drkllb7"
+}

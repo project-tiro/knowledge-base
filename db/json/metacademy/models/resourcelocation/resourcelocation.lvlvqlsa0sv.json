@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:30:44.228Z",
+    "url": "http://artint.info/html/ArtInt_83.html",
+    "cresource": "h4doo5ln4cg",
+    "ordering": -1,
+    "location_text": "Section 4.8, \"Local search,\" up through 4.8.1, \"Iterative best improvement\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lvlvqlsa0sv"
+}

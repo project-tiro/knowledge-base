@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "alpha-beta pruning",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 1.143579967083427,
+    "summary": "Alpha-beta pruning is a method for improving the efficiency of minimax search by pruning out branches which can't possibly be played by optimal players. It works by maintaining the best value either player would be able to achieve by playing a move which does not lead to the current part of the search tree. A branch of the search tree can be pruned if its value is determined to be outside the range of these values.\n",
+    "last_mod": "2014-11-08T23:21:13.338Z",
+    "tag": "alpha_beta_pruning",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "qwj4lbj9"
+}

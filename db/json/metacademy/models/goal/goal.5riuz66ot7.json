@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Understand the following terminology: states, actions, rewards, transition functions/probabilities, policy, utility, discount parameter, q-states, value",
+    "concept": "q3j5cjx4",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "5riuz66ot7"
+}

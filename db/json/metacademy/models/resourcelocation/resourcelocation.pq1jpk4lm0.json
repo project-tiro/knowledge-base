@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/alternate_bases/change_of_basis/v/linear-algebra--coordinates-with-respect-to-a-basis",
+    "cresource": "zd3wj9359r",
+    "ordering": 0,
+    "location_text": "Lecture sequence \"Change of basis\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pq1jpk4lm0"
+}

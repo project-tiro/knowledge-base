@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xc6xwgmx",
+    "last_mod": "2014-08-30T21:34:01.955Z",
+    "ordering": -1,
+    "target_goals": ["ra5maz2bvl0", "u3oqs6wopwu", "wjmn4sdlyx0"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Map estimation is an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbxc6xwgmx"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear-Gaussian models",
+    "pointers": "* We can answer conditional probability queries using:\n**  [variable elimination](gaussian_variable_elimination)\n**  [belief propagation](gaussian_bp_on_trees)\n* We can  [learn the parameters](learning_linear_gaussian_models)  in a linear-Gaussian model using  [linear regression](linear_regression) .\n*  [State-space models](linear_dynamical_systems)  are an important example of linear-Gaussian models. \n*  [Kalman smoothing](kalman_smoother)  can be  [viewed](kalman_smoothing_as_bp) \" as belief propagation in a linear-Gaussian model.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.47352170995330367,
+    "summary": "A linear-Gaussian model is a Bayes net where all the variables are Gaussian, and each variable's mean is linear in the values of its parents. They are widely used because they support efficient inference. Linear dynamical systems are an important special case.\n \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "linear_gaussian_models",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9qzhetox"
+}

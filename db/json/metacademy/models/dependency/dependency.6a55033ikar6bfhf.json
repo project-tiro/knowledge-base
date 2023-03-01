@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kar6bfhf",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 170,
+    "target_goals": ["0orghrg7ng"],
+    "source_goals": ["66axk5ygrz", "kom3g8m6f7", "nwl9iky3wx", "psfgcy8sbs"],
+    "source": "6a55033i",
+    "reason": "A simple counting argument shows that not all languages are decidable."
+  },
+  "model": "graph.dependency",
+  "pk": "6a55033ikar6bfhf"
+}

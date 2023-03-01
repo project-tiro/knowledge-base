@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Understand why the partial derivative operators in a coordinate chart give a basis for the tangent space, and be able to compute the coefficients of a vector in this basis",
+    "concept": "855sc8u4",
+    "last_mod": "2014-08-31T15:21:14.093Z"
+  },
+  "model": "graph.goal",
+  "pk": "n1mgrr6fbsj"
+}

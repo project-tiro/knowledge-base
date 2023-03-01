@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "tz6a7wf6",
+    "last_mod": "2014-09-13T21:11:59.431Z",
+    "ordering": -1,
+    "target_goals": [
+      "0tbvq6huvfp",
+      "3ep5dah8ltk",
+      "521416kf0s0",
+      "g5c5mfxps7t",
+      "nmllij7rad1",
+      "p1uks3siyrj",
+      "s7yfftx9vhd"
+    ],
+    "source_goals": ["7qso8pj5wd8", "9f8jlapr4o0", "s101ups7yen", "tcwaoad4hen"],
+    "source": "9791pgmc",
+    "reason": "Unit tests are often derived from a specification"
+  },
+  "model": "graph.dependency",
+  "pk": "9791pgmctz6a7wf6"
+}

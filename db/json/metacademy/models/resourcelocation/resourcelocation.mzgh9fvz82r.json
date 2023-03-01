@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "ekbk095wzuj",
+    "ordering": -1,
+    "location_text": "Section 2.3, \"Non-context-free languages,\" pages 123-128",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mzgh9fvz82r"
+}

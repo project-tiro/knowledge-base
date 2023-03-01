@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Show that the power set of a set, with the standard set operations, forms a Boolean algebra",
+    "concept": "dg2c76qt",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "u333povn61"
+}

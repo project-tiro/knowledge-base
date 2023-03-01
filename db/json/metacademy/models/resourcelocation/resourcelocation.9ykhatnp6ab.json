@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-11T02:58:58.239Z",
+    "url": "",
+    "cresource": "col8zpwsgaa",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Object-oriented programming in Java,\" subsection \"Subclasses and inheritance\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9ykhatnp6ab"
+}

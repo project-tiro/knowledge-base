@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf#page=34",
+    "cresource": "3ejiplx91s",
+    "ordering": 0,
+    "location_text": "Section 4.2, \"The challenge of training deep neural networks,\" pages 31-39 ",
+    "location_type": "review paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gwjkhoghed"
+}

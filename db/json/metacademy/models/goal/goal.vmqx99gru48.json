@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that the diagonal entries of A are a common choice of preconditioner",
+    "concept": "140ybzdv",
+    "last_mod": "2014-10-27T01:01:06.622Z"
+  },
+  "model": "graph.goal",
+  "pk": "vmqx99gru48"
+}

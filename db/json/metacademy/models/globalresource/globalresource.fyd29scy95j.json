@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook on good software engineering practices, using the Java language; written by a Turing award winner who pioneered abstraction in programming; available from Safari Books Online",
+    "version_num": 0,
+    "title": "Program Development in Java",
+    "url": "http://www.amazon.com/Program-Development-Java-Specification-Object-Oriented/dp/0201657686/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-09-14T18:26:38.106Z",
+    "authors": "[u'Barbara Liskov', u'John Guttag']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "fyd29scy95j"
+}

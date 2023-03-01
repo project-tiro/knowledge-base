@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Chinese restaurant franchise",
+    "pointers": "* The CRF can be interpreted as a  [hierarchical Dirichlet process](hierarchical_dirichlet_process) .",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.0995123787216552,
+    "summary": "The Chinese Restaurant Franchise (CRF) is the predictive process for a hierarchical partitioning (clustering) of grouped data -- it is a generalization of the Chinese Restaurant Process. The CRF can be used to specify a nonparametric distribution on a mixture of mixtures: each grouping of data is a draw from a mixture model, where the mixture components are shared among different groups. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "chinese_restaurant_franchise",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ygvpnfzn"
+}

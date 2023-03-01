@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1q4o16ud",
+    "last_mod": "2014-08-31T15:36:25.032Z",
+    "ordering": 1,
+    "target_goals": [],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "Conditioning is one operation we commonly need to perform."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni31q4o16ud"
+}

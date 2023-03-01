@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:21:24.612Z",
+    "url": "http://www.youtube.com/watch?v=apPiZd-qnZ8",
+    "cresource": "kv20xacggfi",
+    "ordering": -1,
+    "location_text": "Lecture \"Multilayer neural network\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6tjubqi0s4c"
+}

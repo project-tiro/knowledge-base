@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "6zgu0pb6",
+    "last_mod": "2014-11-08T20:56:32.000Z",
+    "ordering": 0,
+    "target_goals": [
+      "8e7da15ybq3",
+      "8me51xljc0i",
+      "9t0v71ivs82",
+      "gpjq8vqk642",
+      "jeg2sqzva7i",
+      "l88degzqr02",
+      "uphetywpvdq",
+      "xszo2u2oekx"
+    ],
+    "source_goals": ["5a0sbkdff9u", "bzmtb4zbq4i"],
+    "source": "4mger90x",
+    "reason": "A* is a search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "4mger90x6zgu0pb6"
+}

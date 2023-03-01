@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gaeep1ux",
+    "last_mod": "2014-08-30T23:33:19.493Z",
+    "ordering": 812,
+    "target_goals": ["7exe2s5ykk", "dkzwt3j872", "ean1mbprv7", "ekhkqzbegz", "ofrxnj31w0"],
+    "source_goals": ["38n2ofiyffx", "7ev2lab1kk", "c5e9bqoynv7"],
+    "source": "57amwk40",
+    "reason": "RBMs are trained with (approximate) stochastic gradient descent."
+  },
+  "model": "graph.dependency",
+  "pk": "57amwk40gaeep1ux"
+}

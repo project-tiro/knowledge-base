@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ylk7eyvy",
+    "last_mod": "2014-08-30T21:34:01.107Z",
+    "ordering": 767,
+    "target_goals": ["80nw6crtx7", "u0uybnqekd", "wzdh1lw5qu"],
+    "source_goals": ["3xvvxkwz3uf", "p25ucwk89hb", "xcnyp1egejw"],
+    "source": "hnd1lj3g",
+    "reason": "The column space and nullspace are subspaces."
+  },
+  "model": "graph.dependency",
+  "pk": "hnd1lj3gylk7eyvy"
+}

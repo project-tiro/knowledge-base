@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A very concise introductory statistics textbook.",
+    "version_num": 0,
+    "title": "All of Statistics",
+    "url": "http://www.stat.cmu.edu/~larry/all-of-statistics/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Larry Wasserman']",
+    "edition_years": "[u'2004']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "9fsimegxg3"
+}

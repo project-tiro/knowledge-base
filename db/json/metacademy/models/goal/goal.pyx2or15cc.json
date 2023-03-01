@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to write programs to compute simple functions",
+    "concept": "4900tsu6",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "pyx2or15cc"
+}

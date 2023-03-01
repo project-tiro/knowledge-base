@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/",
+    "cresource": "7t46bj0lg3",
+    "ordering": 0,
+    "location_text": "Lecture \"Orthogonal vectors and subspaces\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "03re80zego"
+}

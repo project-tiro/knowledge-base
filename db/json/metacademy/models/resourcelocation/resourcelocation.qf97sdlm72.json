@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cmbishop/prml/pdf/Bishop-PRML-sample.pdf#page=43",
+    "cresource": "q1cigmjurj",
+    "ordering": 0,
+    "location_text": "Sections 8.3-8.3.3, pages 383-390 ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qf97sdlm72"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-27T01:03:04.308Z",
+    "url": "",
+    "cresource": "eubp2dj8871",
+    "ordering": -1,
+    "location_text": "Section 7.1, \"Inexact Newton methods,\" pages 165-176",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tuk35zy4uvg"
+}

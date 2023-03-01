@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sjfdj1qn",
+    "last_mod": "2014-08-31T00:11:22.053Z",
+    "ordering": 266,
+    "target_goals": ["vchyj8yc5c", "x3484d3u16"],
+    "source_goals": ["czfzdhezjoo", "j0ftdcd5d34"],
+    "source": "fehjcvme",
+    "reason": "The Laplace approximation can be used to integrate out the parameter matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "fehjcvmesjfdj1qn"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "d4agowtk",
+    "last_mod": "2014-09-02T00:06:22.432Z",
+    "ordering": 0,
+    "target_goals": ["58o3ob2opy", "au5dgqfmqj", "t8o29dxicp"],
+    "source_goals": ["29bxd7qr099", "35kdpx6a1pm", "m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "Expected value is needed to motivate the notion of sufficient statistics."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpd4agowtk"
+}

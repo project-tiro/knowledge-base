@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for a differential geometry course, given as sets of definitions and problems",
+    "version_num": 0,
+    "title": "Weizmann Institute lecture notes on differential geometry",
+    "url": "http://www.wisdom.weizmann.ac.il/~yakov/Geometry/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T03:34:45.071Z",
+    "authors": "[u'Sergei Yakovenko']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "3z2a7cpkj8r"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Show that the Fisher metric is additive for the joint distribution over independent random variables",
+    "concept": "o6tpqkx0",
+    "last_mod": "2014-09-21T22:43:12.593Z"
+  },
+  "model": "graph.goal",
+  "pk": "9ytkpz30fs3"
+}

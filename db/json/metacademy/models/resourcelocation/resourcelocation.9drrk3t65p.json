@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf#page=579",
+    "cresource": "3zvmbnqy1v",
+    "ordering": 0,
+    "location_text": "Section 27.5.2, \"Swendson-Wang,\" pages 555-557 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9drrk3t65p"
+}

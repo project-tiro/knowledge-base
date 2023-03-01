@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T18:57:19.313Z",
+    "url": "http://www.math.ethz.ch/~acannas/Papers/symplectic.pdf#page=59",
+    "cresource": "jaopw5kygy1",
+    "ordering": -1,
+    "location_text": "Section 5.1, \"Symplectic and Hamiltonian vector fields,\" pages 59-61",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9o7ian8ylt5"
+}

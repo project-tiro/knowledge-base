@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "67qu23d4",
+    "last_mod": "2014-09-07T03:04:36.391Z",
+    "ordering": -1,
+    "target_goals": ["67q5dmv540c", "cmzpvy7uwn4", "op5v27nx8xb", "rityq35hl37", "speq3gkxpcw", "w23nwzcmdts"],
+    "source_goals": ["6r0w9qx5r1q", "7j4mbtq6apd", "ao7hgazpmf8", "b8ud5xt64rt", "jw74nfs1rxm", "rzt91kdzmhr"],
+    "source": "lb6bx27d",
+    "reason": "Representations of floating point values are based on representations of integers"
+  },
+  "model": "graph.dependency",
+  "pk": "lb6bx27d67qu23d4"
+}

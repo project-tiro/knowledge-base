@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "EM algorithm for PCA",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 0.746649696816498,
+    "summary": "While probabilistic PCA has a closed-form solution, it is infeasible to compute for large and high-dimensional datasets. The expectation-maximization (EM) algorithm provides an alternative. Despite its iterative nature, it can be far more computationally efficient.\n",
+    "last_mod": "2014-09-01T23:57:24.634Z",
+    "tag": "em_for_pca",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "iy6cc3ov"
+}

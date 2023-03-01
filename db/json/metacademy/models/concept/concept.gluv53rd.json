@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian logistic regression",
+    "pointers": "* Bayesian logistic regression is intractable to solve exactly. Some approximation methods include:\n**  [Laplace approximation](laplace_approximation)\n**  [variational Bayes](variational_logistic_regression)\n**  [expectation propagation](ep_logistic_regression)\n*  [Gaussian process classification](gaussian_process_classification)  is a nonlinear analogue.",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.895448272265024,
+    "summary": "A Bayesian version of logistic regression.\n",
+    "last_mod": "2014-08-30T23:55:08.468Z",
+    "tag": "bayesian_logistic_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gluv53rd"
+}

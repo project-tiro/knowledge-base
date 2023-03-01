@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Decision forests: a unified framework for classification, regression, density estimation, manifold learning, and semi-supervised learning",
+    "url": "http://research.microsoft.com/pubs/158806/CriminisiForests_FoundTrends_2011.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Antonio Criminisi', u'Jamie Shotton', u'Ender Konukoglu']",
+    "edition_years": null,
+    "resource_type": "review paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "uhood314we"
+}

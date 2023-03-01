@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "minimax search",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 2.1659745975939604,
+    "summary": "Minimax search is a method for solving two-person adversarial games with sequential moves. It is a form of dynamic programming which solves for the optimal moves at the leaves of the game tree and works its way up. Typically, it is infeasible to run minimax search exactly, so it is instead run to a finite depth, and the value of the state is estimated using an evaluation function.\n",
+    "last_mod": "2014-11-08T23:08:55.176Z",
+    "tag": "minimax_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "zlk11edy"
+}

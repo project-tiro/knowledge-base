@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-19T03:12:05.492Z",
+    "url": "http://en.wikipedia.org/wiki/Gauss%E2%80%93Newton_algorithm",
+    "cresource": "itiby39h4im",
+    "ordering": -1,
+    "location_text": "Article \"Gauss-Newton algorithm\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "p9almtbijoc"
+}

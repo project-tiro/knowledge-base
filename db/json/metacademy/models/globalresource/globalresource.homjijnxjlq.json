@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "",
+    "url": "",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-14T04:23:10.376Z",
+    "authors": "[]",
+    "edition_years": "[]",
+    "resource_type": ""
+  },
+  "model": "graph.globalresource",
+  "pk": "homjijnxjlq"
+}

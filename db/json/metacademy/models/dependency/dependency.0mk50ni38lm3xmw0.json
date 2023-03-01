@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8lm3xmw0",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 386,
+    "target_goals": ["3nexcs6xse", "5shce7nqlc", "faufmyxi26"],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "Sufficient statistics are defined in terms of conditional distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni38lm3xmw0"
+}

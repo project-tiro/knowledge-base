@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "mh6aeo50t1",
+    "ordering": 0,
+    "location_text": "Section 2.4, up to \"Block matrices and block multiplication,\" pages 67-70",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dxdh2ol2w4"
+}

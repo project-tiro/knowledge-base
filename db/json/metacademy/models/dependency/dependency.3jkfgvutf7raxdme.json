@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "f7raxdme",
+    "last_mod": "2014-09-14T18:55:27.115Z",
+    "ordering": -1,
+    "target_goals": [
+      "13zks931i1n",
+      "5dm13bu360w",
+      "c9g13l6rmyj",
+      "nzypwqoewnx",
+      "ty4lqshxfmn",
+      "wfe4joby6st",
+      "xzx6ha8aqcn"
+    ],
+    "source_goals": ["0xmtydbomrn", "gy7h03xmy8h", "sm8ub57gget", "t9ys5m7ms1n", "ujhtyuuw9ff", "uv3mdz60oz5"],
+    "source": "3jkfgvut",
+    "reason": "Iterators are the construct used to iterate over generic containers"
+  },
+  "model": "graph.dependency",
+  "pk": "3jkfgvutf7raxdme"
+}

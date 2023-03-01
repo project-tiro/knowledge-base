@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Define addition, multiplication, additive and multiplicative inverses, and the comparison operators",
+    "concept": "q07644ul",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1mbgdsrgje"
+}

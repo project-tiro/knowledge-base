@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "maximum likelihood in exponential families",
+    "pointers": "*  [Estimating the parameters of a Markov random field (MRF)](mrf_parameter_learning)  is a surprising example of maximum likelihood in exponential families. \n*  [Bayesian parameter estimation](bayesian_parameter_estimation)  often has a  [convenient form](bayes_param_exp_fam)  in exponential families.",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 0.518701331048788,
+    "summary": "For any exponential family model, the maximum likelihood parameters are such that the model moments match the data moments.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "maximum_likelihood_in_exponential_families",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "872fdjuw"
+}

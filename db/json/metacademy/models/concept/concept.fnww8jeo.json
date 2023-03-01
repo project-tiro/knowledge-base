@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "symplectic manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.9701451382170527,
+    "summary": "A symplectic manifold is a (differentiable) manifold endowed with a symplectic structure, or a closed, nondegenerate 2-form. The cotangent bundle of a manifold can be given a natural symplectic structure. ",
+    "last_mod": "2014-09-19T18:52:22.459Z",
+    "tag": "symplectic_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "fnww8jeo"
+}

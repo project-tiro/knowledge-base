@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:57:37.763Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap13.pdf#page=8",
+    "cresource": "8dk5i66vg6i",
+    "ordering": -1,
+    "location_text": "Lecture 13 notes, \"Differential forms,\" subsection 6, \"Differential forms and orientability,\" pages 8-9",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1o1akf1kfmh"
+}

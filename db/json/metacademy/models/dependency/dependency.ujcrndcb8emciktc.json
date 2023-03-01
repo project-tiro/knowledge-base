@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8emciktc",
+    "last_mod": "2014-08-30T21:34:01.845Z",
+    "ordering": 164,
+    "target_goals": ["4eyf5z3anl", "px7bzf6iau"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Multinomial logistic regression is formulated as an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb8emciktc"
+}

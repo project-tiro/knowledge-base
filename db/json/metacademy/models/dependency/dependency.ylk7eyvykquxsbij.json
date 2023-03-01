@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kquxsbij",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["3abgezik83y"],
+    "source_goals": ["80nw6crtx7", "wzdh1lw5qu"],
+    "source": "ylk7eyvy",
+    "reason": "Eigenspaces can be viewed as nullspaces of a particular matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "ylk7eyvykquxsbij"
+}

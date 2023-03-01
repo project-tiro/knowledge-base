@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graduate-level textbook on Bayesian statistics.",
+    "version_num": 0,
+    "title": "The Bayesian Choice",
+    "url": "http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-95231-4",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Christian P. Robert']",
+    "edition_years": "[u'1996', u'2007']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "xk9j6tmp9v"
+}

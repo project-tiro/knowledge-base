@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dnvrf1nm",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 755,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "gzaovo18",
+    "reason": "Naive Bayes is a linear classifier."
+  },
+  "model": "graph.dependency",
+  "pk": "gzaovo18dnvrf1nm"
+}

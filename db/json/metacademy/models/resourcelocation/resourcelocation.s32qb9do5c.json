@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "bondav5dpg",
+    "ordering": 0,
+    "location_text": "Section 2.3, \"Functions of a random variable,\" pages 58-63",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s32qb9do5c"
+}

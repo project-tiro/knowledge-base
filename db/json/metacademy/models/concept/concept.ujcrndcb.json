@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "optimization problems",
+    "pointers": "*  [Lagrange multipliers](lagrange_multipliers)  can be used to solve optimization problems with equality or inequality constraints.\n* Some examples of optimization problems:\n** Fitting parameters of a statistical model using  [maximum likelihood](maximum_likelihood)\n**  [Linear least squares](linear_least_squares)\n*  [Convex optimization problems](convex_optimization)  are a very broad class of optimization problems for which we can often find a global optimimum.",
+    "tags": ["mvcalc", "optimization"],
+    "learn_time": 1.2538152851801705,
+    "summary": "In an optimization problem, one is interested in minimizing or maximizing a function, possibly subject to equality or inequality constraints. The extrema must occur on the boundary of the set, at points which are not differentiable, or at points where the partial derivatives are zero. \n",
+    "last_mod": "2014-08-30T18:24:52.756Z",
+    "tag": "optimization_problems",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ujcrndcb"
+}

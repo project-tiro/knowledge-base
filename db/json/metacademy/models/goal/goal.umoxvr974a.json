@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* What are some scenarios in which k-means gets stuck in poor local optima?\n** What are some general techniques to overcome these scenarios?",
+    "concept": "c1alw8kz",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "umoxvr974a"
+}

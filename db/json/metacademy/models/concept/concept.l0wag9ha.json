@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "HMM inference as belief propagation",
+    "pointers": "* Following on this result, the  [Baum-Welch algorithm](baum_welch_algorithm)  for learning HMM parameters can be seen as a  [speical case](baum_welch_as_em)  of  [Expectation-Maximization](expectation_maximization) .\n*  [Kalman smoothing](kalman_smoother)  can be seen as a  [speical case](kalman_as_bp)  of the forward-backward algorithm, hence a special case of BP.",
+    "tags": ["pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The forward-backward algorithm for computing posterior marginals in an HMM can be viewed as a special case of sum-product belief propagation. Similarly, the Viterbi algorithm for computing the most likely state sequence can be viewed as a special case of max-product belief propagation.\n",
+    "last_mod": "2014-08-30T03:38:08.305Z",
+    "tag": "hmm_inference_as_bp",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "l0wag9ha"
+}

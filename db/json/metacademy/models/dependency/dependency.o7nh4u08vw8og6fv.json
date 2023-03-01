@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vw8og6fv",
+    "last_mod": "2014-11-19T03:09:41.568Z",
+    "ordering": -1,
+    "target_goals": ["5ieo3qip13s", "5xzezg20uih", "683ldhja4d0"],
+    "source_goals": ["160cyysa038", "75p6dip70tt", "9gxyxsr5rit"],
+    "source": "o7nh4u08",
+    "reason": "The Gauss-Newton algorithm is based on Newton's method"
+  },
+  "model": "graph.dependency",
+  "pk": "o7nh4u08vw8og6fv"
+}

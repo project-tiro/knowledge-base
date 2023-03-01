@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/82",
+    "cresource": "o1lpg1qp31",
+    "ordering": 0,
+    "location_text": "Lecture \"Bayesian estimation for Bayesian networks\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0y9t6ir8ti"
+}

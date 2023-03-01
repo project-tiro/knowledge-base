@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4740ilrp",
+    "last_mod": "2014-10-20T01:02:43.370Z",
+    "ordering": 4,
+    "target_goals": ["f79sffeknfp"],
+    "source_goals": ["i4pp41euycc", "td05a2545is"],
+    "source": "ku13wb7w",
+    "reason": "The convergence of gradient descent provides a useful context for the convergence of CG"
+  },
+  "model": "graph.dependency",
+  "pk": "ku13wb7w4740ilrp"
+}

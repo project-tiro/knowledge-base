@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An undergraduate statistics textbook.",
+    "version_num": 0,
+    "title": "Mathematical Statistics and Data Analysis",
+    "url": "http://www.amazon.com/gp/product/0534399428/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0534399428&linkCode=as2&tag=metacademy-20&linkId=A4HLPA6HUOI2X4U5",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'John A. Rice']",
+    "edition_years": "[u'???', u'1994', u'2006']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "qgbwvas6zv"
+}

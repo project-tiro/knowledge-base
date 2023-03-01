@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0ldu1aud",
+    "last_mod": "2014-09-14T03:45:42.984Z",
+    "ordering": -1,
+    "target_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source_goals": ["1i5f5szx3iy", "qa28z88rtsu", "z55uhg8vixg"],
+    "source": "0wxbs715",
+    "reason": "Depth-first search is implemented using a stack"
+  },
+  "model": "graph.dependency",
+  "pk": "0wxbs7150ldu1aud"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kp373ctf",
+    "last_mod": "2014-08-30T21:34:01.920Z",
+    "ordering": 569,
+    "target_goals": ["f6226zp48d", "ftlupybs84"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "FDA is formulated as an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbkp373ctf"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "85rf7d3l",
+    "last_mod": "2014-08-27T19:16:33.332Z",
+    "ordering": -1,
+    "target_goals": ["9shdnk281al", "n8om3h3v9tz", "tqknszwzx7m", "wqi46izj34v", "zfq2l13sa5l"],
+    "source_goals": ["07a1elbr31m", "471yn12x3ae", "4b7f1va5y5b", "4zirq2bp6cg", "q8ajfyjjtqe"],
+    "source": "evw4jfx7",
+    "reason": "AVL trees are a kind of binary search tree"
+  },
+  "model": "graph.dependency",
+  "pk": "evw4jfx785rf7d3l"
+}

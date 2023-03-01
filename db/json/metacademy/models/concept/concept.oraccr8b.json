@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "context-free languages",
+    "pointers": "",
+    "tags": ["theorycomp"],
+    "learn_time": 0.7959850754019934,
+    "summary": "Context-free languages are languages definable in terms of a context-free grammar, or equivalently, recognizable by a (nondeterministic) pushdown automaton. All regular languages are also context-free. Languages can be shown to be non-context-free using the Pumping Lemma for context-free languages.",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "context_free_languages",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "oraccr8b"
+}

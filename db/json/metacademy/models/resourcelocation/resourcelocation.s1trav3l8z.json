@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=GQ3cuZmbeRg&list=PL17567A1A3F5DB5E4&index=33",
+    "cresource": "l0cwmrh5q2",
+    "ordering": 0,
+    "location_text": "Lecture \"Expectation of a Poisson random variable\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s1trav3l8z"
+}

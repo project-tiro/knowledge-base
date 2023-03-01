@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "iszt17vxas",
+    "ordering": 0,
+    "location_text": "Section 3.2, \"Differentiability,\" pages 87-95",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pvvrv83e37"
+}

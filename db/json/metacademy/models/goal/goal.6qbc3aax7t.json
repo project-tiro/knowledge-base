@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Know what Skolem's Paradox refers to and why it is paradoxical.",
+    "concept": "dlf6i87t",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "6qbc3aax7t"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to solve simple optimization problems using Lagrange multipliers",
+    "concept": "qevfxfgv",
+    "last_mod": "2014-08-30T17:12:48.079Z"
+  },
+  "model": "graph.goal",
+  "pk": "430djp4ky94"
+}

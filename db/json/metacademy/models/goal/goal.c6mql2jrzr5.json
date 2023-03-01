@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the geometric multiplicity of an eigenvalue can be less than the algebraic multiplicity, but not greater",
+    "concept": "phuoij71",
+    "last_mod": "2014-08-30T18:21:02.717Z"
+  },
+  "model": "graph.goal",
+  "pk": "c6mql2jrzr5"
+}

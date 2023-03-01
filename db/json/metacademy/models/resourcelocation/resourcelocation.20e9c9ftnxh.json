@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:29:18.275Z",
+    "url": "",
+    "cresource": "q6t0lnbn5qa",
+    "ordering": -1,
+    "location_text": "Section 3.3, \"Searching for solutions,\" pages 69-73",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "20e9c9ftnxh"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "statistical manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.9341894055867341,
+    "summary": "A statistical manifold is a differentiable manifold where each point represents a probability distribution. They give a way of talking about intrinsic relationships between probability distributions, i.e. without reference to an arbitrary coordinate system (parameterization).\n",
+    "last_mod": "2014-09-19T16:39:10.487Z",
+    "tag": "statistical_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "m8p1c4ic"
+}

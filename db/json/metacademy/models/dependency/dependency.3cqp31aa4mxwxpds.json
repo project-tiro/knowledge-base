@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4mxwxpds",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 428,
+    "target_goals": ["c9te4syci2"],
+    "source_goals": [],
+    "source": "3cqp31aa",
+    "reason": "the performance on the training/testing set is typically measured using a loss function"
+  },
+  "model": "graph.dependency",
+  "pk": "3cqp31aa4mxwxpds"
+}

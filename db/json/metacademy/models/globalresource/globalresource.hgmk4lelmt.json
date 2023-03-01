@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Berkeley Artificial Intelligence CS188",
+    "url": "http://www.youtube.com/user/CS188Spring2013?feature=watch",
+    "notes": "",
+    "year": 2013,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Pieter Abbeel']",
+    "edition_years": null,
+    "resource_type": "video lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "hgmk4lelmt"
+}

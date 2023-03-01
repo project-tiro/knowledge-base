@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3en4pz2w",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 355,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "iplkhc1b",
+    "reason": "Tangent propagation is based on the same idea as backpropagation."
+  },
+  "model": "graph.dependency",
+  "pk": "iplkhc1b3en4pz2w"
+}

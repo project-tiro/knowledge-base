@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how the SVD of A is related to the eigendecomposition of A^T A and A A^T",
+    "concept": "y1719kys",
+    "last_mod": "2014-08-30T19:22:54.565Z"
+  },
+  "model": "graph.goal",
+  "pk": "u110xag5t1n"
+}

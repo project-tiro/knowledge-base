@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zv1eeedh",
+    "last_mod": "2014-08-30T21:34:01.713Z",
+    "ordering": -1,
+    "target_goals": ["5aqtpwr2hx"],
+    "source_goals": ["1z3pszxqr3m", "d3hkmi4jdu0", "hdpf4w1zceo", "m3rgg91pkwe", "mc4018ewirg", "r5ymh04n5zj"],
+    "source": "soxhga99",
+    "reason": "A canonical application of Zorn's Lemma is to show that every vector space has a basis."
+  },
+  "model": "graph.dependency",
+  "pk": "soxhga99zv1eeedh"
+}

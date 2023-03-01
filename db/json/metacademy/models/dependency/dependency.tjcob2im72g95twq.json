@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "72g95twq",
+    "last_mod": "2014-08-30T21:34:01.799Z",
+    "ordering": -1,
+    "target_goals": ["7wk8c4dp2ic", "l4mzu3wad29", "pbbv00pimwe", "z4rz1o7blmw"],
+    "source_goals": ["4ngj9uttv2h", "756aj5q871r", "og422t01mws", "psmyyyvrqsn"],
+    "source": "tjcob2im",
+    "reason": "The solution can be derived geometrically in terms of column spaces and nullspaces."
+  },
+  "model": "graph.dependency",
+  "pk": "tjcob2im72g95twq"
+}

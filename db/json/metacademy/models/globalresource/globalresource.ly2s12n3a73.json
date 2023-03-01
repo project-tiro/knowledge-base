@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Notes on C written for an introductory Stanford class",
+    "version_num": 0,
+    "title": "Essential C",
+    "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-14T15:07:52.277Z",
+    "authors": "[u'Nick Parlante']",
+    "edition_years": "[]",
+    "resource_type": "notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "ly2s12n3a73"
+}

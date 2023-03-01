@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to calculate eigenvalues and eigenvectors in terms of the roots of the characteristic polynomial",
+    "concept": "kquxsbij",
+    "last_mod": "2014-10-20T01:02:14.209Z"
+  },
+  "model": "graph.goal",
+  "pk": "c927npzmp8k"
+}

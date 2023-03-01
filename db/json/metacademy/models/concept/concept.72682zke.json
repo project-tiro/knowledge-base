@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "matrix transpose",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.0960866097362607,
+    "summary": "The matrix transpose is an operator which flips a matrix over its diagonal, i.e. it switches the row and column indices of the matrix. \n",
+    "last_mod": "2014-08-30T18:00:02.932Z",
+    "tag": "matrix_transpose",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "72682zke"
+}

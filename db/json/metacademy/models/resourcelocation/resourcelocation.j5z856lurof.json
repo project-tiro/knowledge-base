@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:14:01.220Z",
+    "url": "",
+    "cresource": "nbf14onrqh9",
+    "ordering": -1,
+    "location_text": "Skim the rest of the document to see how Fisher information is used",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "j5z856lurof"
+}

@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "target": "xij1in6b",
+    "last_mod": "2014-08-30T21:34:00.764Z",
+    "ordering": 657,
+    "target_goals": ["m7u2tnehc7", "o1ptax2ica"],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": "The Hermitian operator is used to define the complex analogue of the dot product."
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1foxij1in6b"
+}

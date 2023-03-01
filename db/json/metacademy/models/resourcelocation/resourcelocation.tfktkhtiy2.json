@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "gq0jbqevy7",
+    "ordering": 0,
+    "location_text": "Section 4.2, \"Gaussian discriminant analysis,\" up through 4.2.5, \"Strategies for preventing overfitting,\" pages 101-106",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tfktkhtiy2"
+}

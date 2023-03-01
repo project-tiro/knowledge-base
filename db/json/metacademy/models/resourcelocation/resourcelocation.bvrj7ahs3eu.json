@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:30:22.952Z",
+    "url": "",
+    "cresource": "yhy3pyaloni",
+    "ordering": -1,
+    "location_text": "Chapter 8, \"Quicksort,\" pages 153-167",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bvrj7ahs3eu"
+}

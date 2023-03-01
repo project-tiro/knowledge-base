@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* What is the occurs check, why is it needed, and why does it increase the complexity of the algorithm?",
+    "concept": "uqe7o6kx",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1rfdywnl99"
+}

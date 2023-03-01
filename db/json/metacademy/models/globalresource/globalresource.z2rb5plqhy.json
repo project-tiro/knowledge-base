@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graduate textbook in mathematical logic.",
+    "version_num": 0,
+    "title": "A Course in Mathematical Logic",
+    "url": "http://www.amazon.com/A-Course-In-Mathematical-Logic/dp/0720428440/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'J. L. Bell', u'M. Machover']",
+    "edition_years": "[u'1977']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "z2rb5plqhy"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dyfwkbip",
+    "last_mod": "2014-08-30T21:34:00.686Z",
+    "ordering": 710,
+    "target_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source_goals": ["1qbgshd37b6", "cuiidrvc102", "htvmvj3oesq"],
+    "source": "b72bqd7z",
+    "reason": "Some canonical examples of change of basis are for vector spaces other than R^n."
+  },
+  "model": "graph.dependency",
+  "pk": "b72bqd7zdyfwkbip"
+}

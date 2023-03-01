@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o6tpqkx0",
+    "last_mod": "2014-09-19T16:33:28.955Z",
+    "ordering": -1,
+    "target_goals": ["3cs1m0ttas2", "9ytkpz30fs3", "ejwds91a89z", "j01f7tv6etg", "k3svrb57hnn"],
+    "source_goals": ["99swkmj9duc"],
+    "source": "m8p1c4ic",
+    "reason": "The Fisher metric is defined on statistical manifolds"
+  },
+  "model": "graph.dependency",
+  "pk": "m8p1c4ico6tpqkx0"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:52:58.144Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap13.pdf",
+    "cresource": "dkjsu4iuvnj",
+    "ordering": -1,
+    "location_text": "Lecture 13, \"Differential forms,\" up through 13.3, \"Differential forms,\" pages 1-5",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wg7e94v5wub"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "jp7i38z3",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 3,
+    "notes": "[u'This presents the Riemann integral, a precise formulation of the intuitive notion of multiple integrals, but which unfortunately has some awkward notation.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "zrkt0mc0kr"
+  },
+  "model": "graph.conceptresource",
+  "pk": "88eqv19wi1"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "dg2c76qt",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": null,
+    "goals_covered": ["bt542acysn", "fi7bgz8kul", "mnexhk2pfw", "q28isufkhv", "tkf0l8vie6", "tyub6dpt42", "u333povn61"],
+    "edition": "1",
+    "additional_dependencies": "[{u'title': u'topology of R^n'}, {u'title': u'first-order logic'}]",
+    "global_resource": "z2rb5plqhy"
+  },
+  "model": "graph.conceptresource",
+  "pk": "t3zhr326qr"
+}

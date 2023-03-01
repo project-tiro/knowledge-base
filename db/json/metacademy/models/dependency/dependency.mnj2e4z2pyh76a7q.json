@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pyh76a7q",
+    "last_mod": "2014-08-27T18:20:35.839Z",
+    "ordering": 1,
+    "target_goals": ["if2lmofpt3u", "m4jymha7r3y"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the complexity of binary search."
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2pyh76a7q"
+}

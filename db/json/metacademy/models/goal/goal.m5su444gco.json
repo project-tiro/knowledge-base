@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Show that this construction satisfies the least upper bound property.",
+    "concept": "u82kuklv",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "m5su444gco"
+}

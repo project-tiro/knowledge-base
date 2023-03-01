@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Know what the search tree represents, i.e. what the nodes and edges correspond to",
+    "concept": "cqpveand",
+    "last_mod": "2014-11-08T20:56:06.260Z"
+  },
+  "model": "graph.goal",
+  "pk": "zshysmdzqxx"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "exceptions (programming)",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.4149089663734147,
+    "summary": "In many modern programming languages, a function can raise an exception to indicate that it's received an exceptional input and cannot continue processing. Execution then passes up the call stack until it reaches a function that \"catches\" it, i.e. provides code for handling it. ",
+    "last_mod": "2014-09-14T16:26:23.389Z",
+    "tag": "exceptions_programming",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "o86qck81"
+}

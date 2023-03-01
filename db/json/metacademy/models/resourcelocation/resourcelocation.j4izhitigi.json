@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "6q6ya53yji",
+    "ordering": 0,
+    "location_text": "Section 9.2, \"The exponential family,\" up to 9.2.4, \"MLE for the exponential family,\" pages 281-283",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "j4izhitigi"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/",
+    "cresource": "04vq5zdbb3",
+    "ordering": 0,
+    "location_text": "Lecture \"Multiplication and inverse matrices,\" up to the part about computing inverses ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "86045cyi41"
+}

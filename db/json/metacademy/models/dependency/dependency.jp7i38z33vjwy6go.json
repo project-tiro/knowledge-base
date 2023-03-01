@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3vjwy6go",
+    "last_mod": "2014-08-30T21:34:01.254Z",
+    "ordering": -1,
+    "target_goals": ["0dn5y4a30ff", "bj7m9mcr2q8", "f3qgin4eljt", "rvudncn4e2b", "v1aisgae154"],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "Multiple integrals are needed to compute probabilities associated with continuous multivariate distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z33vjwy6go"
+}

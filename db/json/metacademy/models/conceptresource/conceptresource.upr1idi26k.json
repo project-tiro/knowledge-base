@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "tmvi3pqi",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'The part of 19.2.2.3 about exponential families is optional.']",
+    "goals_covered": ["6vipwmw7cg", "7ql1gn67ak", "9naz2yui2p", "dbrkpiwq32", "msaqx4z5o4"],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "k1y5wugd8l"
+  },
+  "model": "graph.conceptresource",
+  "pk": "upr1idi26k"
+}

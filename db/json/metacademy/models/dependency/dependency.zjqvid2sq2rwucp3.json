@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "q2rwucp3",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 102,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "zjqvid2s",
+    "reason": "Part of fitting a GP classification model is learning the hyperparameters."
+  },
+  "model": "graph.dependency",
+  "pk": "zjqvid2sq2rwucp3"
+}

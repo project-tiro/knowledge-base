@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gpj01efp",
+    "last_mod": "2014-08-30T21:34:00.605Z",
+    "ordering": -1,
+    "target_goals": ["4ri78x1la24", "hwjalyi7wl5", "i58krv7vmsz", "iiw4v053w9l", "r9nqc9yq15l", "ra3yq5sw9ck"],
+    "source_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source": "9i78wog3",
+    "reason": "Forward-backward is an algorithm for inference in HMMs."
+  },
+  "model": "graph.dependency",
+  "pk": "9i78wog3gpj01efp"
+}

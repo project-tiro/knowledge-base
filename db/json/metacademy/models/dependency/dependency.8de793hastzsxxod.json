@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "stzsxxod",
+    "last_mod": "2014-08-30T21:34:00.529Z",
+    "ordering": 272,
+    "target_goals": ["wdye9s4no2"],
+    "source_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source": "8de793ha",
+    "reason": "Gaussian elimination is the algorithm for computing the inverse."
+  },
+  "model": "graph.dependency",
+  "pk": "8de793hastzsxxod"
+}

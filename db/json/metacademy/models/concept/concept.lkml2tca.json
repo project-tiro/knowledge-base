@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Kalman smoothing as forward-backward",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 0.8632311737355802,
+    "summary": "Kalman smoothing can be seen as a special case of the forward-backward algorithm for inference in HMMs. This leads to a simpler derivation than the classical one.\n",
+    "last_mod": "2014-08-30T17:07:18.204Z",
+    "tag": "kalman_as_forward_backward",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "lkml2tca"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0melenav",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 5,
+    "target_goals": ["eeo3p69kbba", "ln7qah1abnp", "o2xpxe22a4k", "q1v8yw6a6p0"],
+    "source_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source": "dyfwkbip",
+    "reason": "One needs to be able to convert between coordinate representations"
+  },
+  "model": "graph.dependency",
+  "pk": "dyfwkbip0melenav"
+}

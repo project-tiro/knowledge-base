@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linked lists",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.1972828502347932,
+    "summary": "The linked list is one of the fundamental data structures in programming. Each node may have a link to a successor node. Linked lists can be used to implement stacks and first-in-first-out queues.\n",
+    "last_mod": "2014-09-14T16:29:28.331Z",
+    "tag": "linked_lists",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "wahfxtxd"
+}

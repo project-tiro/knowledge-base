@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "evw4jfx7",
+    "last_mod": "2014-08-27T19:19:52.889Z",
+    "ordering": 3,
+    "target_goals": ["07a1elbr31m", "471yn12x3ae", "4b7f1va5y5b", "4zirq2bp6cg", "q8ajfyjjtqe"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the complexity of tree operations"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2evw4jfx7"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Show how to derive Godel's Second Incompleteness Theorem as a special case of Lob's Theorem",
+    "concept": "aa4zzgxe",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "wf2hbjdb0k"
+}

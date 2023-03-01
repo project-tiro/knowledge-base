@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "finite-difference approximations to derivatives",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 0.7224653424221654,
+    "summary": "We can estimate the derivative of a function at a point by evaluating the function at nearby points. This gives a useful method for checking gradient computations.\n",
+    "last_mod": "2014-11-19T03:36:32.430Z",
+    "tag": "finite_difference_approximations_to_derivatives",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "gkkm9vcp"
+}

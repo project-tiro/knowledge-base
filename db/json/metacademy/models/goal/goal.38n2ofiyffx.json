@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "When does stochastic gradient descent provide a reasonable approximation to the full gradient?",
+    "concept": "57amwk40",
+    "last_mod": "2014-08-30T23:33:16.996Z"
+  },
+  "model": "graph.goal",
+  "pk": "38n2ofiyffx"
+}

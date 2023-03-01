@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:26:44.780Z",
+    "url": "http://www.youtube.com/watch?v=_KoWTD8T45Q",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Backpropagation\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lez29dzd8l4"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T23:59:10.055Z",
+    "url": "http://en.wikipedia.org/wiki/Recursion_(computer_science)",
+    "cresource": "9kw2blvpmmc",
+    "ordering": -1,
+    "location_text": "Article \"Recursion (computer science)\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "oxa4faznsqy"
+}

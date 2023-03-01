@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "za4sbmyzve",
+    "ordering": 0,
+    "location_text": "Section 5.4, \"Lagrange multipliers,\" pages 216-222",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "matqou862t"
+}

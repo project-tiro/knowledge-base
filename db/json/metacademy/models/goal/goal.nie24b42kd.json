@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to use the bootstrap to:\n** estimate the variance of an estimator\n** compute a confidence interval for an estimator",
+    "concept": "u638jbmo",
+    "last_mod": "2014-09-14T21:51:50.734Z"
+  },
+  "model": "graph.goal",
+  "pk": "nie24b42kd"
+}

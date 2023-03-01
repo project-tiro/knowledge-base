@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "69bpesql",
+    "version_num": 0,
+    "last_mod": "2014-09-19T19:11:35.236Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "n5namk0oy99"
+  },
+  "model": "graph.conceptresource",
+  "pk": "akkoelva9zw"
+}

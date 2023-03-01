@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:13:45.556Z",
+    "url": "http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/Fisher_info.pdf",
+    "cresource": "nbf14onrqh9",
+    "ordering": -1,
+    "location_text": "Lecture notes \"Fisher information and the Cramer-Rao bound,\" Section 1, \"Fisher information\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yduufsequz6"
+}

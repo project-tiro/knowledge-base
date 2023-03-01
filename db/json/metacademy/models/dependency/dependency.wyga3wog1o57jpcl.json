@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1o57jpcl",
+    "last_mod": "2014-08-30T21:34:01.987Z",
+    "ordering": 45,
+    "target_goals": ["27rvo0gh9q", "4aej42oimw", "gz9o7w67nl", "wbyrt8eb01"],
+    "source_goals": ["91ndrok93qj", "o3ua0rouh4a"],
+    "source": "wyga3wog",
+    "reason": "When surface integrals are defined in terms of pullback, this is a generalization of the change of variables formula."
+  },
+  "model": "graph.dependency",
+  "pk": "wyga3wog1o57jpcl"
+}

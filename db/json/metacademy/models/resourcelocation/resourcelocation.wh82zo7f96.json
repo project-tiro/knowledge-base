@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf#page=436",
+    "cresource": "s2hvi5pkau",
+    "ordering": 0,
+    "location_text": "Section 8.6-8.6.1, up to \"Approximate linear discrimination,\" pages 422-427 ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wh82zo7f96"
+}

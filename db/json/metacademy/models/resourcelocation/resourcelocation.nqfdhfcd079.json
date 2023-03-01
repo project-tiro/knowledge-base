@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:56:02.704Z",
+    "url": "http://en.wikipedia.org/wiki/Iterator",
+    "cresource": "bey613bj2px",
+    "ordering": -1,
+    "location_text": "Article \"Iterator\": introduction, section \"Description,\" and the section for your favorite programming language",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "nqfdhfcd079"
+}

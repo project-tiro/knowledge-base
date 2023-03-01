@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:19:21.858Z",
+    "url": "http://en.wikipedia.org/wiki/Trie",
+    "cresource": "81uyhrfpvry",
+    "ordering": -1,
+    "location_text": "Article \"Trie\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4n4uxwoxir4"
+}

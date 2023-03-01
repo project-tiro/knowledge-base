@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "xg31jy6025",
+    "ordering": 0,
+    "location_text": "Section 10.2, \"Hermitian and unitary matrices,\" up to \"Hermitian matrices,\" pages 501-502",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x2ggo9uwc0"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:35:25.289Z",
+    "url": "https://class.coursera.org/algo-004/lecture/23",
+    "cresource": "vc950r9inig",
+    "ordering": -1,
+    "location_text": "Lecture sequence 5, \"Quicksort -- algorithm\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iao6znefzf9"
+}

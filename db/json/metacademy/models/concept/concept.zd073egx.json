@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "tree (data structure)",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.5551150494476744,
+    "summary": "A tree is one of the fundamental data structures in computer science. It consists of a set of nodes, each of which may have pointers to one or more child nodes. Binary trees are an important special case.\n",
+    "last_mod": "2014-09-14T16:34:13.240Z",
+    "tag": "tree_data_structure",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "zd073egx"
+}

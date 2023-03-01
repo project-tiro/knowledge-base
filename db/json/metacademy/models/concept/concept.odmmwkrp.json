@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "tensor fields on manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.8074447099147424,
+    "summary": "A tensor field on a manifold M assigns to each point p of M a tensor defined on the tangent space at p. Important examples of tensor fields include covector fields, Riemannian metrics, differential forms, and symplectic forms.\n",
+    "last_mod": "2014-09-19T14:50:21.803Z",
+    "tag": "tensor_fields_on_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "odmmwkrp"
+}

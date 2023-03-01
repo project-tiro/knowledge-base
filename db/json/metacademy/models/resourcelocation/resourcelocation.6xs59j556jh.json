@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:01:18.177Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=76",
+    "cresource": "dwdhjtyv87l",
+    "ordering": -1,
+    "location_text": "Section 9.1, \"Metric tensor,\" pages 76-80",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6xs59j556jh"
+}

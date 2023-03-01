@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T00:43:01.207Z",
+    "url": "http://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays#Pointers_to_Functions",
+    "cresource": "ep0tzwsqips",
+    "ordering": -1,
+    "location_text": "Section \"Pointers and arrays,\" subsections \"Pointers to functions\" and \"Practical use of function pointers in C\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "p090xh313t2"
+}

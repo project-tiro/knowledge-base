@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:23:12.811Z",
+    "url": "http://c.learncodethehardway.org/book/ex32.html",
+    "cresource": "dg2pr97w9xx",
+    "ordering": -1,
+    "location_text": "Exercise 32, \"Double linked lists\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9iti6qogbx7"
+}

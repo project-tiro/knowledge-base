@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian BP on trees",
+    "pointers": "* If we apply the same update rules on a non-tree graph, it often works just fine. This is known as  [loopy belief propagation](gaussian_loopy_bp) .",
+    "tags": ["pgm"],
+    "learn_time": 0.9651222028482088,
+    "summary": "Marginalization in Gaussian MRFs can be performed in cubic time by inverting a matrix, but this is too slow for some applications. If the model is tree-structured, belief propagation can compute the means and single-node variances in linear time. Unlike in general MRFs, it turns out that the loopy version yields the correct means.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_bp_on_trees",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "fz4okszk"
+}

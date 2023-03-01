@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "oriented manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.73432209015012,
+    "summary": "For operations such as integration, one often needs to assign a manifold an orientation, or \"handedness\" of the coordinate charts. For some manifolds, this can be done; other manifolds, such as the Mobius strip, are not orientable.\n",
+    "last_mod": "2014-09-19T14:57:37.768Z",
+    "tag": "oriented_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "4h25sdwl"
+}

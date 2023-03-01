@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Newton's method (optimization)",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.532465685632796,
+    "summary": "Newton's method is an optimization algorithm which, in the convex setting, iteratively minimizes quadratic approximations to the objective function. It can be impractical for high-dimensional problems because it requires inverting the Hessian matrix, but many highly effective optimization algorithms can be viewed as approximations to Newton's method.\n",
+    "last_mod": "2014-11-19T03:09:41.810Z",
+    "tag": "newtons_method_optimization",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "o7nh4u08"
+}

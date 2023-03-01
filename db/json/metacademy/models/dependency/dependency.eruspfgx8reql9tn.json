@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8reql9tn",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 794,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "eruspfgx",
+    "reason": "The particular version of Gaussian elimination is the one used to compute the Cholesky decomposition."
+  },
+  "model": "graph.dependency",
+  "pk": "eruspfgx8reql9tn"
+}

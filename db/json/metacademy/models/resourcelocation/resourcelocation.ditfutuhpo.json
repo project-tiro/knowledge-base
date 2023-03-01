@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/73",
+    "cresource": "04fhdak2bq",
+    "ordering": 1,
+    "location_text": "Lecture \"Using a Markov Chain\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ditfutuhpo"
+}

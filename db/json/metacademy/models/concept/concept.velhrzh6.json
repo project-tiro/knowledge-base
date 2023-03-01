@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "merge sort",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.78358971786342,
+    "summary": "Merge sort is one of the most efficient sorting algorithms, and exemplifies the idea of divide-and-conquer algorithms. It works by splitting the array into two sub-arrays, recursively sorting those sub-arrays, and then merging them into a larger sorted array.\n",
+    "last_mod": "2014-09-13T23:50:58.272Z",
+    "tag": "merge_sort",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "velhrzh6"
+}

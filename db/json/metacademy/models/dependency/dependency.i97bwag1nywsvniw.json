@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "nywsvniw",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["8wk2xkk0kwh", "sjnm17e5ffu", "uy321pdu4kx", "vmpl24poj87", "x0nungprjm7"],
+    "source_goals": ["ce6oa8yewvr", "idnhc0wcs3e", "mun2mvhkwzj", "qgofzm06qrg", "swhrzys2m6u", "x8l8umkugyl"],
+    "source": "i97bwag1",
+    "reason": "Lie derivatives are defined in terms of flows"
+  },
+  "model": "graph.dependency",
+  "pk": "i97bwag1nywsvniw"
+}

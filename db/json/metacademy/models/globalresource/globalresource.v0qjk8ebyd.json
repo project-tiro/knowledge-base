@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graduate level textbook on information theory.",
+    "version_num": 0,
+    "title": "Elements of Information Theory",
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-0471241954.html",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Thomas M. Cover', u'Joy A. Thomas']",
+    "edition_years": "[u'1991', u'2006']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "v0qjk8ebyd"
+}

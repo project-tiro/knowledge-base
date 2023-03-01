@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free online book on C, aimed at novices",
+    "version_num": 0,
+    "title": "Beej's Guide to C Programming",
+    "url": "http://beej.us/guide/bgc/output/html/singlepage/bgc.html",
+    "notes": "",
+    "year": 2007,
+    "access": "free",
+    "last_mod": "2014-09-14T15:04:22.944Z",
+    "authors": "[u'Brian \"Beej\" Hall']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "30bqgeijz17"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.gaussianprocess.org/gpml/chapters/RW5.pdf#page=8",
+    "cresource": "yeer4i786q",
+    "ordering": 2,
+    "location_text": "Section 5.4.1 (pages 112-116) ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5w4ic8add7"
+}

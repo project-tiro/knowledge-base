@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Church-Turing thesis",
+    "pointers": null,
+    "tags": ["logic", "theorycomp"],
+    "learn_time": 1.6896388872618218,
+    "summary": "The Church-Turing thesis is the hypothesis that any function which can be computed (by any deterministic procedure) can be computed by a Turing machine. Equivalently, it holds that a function is recursive if and only if it is computable. While this thesis is not a precise mathematical statement, and therefore cannot be proved, it is almost universally held to be true.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "church_turing_thesis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "068x3j1s"
+}

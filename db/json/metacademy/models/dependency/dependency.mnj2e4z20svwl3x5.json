@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0svwl3x5",
+    "last_mod": "2014-08-27T18:51:15.825Z",
+    "ordering": -1,
+    "target_goals": ["ioo149551ww", "js61pyndeip", "tsrijo0cin3", "vyauxjhhte7"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the complexity of various operations"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z20svwl3x5"
+}

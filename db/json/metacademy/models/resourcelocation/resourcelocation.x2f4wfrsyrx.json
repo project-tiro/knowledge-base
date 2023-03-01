@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:10:08.856Z",
+    "url": "http://en.wikipedia.org/wiki/Prim%27s_algorithm",
+    "cresource": "j92eq4dakbj",
+    "ordering": -1,
+    "location_text": "Article \"Prim's algorithm\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x2f4wfrsyrx"
+}

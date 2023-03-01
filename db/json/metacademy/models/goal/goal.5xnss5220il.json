@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "When would you use an interface, and when would you use an abstract class?",
+    "concept": "a97uu186",
+    "last_mod": "2014-09-14T18:31:23.399Z"
+  },
+  "model": "graph.goal",
+  "pk": "5xnss5220il"
+}

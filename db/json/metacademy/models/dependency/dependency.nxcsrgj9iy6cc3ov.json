@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iy6cc3ov",
+    "last_mod": "2014-08-30T02:49:50.222Z",
+    "ordering": -1,
+    "target_goals": ["o2moaw0g7rp", "xkaz6wiguwn"],
+    "source_goals": [],
+    "source": "nxcsrgj9",
+    "reason": "The M step involves maximum likelihood for multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "nxcsrgj9iy6cc3ov"
+}

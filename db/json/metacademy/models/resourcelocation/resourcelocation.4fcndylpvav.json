@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:53:18.287Z",
+    "url": "",
+    "cresource": "b462vixq63l",
+    "ordering": -1,
+    "location_text": "Chapter 12, \"Hash tables,\" up through 12.3, \"Hash functions,\" pages 219-231",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4fcndylpvav"
+}

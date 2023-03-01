@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "spectral decomposition",
+    "pointers": "* The spectral decomposition is an example of  [diagonalization](diagonalization) .\n* The spectral decomposition can also be characterized as:\n** the  [eigenvalues](eigenvalues_and_eigenvectors)  of a symmetric matrix \n** the  [solution to an optimization problem](variational_characterization_of_eigenvalues)\n* The spectral decomposition  [can be generalized](spectral_decomposition_hermitian)  to complex analogues of symmetric matrices, called  [Hermitian matrices](hermitian_matrices)\n* A symmetric matrix is  [positive definite](positive_definite_matrices)  if its eigenvalues are positive",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.5078987898124603,
+    "summary": "The spectral decomposition is the decomposition of a symmetric matrix A into QDQ^T, where Q is an orthogonal matrix and D is a diagonal matrix. The columns of Q correspond to the eigenvectors of A, and the diagonal entries of D correspond to the eigenvalues. This is possible because of a surprising fact about symmetric matrices: they have a full set of orthogonal eigenvectors. This decomposition gives a useful way to think about symmetric matrices: they are like diagonal matrices in a rotated coordinate system.\n",
+    "last_mod": "2014-10-11T21:27:37.521Z",
+    "tag": "spectral_decomposition",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "643uoa8t"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "nywsvniw",
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:53:54.373Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "tgik41f8ywu"
+  },
+  "model": "graph.conceptresource",
+  "pk": "37xj8zandcd"
+}

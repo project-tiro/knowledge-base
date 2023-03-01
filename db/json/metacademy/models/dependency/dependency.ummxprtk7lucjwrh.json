@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7lucjwrh",
+    "last_mod": "2014-08-30T17:09:14.663Z",
+    "ordering": -1,
+    "target_goals": ["qq3xjv260uu", "vbb3tzgzw80", "xn02wws917f"],
+    "source_goals": ["qhvsd06flf", "urbyxx9vei", "vwb4txlsn8"],
+    "source": "ummxprtk",
+    "reason": "The KKT conditions characterize optimal solutions to convex optimization problems."
+  },
+  "model": "graph.dependency",
+  "pk": "ummxprtk7lucjwrh"
+}

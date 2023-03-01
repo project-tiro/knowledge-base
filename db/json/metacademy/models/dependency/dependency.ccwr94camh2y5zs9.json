@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mh2y5zs9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 189,
+    "target_goals": ["7ib85orl9e"],
+    "source_goals": ["x2ue9ct6if"],
+    "source": "ccwr94ca",
+    "reason": "The interpretation from arithmetic into set theory requires defining natural numbers as sets."
+  },
+  "model": "graph.dependency",
+  "pk": "ccwr94camh2y5zs9"
+}

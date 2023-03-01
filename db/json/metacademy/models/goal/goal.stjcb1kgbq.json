@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Why does the line integral of a vector field depend on the orientation of a curve?",
+    "concept": "lprnbl8i",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "stjcb1kgbq"
+}

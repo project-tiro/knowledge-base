@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "first-order unification",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 0.9085718531209149,
+    "summary": "Unification is a procedure which takes two symbolic expressions containing variables, and returns a substitution to the variables which makes the expressions identical. It is a key component of first-order theorem provers and type inference systems.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "first_order_unification",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "uqe7o6kx"
+}

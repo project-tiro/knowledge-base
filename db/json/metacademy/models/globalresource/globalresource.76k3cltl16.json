@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "EdX Artificial Intelligence",
+    "url": "https://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs188-1x-artificial-579",
+    "notes": "",
+    "year": null,
+    "access": "reg",
+    "last_mod": "2014-11-09T00:13:42.966Z",
+    "authors": "[u'Pieter Abbeel', u'Dan Klein']",
+    "edition_years": "[]",
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "76k3cltl16"
+}

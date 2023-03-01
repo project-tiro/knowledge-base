@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "binary search",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 0.4986036745205924,
+    "summary": "Binary search is a logarithmic time algorithm for locating an element in a sorted array. It is an example of a divide-and-conquer algorithm.",
+    "last_mod": "2014-09-14T16:09:09.325Z",
+    "tag": "binary_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "pyh76a7q"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 7,
+    "text": "What does it mean for an admissible heuristic A to dominate another admissible heuristic B, and why should A be preferred in this case?",
+    "concept": "6zgu0pb6",
+    "last_mod": "2014-11-08T21:08:28.107Z"
+  },
+  "model": "graph.goal",
+  "pk": "9t0v71ivs82"
+}

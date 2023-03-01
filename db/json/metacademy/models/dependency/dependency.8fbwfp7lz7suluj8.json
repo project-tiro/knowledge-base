@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "z7suluj8",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 66,
+    "target_goals": ["5znvc0r869", "r25emdy218"],
+    "source_goals": ["2n3fb9cfxq", "e28kaamj0f", "huvuer6adl"],
+    "source": "8fbwfp7l",
+    "reason": "MDS is one step of Isomap."
+  },
+  "model": "graph.dependency",
+  "pk": "8fbwfp7lz7suluj8"
+}

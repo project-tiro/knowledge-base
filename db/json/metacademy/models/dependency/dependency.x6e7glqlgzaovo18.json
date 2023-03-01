@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gzaovo18",
+    "last_mod": "2014-08-30T21:34:02.024Z",
+    "ordering": 427,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "Linear regression provides useful intuitions for thinking about binary linear classification."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glqlgzaovo18"
+}

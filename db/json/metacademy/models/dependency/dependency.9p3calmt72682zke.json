@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "72682zke",
+    "last_mod": "2014-08-30T21:34:00.621Z",
+    "ordering": -1,
+    "target_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source_goals": ["1pf04pmhjmj", "i9hfvjl1ikv", "ml5y1eo0gm0", "zfmglzw7j9b"],
+    "source": "9p3calmt",
+    "reason": "The transpose of a product is the product of transposes, reversed."
+  },
+  "model": "graph.dependency",
+  "pk": "9p3calmt72682zke"
+}

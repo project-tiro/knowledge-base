@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qwj4lbj9",
+    "last_mod": "2014-11-08T23:16:04.709Z",
+    "ordering": -1,
+    "target_goals": ["3k9qj65p82d", "vdc5clxqqe0", "vjzlq938nxq"],
+    "source_goals": ["2bv8z1peo5s", "4g218tn0paj", "pfu84301oc1", "rpjftsvsnwd", "xapxcvzo88e"],
+    "source": "zlk11edy",
+    "reason": "Alpha-beta pruning is a way of making minimax search more efficient"
+  },
+  "model": "graph.dependency",
+  "pk": "zlk11edyqwj4lbj9"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:08:10.336Z",
+    "url": "https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/courseware/Week_2/Lecture_2_Uninformed_Search/",
+    "cresource": "wypwi0vyhww",
+    "ordering": -1,
+    "location_text": "Lecture 2, \"Uninformed search,\" up through \"Part 3, Search Problems: Discussion\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ojueuyacsai"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=PiXu8_4X5dE&list=PL17567A1A3F5DB5E4&index=23",
+    "cresource": "dphyg7tq0b",
+    "ordering": 3,
+    "location_text": "Lecture 4.4, \"Properties of expectation\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "oqyp4ikpp9"
+}

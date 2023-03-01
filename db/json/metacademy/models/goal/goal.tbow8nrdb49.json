@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why the size of a struct may depend on the order in which the fields are declared",
+    "concept": "oijzu9k7",
+    "last_mod": "2014-09-07T03:44:11.317Z"
+  },
+  "model": "graph.goal",
+  "pk": "tbow8nrdb49"
+}

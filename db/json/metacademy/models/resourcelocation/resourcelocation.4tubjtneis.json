@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.ubc.ca/~murphyk/MLbook/pml-print3-ch19.pdf#page=7",
+    "cresource": "iqhtweor6c",
+    "ordering": 0,
+    "location_text": "Section 19.3.2, \"Representing potential functions,\" page 667 ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4tubjtneis"
+}

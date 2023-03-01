@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "2q9hdutk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 735,
+    "target_goals": ["9xw1ta4nr4", "h3bg1fp4k3"],
+    "source_goals": [],
+    "source": "0dp1y59v",
+    "reason": "The AIC is a way of improving generalization."
+  },
+  "model": "graph.dependency",
+  "pk": "0dp1y59v2q9hdutk"
+}

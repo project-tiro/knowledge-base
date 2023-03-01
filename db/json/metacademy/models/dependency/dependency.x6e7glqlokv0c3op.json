@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "okv0c3op",
+    "last_mod": "2014-08-30T21:34:02.028Z",
+    "ordering": 126,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "We're interpreting linear regression as maximum likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glqlokv0c3op"
+}

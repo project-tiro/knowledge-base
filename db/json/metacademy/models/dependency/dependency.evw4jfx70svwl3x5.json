@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0svwl3x5",
+    "last_mod": "2014-08-27T18:51:04.621Z",
+    "ordering": -1,
+    "target_goals": ["ioo149551ww", "js61pyndeip", "tsrijo0cin3", "vyauxjhhte7"],
+    "source_goals": ["07a1elbr31m", "471yn12x3ae", "4b7f1va5y5b", "4zirq2bp6cg", "q8ajfyjjtqe"],
+    "source": "evw4jfx7",
+    "reason": "Red-black trees are a kind of binary search tree"
+  },
+  "model": "graph.dependency",
+  "pk": "evw4jfx70svwl3x5"
+}

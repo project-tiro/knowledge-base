@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "msntabgz",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 670,
+    "target_goals": ["lonhopp3ua"],
+    "source_goals": ["80hn0e6jnp", "c2ppa363nt", "ld57feavrv", "qrzbxbyu5l", "yplt6sdie4"],
+    "source": "65t8tji2",
+    "reason": "The Axiom of Choice is often added to the Z-F axioms."
+  },
+  "model": "graph.dependency",
+  "pk": "65t8tji2msntabgz"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1q4o16ud",
+    "last_mod": "2014-08-31T15:36:25.098Z",
+    "ordering": 4,
+    "target_goals": [],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "Many operations require computing matrix inverses."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnaf1q4o16ud"
+}

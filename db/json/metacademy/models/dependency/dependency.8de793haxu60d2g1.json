@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xu60d2g1",
+    "last_mod": "2014-08-30T21:34:00.540Z",
+    "ordering": -1,
+    "target_goals": ["6qskbmq8v95", "lz48237ty44", "ozjiyia8oki"],
+    "source_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source": "8de793ha",
+    "reason": "The Gaussian elimination operations do nice things to the determinant."
+  },
+  "model": "graph.dependency",
+  "pk": "8de793haxu60d2g1"
+}

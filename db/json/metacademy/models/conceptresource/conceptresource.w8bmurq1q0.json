@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "lr83iyvg",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u\"You can gloss over section 3 if you're not familiar with the expectation maximization algorithm\"]",
+    "goals_covered": ["6mfkdu2n9n", "rstg5clahw"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "d2x2awmq5q"
+  },
+  "model": "graph.conceptresource",
+  "pk": "w8bmurq1q0"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vw8og6fv",
+    "last_mod": "2014-11-19T03:10:23.125Z",
+    "ordering": -1,
+    "target_goals": ["5ieo3qip13s", "5xzezg20uih", "683ldhja4d0"],
+    "source_goals": ["ajuwpvlc4vl", "kjszqgpglkm"],
+    "source": "nw2kqzlz",
+    "reason": "The Gauss-Newton update rule involves the Jacobian"
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlzvw8og6fv"
+}

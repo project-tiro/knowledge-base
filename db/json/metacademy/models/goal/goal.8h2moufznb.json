@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Give an example where the graph is not identifiable, i.e. there are multiple graph structures which yield the same set of distributions.",
+    "concept": "9ub4pkcy",
+    "last_mod": "2014-08-31T15:15:18.629Z"
+  },
+  "model": "graph.goal",
+  "pk": "8h2moufznb"
+}

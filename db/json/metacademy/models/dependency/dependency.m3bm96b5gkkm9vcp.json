@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gkkm9vcp",
+    "last_mod": "2014-11-19T03:33:04.886Z",
+    "ordering": -1,
+    "target_goals": ["0xuv3t6nq6e", "5pywi7mbxsq", "b3s5uh55q4a", "plh2adtmfe0"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "Finite differences are used to approximate partial derivatives"
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5gkkm9vcp"
+}

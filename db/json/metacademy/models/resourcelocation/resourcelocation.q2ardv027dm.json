@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T16:57:39.989Z",
+    "url": "",
+    "cresource": "d0bhil0ubwc",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"Heapsort,\" pages 140-150",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q2ardv027dm"
+}

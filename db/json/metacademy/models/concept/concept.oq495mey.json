@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "surface integrals",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.5837327456437444,
+    "summary": "A surface integral is the integral of a function over a surface. Important cases include surface area and flux, where the function is the dot product of the surface normal with a vector field.\n",
+    "last_mod": "2014-09-01T02:42:52.795Z",
+    "tag": "surface_integrals",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "oq495mey"
+}

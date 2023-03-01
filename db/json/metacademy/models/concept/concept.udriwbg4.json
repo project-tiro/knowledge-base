@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational inference and convex duality",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "variational_inference_convex_duality",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "udriwbg4"
+}

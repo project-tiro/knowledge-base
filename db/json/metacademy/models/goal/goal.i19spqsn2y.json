@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* It's likely that you're seeing this page because you want to learn about graphical models. If so, don't bother memorizing the rules of conditional independence; you'll get more intution and practice with them when you learn about graphical models. Just convince yourself that the basic properties make intuitive sense.",
+    "concept": "rci9bqwl",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "i19spqsn2y"
+}

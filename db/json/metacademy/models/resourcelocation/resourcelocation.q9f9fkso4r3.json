@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T03:18:50.025Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-20-more-clustering/",
+    "cresource": "rajui9rkob0",
+    "ordering": -1,
+    "location_text": "Lecture 20, \"More clustering,\" starting from 41:30",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q9f9fkso4r3"
+}

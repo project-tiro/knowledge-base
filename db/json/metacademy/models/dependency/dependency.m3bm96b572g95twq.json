@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "72g95twq",
+    "last_mod": "2014-08-30T21:34:01.367Z",
+    "ordering": -1,
+    "target_goals": ["7wk8c4dp2ic", "l4mzu3wad29", "pbbv00pimwe", "z4rz1o7blmw"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The solution can be derived using partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b572g95twq"
+}

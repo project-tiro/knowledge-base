@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=TkeA-0V5w4I",
+    "cresource": "cr989sxzru",
+    "ordering": 0,
+    "location_text": "Lecture 9 Segment 2: The Bellman Equations ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pwid973tx8"
+}

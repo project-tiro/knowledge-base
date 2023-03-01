@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand conceptually what a function pointer points to, and what happens when the function pointed to is called",
+    "concept": "oceraae8",
+    "last_mod": "2014-09-07T03:42:44.927Z"
+  },
+  "model": "graph.goal",
+  "pk": "qvkjpqabza4"
+}

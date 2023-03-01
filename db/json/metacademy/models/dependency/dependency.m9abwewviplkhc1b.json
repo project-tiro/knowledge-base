@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iplkhc1b",
+    "last_mod": "2014-08-30T23:32:19.540Z",
+    "ordering": 0,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "m9abwewv",
+    "reason": "Backpropagation is an algorithm for training feed-forward neural nets."
+  },
+  "model": "graph.dependency",
+  "pk": "m9abwewviplkhc1b"
+}

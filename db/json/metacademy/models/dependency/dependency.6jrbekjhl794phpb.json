@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l794phpb",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 361,
+    "target_goals": ["34ci4rlw4j", "6aritiu06n", "l6s976tn5j", "skguptaxih"],
+    "source_goals": ["aux1gig1c4", "j4u9gz75vz"],
+    "source": "6jrbekjh",
+    "reason": "P-values are determined using the CDF of the test statistic."
+  },
+  "model": "graph.dependency",
+  "pk": "6jrbekjhl794phpb"
+}

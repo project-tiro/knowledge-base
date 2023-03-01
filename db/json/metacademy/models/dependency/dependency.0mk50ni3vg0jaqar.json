@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vg0jaqar",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 697,
+    "target_goals": ["7l0j3kix9g", "cwrrz0yfky", "qjivwiu3ev"],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "Conditional distributions are needed to define mutual information."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni3vg0jaqar"
+}

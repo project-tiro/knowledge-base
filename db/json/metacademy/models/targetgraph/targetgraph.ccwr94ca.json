@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "depth": 4,
+    "dependencies": [
+      "ap1kl16uccwr94ca",
+      "exxfwv5uccwr94ca",
+      "exxfwv5uzcw5mgj0",
+      "iqeem7gjsug552ho",
+      "sug552hottwh2gui",
+      "ttwh2guiccwr94ca",
+      "zcw5mgj0ccwr94ca"
+    ],
+    "concepts": ["ap1kl16u", "ccwr94ca", "exxfwv5u", "iqeem7gj", "sug552ho", "ttwh2gui", "zcw5mgj0"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "ccwr94ca"
+}

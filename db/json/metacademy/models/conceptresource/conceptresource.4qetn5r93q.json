@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "n4mru8iv",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 4,
+    "notes": null,
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[{u'title': u'Metropolis-Hastings algorithm'}]",
+    "global_resource": "ylgvrhqkyn"
+  },
+  "model": "graph.conceptresource",
+  "pk": "4qetn5r93q"
+}

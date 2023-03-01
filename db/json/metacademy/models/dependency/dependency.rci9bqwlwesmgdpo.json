@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wesmgdpo",
+    "last_mod": "2014-08-30T17:51:45.738Z",
+    "ordering": -1,
+    "target_goals": ["v7myx7fp03h", "wpe7kb3c9bs", "z17krgjzed5"],
+    "source_goals": ["2jqlt4gf7e", "378n082vvx", "i19spqsn2y"],
+    "source": "rci9bqwl",
+    "reason": "Markov chains are defined in terms of conditional independence."
+  },
+  "model": "graph.dependency",
+  "pk": "rci9bqwlwesmgdpo"
+}

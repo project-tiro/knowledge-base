@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uh66zhs6",
+    "last_mod": "2014-10-11T21:33:30.530Z",
+    "ordering": 952,
+    "target_goals": [],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "The definition of a kernel involves PSD matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7uh66zhs6"
+}

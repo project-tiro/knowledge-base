@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "limits and continuity in R^n",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.2051061806596453,
+    "summary": "The concept of a limit extends naturally to functions of multiple variables, and higher-dimensional limits share many of the same properties as the single-variable ones.\n",
+    "last_mod": "2014-08-30T17:19:46.675Z",
+    "tag": "limits_and_continuity_in_rn",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vxncdcer"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Markov random fields",
+    "pointers": "*  [Factor graphs](factor_graphs)  provide a more fine-grained representation of the factorizations of Boltzmann distributions. \n* The  [Hammersley-Clifford theorem](hammersley_clifford)  shows that MRFs can be characterized in terms of conditional independencies. \n*  [Bayes nets](bayesian_networks)  are another graphical model formalism good for capturing generative processes and causal structure. \n* Neither Bayes nets nor MRFs are  [strictly more powerful](bayes_nets_vs_mrfs_representation)  than the other. \n* Often, we are interested in:\n**  [answering conditional probability queries](inference_in_mrfs)\n**  [learning the parameters of the distribution](mrf_parameter_learning)\n* Some examples of MRFs include:\n**  [Undirected trees](tree_graphical_models)\n**  [Ising models](ising_models)\n**  [Boltzmann machines](boltzmann_machines)\n**  [restricted Boltzmann machines (RBMs)](restricted_boltzmann_machines)\n**  [field of experts](field_of_experts)",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 2.100326632576528,
+    "summary": "Markov random fields (MRFs) are a kind of probabilistic model which encodes the model structure as an undirected graph. Two variables are connected by an edge if they directly influence each other. MRFs are useful for domains which can be described in terms of \"soft constraints\" between variables. MRFs can be equivalently characterized in terms of factorization of the joint distribution or conditional independence properties.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "markov_random_fields",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ygdu7yyp"
+}

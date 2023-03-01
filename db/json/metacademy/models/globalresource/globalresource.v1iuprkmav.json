@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Bayesian nonparametric lecture notes (COS 597C)",
+    "url": "http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20070921.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Peter Frazier', u'Indraneel Mukherjee']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "v1iuprkmav"
+}

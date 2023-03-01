@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tduhdoe9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["bn3jvqwj0iw", "ib9mubc78og"],
+    "source_goals": ["8wk2xkk0kwh", "sjnm17e5ffu", "uy321pdu4kx", "vmpl24poj87", "x0nungprjm7"],
+    "source": "nywsvniw",
+    "reason": "Vector fields commute if and only if their Lie bracket is zero"
+  },
+  "model": "graph.dependency",
+  "pk": "nywsvniwtduhdoe9"
+}

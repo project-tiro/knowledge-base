@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T23:21:47.655Z",
+    "url": "http://home.earthlink.net/~momotuk/pointers.pdf#page=32",
+    "cresource": "p1g3jdeheuy",
+    "ordering": -1,
+    "location_text": "Chapter 8, \"Pointers to arrays,\" pages 32-33",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r587edx321s"
+}

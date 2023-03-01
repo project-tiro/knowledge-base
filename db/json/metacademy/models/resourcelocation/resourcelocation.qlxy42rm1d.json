@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "dl7r8faq1u",
+    "ordering": 0,
+    "location_text": "Section 15.5, \"Surface integrals,\" pages 1047-1055",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qlxy42rm1d"
+}

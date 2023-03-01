@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Show that there is a representable encoding of tuples of numbers into single numbers",
+    "concept": "nxkxu3tn",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "3vkr6d2jd5"
+}

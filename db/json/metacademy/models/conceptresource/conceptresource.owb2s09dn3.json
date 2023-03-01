@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "e6wbweue",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'Click on \"Preview\" to see the videos.']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "lv1g5xystt"
+  },
+  "model": "graph.conceptresource",
+  "pk": "owb2s09dn3"
+}

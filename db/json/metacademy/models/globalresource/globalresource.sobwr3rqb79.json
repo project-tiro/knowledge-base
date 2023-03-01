@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A Java book aimed at novices; available through Safari Books Online",
+    "version_num": 0,
+    "title": "Head First Java",
+    "url": "http://www.amazon.com/Head-First-Java-2nd-Edition/dp/0596009208/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-09-14T18:48:26.031Z",
+    "authors": "[u'Kathy Sierra', u'Bert Bates']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "sobwr3rqb79"
+}

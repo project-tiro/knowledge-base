@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "365wg8e7",
+    "last_mod": "2014-08-30T21:34:00.226Z",
+    "ordering": 803,
+    "target_goals": ["euwxlw9hcn", "v8d3nsdrw2", "yx114qehtx", "zil5hdya5d"],
+    "source_goals": ["1ztij09zfe6", "8rcp722kl04", "qais9g6qglm", "uffsmjg9q06", "zvh3xezt924"],
+    "source": "0wtbiq82",
+    "reason": "Chernoff bounds can be specified in terms of moment generating functions."
+  },
+  "model": "graph.dependency",
+  "pk": "0wtbiq82365wg8e7"
+}

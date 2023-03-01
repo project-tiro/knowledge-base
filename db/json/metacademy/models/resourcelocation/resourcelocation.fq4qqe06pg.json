@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=411",
+    "cresource": "a1q54dfm8t",
+    "ordering": 0,
+    "location_text": "Section 11.3, \"Neural networks,\" pages 3392-395 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fq4qqe06pg"
+}

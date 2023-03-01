@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf#page=431",
+    "cresource": "qr4kpeam3z",
+    "ordering": 1,
+    "location_text": "Section 20.3, \"The Gaussian mixture model,\" up to 20.3.1, \"The EM algorithm\" (page 407) ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "y74wyxg9kt"
+}

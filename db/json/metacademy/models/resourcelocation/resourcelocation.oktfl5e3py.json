@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=30",
+    "cresource": "qx1jycf9d1",
+    "ordering": 0,
+    "location_text": "Section 2.3, \"Two simple approaches to prediction: least squares and nearest neighbors,\" pages 11-18 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "oktfl5e3py"
+}

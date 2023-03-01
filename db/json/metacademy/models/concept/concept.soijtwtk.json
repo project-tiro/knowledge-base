@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational inference",
+    "pointers": "* Some examples of variational inference algorithms:\n**  [Mean field approximation](mean_field_approximation)\n**  [Structured variational approximations](structured_variational_approximations)  in graphical models\n**  [Expectation propagation](expectation_propagation) , which is slower, but often considerably more accurate, than mean field\n* Variational inference  [works out nicely](variational_exponential_family)  when the model is built out of exponential family distributions.\n*  [Variational Bayes](variational_bayes)  is the application of variational inference to fitting Bayesian models.\n*  [Markov chain Monte Carlo (MCMC)](markov_chain_monte_carlo)  is another versatile set of techniques for performing inference in probabilistic models.\n* In the case of graphical models,  [belief propagation](loopy_belief_propagation)  is another inference algorithm with a  [variational interpretation](loopy_bp_as_variational) .",
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.0551837653809475,
+    "summary": "In most probabilistic models of interest, it's intractable to compute posterior marginals and/or normalizing constants exactly. Variational inference is a framework for approximating both. Variational inference treats inference as an optimization problem: we're trying to find a distribution (or a representation resembling a distribution) which is as close as possible to the true posterior, according to some measure. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "variational_inference",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "soijtwtk"
+}

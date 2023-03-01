@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how function pointers can be used to implement generic functions in C (e.g. a sorting routine with a generic comparator function)",
+    "concept": "oceraae8",
+    "last_mod": "2014-09-07T03:42:44.931Z"
+  },
+  "model": "graph.goal",
+  "pk": "mh4c58qqag7"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to derive the update rules for the parameters and latent variables in a given probabilistic model",
+    "concept": "wao4dn4z",
+    "last_mod": "2014-08-30T20:17:18.702Z"
+  },
+  "model": "graph.goal",
+  "pk": "sa7khnt26e0"
+}

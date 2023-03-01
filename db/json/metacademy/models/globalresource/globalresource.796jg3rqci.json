@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Bayesian Model Averaging: A Tutorial",
+    "url": "http://www.stat.colostate.edu/~jah/papers/statsci.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Jennifer A. Hoeting', u'David Madigan', u'Adrian E. Raftery', u'Chris T. Volinsky']",
+    "edition_years": null,
+    "resource_type": "tutorial paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "796jg3rqci"
+}

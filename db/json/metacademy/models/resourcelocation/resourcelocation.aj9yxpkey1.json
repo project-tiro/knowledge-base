@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/54",
+    "cresource": "wvcx1hh06p",
+    "ordering": 3,
+    "location_text": "Lecture \"Clique tree algorithm -- correctness\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "aj9yxpkey1"
+}

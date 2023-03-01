@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l794phpb",
+    "last_mod": "2014-08-30T21:34:00.829Z",
+    "ordering": 359,
+    "target_goals": ["34ci4rlw4j", "6aritiu06n", "l6s976tn5j", "skguptaxih"],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "Many hypothesis tests concern parameters of distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv5l794phpb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uq6rlqz5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["q0ofito8z39"],
+    "source_goals": ["5wtb8aqscg", "5xmzbq5oto"],
+    "source": "d64717ph",
+    "reason": "One cannot simply define cardinal numbers as equivalence classes because of the need to avoid Russell's Paradox."
+  },
+  "model": "graph.dependency",
+  "pk": "d64717phuq6rlqz5"
+}

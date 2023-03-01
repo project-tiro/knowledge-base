@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "enkz0tvz",
+    "last_mod": "2014-10-20T00:07:16.183Z",
+    "ordering": 1,
+    "target_goals": [
+      "5qx5yzt9i5j",
+      "8x9ahdkmf17",
+      "b9tpgjb4kvx",
+      "d95iitv0ulb",
+      "tv9zwga0i6y",
+      "ufellz3l680",
+      "z4mjgifk3ji"
+    ],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "Conjugate gradient requires that the matrix be positive definite"
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7enkz0tvz"
+}

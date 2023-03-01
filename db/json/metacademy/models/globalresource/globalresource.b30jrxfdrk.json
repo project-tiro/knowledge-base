@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "StatisticsFun YouTube Video",
+    "url": "https://www.youtube.com/watch?v=H02B3aMNKzE",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'David Longstreet']",
+    "edition_years": null,
+    "resource_type": "video"
+  },
+  "model": "graph.globalresource",
+  "pk": "b30jrxfdrk"
+}

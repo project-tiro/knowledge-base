@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "apf478vy",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 94,
+    "target_goals": ["6xodgczm15"],
+    "source_goals": ["7fh2rza8q3", "xpmzsjneer"],
+    "source": "4x3hyr5q",
+    "reason": "The reasoning steps for propositional logic are included in the reasoning steps for FOL."
+  },
+  "model": "graph.dependency",
+  "pk": "4x3hyr5qapf478vy"
+}

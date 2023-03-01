@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9i78wog3",
+    "last_mod": "2014-08-30T03:34:48.390Z",
+    "ordering": -1,
+    "target_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "HMMs are defined in terms of the transition distribution, which is a conditional distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni39i78wog3"
+}

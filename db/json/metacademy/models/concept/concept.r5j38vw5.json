@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "ultraproduct",
+    "pointers": null,
+    "tags": ["logic", "settheory"],
+    "learn_time": 1.6591968825002847,
+    "summary": "The ultraproduct is an operation which combines a set of first-order structures into a single structure, in a way that respects the semantics of the individuals structures. This construction is used to give a purely semantic proof of the Compactness Theorem for first-order logic. It also gives a method for constructing non-standard models of first-order theories such as Peano arithmetic.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "ultraproduct",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "r5j38vw5"
+}

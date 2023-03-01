@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zkmp82ll",
+    "last_mod": "2014-10-11T21:14:45.818Z",
+    "ordering": 943,
+    "target_goals": ["p22e7mcw7t"],
+    "source_goals": ["6y1bt106ba1", "azld5otpecr", "jef5wb2u3sg", "y083ui01s2l"],
+    "source": "643uoa8t",
+    "reason": "The spectral decomposition is used in deriving kernel PCA."
+  },
+  "model": "graph.dependency",
+  "pk": "643uoa8tzkmp82ll"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Using the Compactness Theorem, show that any first-order theory with an arbitrarily large finite model has an infinite model as well",
+    "concept": "469c694l",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "ceo9ah2dcw"
+}

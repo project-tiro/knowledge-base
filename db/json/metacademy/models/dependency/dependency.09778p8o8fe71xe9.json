@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8fe71xe9",
+    "last_mod": "2014-08-27T17:21:18.185Z",
+    "ordering": -1,
+    "target_goals": ["tbg324yahev", "urf128savy4"],
+    "source_goals": ["7fimp5r5yti", "is9mktyc88m"],
+    "source": "09778p8o",
+    "reason": "Stirling's approximation is used in the analysis"
+  },
+  "model": "graph.dependency",
+  "pk": "09778p8o8fe71xe9"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "qxpc5lfx",
+    "version_num": 0,
+    "last_mod": "2014-09-14T20:40:22.114Z",
+    "ordering": 0,
+    "notes": "[u'See Section 3.3 for the definition of the convex conjuate and Section 4.3 for the definition of a linear program.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "m8qs2fojd0"
+  },
+  "model": "graph.conceptresource",
+  "pk": "gzyqp00x2c"
+}

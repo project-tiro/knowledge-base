@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conditional expectation",
+    "pointers": "* Some uses of iterated expectations:\n** they justify the use of Monte Carlo estimators \n** they are used in the definition of martingales ",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.6616637698451082,
+    "summary": "The conditional expectation E[X | Y] is the expectation of X in the conditional distribution P(X | Y). \n",
+    "last_mod": "2014-08-31T15:39:08.743Z",
+    "tag": "conditional_expectation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "b6od6o9a"
+}

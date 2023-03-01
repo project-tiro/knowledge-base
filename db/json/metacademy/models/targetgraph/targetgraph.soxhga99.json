@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 2,
+    "dependencies": ["4ocvc918hnd1lj3g", "hnd1lj3gsoxhga99"],
+    "concepts": ["4ocvc918", "hnd1lj3g", "soxhga99"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "soxhga99"
+}

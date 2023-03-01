@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "8r9nw6nj6a",
+    "ordering": 0,
+    "location_text": "Section 9.13.2, \"Sufficiency,\" pages 137-140",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "psqctttkao"
+}

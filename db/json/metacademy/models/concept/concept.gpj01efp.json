@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "forward-backward algorithm",
+    "pointers": "* The forward-backward algorithm can be interpreted as a  [special case of belief propagation](hmm_inference_as_bp) .\n*  [Kalman smoothing](kalman_as_forward_backward)  can be viewed as a special case of forward-backward, where the variables are all jointly Gaussian. \n* This algorithm is part of the  [Baum-Welch algorithm](baum_welch_algorithm)  for learning HMM parameters.\n* The forward-backward algorithm is an example of  [dynamic programming](dynamic_programming) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.8529202108116773,
+    "summary": "The forward-backward algorithm is an algorithm for computing posterior marginals in a hidden Markov model (HMM). It is based on dynamic programming, and has linear complexity in the length of the sequence. It is used as a component of several other algorithms, such as the Baum_Welch algorithm and block Gibbs sampling in factorial HMMs.\n \n",
+    "last_mod": "2014-08-30T23:37:42.199Z",
+    "tag": "forward_backward_algorithm",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gpj01efp"
+}

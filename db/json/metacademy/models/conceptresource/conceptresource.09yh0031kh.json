@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "rszkzafz",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'watch from 3:20 for an overview of using basis functions with linear regression']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "9w5vrl1fay"
+  },
+  "model": "graph.conceptresource",
+  "pk": "09yh0031kh"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:38:06.024Z",
+    "url": "http://artint.info/html/ArtInt_48.html",
+    "cresource": "p5sk3fy2ry0",
+    "ordering": -1,
+    "location_text": "Section 3.2, \"State spaces\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "njxte7aszcl"
+}

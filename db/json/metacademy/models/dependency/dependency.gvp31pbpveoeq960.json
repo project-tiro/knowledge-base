@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "veoeq960",
+    "last_mod": "2014-08-30T21:34:01.081Z",
+    "ordering": 723,
+    "target_goals": [],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "For some heavy-tailed distributions, the variance does not exist."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpveoeq960"
+}

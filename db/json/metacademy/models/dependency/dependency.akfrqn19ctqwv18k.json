@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ctqwv18k",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 674,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "akfrqn19",
+    "reason": "Convolutional nets are a neural net architecture that enforces invariance to translation."
+  },
+  "model": "graph.dependency",
+  "pk": "akfrqn19ctqwv18k"
+}

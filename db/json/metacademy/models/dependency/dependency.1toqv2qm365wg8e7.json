@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "365wg8e7",
+    "last_mod": "2014-08-31T15:13:59.202Z",
+    "ordering": 804,
+    "target_goals": ["v8d3nsdrw2", "yx114qehtx"],
+    "source_goals": ["t76thsan4z8", "uxxind55itl"],
+    "source": "1toqv2qm",
+    "reason": "Markov's inequality is used to prove the bound."
+  },
+  "model": "graph.dependency",
+  "pk": "1toqv2qm365wg8e7"
+}

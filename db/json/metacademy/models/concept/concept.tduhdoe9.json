@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "commuting vector fields",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.9012279146799544,
+    "summary": "Two vector fields X and Y on a manifold commute if their Lie bracket is zero. Equivalently, the flows for X and Y commute, i.e. can be applied in either order. A set of n linearly independent vector fields on an n-manifold can be expressed as coordinate derivatives in some coordinate chart if and only if they commute.\n",
+    "last_mod": "2014-09-19T14:42:12.044Z",
+    "tag": "commuting_vector_fields",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "tduhdoe9"
+}

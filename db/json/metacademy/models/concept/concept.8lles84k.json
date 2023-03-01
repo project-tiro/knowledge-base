@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "truncated Newton",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.8841027866921563,
+    "summary": "The truncated Newton method (also called inexact Newton, or Newton-CG), is a quasi-Newton optimization method. It works by approximately solving the Newton system in each iteration using a small number of conjugate gradient steps. It is memory efficient, as it can be implemented with implicit Hessian-vector products without having to construct the full Hessian matrix.\n",
+    "last_mod": "2014-10-27T01:39:52.222Z",
+    "tag": "truncated_newton",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "8lles84k"
+}

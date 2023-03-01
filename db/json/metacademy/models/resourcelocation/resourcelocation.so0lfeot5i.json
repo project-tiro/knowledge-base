@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=7EyKEtN-PJA&list=PLD0F06AA0D2E8FFBA&index=30",
+    "cresource": "uyfr57gh9x",
+    "ordering": 1,
+    "location_text": "Lecture 5.4, \"MLE for an exponential family (part 2)\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "so0lfeot5i"
+}

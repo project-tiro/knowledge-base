@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "vector spaces",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.5201660779628785,
+    "summary": "Vector spaces are spaces which are closed under addition and scalar multiplication. Examples include vectors, matrices, polynomials, and functions. Many core concepts of linear algebra, such as linear independence, bases, and dimension, are defined for general vector spaces.\n",
+    "last_mod": "2014-08-30T20:21:55.707Z",
+    "tag": "vector_spaces",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "b72bqd7z"
+}

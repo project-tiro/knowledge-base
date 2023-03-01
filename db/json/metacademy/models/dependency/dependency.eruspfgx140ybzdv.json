@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "140ybzdv",
+    "last_mod": "2014-10-27T00:59:59.174Z",
+    "ordering": 1,
+    "target_goals": ["8ykx6c4zvkj"],
+    "source_goals": [],
+    "source": "eruspfgx",
+    "reason": "The incomplete Cholesky factorization is a common choice of preconditioner"
+  },
+  "model": "graph.dependency",
+  "pk": "eruspfgx140ybzdv"
+}

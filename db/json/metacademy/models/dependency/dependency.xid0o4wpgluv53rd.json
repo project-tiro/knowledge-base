@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gluv53rd",
+    "last_mod": "2014-08-30T23:55:08.054Z",
+    "ordering": 962,
+    "target_goals": ["s1v61ikudy"],
+    "source_goals": ["2lr08yy984", "rl5j7ii7hi", "wbq6qp5ys8", "ydeoj7u1sn"],
+    "source": "xid0o4wp",
+    "reason": "The posterior predictive distribution is often approximated using probit regression."
+  },
+  "model": "graph.dependency",
+  "pk": "xid0o4wpgluv53rd"
+}

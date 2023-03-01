@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "graduate-level introductory course in computer vision",
+    "version_num": 0,
+    "title": "Udacity/GT-OMSCS: Introduction to Computer Vision",
+    "url": "https://www.udacity.com/course/ud810",
+    "notes": "",
+    "year": 2015,
+    "access": "free",
+    "last_mod": "2015-03-04T08:38:20.127Z",
+    "authors": "[u'Aaron Bobick']",
+    "edition_years": "[]",
+    "resource_type": "course"
+  },
+  "model": "graph.globalresource",
+  "pk": "4j4o47ladvg"
+}

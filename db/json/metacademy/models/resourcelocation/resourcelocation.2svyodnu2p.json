@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "qtn8hhq6x3",
+    "ordering": 0,
+    "location_text": "Section 13.10, \"Critical points of functions of two variables,\" pages 927-933",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2svyodnu2p"
+}

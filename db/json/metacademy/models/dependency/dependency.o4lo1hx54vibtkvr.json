@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4vibtkvr",
+    "last_mod": "2014-08-30T17:02:22.036Z",
+    "ordering": -1,
+    "target_goals": ["jijeutacodj", "oqg44aeghr7"],
+    "source_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source": "o4lo1hx5",
+    "reason": "Jensen's inequality applies to convex functions."
+  },
+  "model": "graph.dependency",
+  "pk": "o4lo1hx54vibtkvr"
+}

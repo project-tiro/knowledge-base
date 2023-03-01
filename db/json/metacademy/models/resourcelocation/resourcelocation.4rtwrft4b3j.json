@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:06:14.634Z",
+    "url": "https://class.coursera.org/algo-004/lecture/169",
+    "cresource": "o96b0tw9asp",
+    "ordering": -1,
+    "location_text": "Lecture sequence 2, \"Asymptotic analysis\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4rtwrft4b3j"
+}

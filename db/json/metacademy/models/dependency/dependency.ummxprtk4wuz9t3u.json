@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4wuz9t3u",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 678,
+    "target_goals": [],
+    "source_goals": ["qhvsd06flf", "urbyxx9vei", "vwb4txlsn8"],
+    "source": "ummxprtk",
+    "reason": "The SVM is formulated as a convex optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ummxprtk4wuz9t3u"
+}

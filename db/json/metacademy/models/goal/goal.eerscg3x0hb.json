@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how multi-dimensional arrays can be represented using pointers to pointers",
+    "concept": "z4efgcsu",
+    "last_mod": "2014-09-06T23:36:17.278Z"
+  },
+  "model": "graph.goal",
+  "pk": "eerscg3x0hb"
+}

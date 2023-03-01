@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~mackay/itprnn/ps/286.294.pdf",
+    "cresource": "5ruvr61812",
+    "ordering": 0,
+    "location_text": "Chapter 20, \"An example inference task: clustering,\" pages 284-290 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pm1gyd2cjn"
+}

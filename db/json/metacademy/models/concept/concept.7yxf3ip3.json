@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conditional probability",
+    "pointers": "* It is also possible to condition on random variables, i.e. define a  [conditional distribution](conditional_distributions)  of one random variable given another.\n*  [Bayes' rule](bayes_rule)  is a method for combining prior beliefs with evidence which follows directly from the definition of conditional probability.  [ (go to concept)](bayes_rule)\n* Two events are  [independent](independence)  if the conditional probability of one event doesn't depend on the other event.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.9749167223483699,
+    "summary": "The conditional probability of an event A given another event B is the probability that A occurs if it's known that B occurs. Conditional probability is fundamental to probabilistic modeling, since it gives a way of accounting for observed evidence.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "conditional_probability",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "7yxf3ip3"
+}

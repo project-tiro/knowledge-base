@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:44:37.999Z",
+    "url": "",
+    "cresource": "wt076mwgeqa",
+    "ordering": -1,
+    "location_text": "Section 23.1, \"Representations of graphs,\" pages 465-467",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kx4gjsvp8k6"
+}

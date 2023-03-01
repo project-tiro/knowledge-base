@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hy3f0q5e",
+    "last_mod": "2014-08-30T21:34:01.661Z",
+    "ordering": -1,
+    "target_goals": ["79zostvoaqt", "d0750cz8kkp", "ks2i6uheowu", "nb4e5wbfjtk", "pd7b3dlhcae"],
+    "source_goals": ["39jcgpca73z", "fknf1gn9r66", "q84jgl0d2ea"],
+    "source": "qipartpb",
+    "reason": "PCA is often used as a preprocessing step, and it's useful to compare ICA with PCA."
+  },
+  "model": "graph.dependency",
+  "pk": "qipartpbhy3f0q5e"
+}

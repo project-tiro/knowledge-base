@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "probabilistic PCA",
+    "pointers": "*  [Probabilistic latent semantic analysis (pLSA)](probabilistic_lsa)  is another probabilistic model similar to PCA, but better geared toward discrete data. \n*  [Bayesian PCA](bayesian_pca)  is a Bayesian version of pPCA.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.706608030225194,
+    "summary": "Probabilistic principal component analysis (PCA) is a formulation of PCA as a latent variable model. Each data point is assumed to be generated as a linear function of Gaussian latent variables, plus noise. Like PCA, it has a closed form solution in terms of the truncated SVD of the covariance matrix.\n",
+    "last_mod": "2014-08-31T00:09:35.332Z",
+    "tag": "probabilistic_pca",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "bd6229xe"
+}

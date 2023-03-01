@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the Lie derivative of a vector field is equivalent to the Lie bracket",
+    "concept": "nywsvniw",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "vmpl24poj87"
+}

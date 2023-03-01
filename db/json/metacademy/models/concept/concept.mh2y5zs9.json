@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "incompleteness of set theory",
+    "pointers": null,
+    "tags": ["logic", "settheory"],
+    "learn_time": 1.1241584584443356,
+    "summary": "Godel's Incompleteness Theorems apply to any formal deductive system which includes arithmetic. Since the natural numbers can be defined using set theory, the theorems apply to set theory as well.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "incompleteness_of_set_theory",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "mh2y5zs9"
+}

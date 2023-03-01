@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/matrix_transformations/inverse_of_matrices/v/linear-algebra--3x3-determinant",
+    "cresource": "qfcb9whg6y",
+    "ordering": 0,
+    "location_text": "Lecture sequence \"Finding inverses and determinants,\" starting from \"3x3 Determinant\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6paghmpen3"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:09:29.044Z",
+    "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf#page=17",
+    "cresource": "mttnk3a2u76",
+    "ordering": -1,
+    "location_text": "Section 3, \"Complex data types,\" just the parts on pointers, pages 17-20",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "09di9356lfy"
+}

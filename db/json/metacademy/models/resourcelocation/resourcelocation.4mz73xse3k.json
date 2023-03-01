@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "gnmm4k84af",
+    "ordering": 0,
+    "location_text": "All sections except 6 and 9",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4mz73xse3k"
+}

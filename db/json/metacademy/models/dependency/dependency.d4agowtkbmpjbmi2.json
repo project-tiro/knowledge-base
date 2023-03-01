@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bmpjbmi2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 612,
+    "target_goals": [],
+    "source_goals": ["58o3ob2opy", "au5dgqfmqj", "t8o29dxicp"],
+    "source": "d4agowtk",
+    "reason": "EP requires that the approximating distribution be an exponential family."
+  },
+  "model": "graph.dependency",
+  "pk": "d4agowtkbmpjbmi2"
+}

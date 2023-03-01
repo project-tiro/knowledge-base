@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.stanford.edu/class/cs103/keith.pdf#page=11",
+    "cresource": "ekjd2d7o7d",
+    "ordering": 0,
+    "location_text": "Section 1.1, \"What is a set?,\" pages 11-13 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "u7wa22dzf4"
+}

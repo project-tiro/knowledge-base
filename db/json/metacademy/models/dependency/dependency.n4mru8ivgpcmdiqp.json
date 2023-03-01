@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gpcmdiqp",
+    "last_mod": "2014-08-30T21:34:01.537Z",
+    "ordering": -1,
+    "target_goals": ["cvnhns5fuz3", "cz3b04mj5tp", "joudelrfpyz"],
+    "source_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source": "n4mru8iv",
+    "reason": "Swedson-Wang is a special case of Gibbs sampling."
+  },
+  "model": "graph.dependency",
+  "pk": "n4mru8ivgpcmdiqp"
+}

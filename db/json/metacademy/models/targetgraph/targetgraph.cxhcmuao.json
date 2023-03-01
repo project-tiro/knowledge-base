@@ -1,0 +1,53 @@
+{
+  "fields": {
+    "depth": 15,
+    "dependencies": [
+      "3vjwy6gocxhcmuao",
+      "4ocvc918bveqc1fo",
+      "4ocvc918jogqeyb0",
+      "4ocvc918xu60d2g1",
+      "72682zkexu60d2g1",
+      "8de793haxu60d2g1",
+      "9p3calmt72682zke",
+      "9p3calmtt6x3pnaf",
+      "9p3calmtxu60d2g1",
+      "bveqc1fo9p3calmt",
+      "bveqc1fonw2kqzlz",
+      "cj7urqv53vjwy6go",
+      "cj7urqv5cxhcmuao",
+      "i9mo2e09cj7urqv5",
+      "jogqeyb08de793ha",
+      "jogqeyb0t6x3pnaf",
+      "jp7i38z33vjwy6go",
+      "kp6axa2ijp7i38z3",
+      "kp6axa2im3bm96b5",
+      "kp6axa2ivxncdcer",
+      "m3bm96b5nw2kqzlz",
+      "nw2kqzlzcxhcmuao",
+      "t6x3pnafxu60d2g1",
+      "vxncdcernw2kqzlz",
+      "xu60d2g1cxhcmuao"
+    ],
+    "concepts": [
+      "3vjwy6go",
+      "4ocvc918",
+      "72682zke",
+      "8de793ha",
+      "9p3calmt",
+      "bveqc1fo",
+      "cj7urqv5",
+      "cxhcmuao",
+      "i9mo2e09",
+      "jogqeyb0",
+      "jp7i38z3",
+      "kp6axa2i",
+      "m3bm96b5",
+      "nw2kqzlz",
+      "t6x3pnaf",
+      "vxncdcer",
+      "xu60d2g1"
+    ]
+  },
+  "model": "graph.targetgraph",
+  "pk": "cxhcmuao"
+}

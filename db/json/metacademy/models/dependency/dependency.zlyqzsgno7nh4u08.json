@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T19:42:59.236Z",
+    "ordering": -1,
+    "target_goals": [
+      "160cyysa038",
+      "2m0fqttck57",
+      "75p6dip70tt",
+      "8gxlgl7bck5",
+      "9gxyxsr5rit",
+      "hswm5pju25d",
+      "ko0mk0n8zl1",
+      "ptig1jtq02g"
+    ],
+    "source_goals": ["70dcc4lk3f", "v6egxrlebf"],
+    "source": "zlyqzsgn",
+    "reason": "The Newton update is based on the gradient descent update"
+  },
+  "model": "graph.dependency",
+  "pk": "zlyqzsgno7nh4u08"
+}

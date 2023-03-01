@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:02:05.503Z",
+    "url": "http://beej.us/guide/bgc/output/html/singlepage/bgc.html#pointers",
+    "cresource": "jvn0oaz0z0s",
+    "ordering": 0,
+    "location_text": "Chapter 7, \"Pointers -- cower in fear!\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ojyuwby0yzd"
+}

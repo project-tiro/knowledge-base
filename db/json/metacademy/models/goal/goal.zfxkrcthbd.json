@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Show that the entropy of a set of independent random variables is the sum of the individual entropies.",
+    "concept": "bjleobug",
+    "last_mod": "2014-09-01T23:59:31.012Z"
+  },
+  "model": "graph.goal",
+  "pk": "zfxkrcthbd"
+}

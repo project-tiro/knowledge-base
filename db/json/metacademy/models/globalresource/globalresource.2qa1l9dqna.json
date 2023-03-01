@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "The Bayesian Information Criterion",
+    "url": "http://myweb.uiowa.edu/cavaaugh/ms_lec_5_ho.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Joseph Cavanaugh']",
+    "edition_years": null,
+    "resource_type": "presentation slides"
+  },
+  "model": "graph.globalresource",
+  "pk": "2qa1l9dqna"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:54:52.348Z",
+    "url": "https://class.coursera.org/algo-004/lecture/55",
+    "cresource": "9lvoox4rd3a",
+    "ordering": -1,
+    "location_text": "Lecture \"Graph search: overview\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9pu0qrgbi96"
+}

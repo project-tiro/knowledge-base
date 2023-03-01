@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "four fundamental subspaces",
+    "pointers": "* In statistics, we often want to  [approximate a given matrix using a low rank matrix](low_rank_approximation) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 2.0060799139857686,
+    "summary": "The four fundamental subspaces of a matrix A are the column space, nullspace, row space, and left nullspace. The bases of all four spaces can be obtained using Gaussian elimination, and certain of them are orthogonal to one another. There are close relationships between the dimensions of all four spaces, and the dimensions of the row and column spaces both equal the rank of A.\n",
+    "last_mod": "2014-08-30T03:07:39.685Z",
+    "tag": "four_fundamental_subspaces",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "tjcob2im"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:20:49.682Z",
+    "url": "http://www.youtube.com/watch?v=tCHIkgWZLOQ",
+    "cresource": "kv20xacggfi",
+    "ordering": -1,
+    "location_text": "Lecture \"Activation function\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "b3p9jjpdfb6"
+}

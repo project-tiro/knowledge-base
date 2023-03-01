@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:30:43.478Z",
+    "url": "",
+    "cresource": "mfwyqfzeqox",
+    "ordering": -1,
+    "location_text": "Section 5.1, \"Constraint satisfaction problems,\" pages 137-141",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rtxxjnm9jnn"
+}

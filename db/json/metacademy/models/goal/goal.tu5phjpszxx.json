@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Give an example where the limit of a function does not exist at some point p, even though there is a limit coming from any given direction",
+    "concept": "vxncdcer",
+    "last_mod": "2014-08-30T17:19:46.673Z"
+  },
+  "model": "graph.goal",
+  "pk": "tu5phjpszxx"
+}

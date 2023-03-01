@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "a97uu186",
+    "last_mod": "2014-09-14T18:20:45.853Z",
+    "ordering": 0,
+    "target_goals": ["5xnss5220il", "j1a7i21ckte", "op3slotq5l2", "pc5v22vtuyx"],
+    "source_goals": ["ca1dxgeox14", "g5nwv2sqkuo", "npnmcms5kfy", "t0dwo2e388m"],
+    "source": "h61ljzls",
+    "reason": "Interfaces and abstract classes are used to define abstract data types"
+  },
+  "model": "graph.dependency",
+  "pk": "h61ljzlsa97uu186"
+}

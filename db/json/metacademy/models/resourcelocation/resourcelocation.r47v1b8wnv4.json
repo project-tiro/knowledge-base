@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "u4x6b4j3gsw",
+    "ordering": -1,
+    "location_text": "Section 3.2, \"Finite automata and regular expressions,\" pages 92-109",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r47v1b8wnv4"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/4.-triple-integrals-and-surface-integrals-in-3-space/part-c-line-integrals-and-stokes-theorem/session-92-proof-of-stokes-theorem/",
+    "cresource": "jrzvn9sedd",
+    "ordering": 2,
+    "location_text": "Session 92, \"Proof of Stokes' Theorem\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "48pzdwzw21"
+}

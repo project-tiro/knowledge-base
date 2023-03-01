@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "Show that the MGF of a sum of independent random variables is the product of the MGFs",
+    "concept": "0wtbiq82",
+    "last_mod": "2014-08-30T18:11:42.025Z"
+  },
+  "model": "graph.goal",
+  "pk": "1ztij09zfe6"
+}

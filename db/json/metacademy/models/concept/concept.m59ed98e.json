@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "independent random variables",
+    "pointers": "* We may also want to ask whether two variables are  [independent conditioned on a third](conditional_independence) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.9806358706253775,
+    "summary": "Intuitively, two random variables are independent if they don't influence each other. Mathematically, two random variables are independent if the events associated with each random variable lying in some set are independent. In statistics and probabilistic modeling, different random variables are often assumed to be independent in order to allow for efficient estimation and inference.\n",
+    "last_mod": "2014-08-30T16:59:08.871Z",
+    "tag": "independent_random_variables",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m59ed98e"
+}

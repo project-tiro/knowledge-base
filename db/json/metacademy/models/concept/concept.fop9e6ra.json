@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "beta distribution",
+    "pointers": "* The beta distribution is the  [conjugate prior](bayesian_parameter_estimation)  for the Bernoulli and binomial distributions.\n* The  [Dirichlet distribution](dirichlet_distribution)  is a multivariate generalization of the beta distribution.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.8875896152962027,
+    "summary": "The beta distribution is a probability distribution over the unit interval. It is most commonly used in Bayesian statistics as the conjugate prior for the Bernoulli distribution.\n",
+    "last_mod": "2014-08-31T00:13:00.490Z",
+    "tag": "beta_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "fop9e6ra"
+}

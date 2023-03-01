@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9i78wog3",
+    "last_mod": "2014-08-30T21:34:00.625Z",
+    "ordering": -1,
+    "target_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source_goals": ["1pf04pmhjmj", "i9hfvjl1ikv", "ml5y1eo0gm0", "zfmglzw7j9b"],
+    "source": "9p3calmt",
+    "reason": "HMMs can be conveniently represented using transition matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "9p3calmt9i78wog3"
+}

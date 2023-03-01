@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "lagaxnlww2",
+    "ordering": 0,
+    "location_text": "Section 2.5, \"Inverse matrices,\" starting from \"Calculating A^{-1} by Gauss-Jordan elimination,\" pages 83-87",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8dbx01hh84"
+}

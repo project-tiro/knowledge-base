@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "a25p2dedpx",
+    "ordering": 1,
+    "location_text": "Section 9.11, \"The parametric bootstrap,\" pages 134-135",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s0uddded8w"
+}

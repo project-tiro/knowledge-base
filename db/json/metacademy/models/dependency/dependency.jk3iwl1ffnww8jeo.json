@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fnww8jeo",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["2tc3846j38f", "4cswwl58tj7", "rz9hj920nr0"],
+    "source_goals": ["b0srq1kra6", "j2cwggb5so4", "obu1s41m4uk", "pslm2gzw5d", "tmk4ejfjijg", "wbssblfcja"],
+    "source": "jk3iwl1f",
+    "reason": "A symplectic structure is a kind of differential form"
+  },
+  "model": "graph.dependency",
+  "pk": "jk3iwl1ffnww8jeo"
+}

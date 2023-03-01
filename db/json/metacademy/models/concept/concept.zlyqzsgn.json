@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "gradient descent",
+    "pointers": "*  [stochastic gradient descent](stochastic_gradient_descent)  is an extension of gradient descent that can typically be applied to much larger data sets\n*  [Newton's method](newtons_method)  is a common alternative to gradient descent",
+    "tags": ["optimization"],
+    "learn_time": 0.5588358778593764,
+    "summary": "Gradient descent, also known as steepest descent, is an iterative optimization algorithm for finding a local minimum of differentiable functions. At each iteration, gradient descent operates by moving the current solution in the direction of the negative gradient of the function (the direction of \"steepest descent\").\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gradient_descent",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "zlyqzsgn"
+}

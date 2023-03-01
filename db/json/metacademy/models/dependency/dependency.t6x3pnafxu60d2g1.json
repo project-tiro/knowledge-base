@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xu60d2g1",
+    "last_mod": "2014-08-30T21:34:01.768Z",
+    "ordering": -1,
+    "target_goals": ["ex1wkbnbgxh", "lz48237ty44", "ozjiyia8oki"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "The determinant of the inverse is the inverse of the determinant."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnafxu60d2g1"
+}

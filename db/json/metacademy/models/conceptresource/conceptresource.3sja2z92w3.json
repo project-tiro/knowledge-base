@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "4ocvc918",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 3,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "3",
+    "additional_dependencies": "[{u'title': u'linear systems as matrices'}]",
+    "global_resource": "zrk3u92u9v"
+  },
+  "model": "graph.conceptresource",
+  "pk": "3sja2z92w3"
+}

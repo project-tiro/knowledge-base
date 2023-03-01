@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "depth": 3,
+    "dependencies": [
+      "4ocvc918bveqc1fo",
+      "bveqc1fonw2kqzlz",
+      "kp6axa2im3bm96b5",
+      "kp6axa2ivxncdcer",
+      "m3bm96b5nw2kqzlz",
+      "vxncdcernw2kqzlz"
+    ],
+    "concepts": ["4ocvc918", "bveqc1fo", "kp6axa2i", "m3bm96b5", "nw2kqzlz", "vxncdcer"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "nw2kqzlz"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mxpmyv5u",
+    "last_mod": "2014-08-31T15:49:28.397Z",
+    "ordering": 632,
+    "target_goals": ["abo3nbpsbm", "iae14vnjvk", "jvow28bvkl", "m15n6xggsj", "u843rt5bzx", "z66edo7cna"],
+    "source_goals": ["29bxd7qr099", "35kdpx6a1pm", "m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "Covariance is a generalization of variance."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpmxpmyv5u"
+}

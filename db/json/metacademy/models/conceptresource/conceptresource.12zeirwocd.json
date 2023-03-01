@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "u223r2u4",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'part II goes into more technical detail while part 1 is a higher level overview']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "gtgnkqqx8i"
+  },
+  "model": "graph.conceptresource",
+  "pk": "12zeirwocd"
+}

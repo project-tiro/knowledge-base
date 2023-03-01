@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Metropolis-Hastings algorithm",
+    "pointers": "*  [Gibbs sampling](gibbs_sampling)  is a commonly used  [special case](gibbs_as_mg)  of M-H.\n* Other examples of M-H methods include:\n**  [Hamiltonian Monte Carlo (HMC)](hamiltonian_monte_carlo) , which uses gradient information to sample from continuous models\n**  [split-merge](split_merge)  operators, which try to split or merge clusters\n**  [reversible jump MCMC](reversible_jump_mcmc) , which tries to move between spaces of different dimensionality \n* Under certain conditions, we can determine the  [optimal M-H acceptance rate](optimal_mcmc_acceptance_rate) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.5302413879370294,
+    "summary": "Markov Chain Monte Carlo (MCMC) is a method for approximately sampling from a distribution p by defining a Markov chain which has p as a stationary distribution. Metropolis-Hastings is a very general recipe for finding such a Markov chain: choose a proposal distribution and correct for the bias by stochastically accepting or rejecting the proposal. While the mathematical formalism is very general, there is an art to choosing good proposal distributions.\n",
+    "last_mod": "2014-08-30T18:07:24.648Z",
+    "tag": "metropolis_hastings",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "e6wbweue"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that 0 and -0 have different representations",
+    "concept": "67qu23d4",
+    "last_mod": "2014-09-07T03:43:37.775Z"
+  },
+  "model": "graph.goal",
+  "pk": "speq3gkxpcw"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Hamiltonian Monte Carlo",
+    "pointers": "* the  [No-U-Turn Sampler (NUTS)](no_u_turn_sampler)  is a parameter-free version of HMC\n*  [Langevin methods](langevin_methods)  are another sampling algorithm that makes use of gradient information",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 2.1593866726370647,
+    "summary": "Hamiltonian Monte Carlo (HMC) is an MCMC algorithm which makes use of gradient information in order to avoid random walks and move more quickly toward regions of high probability. It is based on a discretization of Hamiltonian dynamics, with a Metropolis-Hastings accept/reject step to ensure that it has the right stationary distribution. \n",
+    "last_mod": "2014-08-30T03:31:25.584Z",
+    "tag": "hamiltonian_monte_carlo",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vb48h13n"
+}

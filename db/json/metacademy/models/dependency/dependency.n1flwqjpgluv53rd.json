@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gluv53rd",
+    "last_mod": "2014-08-30T23:54:10.268Z",
+    "ordering": 960,
+    "target_goals": ["6umozx10ra"],
+    "source_goals": ["37al3i5sev1", "go6jccnod9x"],
+    "source": "n1flwqjp",
+    "reason": "The evidence approximation is a simple way to choose hyperparameters in Bayesian logistic regression."
+  },
+  "model": "graph.dependency",
+  "pk": "n1flwqjpgluv53rd"
+}

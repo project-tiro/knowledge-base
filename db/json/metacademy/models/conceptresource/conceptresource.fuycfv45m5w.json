@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "4740ilrp",
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:09:12.414Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "hcudtjyw17z"
+  },
+  "model": "graph.conceptresource",
+  "pk": "fuycfv45m5w"
+}

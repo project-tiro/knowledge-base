@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rd092nmd",
+    "last_mod": "2014-08-30T02:50:54.489Z",
+    "ordering": -1,
+    "target_goals": ["rw7i6rgsa4w", "vsbi1qnfz8v", "wovrj1vnda8"],
+    "source_goals": ["2tbmh765j9", "4xvesb4stg", "63z6457tuo", "vqabgtkbjy"],
+    "source": "nu5nhdxb",
+    "reason": "Euler's formula is a fact about complex numbers."
+  },
+  "model": "graph.dependency",
+  "pk": "nu5nhdxbrd092nmd"
+}

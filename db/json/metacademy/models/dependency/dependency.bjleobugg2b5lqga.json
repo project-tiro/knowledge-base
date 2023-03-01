@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "g2b5lqga",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 554,
+    "target_goals": ["1g3eemq2ak", "9m41e376n2", "nd8c9fggpp"],
+    "source_goals": ["1pb8m91v4t", "gt5mcrv9g2", "q1cmx9sfi2", "sak5rxzyk2", "zfxkrcthbd"],
+    "source": "bjleobug",
+    "reason": "KL divergence is closely related to entropy."
+  },
+  "model": "graph.dependency",
+  "pk": "bjleobugg2b5lqga"
+}

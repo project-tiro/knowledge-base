@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1dx39mek",
+    "last_mod": "2014-08-30T21:34:00.352Z",
+    "ordering": 269,
+    "target_goals": ["7g5rrg9rqq", "rbr9j411x9"],
+    "source_goals": ["h1dr5u0ml6m", "hlonikcuk0x", "zqfd16t4kpj"],
+    "source": "4ocvc918",
+    "reason": "Convex sets are defined in terms of vectors."
+  },
+  "model": "graph.dependency",
+  "pk": "4ocvc9181dx39mek"
+}

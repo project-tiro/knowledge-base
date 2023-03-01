@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Be aware that a step size of 1 suffices late in optimization, but a line search is often required early in optimization",
+    "concept": "o7nh4u08",
+    "last_mod": "2014-11-19T03:09:27.259Z"
+  },
+  "model": "graph.goal",
+  "pk": "8gxlgl7bck5"
+}

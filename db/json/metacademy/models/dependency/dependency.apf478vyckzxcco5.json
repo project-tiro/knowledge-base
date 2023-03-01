@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ckzxcco5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 231,
+    "target_goals": ["06pun4amfx", "iyleq2vhve", "x6y60852o0", "xk0e89ri8p", "y2uel99rt7"],
+    "source_goals": ["6xodgczm15"],
+    "source": "apf478vy",
+    "reason": "Godel's Incompleteness Theorems are statements about proofs in first-order logic."
+  },
+  "model": "graph.dependency",
+  "pk": "apf478vyckzxcco5"
+}

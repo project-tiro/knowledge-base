@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "kdmvl9wgcp",
+    "ordering": 0,
+    "location_text": "Start of Section 3.5, \"Incompleteness and undecidability,\" pages 234-236",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "i5zh5woozf"
+}

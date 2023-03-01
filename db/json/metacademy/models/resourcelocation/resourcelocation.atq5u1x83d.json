@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf#page=5",
+    "cresource": "xztgy5eyly",
+    "ordering": 1,
+    "location_text": "Section 4, \"A greedy learning algorithm for transforming representations,\" pages 5-6 ",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "atq5u1x83d"
+}

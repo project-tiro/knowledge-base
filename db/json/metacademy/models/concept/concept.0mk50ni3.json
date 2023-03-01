@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conditional distributions",
+    "pointers": "* We may be interested in whether two variables are  [independent conditioned on another random variable](conditional_independence) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.3921994288778918,
+    "summary": "The conditional distribution of a random variable X given another random variable Y is the distribution of X when Y is observed to take some value. While the precise mathematical definition is involved, for discrete and continuous variables, it amounts to dividing the joint PDF or PMF of X and Y by the PDF or PMF of Y.\n",
+    "last_mod": "2014-08-31T15:38:16.085Z",
+    "tag": "conditional_distributions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "0mk50ni3"
+}

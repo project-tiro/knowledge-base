@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Prove that the PCA subspace maximizes the variance and minimizes the reconstruction error",
+    "concept": "vd7kwzen",
+    "last_mod": "2014-08-30T18:49:58.606Z"
+  },
+  "model": "graph.goal",
+  "pk": "2zr01kc6r24"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "3k86t61s32",
+    "ordering": 0,
+    "location_text": "Section 4.8, \"The sample mean,\" pages 229-235",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cmljwhesc0"
+}

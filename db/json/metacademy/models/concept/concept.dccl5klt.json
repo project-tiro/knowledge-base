@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Dirichlet process",
+    "pointers": "* The  [beta process](beta_process)  is an analogue of the Dirichlet process which is useful for probabilistic models which represent binary attributes.\n*  [Dirichlet diffusion trees](dirichlet_diffusion_trees)  are a hierarchical clustering model based on the same ideas as the Dirichlet process.",
+    "tags": ["bayesianstats", "probabilitytheor"],
+    "learn_time": 1.0758969510621432,
+    "summary": "The Dirichlet process is a stochastic process that defines a probability distribution over infinite-dimensional discrete distributions, meaning that a draw form a DP is itself a distribution (with a countably infinite number of parameters). Its name stems from the fact that the marginal of a DP for any finite partition is Dirichlet distributed. While the DP is often discussed alongside the Chinese Restaurant Process (CRP), the two are not the same entity. The DP is the de Finetti mixing measure for the CRP, meaning that sampling i.i.d. from a draw of a DP is equivalent to sequentially drawing samples from the CRP.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "dirichlet_process",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dccl5klt"
+}

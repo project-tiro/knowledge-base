@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:38:19.505Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap6.pdf",
+    "cresource": "7vk93in5486",
+    "ordering": -1,
+    "location_text": "Lecture 6, \"Differential equations\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "aq3cg9w5m7b"
+}

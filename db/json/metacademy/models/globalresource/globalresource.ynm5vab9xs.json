@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "A global geometric framework for nonlinear dimensionality reduction",
+    "url": "http://www.sciencemag.org/content/290/5500/2319.full",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Joshua B. Tenenbaum', u'Vin de Silva', u'John C. Langford']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "ynm5vab9xs"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9llvvj6h",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 151,
+    "target_goals": ["eujxmysv5a", "fgkoge6z94", "psdzdy55fv", "uafaqerbyg", "yoms67opr7"],
+    "source_goals": ["52ww5p6xjt", "82ca4tl8gw", "zujj62fkb2"],
+    "source": "exxfwv5u",
+    "reason": "Cardinality is defined in terms of equinumerosity, an equivalence relation."
+  },
+  "model": "graph.dependency",
+  "pk": "exxfwv5u9llvvj6h"
+}

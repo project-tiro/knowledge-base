@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:20:56.308Z",
+    "url": "http://en.wikipedia.org/wiki/A*_search_algorithm",
+    "cresource": "6s8re8o7sdi",
+    "ordering": -1,
+    "location_text": "Article \"A* search algorithm\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cr8kqwcrgyt"
+}

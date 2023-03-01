@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to solve difference equations using the eigendecomposition in cases where the matrix is diagonalizable",
+    "concept": "54pgorj0",
+    "last_mod": "2014-08-30T19:48:59.441Z"
+  },
+  "model": "graph.goal",
+  "pk": "or6x6ekw8us"
+}

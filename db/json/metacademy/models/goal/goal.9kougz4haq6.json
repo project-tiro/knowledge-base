@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that Gibbs sampling can be viewed as a special case of the M-H algorithm",
+    "concept": "1ynn1e0c",
+    "last_mod": "2014-08-30T03:22:55.602Z"
+  },
+  "model": "graph.goal",
+  "pk": "9kougz4haq6"
+}

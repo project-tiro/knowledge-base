@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rit80j6y",
+    "last_mod": "2014-10-11T21:33:45.029Z",
+    "ordering": 57,
+    "target_goals": [],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "The Schur product theorem is a fact about PSD matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7rit80j6y"
+}

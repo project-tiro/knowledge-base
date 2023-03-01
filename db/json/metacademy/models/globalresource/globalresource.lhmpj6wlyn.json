@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Part II Decision Theory Lecture Notes",
+    "url": "http://www.stat.columbia.edu/~liam/teaching/4107-fall05/notes2.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Liam Paninski']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "lhmpj6wlyn"
+}

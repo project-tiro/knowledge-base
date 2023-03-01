@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know several equivalent definitions of independence, in terms of the PDF, PMF, and CDF of the joint distribution.",
+    "concept": "m59ed98e",
+    "last_mod": "2014-08-30T16:59:08.870Z"
+  },
+  "model": "graph.goal",
+  "pk": "nfqhb0kohff"
+}

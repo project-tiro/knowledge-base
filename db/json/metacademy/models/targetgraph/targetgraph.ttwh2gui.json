@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 2,
+    "dependencies": ["iqeem7gjsug552ho", "sug552hottwh2gui"],
+    "concepts": ["iqeem7gj", "sug552ho", "ttwh2gui"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "ttwh2gui"
+}

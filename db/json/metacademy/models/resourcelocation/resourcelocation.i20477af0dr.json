@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:31:26.337Z",
+    "url": "https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/courseware/Week_2/Lecture_2_Uninformed_Search/",
+    "cresource": "jruvk5h1n86",
+    "ordering": -1,
+    "location_text": "Lecture 2, \"Uninformed search,\" staring from Part 4, \"State space graphs and search trees,\" and including \"continued\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "i20477af0dr"
+}

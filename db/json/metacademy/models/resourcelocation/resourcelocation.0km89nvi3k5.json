@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:33:10.005Z",
+    "url": "https://www.youtube.com/watch?v=9hT5YQ4sKXk",
+    "cresource": "smh9rikpyad",
+    "ordering": -1,
+    "location_text": "Lecture 24",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0km89nvi3k5"
+}

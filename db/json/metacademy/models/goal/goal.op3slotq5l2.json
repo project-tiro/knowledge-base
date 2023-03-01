@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how interfaces can be used to get around Java's restriction against multiple inheritance",
+    "concept": "a97uu186",
+    "last_mod": "2014-09-14T18:31:23.397Z"
+  },
+  "model": "graph.goal",
+  "pk": "op3slotq5l2"
+}

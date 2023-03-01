@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ir16zf8s",
+    "last_mod": "2014-08-30T18:32:43.999Z",
+    "ordering": -1,
+    "target_goals": ["ck5z4o8ibdc", "cvt257bumh7", "opc0bf6hu10"],
+    "source_goals": ["9vbxn1gbla", "f8zcfljlqq", "htj43pzjkt", "y3om6vj7qt"],
+    "source": "m9v3pvr7",
+    "reason": "The cross product is needed to satisfy orthogonality constraints."
+  },
+  "model": "graph.dependency",
+  "pk": "m9v3pvr7ir16zf8s"
+}

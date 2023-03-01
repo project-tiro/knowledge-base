@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "maximum likelihood: multivariate Gaussians",
+    "pointers": "*  [Bayesian parameter estimation for multivariate Gaussians](bayes_param_multivariate_gaussians)\n* When there's not enough data to estimate a full covariance matrix, here are some related models with more structure:\n**  [principal component analysis (PCA)](principal_component_analysis)\n**  [factor analysis](factor_analysis)\n**  [probabilistic matrix factorization (PMF)](probabilistic_matrix_factorization)\n**  [sparse Gaussian graphical models](learning_sparse_gaussian_graphical_models)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "maximum_likelihood_multivariate_gaussians",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "nxcsrgj9"
+}

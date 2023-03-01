@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:21:11.507Z",
+    "url": "",
+    "cresource": "ad0z58o8l7h",
+    "ordering": -1,
+    "location_text": "Section 12.4, \"Binary search,\" pages 510-514",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1ai0z74neco"
+}

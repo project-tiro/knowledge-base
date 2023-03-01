@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:09:39.454Z",
+    "url": "http://en.wikipedia.org/wiki/Minimum_spanning_tree",
+    "cresource": "j92eq4dakbj",
+    "ordering": -1,
+    "location_text": "Article \"Minimum spanning tree,\" introduction only",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3tr050dmgpq"
+}

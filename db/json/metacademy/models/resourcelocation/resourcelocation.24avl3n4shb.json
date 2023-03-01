@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:55:41.010Z",
+    "url": "",
+    "cresource": "yd6uw2ynub7",
+    "ordering": -1,
+    "location_text": "Section 5.5, \"Character pointers and functions\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "24avl3n4shb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:13:42.135Z",
+    "url": "",
+    "cresource": "38o69u7bck5",
+    "ordering": -1,
+    "location_text": "Chapter 10, \"Testing and debugging,\" up through 10.2, \"Testing procedures\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rjkif81r3jf"
+}

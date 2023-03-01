@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5638xo54",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 759,
+    "target_goals": [],
+    "source_goals": ["36rwy4pi3z", "6cwc44e33z", "oro33d1qa0"],
+    "source": "fop9e6ra",
+    "reason": "The IBP is the infinite limit of the beta-Bernoulli distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "fop9e6ra5638xo54"
+}

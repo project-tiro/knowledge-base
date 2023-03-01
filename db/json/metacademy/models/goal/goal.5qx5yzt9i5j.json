@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Based on this, show that each CG update minimizes the objective function over the Krylov subspace",
+    "concept": "enkz0tvz",
+    "last_mod": "2014-10-20T01:44:21.412Z"
+  },
+  "model": "graph.goal",
+  "pk": "5qx5yzt9i5j"
+}

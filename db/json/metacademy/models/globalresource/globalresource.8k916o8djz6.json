@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for a short practical course at MIT on C++ programming",
+    "version_num": 0,
+    "title": "MIT OpenCourseware: Introduction to C++",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/index.htm",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-09-06T22:16:44.367Z",
+    "authors": "[u'Jesse Dunietz', u'Geza Kovacs', u'John Marrero']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "8k916o8djz6"
+}

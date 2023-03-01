@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "kernel ridge regression",
+    "pointers": "*  [Gaussian process regression](gaussian_process_regression)  is a Bayesian version of kernel ridge regression.\n*  [Kernel support vector machines](kernel_svm)  are a classification algorithm that uses kernels.\n* Unfortunately, the  [running time of ridge regression](computational_complexity_of_kernel_methods)  is cubic in the number of training examples.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "kernel_ridge_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "pbxr2dwi"
+}

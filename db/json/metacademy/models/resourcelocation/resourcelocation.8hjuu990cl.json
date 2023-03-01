@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:53:43.917Z",
+    "url": "http://class.coursera.org/ml-003/lecture/view?lecture_id=6",
+    "cresource": "n801f91e3u",
+    "ordering": 0,
+    "location_text": "Lecture \"Cost function\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8hjuu990cl"
+}

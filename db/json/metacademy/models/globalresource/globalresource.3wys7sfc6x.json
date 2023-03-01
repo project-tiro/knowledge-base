@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A monograph on Monte Carlo methods.",
+    "version_num": 0,
+    "title": "Monte Carlo Strategies in Scientific Computing",
+    "url": "http://www.springer.com/statistics/statistical+theory+and+methods/book/978-0-387-76369-9",
+    "notes": "",
+    "year": 2001,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Jun S. Liu']",
+    "edition_years": null,
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "3wys7sfc6x"
+}

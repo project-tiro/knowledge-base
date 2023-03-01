@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "gz6chkde8y",
+    "ordering": 0,
+    "location_text": "part 2, from 0:00 - 10:33",
+    "location_type": "video lecture"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "srnb7zcgoa"
+}

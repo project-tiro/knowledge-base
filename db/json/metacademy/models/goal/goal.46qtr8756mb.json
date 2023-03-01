@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the LU factorization is unique",
+    "concept": "0sqslybm",
+    "last_mod": "2014-08-30T17:36:15.741Z"
+  },
+  "model": "graph.goal",
+  "pk": "46qtr8756mb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wesmgdpo",
+    "last_mod": "2014-08-30T21:34:00.656Z",
+    "ordering": -1,
+    "target_goals": ["v7myx7fp03h", "wpe7kb3c9bs", "z17krgjzed5"],
+    "source_goals": ["1pf04pmhjmj", "i9hfvjl1ikv", "ml5y1eo0gm0", "zfmglzw7j9b"],
+    "source": "9p3calmt",
+    "reason": "The transition operator is conveniently represented in terms of matrix multiplication."
+  },
+  "model": "graph.dependency",
+  "pk": "9p3calmtwesmgdpo"
+}

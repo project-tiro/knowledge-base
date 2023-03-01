@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "learning invariances in neural nets",
+    "pointers": "* Some particular strategies for learning invariances:\n** building it explicitly into the architecture, as in  [convolutional nets](convolutional_nets)\n**  [augmenting the training set](augmenting_training_set_warped)  with warped examples\n**  [tangent propagation](tangent_propagation) , which penalizes instability with respect to transformations\n**  [Tikhonov regularization](tikhonov_regularization) , which penalizes instability with respect to noise\n*  [Learning invariances](representation_learning_invariances)  is a major goal in the field of representation learning.\n* The representations in the human visual system are also  [invariant](invariances_in_visual_system)  to various transformations.",
+    "tags": ["machinelearning"],
+    "learn_time": 0.7966061778655419,
+    "summary": "The human visual system is capable of recognizing objects despite changes in factors such as location, orientation, and lighting. We'd like the representations learned by neural networks to be invariant to at least some of these things as well. There are several different strategies for achieving this, including enforcing invariance in the network architecture, using an appropriate regularization term, or generating randomly perturbed training data.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "learning_invariances_in_neural_nets",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "akfrqn19"
+}

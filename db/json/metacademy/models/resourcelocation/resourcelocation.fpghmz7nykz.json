@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:38:14.934Z",
+    "url": "http://en.wikipedia.org/wiki/Fisher_information_metric",
+    "cresource": "olnkhoqljev",
+    "ordering": -1,
+    "location_text": "Article \"Fisher metric,\" up through \"Relation to the Kullback-Leibler divergence\"; also \"Formal definition\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fpghmz7nykz"
+}

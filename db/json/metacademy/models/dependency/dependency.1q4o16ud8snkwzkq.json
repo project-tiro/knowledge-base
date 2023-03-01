@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8snkwzkq",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 41,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "1q4o16ud",
+    "reason": "PMF is motivated by only needing to perform linear algebraic operations on small matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "1q4o16ud8snkwzkq"
+}

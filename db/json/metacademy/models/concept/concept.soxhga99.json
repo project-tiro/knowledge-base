@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "bases",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 2.5671950873143037,
+    "summary": "A basis is a set of linearly independent vectors that define a coordinate system for a vector space, where the basis vectors span the entire vector space (meaning that any vector in this space can be represented as a linear combination of the basis vectors).\n",
+    "last_mod": "2014-08-30T23:36:26.393Z",
+    "tag": "bases",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "soxhga99"
+}

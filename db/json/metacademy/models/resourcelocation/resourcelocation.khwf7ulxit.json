@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "xvsl3snelv",
+    "ordering": 2,
+    "location_text": "Section 9.2, \"An undecidable problem that is RE,\" pages 383-390",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "khwf7ulxit"
+}

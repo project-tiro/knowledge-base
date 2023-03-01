@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 2,
+    "dependencies": ["6x87nospwltj1far", "mnj2e4z2jfrdulg7", "wltj1farjfrdulg7"],
+    "concepts": ["6x87nosp", "jfrdulg7", "mnj2e4z2", "wltj1far"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "jfrdulg7"
+}

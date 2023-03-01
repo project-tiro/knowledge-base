@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5s8swl8p",
+    "last_mod": "2014-08-30T21:34:01.624Z",
+    "ordering": 840,
+    "target_goals": [],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "Lagrange multipliers are needed for finding the solutions to the optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgv5s8swl8p"
+}

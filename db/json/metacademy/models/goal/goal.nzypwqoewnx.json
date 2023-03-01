@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 6,
+    "text": "Understand a common gotcha in Java generics: why can't you pass a List<Rectangle> to a function which requires a List<Shape>?  How can you get around this?",
+    "concept": "f7raxdme",
+    "last_mod": "2014-09-14T18:56:05.835Z"
+  },
+  "model": "graph.goal",
+  "pk": "nzypwqoewnx"
+}

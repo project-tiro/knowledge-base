@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=8yvBqhm92xA&list=PLD0F06AA0D2E8FFBA&index=46",
+    "cresource": "vs9o9x0h5j",
+    "ordering": 0,
+    "location_text": "Lecture 8.1, Naive Bayes classification ",
+    "location_type": "youtube videos"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0otzn3l5n7"
+}

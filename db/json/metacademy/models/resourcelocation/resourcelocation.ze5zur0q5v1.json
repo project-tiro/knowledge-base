@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:39:41.609Z",
+    "url": "",
+    "cresource": "17bvpyk8h4u",
+    "ordering": -1,
+    "location_text": "Section 3.3, \"Linked lists,\" through 3.4, \"Elementary list processing,\" pages 91-105",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ze5zur0q5v1"
+}

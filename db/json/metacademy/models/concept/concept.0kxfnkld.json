@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "propositional resolution",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 1.5881716629497327,
+    "summary": "Resolution is an inference rule for logical systems -- in this case, for propositional logic. It is complete, in that if a set of propositional sentences is unsatisfiable, one can prove that using resolution. It is the basis for many powerful automated theorem provers.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "propositional_resolution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "0kxfnkld"
+}

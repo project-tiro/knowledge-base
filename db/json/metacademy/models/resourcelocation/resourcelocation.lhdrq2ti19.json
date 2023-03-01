@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "lcgnvoizti",
+    "ordering": 2,
+    "location_text": " Section 14.3, \"Area and volume by double integration,\" pages 954-958",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lhdrq2ti19"
+}

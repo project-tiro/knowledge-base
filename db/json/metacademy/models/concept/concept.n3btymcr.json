@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "orthonormal bases",
+    "pointers": "* Orthogonal matrices can be characterized in terms of  [eigenvalues](eigenvalues_and_eigenvectors)  having unit norm. \n* Orthogonal matrices are used in the  [spectral decomposition](spectral_decomposition)  of a symmetric matrix.",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.378366973456911,
+    "summary": "An orthonormal basis is a basis such that each vector has unit length and each pair of vectors is orthogonal. An orthonormal basis for the full space can be represented as an orthogonal matrix. Such matrices have nice algebraic properties and are useful for representing projections and least squares solutions.\n\n",
+    "last_mod": "2014-10-11T21:21:34.734Z",
+    "tag": "orthonormal_bases",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "n3btymcr"
+}

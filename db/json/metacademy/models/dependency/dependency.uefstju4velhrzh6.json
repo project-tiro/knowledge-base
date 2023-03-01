@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "velhrzh6",
+    "last_mod": "2014-09-13T23:50:58.231Z",
+    "ordering": -1,
+    "target_goals": ["0ukbeeolrvk", "db5xmld5pwg", "fq169wf3se2"],
+    "source_goals": ["8qjyahis8fo", "fjawla4x30g", "gazubxd3m2y", "q4mjdizhua9"],
+    "source": "uefstju4",
+    "reason": "The most straightforward implementation of merge sort is recursive"
+  },
+  "model": "graph.dependency",
+  "pk": "uefstju4velhrzh6"
+}

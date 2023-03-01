@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "zdn6db7397i",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Context-free grammars and languages,\" pages 171-215",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pi5bgh24hol"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oraccr8b",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["u3wksqac8w4"],
+    "source_goals": ["ctifodnywq4", "e8fdanudh3y", "f0tu2wl7oio", "vid4msglow2"],
+    "source": "6euy9vw3",
+    "reason": "Context-free languages can be recognized by pushdown automata."
+  },
+  "model": "graph.dependency",
+  "pk": "6euy9vw3oraccr8b"
+}

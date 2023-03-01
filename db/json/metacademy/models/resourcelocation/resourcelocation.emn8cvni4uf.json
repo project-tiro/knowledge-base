@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "w6h6kyndhq1",
+    "ordering": -1,
+    "location_text": "Section 1.1, \"Finite Automata,\" pages 31-47",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "emn8cvni4uf"
+}

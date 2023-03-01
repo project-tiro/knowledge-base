@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/machlearning-001/lecture/169",
+    "cresource": "votena8iby",
+    "ordering": 1,
+    "location_text": "Lecture \"What can a decision tree represent?\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mtzwtulsxc"
+}

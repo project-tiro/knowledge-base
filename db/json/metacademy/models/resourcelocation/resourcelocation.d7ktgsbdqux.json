@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T15:10:16.078Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/mfds.pdf#page=16",
+    "cresource": "r2mtljq8pdp",
+    "ordering": -1,
+    "location_text": "Start of subsection \"Basic integration on manifolds,\" pages 16-17",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d7ktgsbdqux"
+}

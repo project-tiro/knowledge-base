@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hqh6obra",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 824,
+    "target_goals": [],
+    "source_goals": ["c8pauc6rpt", "vem2uwgl7q", "wc0w2z8ucs"],
+    "source": "9b7krlu2",
+    "reason": "Structural risk minimization is based on a nested sequence of models of increasing VC dimension."
+  },
+  "model": "graph.dependency",
+  "pk": "9b7krlu2hqh6obra"
+}

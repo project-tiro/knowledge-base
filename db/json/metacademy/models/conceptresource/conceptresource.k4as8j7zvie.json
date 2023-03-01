@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "fnww8jeo",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": -1,
+    "notes": "[u'See Chapter 12, subsection \"The wedge product,\" for the definition of interior multiplication']",
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "4hhdcvj0coc"
+  },
+  "model": "graph.conceptresource",
+  "pk": "k4as8j7zvie"
+}

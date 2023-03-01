@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gluv53rd",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 958,
+    "target_goals": ["6umozx10ra", "c33l2jyqr1", "s1v61ikudy"],
+    "source_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "ngail3kuhl", "xdi8cq7o4y"],
+    "source": "ghb79f4f",
+    "reason": "Many of the ideas from Bayesian linear regression transfer to Bayesian logistic regression."
+  },
+  "model": "graph.dependency",
+  "pk": "ghb79f4fgluv53rd"
+}

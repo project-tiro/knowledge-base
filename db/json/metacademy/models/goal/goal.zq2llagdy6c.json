@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Know some terminology: search tree, search node, expand, fringe",
+    "concept": "cqpveand",
+    "last_mod": "2014-11-08T20:56:06.171Z"
+  },
+  "model": "graph.goal",
+  "pk": "zq2llagdy6c"
+}

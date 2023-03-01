@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:20:37.486Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/mfds.pdf#page=14",
+    "cresource": "werqf8kngrj",
+    "ordering": -1,
+    "location_text": "End of Section 1.5, \"Exterior algebra of differential forms,\" subsection \"Differential forms,\" page 14",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wy7bajfr18u"
+}

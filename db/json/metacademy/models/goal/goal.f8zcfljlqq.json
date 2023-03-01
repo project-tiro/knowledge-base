@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Know the formula for the cross product in terms of the lengths of two vectors and the angle between them.",
+    "concept": "m9v3pvr7",
+    "last_mod": "2014-08-31T15:52:06.223Z"
+  },
+  "model": "graph.goal",
+  "pk": "f8zcfljlqq"
+}

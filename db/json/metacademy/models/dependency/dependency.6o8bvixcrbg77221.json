@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rbg77221",
+    "last_mod": "2014-08-30T21:34:00.451Z",
+    "ordering": 718,
+    "target_goals": [],
+    "source_goals": ["7j1zifs4o1u", "nalihqciovl"],
+    "source": "6o8bvixc",
+    "reason": "Higher order partial derivatives are used to recover the joint PDF from the joint CDF."
+  },
+  "model": "graph.dependency",
+  "pk": "6o8bvixcrbg77221"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ir16zf8s",
+    "last_mod": "2014-08-30T21:34:01.238Z",
+    "ordering": -1,
+    "target_goals": ["ck5z4o8ibdc", "cvt257bumh7", "opc0bf6hu10"],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "Lines and planes can be represented in terms of linear systems."
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb0ir16zf8s"
+}

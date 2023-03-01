@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5638xo54",
+    "last_mod": "2014-08-30T21:34:00.436Z",
+    "ordering": 760,
+    "target_goals": [],
+    "source_goals": ["233c7ku8tgc", "lu2e7fgkjye", "v512fpb3iz7"],
+    "source": "6luscvfb",
+    "reason": "The IBP model definition includes the Poisson distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "6luscvfb5638xo54"
+}

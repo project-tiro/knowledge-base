@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online machine learning course aimed at advanced undergraduates.",
+    "version_num": 0,
+    "title": "Coursera: Machine Learning",
+    "url": "https://class.coursera.org/machlearning-001/lecture/preview",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Pedro Domingos']",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "0iv91z9t7o"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Be aware that the Fisher information matrix determines the asymptotic behavior of maximum likelihood estimators",
+    "concept": "5p5nsbin",
+    "last_mod": "2014-09-19T15:50:48.008Z"
+  },
+  "model": "graph.goal",
+  "pk": "qwmnba0lhht"
+}

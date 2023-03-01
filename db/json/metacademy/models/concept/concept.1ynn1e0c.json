@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gibbs sampling as a special case of Metropolis-Hastings",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Gibbs sampling can be seen as a special case of the Metropolis-Hastings algorithm where the transition operators are chosen such that the acceptance probability is 1.\n",
+    "last_mod": "2014-08-30T03:22:55.604Z",
+    "tag": "gibbs_as_mh",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "1ynn1e0c"
+}

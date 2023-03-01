@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Know the Gaussian elimination algorithm, and be able to simulate it on simple examples",
+    "concept": "8de793ha",
+    "last_mod": "2014-08-30T03:18:06.700Z"
+  },
+  "model": "graph.goal",
+  "pk": "ejrqki6r12f"
+}

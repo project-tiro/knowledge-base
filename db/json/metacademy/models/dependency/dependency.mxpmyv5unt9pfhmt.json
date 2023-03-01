@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "nt9pfhmt",
+    "last_mod": "2014-08-30T18:02:07.046Z",
+    "ordering": -1,
+    "target_goals": ["couhvgld56o", "f0umd80ezzi", "feo5g3710xu", "gfks9ov6qx5", "meio2tgybmi"],
+    "source_goals": ["abo3nbpsbm", "iae14vnjvk", "jvow28bvkl", "m15n6xggsj", "u843rt5bzx", "z66edo7cna"],
+    "source": "mxpmyv5u",
+    "reason": "The accuracy of MCMC depends on the covariance of the function at different steps."
+  },
+  "model": "graph.dependency",
+  "pk": "mxpmyv5unt9pfhmt"
+}

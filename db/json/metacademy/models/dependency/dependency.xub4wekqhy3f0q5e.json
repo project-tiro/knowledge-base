@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hy3f0q5e",
+    "last_mod": "2014-08-30T16:55:44.439Z",
+    "ordering": -1,
+    "target_goals": ["79zostvoaqt", "d0750cz8kkp", "ks2i6uheowu", "nb4e5wbfjtk", "pd7b3dlhcae"],
+    "source_goals": [],
+    "source": "xub4wekq",
+    "reason": "ICA requires that the component distributions be non-Gaussian."
+  },
+  "model": "graph.dependency",
+  "pk": "xub4wekqhy3f0q5e"
+}

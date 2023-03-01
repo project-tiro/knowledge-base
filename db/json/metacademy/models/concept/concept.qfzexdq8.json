@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Cramer-Rao bound",
+    "pointers": "* The bound implies that  [maximum likelihood estimation is asymptotically efficient](asymptotics_of_maximum_likelihood) .",
+    "tags": ["freqstats"],
+    "learn_time": 1.029058930811795,
+    "summary": "The Cramer-Rao bound gives the minimum possible variance of an unbiased estimator of the parameters of a probability distribution. It is used to prove the asymptotic efficiency of the maximum likelihood estimator.\n",
+    "last_mod": "2014-09-19T19:41:17.496Z",
+    "tag": "cramer_rao_bound",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qfzexdq8"
+}

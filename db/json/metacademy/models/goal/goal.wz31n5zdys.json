@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* know what it means for a proof system to be sound and complete",
+    "concept": "4x3hyr5q",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "wz31n5zdys"
+}

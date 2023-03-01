@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m1ki4lyg",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 772,
+    "target_goals": ["501cyvhnah", "78dk53byhx", "mmmbbs0toy"],
+    "source_goals": ["crtm46jfhs", "io6ghjv50a", "tqagxch6k8", "y3e5cref4x"],
+    "source": "zcw5mgj0",
+    "reason": "Well orderings are a subclass of order relations."
+  },
+  "model": "graph.dependency",
+  "pk": "zcw5mgj0m1ki4lyg"
+}

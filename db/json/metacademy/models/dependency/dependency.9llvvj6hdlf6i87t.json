@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dlf6i87t",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 857,
+    "target_goals": ["6qbc3aax7t", "ejtxbyd8hb", "nszbpuwsz1", "xl4xf18wpt"],
+    "source_goals": ["psdzdy55fv"],
+    "source": "9llvvj6h",
+    "reason": "The statements of the L-S theorems involve cardinality."
+  },
+  "model": "graph.dependency",
+  "pk": "9llvvj6hdlf6i87t"
+}

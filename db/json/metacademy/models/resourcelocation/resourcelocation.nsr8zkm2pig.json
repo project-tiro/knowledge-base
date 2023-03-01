@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T17:23:45.943Z",
+    "url": "https://class.coursera.org/algo-004/lecture/40",
+    "cresource": "8s3omjdz896",
+    "ordering": -1,
+    "location_text": "Lecture \"Omega(n log n) lower bound for comparison-based sorting\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "nsr8zkm2pig"
+}

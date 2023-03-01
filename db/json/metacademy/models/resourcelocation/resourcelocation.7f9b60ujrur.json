@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:00:01.327Z",
+    "url": "https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/courseware/Week_5/Lecture_6_Adversarial_Search/",
+    "cresource": "fitid4fs6cx",
+    "ordering": -1,
+    "location_text": "Lecture 6, \"Adversarial search,\" up through Part 5, \"Evaluation functions\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7f9b60ujrur"
+}

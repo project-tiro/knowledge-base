@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "particle filter",
+    "pointers": "* The particle filter is a special case of the more general  [sequential Monte Carlo](sequential_monte_carlo)  framework.",
+    "tags": ["bayesianstats", "pgm"],
+    "learn_time": 1.710959429859455,
+    "summary": "The particle filter is a Monte Carlo algorithm for posterior inference in temporal models. The posterior is approximated with a weighted set of discrete particles. In each step, each particle's state is extended according to a proposal distribution, and its weight is updated based on the likelihood of the evidence. The algorithm is useful in robotics and in visual tracking because it doesn't require storing the entire history.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "particle_filter",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3x1yvytf"
+}

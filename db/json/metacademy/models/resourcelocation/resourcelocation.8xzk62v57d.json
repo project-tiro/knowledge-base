@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://youtu.be/i0o-ui1N35U?t=50m4s",
+    "cresource": "pw88vl3604",
+    "ordering": 0,
+    "location_text": "Lecture 8: Markov Decision Processes ",
+    "location_type": "video lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8xzk62v57d"
+}

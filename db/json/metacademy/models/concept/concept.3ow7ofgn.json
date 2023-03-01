@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "weight decay in neural networks",
+    "pointers": "* Weight decay is an example of a regularization method.  [ (go to concept)](regularization)\n* The $L_2$ norm of the weights isn't necessarily a good regularizer for neural nets. Some more principled alternatives include:\n** Tikhonov regularization, which rewards invariance to noise in the inputs  [ (go to concept)](tikhonov_regularization)\n** Tangent propagation, which rewards invariance to irrelevant transformations of the inputs such as translation and scalling  [ (go to concept)](tangent_propagation)\n* Early stopping is another strategy to prevent overfitting in neural nets.  [ (go to concept)](early_stopping)",
+    "tags": ["machinelearning"],
+    "learn_time": 0.9442834162945442,
+    "summary": "When training neural networks, it is common to use \"weight decay,\" where after each update, the weights are multiplied by a factor slightly less than 1. This prevents the weights from growing too large, and can be seen as gradient descent on a quadratic regularization term.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "weight_decay_neural_networks",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3ow7ofgn"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "69bpesql",
+    "last_mod": "2014-09-19T18:54:51.382Z",
+    "ordering": -1,
+    "target_goals": ["2wykvqlqkr4", "4lwbnlh1aro", "5h1xt56174o", "624n07w4qiu", "d2hr9mzhlka", "y29gin0p8xp"],
+    "source_goals": ["8wk2xkk0kwh", "sjnm17e5ffu", "uy321pdu4kx", "vmpl24poj87", "x0nungprjm7"],
+    "source": "nywsvniw",
+    "reason": "One often wants to compute Lie derivatives with respect to the Hamiltonian vector field"
+  },
+  "model": "graph.dependency",
+  "pk": "nywsvniw69bpesql"
+}

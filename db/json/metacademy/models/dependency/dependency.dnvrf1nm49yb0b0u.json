@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "49yb0b0u",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 879,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "dnvrf1nm",
+    "reason": "Naive Bayes is an instructive example of a generative model."
+  },
+  "model": "graph.dependency",
+  "pk": "dnvrf1nm49yb0b0u"
+}

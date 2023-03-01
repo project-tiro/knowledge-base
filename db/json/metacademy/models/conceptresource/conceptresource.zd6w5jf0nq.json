@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "ht7tx1xs",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 6,
+    "notes": "[u'Youtube comment from user \"SiddharthBhaiVideos\" provides a nice outline of the lecture']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "surgm8zbo1"
+  },
+  "model": "graph.conceptresource",
+  "pk": "zd6w5jf0nq"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6npwllz9",
+    "last_mod": "2014-08-30T21:34:00.285Z",
+    "ordering": 321,
+    "target_goals": [],
+    "source_goals": ["2tamvt5aakk", "3i9nl8t2c9g", "t509dxp2jkv"],
+    "source": "2g7ee7t1",
+    "reason": "The Chinese restaurant process is the infinite limit of the Dirichlet-multinomial distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "2g7ee7t16npwllz9"
+}

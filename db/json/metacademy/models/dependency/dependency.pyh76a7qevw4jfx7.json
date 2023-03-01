@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "evw4jfx7",
+    "last_mod": "2014-08-27T19:19:52.807Z",
+    "ordering": 1,
+    "target_goals": ["07a1elbr31m", "471yn12x3ae", "4b7f1va5y5b", "4zirq2bp6cg", "q8ajfyjjtqe"],
+    "source_goals": ["if2lmofpt3u", "m4jymha7r3y"],
+    "source": "pyh76a7q",
+    "reason": "The search algorithm for binary search trees is based on binary search"
+  },
+  "model": "graph.dependency",
+  "pk": "pyh76a7qevw4jfx7"
+}

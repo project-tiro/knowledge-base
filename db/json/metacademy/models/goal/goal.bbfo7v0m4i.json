@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Why is the maximum likelihood score an acceptable scoring criterion for tree-based networks, unlike for general Bayes nets?",
+    "concept": "j80iaykc",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "bbfo7v0m4i"
+}

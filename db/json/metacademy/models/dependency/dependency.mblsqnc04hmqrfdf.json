@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4hmqrfdf",
+    "last_mod": "2014-08-30T21:34:01.454Z",
+    "ordering": 605,
+    "target_goals": ["b6r1057k16", "dpuh82l4t6"],
+    "source_goals": ["5bzak2k5sba", "ms74z6r81xd", "v8zfdf2nblq", "zr7rbb5mr2r"],
+    "source": "mblsqnc0",
+    "reason": "We can use EM to learn the parameters."
+  },
+  "model": "graph.dependency",
+  "pk": "mblsqnc04hmqrfdf"
+}

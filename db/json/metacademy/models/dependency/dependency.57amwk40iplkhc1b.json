@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iplkhc1b",
+    "last_mod": "2014-08-30T23:33:19.497Z",
+    "ordering": 2,
+    "target_goals": [],
+    "source_goals": ["38n2ofiyffx", "7ev2lab1kk", "c5e9bqoynv7"],
+    "source": "57amwk40",
+    "reason": "Backpropagation is a kind of gradient descent."
+  },
+  "model": "graph.dependency",
+  "pk": "57amwk40iplkhc1b"
+}

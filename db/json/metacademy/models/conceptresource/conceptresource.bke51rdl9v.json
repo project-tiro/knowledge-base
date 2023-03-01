@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "wiyafj74",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'This uses the cluster graph formalism, which is more general than the factor graph version, but has more cumbersome notation.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "k1y5wugd8l"
+  },
+  "model": "graph.conceptresource",
+  "pk": "bke51rdl9v"
+}

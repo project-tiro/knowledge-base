@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to formulate simple puzzles as search problems",
+    "concept": "4mger90x",
+    "last_mod": "2014-11-08T20:08:18.087Z"
+  },
+  "model": "graph.goal",
+  "pk": "bzmtb4zbq4i"
+}

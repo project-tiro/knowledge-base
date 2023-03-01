@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Expectation-Maximization algorithm",
+    "pointers": "* Some examples of EM:\n**  [Gaussian mixture models](em_gaussian_mixtures)\n**  [Factor analysis](em_factor_analysis)\n**  [Baum-Welch algorithm](baum_welch_algorithm)  for learning hidden Markov models\n* Some theoretical justifications of EM:\n** Each step can be shown to  [increase the model likelihood](em_analysis) .\n** EM can be viewed as  [coordinate ascent on a lower bound of the data likelihood](em_variational_interpretation) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 2.3440591750853206,
+    "summary": "Expectation-Maximization (EM) is an algorithm for maximum likelihood estimation in models with hidden variables (usually missing data or latent variables). It involves iteratively computing expectations of terms in the log-likelihood function under the current posterior, and then solving for the maximum likelihood parameters. Common applications include fitting mixture models, learning Bayes net parameters with latent data, and learning hidden Markov models.\n",
+    "last_mod": "2014-09-02T00:04:50.135Z",
+    "tag": "expectation_maximization",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "mblsqnc0"
+}

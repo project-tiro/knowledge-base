@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8snkwzkq",
+    "last_mod": "2014-08-30T21:34:01.527Z",
+    "ordering": 40,
+    "target_goals": [],
+    "source_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source": "n4mru8iv",
+    "reason": "We can sample the parameters using Gibbs sampling."
+  },
+  "model": "graph.dependency",
+  "pk": "n4mru8iv8snkwzkq"
+}

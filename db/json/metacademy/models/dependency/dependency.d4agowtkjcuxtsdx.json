@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jcuxtsdx",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 775,
+    "target_goals": ["1bh0tshy1p", "l42z5lh0oo", "q5vwcwqjm5"],
+    "source_goals": ["58o3ob2opy", "au5dgqfmqj", "t8o29dxicp"],
+    "source": "d4agowtk",
+    "reason": "Generalized linear models are defined in terms of exponential family distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "d4agowtkjcuxtsdx"
+}

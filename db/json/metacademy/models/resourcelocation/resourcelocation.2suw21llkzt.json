@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T06:06:03.502Z",
+    "url": "https://class.coursera.org/algo-004/lecture/3",
+    "cresource": "sf4aal33fzp",
+    "ordering": -1,
+    "location_text": "Lecture \"Merge sort: analysis\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2suw21llkzt"
+}

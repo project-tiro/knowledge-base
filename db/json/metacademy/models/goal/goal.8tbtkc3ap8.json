@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Understand why each of the following operators preserves weighted samples:\n** importance weighting\n** sampling from the sampling (proposal) distribution\n** resampling\n** rejuvenation",
+    "concept": "a6ibqx2d",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "8tbtkc3ap8"
+}

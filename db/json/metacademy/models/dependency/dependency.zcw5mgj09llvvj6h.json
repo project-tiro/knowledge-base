@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9llvvj6h",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 152,
+    "target_goals": ["eujxmysv5a", "fgkoge6z94", "psdzdy55fv", "uafaqerbyg", "yoms67opr7"],
+    "source_goals": ["crtm46jfhs", "io6ghjv50a", "tqagxch6k8", "y3e5cref4x"],
+    "source": "zcw5mgj0",
+    "reason": "One must show that the dominance relation is a total ordering."
+  },
+  "model": "graph.dependency",
+  "pk": "zcw5mgj09llvvj6h"
+}

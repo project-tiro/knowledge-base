@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Lagrange duality",
+    "pointers": "* The  [KKT conditions](kkt_conditions)  characterize the optimal solutions to a convex optimization problem.\n* Applications in machine learning and statistics:\n**  [Support vector machines (SVMs)](support_vector_machine) , a classification algorithm, use duality in the optimization.\n**  [Variational inference](variational_inference_convex_duality) , where an intractable distribution is approximated with a tractable one, can be thought of in terms of convex duality.\n* Applications in algorithms:\n** The relationship between  [min-cut and max-flow](min_cut_max_flow)  is an example of Lagrange duality.",
+    "tags": ["optimization"],
+    "learn_time": 2.9758001068039697,
+    "summary": "The Lagrange dual of a convex optimization problem is another convex optimization problem where the optimization variables are the Lagrange multipliers of the original problem. It leads to surprising relationships between seemingly different optimization problems. Duality is commonly used in approximation algorithms, since constraining the dual corresponds to relaxing the original problem. \n",
+    "last_mod": "2014-09-14T20:40:22.126Z",
+    "tag": "lagrange_duality",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qxpc5lfx"
+}

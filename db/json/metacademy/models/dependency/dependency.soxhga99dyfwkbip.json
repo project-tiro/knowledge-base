@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dyfwkbip",
+    "last_mod": "2014-08-30T21:34:01.695Z",
+    "ordering": 706,
+    "target_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source_goals": ["1z3pszxqr3m", "d3hkmi4jdu0", "hdpf4w1zceo", "m3rgg91pkwe", "mc4018ewirg", "r5ymh04n5zj"],
+    "source": "soxhga99",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "soxhga99dyfwkbip"
+}

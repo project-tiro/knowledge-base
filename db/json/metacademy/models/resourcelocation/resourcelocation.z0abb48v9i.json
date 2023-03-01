@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://cs229.stanford.edu/notes/cs229-notes2.pdf#page=8",
+    "cresource": "fvlchxocht",
+    "ordering": 0,
+    "location_text": "Section 2 (Naive Bayes) of Part IV notes (Generative Learning algorithms) in Lecture Notes 2 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "z0abb48v9i"
+}

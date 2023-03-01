@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Is it usually necessary to keep track of the partition function when performing variable elimination in an undirected graphical model?",
+    "concept": "xgm0vbd6",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "5p2mg117cf"
+}

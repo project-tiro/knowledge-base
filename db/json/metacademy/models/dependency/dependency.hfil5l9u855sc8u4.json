@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "target": "855sc8u4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 0,
+    "target_goals": [
+      "0fblaa6li9k",
+      "4lj8wtz2iwo",
+      "5833l4t5p3z",
+      "72ymb7e61v5",
+      "n1mgrr6fbsj",
+      "o3qc3s5alym",
+      "qthbarjkvtj",
+      "t2eibk471rz",
+      "t8rg8xobeh7",
+      "ub2z1fmz2wy"
+    ],
+    "source_goals": ["b5h567pp0bb", "jkgyjuyl2tk", "qegbm5wqq66"],
+    "source": "hfil5l9u",
+    "reason": "Tangent bundles are defined on differentiable manifolds"
+  },
+  "model": "graph.dependency",
+  "pk": "hfil5l9u855sc8u4"
+}

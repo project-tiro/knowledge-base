@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fyslhiko",
+    "last_mod": "2014-08-30T23:52:19.082Z",
+    "ordering": 1,
+    "target_goals": ["5zv1cyiyqh6", "96u5ytc78og", "goy0dn31fjy", "rxw7ns5pvdq"],
+    "source_goals": [],
+    "source": "okv0c3op",
+    "reason": "Logistic regression is like linear regression, but with a different observation model."
+  },
+  "model": "graph.dependency",
+  "pk": "okv0c3opfyslhiko"
+}

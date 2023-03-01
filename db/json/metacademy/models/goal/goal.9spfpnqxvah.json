@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know why the matrix in the closed-form solution might not be invertible and what can be done in this case",
+    "concept": "x1gu9a93",
+    "last_mod": "2014-08-30T17:29:35.739Z"
+  },
+  "model": "graph.goal",
+  "pk": "9spfpnqxvah"
+}

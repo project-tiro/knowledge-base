@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-11T02:23:26.648Z",
+    "url": "",
+    "cresource": "o8nsihijlon",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Object-oriented programming in Java,\" up through subsection \"Creating and initializing objects\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7ji04by8cvr"
+}

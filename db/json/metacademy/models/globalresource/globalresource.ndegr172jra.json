@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A tutorial on the Fisher metric",
+    "version_num": 0,
+    "title": "Fisher information matrix: a geometrical reading",
+    "url": "http://arxiv.org/pdf/1210.2354.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T16:35:45.352Z",
+    "authors": "[u'S. I. R. Costa', u'S. A. Santos', u'J. E. Strapasson']",
+    "edition_years": "[]",
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "ndegr172jra"
+}

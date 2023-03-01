@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "855sc8u4",
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:11:38.932Z",
+    "ordering": -1,
+    "notes": "[u'The material about Lie algebras is optional.']",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "uu0hcib2863"
+  },
+  "model": "graph.conceptresource",
+  "pk": "okm31hcxlhd"
+}

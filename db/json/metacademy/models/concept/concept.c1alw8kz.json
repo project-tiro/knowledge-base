@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "k-means",
+    "pointers": "* using the  [k-means++](k_means_pp)  algorithm to select the initial cluster centers provides an optimality guarantee on the final objective as well as better empirical performance over randomly selecting initial cluster centers\n* Other clustering methods include:\n**  [mixture of Gaussians](gaussian_mixtures_vs_k_means) , a probabilistic model for continuous data\n**  [mixture of Bernoullis](mixture_of_bernoullis) , a probabilistic model for discrete data\n**  [spectral clustering](spectral_clustering) , for when the clusters don't have nice convex shapes\n* The application of clustering to finding meaningful regions of images is called  [image segmentation](image_segmentation) .\n* K-means is used in information theory for quantizing continuous signals; there it is known as  [vector quantization](vector_quantization) .\n* K-means is often  [used as an initialization](k_means_initialization)  for more sophisticated models such as mixture of Gaussians.\n* K-means is analogous to the  [EM algorithm for fitting Gaussian mixtures](em_gaussian_mixtures)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.76886060015872,
+    "summary": "K-means is a clustering algorithm, i.e. a way of partitioning a set of data points into \"clusters,\" or sets of data points which are similar to one another. It works by iteratively reassigning data points to clusters and computing cluster centers based on the average of the point locations. It is commonly used for vector quantization and as an initialization for Gaussian mixture models.\n",
+    "last_mod": "2014-09-14T03:24:16.883Z",
+    "tag": "k_means",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "c1alw8kz"
+}

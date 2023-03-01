@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T15:12:04.728Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap14.pdf#page=3",
+    "cresource": "1mb22iipwyo",
+    "ordering": -1,
+    "location_text": "Lecture notes 14, \"Stokes' Theorem,\" subsection 4, \"Integration of forms on differential manifolds,\" pages 3-4",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0fqdl5hlw1r"
+}

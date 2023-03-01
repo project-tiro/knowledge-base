@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=OcJwdF8zBjM",
+    "cresource": "ws4puan6lb",
+    "ordering": 1,
+    "location_text": "Video lecture: Cross-validation (part 2) ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xb9250jxhl"
+}

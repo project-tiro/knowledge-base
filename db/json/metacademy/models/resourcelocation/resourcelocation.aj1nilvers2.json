@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:17:11.943Z",
+    "url": "",
+    "cresource": "4ypo2xkx4po",
+    "ordering": -1,
+    "location_text": "Chapter 6, \"Elementary sorting methods,\" up through 6.5, \"Performance characteristics of elementary sorts,\" pages 265-285",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "aj1nilvers2"
+}

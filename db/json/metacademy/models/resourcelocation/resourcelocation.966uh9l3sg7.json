@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:02:36.783Z",
+    "url": "http://introcs.cs.princeton.edu/java/33design/",
+    "cresource": "ylwpr2pby9t",
+    "ordering": -1,
+    "location_text": "Section 3.3, \"Designing data types\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "966uh9l3sg7"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:38:43.713Z",
+    "url": "",
+    "cresource": "j3sz8jdnpdx",
+    "ordering": -1,
+    "location_text": "",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "eh8qni4xmeu"
+}

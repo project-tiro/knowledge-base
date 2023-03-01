@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xnsr1z4a",
+    "last_mod": "2014-09-13T22:32:22.865Z",
+    "ordering": -1,
+    "target_goals": ["d3g79h2lr6n", "oi3knn4wj2u"],
+    "source_goals": ["7qso8pj5wd8", "9f8jlapr4o0", "s101ups7yen", "tcwaoad4hen"],
+    "source": "9791pgmc",
+    "reason": "Representation invariants are used to show that an implementation of an ADT meets its specification"
+  },
+  "model": "graph.dependency",
+  "pk": "9791pgmcxnsr1z4a"
+}

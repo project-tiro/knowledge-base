@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:15:25.462Z",
+    "url": "http://artint.info/html/ArtInt_79.html",
+    "cresource": "ctrpqr05nfg",
+    "ordering": -1,
+    "location_text": "Section 4.5, \"Consistency algorithms\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vtnf1kxces9"
+}

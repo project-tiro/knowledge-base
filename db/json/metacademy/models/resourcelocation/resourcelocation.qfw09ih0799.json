@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:00:34.953Z",
+    "url": "http://publications.gbdirect.co.uk/c_book/chapter5/character_handling.html",
+    "cresource": "v6e326uyvef",
+    "ordering": -1,
+    "location_text": "Section 5.4, \"Character handling\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qfw09ih0799"
+}

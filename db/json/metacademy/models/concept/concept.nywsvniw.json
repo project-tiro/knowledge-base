@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Lie derivatives",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.8772170340051965,
+    "summary": "The Lie derivative determines how an object (such as a vector field or a differential form) changes as it is acted on by a flow. The Lie derivative of a vector field is equivalent to the Lie bracket operator. ",
+    "last_mod": "2014-09-19T14:41:03.734Z",
+    "tag": "lie_derivatives",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "nywsvniw"
+}

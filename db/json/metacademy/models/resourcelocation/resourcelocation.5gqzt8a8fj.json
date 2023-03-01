@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=X9yF2djExhY",
+    "cresource": "orrkdjrktf",
+    "ordering": 2,
+    "location_text": "(ML 16.5) Why EM makes sense (part 2) ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5gqzt8a8fj"
+}

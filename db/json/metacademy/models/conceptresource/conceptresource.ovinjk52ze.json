@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "9j4edw40",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u\"Don't worry about the parts about spectral density if you're not familiar with Fourier techniques. Section 4.2.4, on constructing new kernels from simpler kernels, is especially useful.\"]",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "223g2f2ne8"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ovinjk52ze"
+}

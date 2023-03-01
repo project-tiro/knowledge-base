@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pfisxcdr",
+    "last_mod": "2014-08-29T00:30:54.586Z",
+    "ordering": -1,
+    "target_goals": ["kg25q4wwylo", "pwmvd61c434", "wd88599d1oo", "x8fgfiz5gzd"],
+    "source_goals": ["4cgc1ll3rwz", "k8j9zqs1pz4", "sciukb923a9"],
+    "source": "9qd1a8d6",
+    "reason": "Topological sort is an algorithm on graphs"
+  },
+  "model": "graph.dependency",
+  "pk": "9qd1a8d6pfisxcdr"
+}

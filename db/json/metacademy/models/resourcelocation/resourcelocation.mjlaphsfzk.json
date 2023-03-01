@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "rdlu01fzhs",
+    "ordering": 0,
+    "location_text": "Chapter 5, \"Introduction to quantification,\" up through Section 5.9, \"Logical equivalences involving negation and quantifiers,\" pages 115-134",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mjlaphsfzk"
+}

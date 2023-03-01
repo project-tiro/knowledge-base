@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mhkp5ddj",
+    "last_mod": "2014-08-30T21:34:01.210Z",
+    "ordering": -1,
+    "target_goals": ["8qttfslmqn3", "929qtbiqhfi", "gjwh0se4p9z", "oizps1ly6b0", "sa682j6ha3e"],
+    "source_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source": "jnw8a0ar",
+    "reason": "The Gaussian distribution is an instructive example."
+  },
+  "model": "graph.dependency",
+  "pk": "jnw8a0armhkp5ddj"
+}

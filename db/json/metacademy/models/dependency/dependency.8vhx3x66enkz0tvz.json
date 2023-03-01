@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "enkz0tvz",
+    "last_mod": "2014-10-20T01:44:21.312Z",
+    "ordering": -1,
+    "target_goals": ["5qx5yzt9i5j", "8x9ahdkmf17", "ufellz3l680"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The residual (computed in the algorithm) is the gradient of the quadratic objective"
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x66enkz0tvz"
+}

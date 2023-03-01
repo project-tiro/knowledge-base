@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "rzsof8af",
+    "last_mod": "2014-09-19T16:12:07.495Z",
+    "ordering": -1,
+    "target_goals": ["10s390dfqua", "2twcmxt3i9k", "nzopy7nyrdx", "v9by796rdvr", "wszbchjeaxj"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The Fisher information can be defined as the variance of a function."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbprzsof8af"
+}

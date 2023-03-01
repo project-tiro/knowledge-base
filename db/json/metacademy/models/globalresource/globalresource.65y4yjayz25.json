@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A tutorial written by the inventor of the algorithm",
+    "version_num": 0,
+    "title": "MCMC using Hamiltonian dynamics",
+    "url": "http://arxiv.org/pdf/1206.1901.pdf",
+    "notes": "",
+    "year": 2012,
+    "access": "free",
+    "last_mod": "2014-08-30T03:29:43.127Z",
+    "authors": "[u'Radford Neal']",
+    "edition_years": "[]",
+    "resource_type": "monograph"
+  },
+  "model": "graph.globalresource",
+  "pk": "65y4yjayz25"
+}

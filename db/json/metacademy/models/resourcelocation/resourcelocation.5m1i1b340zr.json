@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:10:25.103Z",
+    "url": "",
+    "cresource": "zih8pf6fqqq",
+    "ordering": -1,
+    "location_text": "Section 5.2, \"Backtracking search for CSPs,\" subsection \"Constraint propagation,\" pages 145-147",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5m1i1b340zr"
+}

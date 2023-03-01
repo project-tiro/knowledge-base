@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the product of the eigenvalues equals the determinant",
+    "concept": "kquxsbij",
+    "last_mod": "2014-10-20T01:02:05.842Z"
+  },
+  "model": "graph.goal",
+  "pk": "wyc73a08w6l"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8vhx3x66",
+    "last_mod": "2014-08-30T21:34:01.370Z",
+    "ordering": -1,
+    "target_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The gradient is computed in terms of partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b58vhx3x66"
+}

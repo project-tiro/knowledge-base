@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "31fkk8oml9",
+    "ordering": 0,
+    "location_text": "Section 4.3.6, \"Canonical link functions,\" pages 212-213",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "m58lgeicpp"
+}

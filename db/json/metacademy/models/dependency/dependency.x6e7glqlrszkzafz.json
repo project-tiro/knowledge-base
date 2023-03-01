@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rszkzafz",
+    "last_mod": "2014-08-30T21:34:02.032Z",
+    "ordering": 453,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "Linear regression is a simple model that motivates basis function expansions, which are applicable to linear models more generally."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glqlrszkzafz"
+}

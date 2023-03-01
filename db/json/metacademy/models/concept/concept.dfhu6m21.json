@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "exponential distribution",
+    "pointers": "* The  [gamma distribution](gamma_distribution)  is a generalization of the exponential distribution.\n* The  [geometric distribution](geometric_distribution)  is a geometric analogue of the exponential distribution.\n* The exponential distribution is the only  [memoryless](memorylessness)  continuous distribution. \n* Equivalently, it is the only continuous distribution with constant  [failure rate](failure_rate) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.6523713174076603,
+    "summary": "The exponential distribution is a continuous distribution whose PDF decays exponentially. It is most commonly used to model the waiting time until an event occurs, where that event is equally likely to happen at any point in time.\n",
+    "last_mod": "2014-09-02T00:06:09.616Z",
+    "tag": "exponential_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dfhu6m21"
+}

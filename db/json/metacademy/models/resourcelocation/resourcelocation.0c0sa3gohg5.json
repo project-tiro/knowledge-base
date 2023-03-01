@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:27:56.346Z",
+    "url": "http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf#page=43",
+    "cresource": "fuycfv45m5w",
+    "ordering": -1,
+    "location_text": "Section 10, \"Complexity,\" pages 37-38",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0c0sa3gohg5"
+}

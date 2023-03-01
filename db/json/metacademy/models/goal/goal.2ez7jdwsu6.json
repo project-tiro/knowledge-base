@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Why isn't the maximum likelihood score appropriate for evaluating graph structures?",
+    "concept": "9ub4pkcy",
+    "last_mod": "2014-08-31T15:15:23.861Z"
+  },
+  "model": "graph.goal",
+  "pk": "2ez7jdwsu6"
+}

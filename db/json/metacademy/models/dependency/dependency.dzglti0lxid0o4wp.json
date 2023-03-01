@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xid0o4wp",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 800,
+    "target_goals": ["2lr08yy984", "rl5j7ii7hi", "wbq6qp5ys8", "ydeoj7u1sn"],
+    "source_goals": [],
+    "source": "dzglti0l",
+    "reason": "Probit regression is defined in terms of the probit function."
+  },
+  "model": "graph.dependency",
+  "pk": "dzglti0lxid0o4wp"
+}

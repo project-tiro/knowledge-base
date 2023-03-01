@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "a graduate textbook on differential geometry",
+    "version_num": 0,
+    "title": "Introduction to Smooth Manifolds",
+    "url": "http://www.amazon.com/Introduction-Smooth-Manifolds-Graduate-Mathematics/dp/1441999817/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'John M. Lee']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "4hhdcvj0coc"
+}

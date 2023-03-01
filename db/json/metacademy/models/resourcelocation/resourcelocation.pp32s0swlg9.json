@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:53:12.844Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=28",
+    "cresource": "5xv0weh9h58",
+    "ordering": -1,
+    "location_text": "Section 4.3, \"One-parameter groups of diffeomorphisms,\" pages 28-32",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pp32s0swlg9"
+}

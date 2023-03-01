@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "go5l13b0j9",
+    "ordering": 0,
+    "location_text": "Sections 15.2, up to \"Finding the most likely sequence\" (pages 541-547) and 15.3 (pages 549-551)",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "24shn0cjvb"
+}

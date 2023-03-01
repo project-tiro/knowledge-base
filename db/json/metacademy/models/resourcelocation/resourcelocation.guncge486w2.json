@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:36:36.027Z",
+    "url": "",
+    "cresource": "ckjft6uwgwj",
+    "ordering": -1,
+    "location_text": "Chapter 4, \"Abstract data types,\" up to 4.4, \"Stack ADT implementations,\" pages 129-158",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "guncge486w2"
+}

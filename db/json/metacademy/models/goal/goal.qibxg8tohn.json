@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Be able to use Stokes' Theorem to compute line integrals and surface integrals",
+    "concept": "w62ib36y",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "qibxg8tohn"
+}

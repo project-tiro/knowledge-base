@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://en.wikipedia.org/wiki/F1_score",
+    "cresource": "az77nwpp9e",
+    "ordering": 0,
+    "location_text": "Article: F1 score ",
+    "location_type": "wiki"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "727nvuvu7x"
+}

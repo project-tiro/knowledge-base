@@ -1,0 +1,38 @@
+{
+  "fields": {
+    "depth": 7,
+    "dependencies": [
+      "4ocvc918bveqc1fo",
+      "6jrbekjhrbg77221",
+      "6o8bvixcrbg77221",
+      "bveqc1fonw2kqzlz",
+      "cj7urqv56jrbekjh",
+      "cj7urqv5rbg77221",
+      "i9mo2e09cj7urqv5",
+      "jp7i38z3rbg77221",
+      "kp6axa2ijp7i38z3",
+      "kp6axa2im3bm96b5",
+      "kp6axa2ivxncdcer",
+      "m3bm96b56o8bvixc",
+      "m3bm96b5nw2kqzlz",
+      "nw2kqzlz6o8bvixc",
+      "vxncdcernw2kqzlz"
+    ],
+    "concepts": [
+      "4ocvc918",
+      "6jrbekjh",
+      "6o8bvixc",
+      "bveqc1fo",
+      "cj7urqv5",
+      "i9mo2e09",
+      "jp7i38z3",
+      "kp6axa2i",
+      "m3bm96b5",
+      "nw2kqzlz",
+      "rbg77221",
+      "vxncdcer"
+    ]
+  },
+  "model": "graph.targetgraph",
+  "pk": "rbg77221"
+}

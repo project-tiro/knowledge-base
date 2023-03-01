@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "z4efgcsu",
+    "last_mod": "2014-09-07T00:22:56.903Z",
+    "ordering": -1,
+    "target_goals": ["7scctyz2rmm", "eerscg3x0hb", "gbvkteimgqf", "t5zvdoddpox", "tlo047j1w7e"],
+    "source_goals": [
+      "beqfwlsw6i2",
+      "iqpaa4zfwp1",
+      "j56eqohb5u3",
+      "pea3zehtd5i",
+      "rvzizzum6j3",
+      "vr9fejke412",
+      "w4elk3y5teg"
+    ],
+    "source": "cja1np7y",
+    "reason": "Multi-dimensional arrays are represented with pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7yz4efgcsu"
+}

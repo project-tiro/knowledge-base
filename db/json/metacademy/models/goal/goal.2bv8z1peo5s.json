@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what the nodes and edges of the game tree represent",
+    "concept": "zlk11edy",
+    "last_mod": "2014-11-08T23:08:55.163Z"
+  },
+  "model": "graph.goal",
+  "pk": "2bv8z1peo5s"
+}

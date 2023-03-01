@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* What is the largest possible entropy of a discrete random variable which takes on r possible values?",
+    "concept": "bjleobug",
+    "last_mod": "2014-09-01T23:59:31.754Z"
+  },
+  "model": "graph.goal",
+  "pk": "q1cmx9sfi2"
+}

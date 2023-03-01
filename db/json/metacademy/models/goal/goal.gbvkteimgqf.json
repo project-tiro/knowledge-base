@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to manipulate pointers to pointers: in particular, be able to determine the types of, and evaluate, expressions involving pointers to pointers",
+    "concept": "z4efgcsu",
+    "last_mod": "2014-09-07T03:48:56.254Z"
+  },
+  "model": "graph.goal",
+  "pk": "gbvkteimgqf"
+}

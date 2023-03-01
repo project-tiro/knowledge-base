@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Show that it is not a true distance metric because\n** it is not symmetric\n** it doesn't satisfy the triangle inequality",
+    "concept": "g2b5lqga",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1g3eemq2ak"
+}

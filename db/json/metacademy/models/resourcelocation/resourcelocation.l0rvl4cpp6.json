@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "wk4ninz7jd",
+    "ordering": 0,
+    "location_text": "Chapter 8, \"First-order set theory,\" up through 8.6, \"The powerset of a set,\" pages 207-220",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "l0rvl4cpp6"
+}

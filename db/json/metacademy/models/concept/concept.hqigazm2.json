@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "determinant and volume",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 0.884622885688879,
+    "summary": "The volume of a box in n dimensions is given by the determinant of the matrix whose columns are the sides of the box. When a matrix is used as a linear transformation, it scales the volume of a set by its determinant.\n",
+    "last_mod": "2014-08-30T02:42:41.009Z",
+    "tag": "determinant_and_volume",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "hqigazm2"
+}

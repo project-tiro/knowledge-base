@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian linear regression",
+    "pointers": "*  [Gaussian process regression](gaussian_process_regression)  is a nonparametric analogue of Bayesian linear regression which uses kernels.",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 2.155554129455149,
+    "summary": "By interpreting linear regression as a Bayesian model, we can automatically infer the prior variance and the noise variance, and make calibrated predictions. Bayesian linear regression is a useful component in fancier probabilistic models.\n",
+    "last_mod": "2014-08-31T00:10:00.119Z",
+    "tag": "bayesian_linear_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ghb79f4f"
+}

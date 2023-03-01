@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Monte Carlo estimation",
+    "pointers": "* The  [law of large numbers](weak_law_of_large_numbers)  justifies the use of Monte Carlo estimation.\n* Some commonly used sampling algorithms include:\n**  [Gibbs sampling](gibbs_sampling) , a generic and widely applicable sampling algorithm\n**  [particle filters](particle_filter) , which are useful for time series modeling \n**  [Metropolis-Hastings algorithm](metropolis_hastings) , which is very general\n* Two general classes of sampling algorithms include:\n**  [Markov chain Monte Carlo (MCMC)](markov_chain_monte_carlo)\n**  [sequential Monte Carlo (SMC)](sequential_monte_carlo)\n* Some example uses of sampling algorithms:\n**  [estimating the partition function](sampling_partition_function)\n* Other general classes of approximate inference techniques include:\n**  [variational inference](variational_inference) , which tries to approximate an intractable posterior distribution with a tractable one\n**  [loopy belief propagation](loopy_belief_propagation) , a strategy which is particular to graphical models",
+    "tags": ["bayesianstats", "probabilitytheor"],
+    "learn_time": 1.2589555923166142,
+    "summary": "One way to answer queries about a probability distribution is to simulate from the distribution, a procedure known as Monte Carlo estimation. In particular, we estimate the expected value of some function f with respect to a distribution p by generating samples from p and averaging the values of f over those samples.\n",
+    "last_mod": "2014-08-30T18:15:25.450Z",
+    "tag": "monte_carlo_estimation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "91puxjry"
+}

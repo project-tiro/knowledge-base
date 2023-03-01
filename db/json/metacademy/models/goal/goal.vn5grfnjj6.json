@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "* Show that in the case of Boolean algebras, ultrafilters are equivalent to homomorphisms to {0, 1}.",
+    "concept": "au9put3g",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "vn5grfnjj6"
+}

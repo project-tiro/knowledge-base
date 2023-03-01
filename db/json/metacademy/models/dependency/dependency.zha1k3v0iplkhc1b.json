@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iplkhc1b",
+    "last_mod": "2014-08-30T23:32:19.248Z",
+    "ordering": 1,
+    "target_goals": [],
+    "source_goals": ["150rtppooy", "8tvnk4f6jq", "p78kkc1vmp"],
+    "source": "zha1k3v0",
+    "reason": "Backpropagation follows from the chain rule for Jacobian matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "zha1k3v0iplkhc1b"
+}

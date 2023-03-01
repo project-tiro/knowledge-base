@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know the Box-Muller trick for sampling from a Gaussian distribution, and understand why it works",
+    "concept": "1dlbrlh1",
+    "last_mod": "2014-08-30T19:20:31.543Z"
+  },
+  "model": "graph.goal",
+  "pk": "dqvpyo518ox"
+}

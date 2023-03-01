@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:08:02.564Z",
+    "url": "http://artint.info/html/ArtInt_56.html",
+    "cresource": "hgygxubf8yq",
+    "ordering": -1,
+    "location_text": "Section 3.6, \"Heuristic search\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hini7mtyj2x"
+}

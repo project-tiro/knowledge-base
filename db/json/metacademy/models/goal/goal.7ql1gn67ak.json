@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* In the fully observed case, maximum likelihood decomposed into separate estimation problems for each clique. Why doesn't that happen when there is missing data?\n** And why does the decomposition hold in the M step?",
+    "concept": "tmvi3pqi",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "7ql1gn67ak"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be able to approximate the predictive distribution computationally (e.g. with sampling or the probit approximation)",
+    "concept": "gluv53rd",
+    "last_mod": "2014-08-30T23:55:08.109Z"
+  },
+  "model": "graph.goal",
+  "pk": "s1v61ikudy"
+}

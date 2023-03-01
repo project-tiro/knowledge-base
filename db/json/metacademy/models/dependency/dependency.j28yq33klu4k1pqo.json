@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lu4k1pqo",
+    "last_mod": "2014-08-30T21:41:26.919Z",
+    "ordering": 899,
+    "target_goals": ["tklfgk2joc"],
+    "source_goals": ["3nuvfhiqv7", "vlpp9nd1am"],
+    "source": "j28yq33k",
+    "reason": "The Central Limit Theorem is used to show that the variance of the weights approaches zero."
+  },
+  "model": "graph.dependency",
+  "pk": "j28yq33klu4k1pqo"
+}

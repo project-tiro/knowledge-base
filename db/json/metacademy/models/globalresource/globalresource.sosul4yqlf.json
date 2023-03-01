@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Adaptive Rejection Sampling for Gibbs Sampling",
+    "url": "http://www.medicine.mcgill.ca/epidemiology/joseph/courses/EPIB-675/adaptive.sampling.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Walter R Gilks', u'Pascal Wild']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "sosul4yqlf"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how Gaussian elimination with row exchanges can be represented with an additional permutation matrix",
+    "concept": "0sqslybm",
+    "last_mod": "2014-08-30T17:36:05.590Z"
+  },
+  "model": "graph.goal",
+  "pk": "2tq7w36rdcj"
+}

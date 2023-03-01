@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9llvvj6h",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 150,
+    "target_goals": ["eujxmysv5a", "fgkoge6z94", "psdzdy55fv", "uafaqerbyg", "yoms67opr7"],
+    "source_goals": ["66axk5ygrz", "kom3g8m6f7", "nwl9iky3wx", "psfgcy8sbs"],
+    "source": "6a55033i",
+    "reason": "Cardinality generalizes the notion of countable and uncoutable sets."
+  },
+  "model": "graph.dependency",
+  "pk": "6a55033i9llvvj6h"
+}

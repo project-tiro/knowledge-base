@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "brscvy9d",
+    "last_mod": "2014-10-11T20:54:49.693Z",
+    "ordering": -1,
+    "target_goals": ["4kpjlh6bder", "ekkxiyr1zwi", "gst0m5e6dfm", "q6dmbai700m", "xulplr3co3l"],
+    "source_goals": ["70dcc4lk3f", "v6egxrlebf"],
+    "source": "zlyqzsgn",
+    "reason": "Line search is performed along a descent direction"
+  },
+  "model": "graph.dependency",
+  "pk": "zlyqzsgnbrscvy9d"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sufficient statistics",
+    "pointers": "*  [Exponential families](exponential_families)  are a class of distributions which can be parameterized in terms of sufficient statistics.\n* The  [maximum likelihood estimator](maximum_likelihood)  depends only on sufficient statistics.\n* Many sufficient statistics correspond to  [moments](expectation_and_variance)  of a distribution.",
+    "tags": ["freqstats"],
+    "learn_time": 0.9478025729055394,
+    "summary": "Sufficient statistics are statistics which summarize all of the information a dataset contains about the parameters of a distribution. The Rao-Blackwell Theorem implies that statistical estimators should depend only on sufficient statistics when they exist.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "sufficient_statistics",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8lm3xmw0"
+}

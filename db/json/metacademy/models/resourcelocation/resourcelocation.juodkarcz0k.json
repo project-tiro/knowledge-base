@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:55:21.562Z",
+    "url": "https://class.coursera.org/algo-004/lecture/48",
+    "cresource": "9lvoox4rd3a",
+    "ordering": -1,
+    "location_text": "Lecture \"Breadth-first search (BFS): the basics\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "juodkarcz0k"
+}

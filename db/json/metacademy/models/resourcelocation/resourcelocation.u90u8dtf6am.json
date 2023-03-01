@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T00:10:59.045Z",
+    "url": "",
+    "cresource": "c1nzr1ced59",
+    "ordering": -1,
+    "location_text": "Section 5.1, \"The linear conjugate gradient method,\" up through \"A practical form of the conjugate gradient method,\" pages 102-112",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "u90u8dtf6am"
+}

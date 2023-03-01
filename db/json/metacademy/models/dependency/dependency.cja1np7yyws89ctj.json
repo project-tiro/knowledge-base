@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "yws89ctj",
+    "last_mod": "2014-09-07T00:22:57.059Z",
+    "ordering": -1,
+    "target_goals": ["l9r0la0i3r9", "lw3ogmcj0sv", "q105klrq9ll"],
+    "source_goals": [
+      "beqfwlsw6i2",
+      "iqpaa4zfwp1",
+      "j56eqohb5u3",
+      "pea3zehtd5i",
+      "rvzizzum6j3",
+      "vr9fejke412",
+      "w4elk3y5teg"
+    ],
+    "source": "cja1np7y",
+    "reason": "The call stack is described in terms of pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7yyws89ctj"
+}

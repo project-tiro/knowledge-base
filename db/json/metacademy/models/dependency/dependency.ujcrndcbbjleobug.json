@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bjleobug",
+    "last_mod": "2014-09-01T23:59:31.699Z",
+    "ordering": 6,
+    "target_goals": ["q1cmx9sfi2"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Maximizing the entropy is an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbbjleobug"
+}

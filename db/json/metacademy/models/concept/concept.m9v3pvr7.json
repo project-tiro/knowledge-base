@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "cross product",
+    "pointers": "* The cross product can be generalized to other dimensions using  [k-forms](k_forms) .",
+    "tags": ["mvcalc"],
+    "learn_time": 1.499639736223862,
+    "summary": "The cross product is an operation which takes to vectors and returns another vector orthogonal to both. It is commonly used to answer geometric questions involving points, lines, and planes, and to compute volumes.\n",
+    "last_mod": "2014-08-31T15:52:06.998Z",
+    "tag": "cross_product",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m9v3pvr7"
+}

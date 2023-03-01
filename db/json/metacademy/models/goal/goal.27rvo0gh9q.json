@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Define the surface integral of a differential form in terms of pullback",
+    "concept": "1o57jpcl",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "27rvo0gh9q"
+}

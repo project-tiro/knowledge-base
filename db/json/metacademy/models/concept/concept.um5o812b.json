@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian variable elimination",
+    "pointers": "* If we run multiple queries, variable elimination involves redundant computations.  [Belief propagation](gaussian_bp_on_trees)  gives a way of sharing these computations. \n*  [Kalman smoothing](kalman_as_bp)  can be seen as a special case of Gaussian BP.\n*  [Gaussian variable elimination](gaussian_variable_elimination_as_gaussian_elimination)  is equivalent to Gaussian elimination.",
+    "tags": ["pgm"],
+    "learn_time": 0.6966948644410225,
+    "summary": "Marginalization in Gaussian MRFs can be performed in cubic time by inverting a matrix, but this is too slow for some applications. If the model has the right structure, variable elimination can result in a big speedup.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_variable_elimination",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "um5o812b"
+}

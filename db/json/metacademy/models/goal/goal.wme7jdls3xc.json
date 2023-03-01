@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to compute the gradient by taking partial derivatives",
+    "concept": "8vhx3x66",
+    "last_mod": "2014-08-30T03:23:38.781Z"
+  },
+  "model": "graph.goal",
+  "pk": "wme7jdls3xc"
+}

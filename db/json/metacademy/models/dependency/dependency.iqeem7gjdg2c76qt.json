@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dg2c76qt",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 598,
+    "target_goals": ["bt542acysn", "fi7bgz8kul", "mnexhk2pfw", "q28isufkhv", "tkf0l8vie6", "tyub6dpt42", "u333povn61"],
+    "source_goals": ["3po6i6gcxx", "8v08u4fbz3", "9rj7b02ohm", "cfly2rdjk2", "oig62apn7c", "qspi7sfs7e"],
+    "source": "iqeem7gj",
+    "reason": "Boolean algebras are a generalization of propositional logic."
+  },
+  "model": "graph.dependency",
+  "pk": "iqeem7gjdg2c76qt"
+}

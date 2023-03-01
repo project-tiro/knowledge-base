@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "971gbcsw",
+    "last_mod": "2014-08-30T21:34:01.506Z",
+    "ordering": -1,
+    "target_goals": ["egt6bbrw20g", "em2zsaofty2"],
+    "source_goals": ["8qttfslmqn3", "929qtbiqhfi", "gjwh0se4p9z", "oizps1ly6b0", "sa682j6ha3e"],
+    "source": "mhkp5ddj",
+    "reason": "The Jeffreys prior is a kind of uninformative prior."
+  },
+  "model": "graph.dependency",
+  "pk": "mhkp5ddj971gbcsw"
+}

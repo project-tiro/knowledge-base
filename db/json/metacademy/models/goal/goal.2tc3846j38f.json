@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of Darboux's Theorem, which shows that any symplectic manifold can be written in a standard form (the \"Darboux coordinates\")",
+    "concept": "fnww8jeo",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "2tc3846j38f"
+}

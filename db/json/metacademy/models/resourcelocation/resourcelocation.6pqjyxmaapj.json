@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:17:13.469Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/lecture-notes/MIT6_096IAP11_lec05.pdf",
+    "cresource": "ebs7hrata7f",
+    "ordering": -1,
+    "location_text": "Lecture 5: \"Pointers\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6pqjyxmaapj"
+}

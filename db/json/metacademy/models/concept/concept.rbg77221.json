@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multivariate CDF",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.5166446904788549,
+    "summary": "Multivariate cumulative distribution functions (CDFs) are a way of characterizing multivariate distributions which generalize the univariate CDF.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "multivariate_cdf",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "rbg77221"
+}

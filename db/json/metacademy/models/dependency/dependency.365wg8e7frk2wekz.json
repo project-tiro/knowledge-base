@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "frk2wekz",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 315,
+    "target_goals": ["05tfyyu9pn", "os11sc1f40", "yh1t727gsu", "zzhro891ja"],
+    "source_goals": ["euwxlw9hcn", "v8d3nsdrw2", "yx114qehtx", "zil5hdya5d"],
+    "source": "365wg8e7",
+    "reason": "The Chernoff bounds are an important tool for analyzing PAC learning."
+  },
+  "model": "graph.dependency",
+  "pk": "365wg8e7frk2wekz"
+}

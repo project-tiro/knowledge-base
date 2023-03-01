@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "probability",
+    "pointers": "*  [Random variables](random_variables)  are probably the most central object of probability theory.\n* A more rigorous mathematical basis for probability theory is built on  [measure theory](measure_theoretic_probability) . ",
+    "tags": ["probabilitytheor"],
+    "learn_time": 2.2006338818514988,
+    "summary": "Probability theory is a set of mathematical techniques for reasoning about uncertainty. Intuitively, probabilities can be thought of as describing long-run frequencies or subjective beliefs. Mathematically, a probability measure is a function on subsets of a sample space which satisfy certain axioms.\n",
+    "last_mod": "2014-08-30T18:53:42.288Z",
+    "tag": "probability",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "i9mo2e09"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 6,
+    "text": "Analyze the complexity of these algorithms as a function of the branching factor and the search depth",
+    "concept": "cqpveand",
+    "last_mod": "2014-11-08T20:56:04.131Z"
+  },
+  "model": "graph.goal",
+  "pk": "908iyypiafw"
+}

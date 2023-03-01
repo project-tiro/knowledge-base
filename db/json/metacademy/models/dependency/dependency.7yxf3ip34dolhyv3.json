@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4dolhyv3",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 578,
+    "target_goals": ["jo0xgzn0eg", "nfgfqkv2ll", "ngvexhb56o", "nrpe0lxi8u", "vsy8ngqezs"],
+    "source_goals": ["8yvudaocys", "p7m89w1xr1"],
+    "source": "7yxf3ip3",
+    "reason": "Bayes' rule follows from the definition of conditional probability."
+  },
+  "model": "graph.dependency",
+  "pk": "7yxf3ip34dolhyv3"
+}

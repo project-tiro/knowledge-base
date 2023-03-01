@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ygqeubhx",
+    "last_mod": "2014-09-14T04:22:05.042Z",
+    "ordering": -1,
+    "target_goals": ["0rsvzyquytf", "1ic3mdidfqu", "5pb3ieh5ylo", "zff2dvy1l1v"],
+    "source_goals": ["59hptxglr7c", "je4ns1aox1u", "msek0iv7ktk"],
+    "source": "k4imou8p",
+    "reason": "Breadth-first search is implemented using a queue"
+  },
+  "model": "graph.dependency",
+  "pk": "k4imou8pygqeubhx"
+}

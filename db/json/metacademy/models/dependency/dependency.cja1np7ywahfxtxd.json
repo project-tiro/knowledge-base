@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "wahfxtxd",
+    "last_mod": "2014-09-14T04:15:30.253Z",
+    "ordering": -1,
+    "target_goals": ["81os9p13dyd"],
+    "source_goals": [
+      "beqfwlsw6i2",
+      "iqpaa4zfwp1",
+      "j56eqohb5u3",
+      "pea3zehtd5i",
+      "rvzizzum6j3",
+      "vr9fejke412",
+      "w4elk3y5teg"
+    ],
+    "source": "cja1np7y",
+    "reason": "Linked lists are implemented using pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7ywahfxtxd"
+}

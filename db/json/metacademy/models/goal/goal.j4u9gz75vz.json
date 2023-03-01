@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to use the CDF of a distribution to:\n** determine the probability that a random variable lies in a given range\n** recover the probability mass function or the probability density function",
+    "concept": "6jrbekjh",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "j4u9gz75vz"
+}

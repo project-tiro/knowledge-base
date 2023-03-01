@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "5cvco7tq0r",
+    "ordering": 5,
+    "location_text": "Lecture \"Projection is the closest vector in a subspace\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6jv6lxvxic"
+}

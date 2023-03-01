@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m8no247q",
+    "last_mod": "2014-08-31T00:19:34.137Z",
+    "ordering": 2,
+    "target_goals": ["z425f36ow2"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The gradient is needed for the maximum likelihood update."
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x66m8no247q"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "03lllww0p0",
+    "ordering": 0,
+    "location_text": "Section 14.3.1, \"Minimizing exponential error,\" pages 659-661",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tc47e25kp1"
+}

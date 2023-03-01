@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "deep belief networks",
+    "pointers": "* Deep belief nets are commonly used for  [unsupervised pre-training](unsupervised_pre_training) , where one first trains a generative model, and uses it to initialize a discriminative model.\n*  [Deep Boltzmann machines](deep_boltzmann_machines)  are another closely related deep architecture.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.7828016931500081,
+    "summary": "Deep belief networks (DBNs) are a kind of deep, multilayer graphical model which contains both directed and undirected edges. The bottom layer represents the inputs, and the higher layers are meant to represent increasingly abstract features of the data. DBNs can be trained in a layerwise fashion, and are often used to initialize deep discriminative neural networks, a procedure known as generative pre-training.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "deep_belief_networks",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "r9abrive"
+}

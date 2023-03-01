@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "643uoa8t",
+    "last_mod": "2014-10-11T21:15:09.927Z",
+    "ordering": 3,
+    "target_goals": ["6y1bt106ba1", "azld5otpecr", "jef5wb2u3sg", "y083ui01s2l"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "The spectral decomposition gives insight into the inverse of a symmetric matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnaf643uoa8t"
+}

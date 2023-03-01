@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "exponential families",
+    "pointers": "* Exponential families can be parameterized in terms of  [sufficient statistics](sufficient_statistics) .\n*  [Generalized linear models](generalized_linear_models)  are a generalization of linear regression where the observation model is an exponential family distribution.\n* A lot of aspects of statistical modeling wind up having convenient forms for exponential families:\n**  [conjugate priors](bayes_param_exp_fam)\n**  [maximum likelihood estimation](maximum_likelihood_in_exponential_families)\n**  [variational inference](variational_exponential_family) , a kind of approximate probabilistic inference algorithm\n* Markov random fields  [can be viewed](mrfs_as_exponential_families)  as exponential families.",
+    "tags": ["freqstats", "probabilitytheor"],
+    "learn_time": 0.8198188004614726,
+    "summary": "Exponential families are a broad class of probability distributions which includes many basic distributions such as Bernoullis and Gaussians, as well as Markov random fields. What they have in common is that the distributions can be represented in terms of log-linear functions of sufficient statistics.\n",
+    "last_mod": "2014-09-02T00:06:49.865Z",
+    "tag": "exponential_families",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "d4agowtk"
+}

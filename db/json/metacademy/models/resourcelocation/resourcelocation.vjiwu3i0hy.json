@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/logic1-001/lecture/37",
+    "cresource": "ojqcszhgc5",
+    "ordering": 0,
+    "location_text": "Lecture sequence \"Proofs for propositional logic\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vjiwu3i0hy"
+}

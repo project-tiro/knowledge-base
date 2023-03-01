@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:48:14.353Z",
+    "url": "http://en.wikipedia.org/wiki/Bellman%E2%80%93Ford_algorithm",
+    "cresource": "u9yo5x0zdyx",
+    "ordering": -1,
+    "location_text": "Section \"Bellman-Ford algorithm\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tl5qw54czvv"
+}

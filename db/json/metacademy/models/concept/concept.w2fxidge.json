@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "value iteration",
+    "pointers": "* The policy typically converges long before the value function, therefore  [policy iteration](policy_iteration)  is typically used instead of value iteration to learn an optimal policy. Both policy iteration and value iteration are Bellman updates turned into an iterative algorithms, where the difference is whether you plug in a fixed policy and iteratively improve (policy iteration) or directly look for the best policy by considering all of the actions (value iteration).",
+    "tags": ["reinforcementlea"],
+    "learn_time": 1.2536806942788978,
+    "summary": "Value iteration is a recursive algorithm for computing the value function, and in turn the optimal policy, for a Markov decision process.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "value_iteration",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "w2fxidge"
+}

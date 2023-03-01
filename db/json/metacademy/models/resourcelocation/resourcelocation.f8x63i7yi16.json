@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:50:16.921Z",
+    "url": "http://publications.gbdirect.co.uk/c_book/the_c_book.pdf#page=147",
+    "cresource": "82hse8fmn0t",
+    "ordering": -1,
+    "location_text": "Section 5.5, \"Sizeof and storage allocation,\" pages 147-156",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f8x63i7yi16"
+}

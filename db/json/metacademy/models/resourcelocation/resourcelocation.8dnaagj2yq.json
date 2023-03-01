@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=wV3JuVI2tLM&list=PL17567A1A3F5DB5E4&index=8",
+    "cresource": "iy8o916tup",
+    "ordering": 7,
+    "location_text": "Lecture 1.8, \"Measure theory: CDFs and Borel probability measures\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8dnaagj2yq"
+}

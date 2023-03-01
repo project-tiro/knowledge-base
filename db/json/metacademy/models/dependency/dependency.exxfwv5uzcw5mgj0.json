@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zcw5mgj0",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 437,
+    "target_goals": ["crtm46jfhs", "io6ghjv50a", "tqagxch6k8", "y3e5cref4x"],
+    "source_goals": ["52ww5p6xjt", "82ca4tl8gw", "zujj62fkb2"],
+    "source": "exxfwv5u",
+    "reason": "The definition of order relations parallels that of equivalence relations."
+  },
+  "model": "graph.dependency",
+  "pk": "exxfwv5uzcw5mgj0"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Give an example where the likelihood function is multimodal (and therefore you shouldn't always expect to the global optimum).",
+    "concept": "tmvi3pqi",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "6vipwmw7cg"
+}

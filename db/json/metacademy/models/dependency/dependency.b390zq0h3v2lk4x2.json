@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3v2lk4x2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 19,
+    "target_goals": [],
+    "source_goals": ["4mjb1dlm54", "4n0u0b3sdo", "uyspc07txs", "xntiq9ywo6"],
+    "source": "b390zq0h",
+    "reason": "Bayesian model averaging is based on the same ideas as Bayesian model comparison."
+  },
+  "model": "graph.dependency",
+  "pk": "b390zq0h3v2lk4x2"
+}

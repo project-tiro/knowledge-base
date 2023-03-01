@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bjleobug",
+    "last_mod": "2014-09-01T23:59:08.814Z",
+    "ordering": 5,
+    "target_goals": ["zfxkrcthbd"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "The joint entropy of a set of independent random variables is the sum of the individual entropies."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98ebjleobug"
+}

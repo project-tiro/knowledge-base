@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:12:30.858Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec02.pdf",
+    "cresource": "2eklaq0xv5i",
+    "ordering": -1,
+    "location_text": "Lecture 2 notes, \"Test-first programming\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hvhbmf7tj5x"
+}

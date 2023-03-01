@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "r42gk64t4e",
+    "ordering": 0,
+    "location_text": "Section 7.1.1, \"Basic parameterization,\" pages 247-249",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s4n8b4r8i9"
+}

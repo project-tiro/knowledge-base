@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "k15wk1obak8",
+    "ordering": -1,
+    "location_text": "Chapter 9, \"Riemannian metrics,\" from pages 300-316",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yy2yafm7g6z"
+}

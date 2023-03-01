@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "KKT conditions",
+    "pointers": "* Applications in machine learning and statistics:\n** Applying the conditions to  [support vector machines (SVMs)](svm_optimality_conditions)  is critical to show sparsity, the property that lets them be kernelized.",
+    "tags": ["optimization"],
+    "learn_time": 1.5352660408860108,
+    "summary": "The Karush-Kuhn-Tucker (KKT) conditions are a set of optimality conditions for optimization problems in terms of the optimization variables and Lagrange multipliers. \n",
+    "last_mod": "2014-08-30T17:09:14.995Z",
+    "tag": "kkt_conditions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "7lucjwrh"
+}

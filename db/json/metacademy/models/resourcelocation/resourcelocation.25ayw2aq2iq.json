@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:28:28.513Z",
+    "url": "http://www.wisdom.weizmann.ac.il/~yakov/Geometry/4.pdf",
+    "cresource": "md1skja8msf",
+    "ordering": -1,
+    "location_text": "Part 3, \"Algebra of vector fields, Lie derivatives,\" up through section 2, \"Star conventions,\" pages 1-2",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "25ayw2aq2iq"
+}

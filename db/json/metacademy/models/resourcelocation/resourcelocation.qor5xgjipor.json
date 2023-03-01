@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:08:13.937Z",
+    "url": "http://introcs.cs.princeton.edu/java/42sort/",
+    "cresource": "umuwrib4d20",
+    "ordering": -1,
+    "location_text": "Section 4.2, \"Sorting\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qor5xgjipor"
+}

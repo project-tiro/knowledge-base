@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0sqslybm",
+    "last_mod": "2014-08-30T21:34:01.718Z",
+    "ordering": -1,
+    "target_goals": ["2tq7w36rdcj", "46qtr8756mb", "u3terd1lv8l", "v12v09ma25z"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "Matrix inverses are needed in deriving the factorization."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnaf0sqslybm"
+}

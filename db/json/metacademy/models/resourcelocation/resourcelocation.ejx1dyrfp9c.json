@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T22:12:09.410Z",
+    "url": "https://class.coursera.org/algo-004/lecture/71",
+    "cresource": "qjg0l0j7uho",
+    "ordering": -1,
+    "location_text": "Lecture sequence 15, \"Bloom filters\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ejx1dyrfp9c"
+}

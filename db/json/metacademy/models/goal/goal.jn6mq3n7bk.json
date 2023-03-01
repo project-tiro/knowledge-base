@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Prove the theorem",
+    "concept": "j28yq33k",
+    "last_mod": "2014-08-31T15:10:03.194Z"
+  },
+  "model": "graph.goal",
+  "pk": "jn6mq3n7bk"
+}

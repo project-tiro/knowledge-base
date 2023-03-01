@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "cardinality",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 2.592334634122472,
+    "summary": "Cardinality is a way of measuring the size of a set. Two sets have the same cardinality if they are equinumerous, i.e. if there is a bijective mapping between them. A has a larger cardinality than B if there is an injective mapping from B to A. Cardinality gives a precise way to talk about different sizes of infinity.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "cardinality",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9llvvj6h"
+}

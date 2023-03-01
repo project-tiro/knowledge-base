@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "perceptron algorithm",
+    "pointers": "* The perceptron was proposed in the 50s, although it's still in use. More modern algorithms have a similar form, but are put on a more mathematical footing:\n**  [logistic regression](logistic_regression) , which is formulated as a probabilistic model\n**  [support vector machines (SVMs)](support_vector_machines) , which are formulated as an optimization problem\n* The perceptron algorithm can be used to  [learn to predict structured objects](structural_perceptron)  (e.g. trees and graphs), not just binary values.\n* The perceptron convergence proof requires the assumption that the data are linearly separable by a nonzero margin.  [Support vector machines (SVMs)](support_vector_machines)  are geared towards the same case.\n* The perceptron can be  [kernelized](kernel_perceptron)  in order to capture nonlinear dependencies.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.0632815545785774,
+    "summary": "The perceptron is a simple algorithm for binary classification where the weights are adjusted in the direction of each misclassified example.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "perceptron",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gmih3ocq"
+}

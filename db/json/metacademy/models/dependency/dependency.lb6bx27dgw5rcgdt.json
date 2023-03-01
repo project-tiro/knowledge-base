@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "gw5rcgdt",
+    "last_mod": "2014-09-07T04:13:41.880Z",
+    "ordering": -1,
+    "target_goals": [
+      "0tfize2xk73",
+      "16u89dshrc6",
+      "djtf9ihc7qt",
+      "glgho87oxtl",
+      "hj797naoepw",
+      "lfbmrd8lcnd",
+      "zh17xzb4jn3"
+    ],
+    "source_goals": ["6r0w9qx5r1q", "7j4mbtq6apd", "ao7hgazpmf8", "b8ud5xt64rt", "jw74nfs1rxm", "rzt91kdzmhr"],
+    "source": "lb6bx27d",
+    "reason": "Using C generics requires understanding how basic data types are stored in memory"
+  },
+  "model": "graph.dependency",
+  "pk": "lb6bx27dgw5rcgdt"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "e6wbweue",
+    "last_mod": "2014-08-30T21:34:00.242Z",
+    "ordering": -1,
+    "target_goals": ["8fj8lm8rzbh", "hmp334zr5ya", "on5x0psvprs", "qqckxwupr7i"],
+    "source_goals": ["3eh3thnruxf", "bdf8amc02fk", "uiu5rlbjkc8"],
+    "source": "19eauumg",
+    "reason": "M-H is an example of an MCMC algorithm."
+  },
+  "model": "graph.dependency",
+  "pk": "19eauumge6wbweue"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "apf478vy",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'This actually covers relational logic, but at the level of this concept node, most of the ideas are the same. See the bonus lecture \"First order logic (a very brief introduction)\" for an explanation of the differences.', u'Click on \"Preview\" to see the videos.']",
+    "goals_covered": ["6xodgczm15"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "1arsamaeqa"
+  },
+  "model": "graph.conceptresource",
+  "pk": "mac3ms7fbg"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Know of one algorithm for fitting ICA (e.g. gradient ascent on the likelihood)",
+    "concept": "hy3f0q5e",
+    "last_mod": "2014-08-30T16:56:04.038Z"
+  },
+  "model": "graph.goal",
+  "pk": "79zostvoaqt"
+}

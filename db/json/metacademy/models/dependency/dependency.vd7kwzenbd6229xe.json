@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bd6229xe",
+    "last_mod": "2014-08-30T21:34:01.963Z",
+    "ordering": -1,
+    "target_goals": ["c5jl823g1hb", "f5sactlyqy9", "qayka8kwrjj", "rcop43kg3r6"],
+    "source_goals": ["2zr01kc6r24"],
+    "source": "vd7kwzen",
+    "reason": "The maximum likelihood solution is derived using a variation of the proof of PCA correctness."
+  },
+  "model": "graph.dependency",
+  "pk": "vd7kwzenbd6229xe"
+}

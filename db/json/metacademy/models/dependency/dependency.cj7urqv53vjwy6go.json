@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3vjwy6go",
+    "last_mod": "2014-08-30T21:34:00.776Z",
+    "ordering": -1,
+    "target_goals": ["0dn5y4a30ff", "bj7m9mcr2q8", "f3qgin4eljt", "rvudncn4e2b", "v1aisgae154"],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "Multivariate distributions are a way of representing dependencies between random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv53vjwy6go"
+}

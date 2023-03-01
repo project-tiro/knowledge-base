@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l4im2jkx",
+    "last_mod": "2014-08-31T00:09:08.825Z",
+    "ordering": 3,
+    "target_goals": ["cguejujbnpn", "pwfbwcnflpx"],
+    "source_goals": ["3zpbku1zz6t"],
+    "source": "4n3f60w8",
+    "reason": "The Wishart distribution is the conjugate prior for the precision matrix of a multivariate Gaussian."
+  },
+  "model": "graph.dependency",
+  "pk": "4n3f60w8l4im2jkx"
+}

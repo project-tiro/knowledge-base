@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Online lectures on basic probability theory.",
+    "version_num": 0,
+    "title": "Sets, Counting, and Probability",
+    "url": "http://www.extension.harvard.edu/open-learning-initiative/sets-counting-probability",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "cj44uxn6my"
+}

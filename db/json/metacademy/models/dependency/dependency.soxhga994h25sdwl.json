@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4h25sdwl",
+    "last_mod": "2014-08-30T21:34:02.154Z",
+    "ordering": 2,
+    "target_goals": ["45td3egk7bh", "bpyms6ol6vi", "r9lqp06q88h", "wrv9crvz14w"],
+    "source_goals": ["1z3pszxqr3m", "d3hkmi4jdu0", "hdpf4w1zceo", "m3rgg91pkwe", "mc4018ewirg", "r5ymh04n5zj"],
+    "source": "soxhga99",
+    "reason": "Orientations on vector spaces can be defined in terms of equivalence classes of bases"
+  },
+  "model": "graph.dependency",
+  "pk": "soxhga994h25sdwl"
+}

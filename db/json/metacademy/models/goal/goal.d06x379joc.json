@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Prove the Cramer-Rao theorem, which bounds the variance of any unbiased estimator of model parameters.",
+    "concept": "qfzexdq8",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "d06x379joc"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n4mru8iv",
+    "last_mod": "2014-08-30T21:34:00.252Z",
+    "ordering": -1,
+    "target_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source_goals": ["3eh3thnruxf", "bdf8amc02fk", "uiu5rlbjkc8"],
+    "source": "19eauumg",
+    "reason": "Gibbs sampling is an MCMC algorithm."
+  },
+  "model": "graph.dependency",
+  "pk": "19eauumgn4mru8iv"
+}

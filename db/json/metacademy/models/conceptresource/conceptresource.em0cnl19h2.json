@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "jnww935m",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": ["0q7f2ssx41", "d34w36pvcs"],
+    "edition": "2",
+    "additional_dependencies": "[{u'title': u'recursion theorem'}]",
+    "global_resource": "psdeikotva"
+  },
+  "model": "graph.conceptresource",
+  "pk": "em0cnl19h2"
+}

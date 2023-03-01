@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Using the fact that CG minimizes the objective function over the Krylov subspace, give an explicit expression for the objective function after k iterations in terms of the eigenvalues of A and a polynomial",
+    "concept": "4740ilrp",
+    "last_mod": "2014-10-20T01:23:07.252Z"
+  },
+  "model": "graph.goal",
+  "pk": "vjswupbhoco"
+}

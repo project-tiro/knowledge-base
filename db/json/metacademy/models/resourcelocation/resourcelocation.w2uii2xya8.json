@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://cs229.stanford.edu/notes/cs229-notes4.pdf#page=2",
+    "cresource": "ctra70bjqg",
+    "ordering": 0,
+    "location_text": "Lecture 4, \"Learning Theory,\" Section 2, \"Preliminaries,\" pages 2-4 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "w2uii2xya8"
+}

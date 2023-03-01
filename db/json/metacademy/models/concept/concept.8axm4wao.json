@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational interpretation of EM",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 0.9795404333228593,
+    "summary": "The expectation-maximization (EM) algorithm can be interpreted as a coordinate ascent procedure which optimizes a variational lower bound on the likelihood function. This connects it with variational inference algorithms and justifies various generalizations and approximations to the algorithm.\n",
+    "last_mod": "2014-08-30T20:18:41.344Z",
+    "tag": "em_variational_interpretation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8axm4wao"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:33:30.673Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec06.pdf#page=8",
+    "cresource": "ejd14kreu43",
+    "ordering": -1,
+    "location_text": "Lecture 6 notes, \"Abstract data types,\" starting from \"Rep invariant and abstraction function,\" pages 8-12",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rzfx576j7i7"
+}

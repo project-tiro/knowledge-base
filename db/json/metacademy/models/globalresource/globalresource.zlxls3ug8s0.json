@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free tutorial on pointers in C",
+    "version_num": 0,
+    "title": "A Tutorial on Pointers and Arrays in C",
+    "url": "http://home.earthlink.net/~momotuk/pointers.pdf",
+    "notes": "",
+    "year": 2003,
+    "access": "free",
+    "last_mod": "2014-09-07T00:31:53.761Z",
+    "authors": "[u'Ted Jensen']",
+    "edition_years": "[]",
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "zlxls3ug8s0"
+}

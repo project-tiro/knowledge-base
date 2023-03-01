@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "nondeterministic Turing machines",
+    "pointers": null,
+    "tags": ["theorycomp"],
+    "learn_time": 1.251628443364467,
+    "summary": "Nondeterministic Turing machines are a variant of Turing machines which can have multiple possible actions in a given state. They accept an input if there is any possible execution path which accepts it. They are no more powerful than ordinary Turing machines in terms of what they can compute, but are believed to be much more powerful in terms of what they can compute efficiently.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "nondeterministic_turing_machines",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wltj1far"
+}

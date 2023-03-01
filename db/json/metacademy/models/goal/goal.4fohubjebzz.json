@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know of at least one method for fitting the model (e.g. gradient descent, closed form solution)",
+    "concept": "x6e7glql",
+    "last_mod": "2014-08-30T17:27:17.602Z"
+  },
+  "model": "graph.goal",
+  "pk": "4fohubjebzz"
+}

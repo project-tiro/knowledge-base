@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conjugate gradient",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 2.0176536119953186,
+    "summary": "Conjugate gradient is an algorithm for solving large systems of linear equations of the form Ax = b where A is positive definite. It works by ensuring that the search directions are all conjugate (a property which generalizes the notion of orthogonality). Since it is implemented in terms of matrix-vector products, it is efficient when A is sparse, or when Ax can otherwise be computed efficiently.",
+    "last_mod": "2014-10-20T01:44:21.553Z",
+    "tag": "conjugate_gradient",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "enkz0tvz"
+}

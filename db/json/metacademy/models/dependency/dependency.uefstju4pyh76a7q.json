@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pyh76a7q",
+    "last_mod": "2014-09-13T23:50:58.078Z",
+    "ordering": -1,
+    "target_goals": ["if2lmofpt3u", "m4jymha7r3y"],
+    "source_goals": ["8qjyahis8fo", "fjawla4x30g", "gazubxd3m2y", "q4mjdizhua9"],
+    "source": "uefstju4",
+    "reason": "The most straightforward implementation of binary search is recursive."
+  },
+  "model": "graph.dependency",
+  "pk": "uefstju4pyh76a7q"
+}

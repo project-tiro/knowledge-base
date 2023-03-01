@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "so30pf29",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 563,
+    "target_goals": [],
+    "source_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "ngail3kuhl", "xdi8cq7o4y"],
+    "source": "ghb79f4f",
+    "reason": "Gaussian process regression is a kernelized version of Bayesian linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "ghb79f4fso30pf29"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "line integrals",
+    "pointers": "*  [Green's Theorem](greens_theorem)  is a powerful theorem relating line integrals to integrals of functions\n*  [Surface integrals](surface_integrals)  are the higher-dimensional analogue",
+    "tags": ["mvcalc"],
+    "learn_time": 1.2538152851801705,
+    "summary": "The line integral gives a notion of integrating a vector field along a curve. Common uses include computing work done by a force and finding potential functions corresponding to a gradient field.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "line_integrals",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "lprnbl8i"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "z4efgcsu",
+    "last_mod": "2014-09-06T23:25:24.716Z",
+    "ordering": 3,
+    "target_goals": ["tlo047j1w7e"],
+    "source_goals": ["u66g4yqwvp1"],
+    "source": "99werltk",
+    "reason": "Arrays of strings are a canonical use case of multi-dimensional arrays"
+  },
+  "model": "graph.dependency",
+  "pk": "99werltkz4efgcsu"
+}

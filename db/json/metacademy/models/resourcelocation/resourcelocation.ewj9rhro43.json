@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=V0KAb_VsLOc&list=PL17567A1A3F5DB5E4&index=16",
+    "cresource": "z3ahltbk39",
+    "ordering": 0,
+    "location_text": "Lecture 3.1, \"Random variables - definition and CDF\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ewj9rhro43"
+}

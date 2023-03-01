@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Define the Fisher information matrix as the expected second derivative of the log-likelihood",
+    "concept": "5p5nsbin",
+    "last_mod": "2014-09-19T15:50:18.482Z"
+  },
+  "model": "graph.goal",
+  "pk": "w59cvdkbx09"
+}

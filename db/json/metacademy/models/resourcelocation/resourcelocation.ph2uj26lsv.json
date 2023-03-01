@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=_aNk4QKi2_o&list=PLD0F06AA0D2E8FFBA&index=27",
+    "cresource": "3ddn97z6ou",
+    "ordering": 0,
+    "location_text": "Lecture 5.1, \"Exponential families (part 1)\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ph2uj26lsv"
+}

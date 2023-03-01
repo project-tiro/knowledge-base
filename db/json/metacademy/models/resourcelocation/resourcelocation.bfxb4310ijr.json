@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:49:02.758Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap12.pdf",
+    "cresource": "1bz4abe62r6",
+    "ordering": -1,
+    "location_text": "Lecture 12 notes, \"Tensors,\" up through 12.6, \"Tensor bundles,\" pages 1-6",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bfxb4310ijr"
+}

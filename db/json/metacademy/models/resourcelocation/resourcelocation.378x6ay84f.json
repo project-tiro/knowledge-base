@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/intrologic-004/lecture/44",
+    "cresource": "dd20zof4d9",
+    "ordering": 0,
+    "location_text": "Lecture \"Propositional satisfiability\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "378x6ay84f"
+}

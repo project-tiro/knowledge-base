@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "GP classification with the Laplace approximation",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.1419489238278797,
+    "summary": "Unlike with GP regression, there is no closed-form solution to GP classification. The most basic method for approximating it is to use the Laplace approximation, thereby formulating it as an optimization problem.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gp_classification_laplace",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "q2rwucp3"
+}

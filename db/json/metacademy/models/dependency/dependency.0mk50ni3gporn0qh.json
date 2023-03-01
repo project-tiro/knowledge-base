@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gporn0qh",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 663,
+    "target_goals": [],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "Markov models are defined in terms of the transition distribution, which is a conditional distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni3gporn0qh"
+}

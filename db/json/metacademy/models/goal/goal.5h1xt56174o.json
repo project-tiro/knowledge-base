@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Be able to check if a quantity is conserved using the Poisson bracket",
+    "concept": "69bpesql",
+    "last_mod": "2014-09-19T18:55:09.263Z"
+  },
+  "model": "graph.goal",
+  "pk": "5h1xt56174o"
+}

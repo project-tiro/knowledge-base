@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "convex optimization",
+    "pointers": "* Some special cases of convex optimization problems:\n**  [linear least squares](linear_least_squares)\n**  [linear programming](linear_programming)\n**  [quadratic programming](quadratic_programming)\n**  [semidefinite programming](semidefinite_programming)\n* Some algorithms used in convex optimization:\n**  [gradient descent](gradient_descent)\n**  [Newton-Rhapson](newton_rhapson)\n**  [conjugate gradient](conjugate_gradient)\n**  [quasi-Newton methods](quasi_newton_methods)\n**  [interior point methods](interior_point_methods)\n* Applications in statistics and machine learning:\n**  [maximum likelihood in exponential families](maximum_likelihood_in_exponential_families)  is a convex optimization problem\n**  [support vector machines](support_vector_machine) , a widely used classification algorithm",
+    "tags": ["optimization"],
+    "learn_time": 3.531130330434991,
+    "summary": "Convex optimization refers to optimizing a convex function over a convex set. It is a very broad class of problems, encompassing widely used techniques such as linear programming, linear least squares, quadratic programming, and semidefinite programming. Convex optimization is important because for reasonable-sized problems, there are efficient algorithms for finding the global optimum.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "convex_optimization",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ummxprtk"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian parameter estimation: multinomial distribution",
+    "pointers": "* Some examples of models that use Dirichlet-multinomial distributions:\n**  [Bayesian mixture of Gaussians](bayesian_mixture_of_gaussians)\n**  [latent Dirichlet allocation](latent_dirichlet_allocation)\n* The  [Chinese restaurant process](chinese_restaurant_process)  is an analogue of the Dirichlet-multinomial distribution to infinitely many mixture components.",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.219489069571057,
+    "summary": "Suppose we observe a set of draws from a multinomial distribution with unknown parameters and we're trying to predict the distribution over subsequent draws. If we put a Dirichlet prior over the probabilities, we can analytically integrate out the parameters to get the posterior predictive distribution. This has a very simple form: adding fake counts and then normalizing. These ideas are used more generally in Bayesian models involving discrete variables.\n",
+    "last_mod": "2014-08-31T00:07:14.317Z",
+    "tag": "bayesian_parameter_estimation_multinomial",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "i7i4hny7"
+}

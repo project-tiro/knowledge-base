@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ap6ijk2i",
+    "last_mod": "2014-08-31T00:02:51.126Z",
+    "ordering": 3,
+    "target_goals": ["9awbz3spah"],
+    "source_goals": ["m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "A common use of the predictive distribution is computing expectations."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpap6ijk2i"
+}

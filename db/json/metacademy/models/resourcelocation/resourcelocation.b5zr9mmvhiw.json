@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T00:15:21.019Z",
+    "url": "http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf#page=36",
+    "cresource": "vkckdb0le42",
+    "ordering": -1,
+    "location_text": "Section 8, \"The method of conjugate gradients,\" pages 30-32",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "b5zr9mmvhiw"
+}

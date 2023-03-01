@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "structural induction",
+    "pointers": null,
+    "tags": ["logic", "settheory"],
+    "learn_time": 1.3825213530930112,
+    "summary": "Many mathematical objects, such as natural numbers, lists, and trees, are defined recursively in terms of basic components and composition rules. Structural induction is a technique for proving statements inductively about recursively defined structures. One proves base cases corresponding to the base objects, as well as inductive steps corresponding to each of the composition rules.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "structural_induction",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2ueqnq3w"
+}

@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "last_mod": "2014-08-18T13:29:59.510Z",
+    "concepts": ["4ocvc918", "6o8bvixc", "bveqc1fo", "kp6axa2i", "m3bm96b5", "nw2kqzlz", "vxncdcer"],
+    "dependencies": [
+      "4ocvc918bveqc1fo",
+      "bveqc1fonw2kqzlz",
+      "kp6axa2im3bm96b5",
+      "kp6axa2ivxncdcer",
+      "m3bm96b56o8bvixc",
+      "m3bm96b5nw2kqzlz",
+      "nw2kqzlz6o8bvixc",
+      "vxncdcernw2kqzlz"
+    ],
+    "title": "Untitled Graph"
+  },
+  "model": "graph.graph",
+  "pk": "nxfio8bw"
+}

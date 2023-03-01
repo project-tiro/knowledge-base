@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9qzhetox",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 669,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "ht7tx1xs",
+    "reason": "Linear-Gaussian models are a kind of Bayes net."
+  },
+  "model": "graph.dependency",
+  "pk": "ht7tx1xs9qzhetox"
+}

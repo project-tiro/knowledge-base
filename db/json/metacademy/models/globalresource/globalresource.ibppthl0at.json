@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Introduction to the Dirichlet Distribution and Related Processes",
+    "url": "https://www.ee.washington.edu/techsite/papers/documents/UWEETR-2010-0006.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Bela A. Frigyik', u'Amon Kapila', u'Maya R. Gupta']",
+    "edition_years": null,
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "ibppthl0at"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "wgrnuluh",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'It may be helpful to first skim Lecture4, which covers sequence modeling.']",
+    "goals_covered": ["2q2zcc2lln", "7wmegu33tx", "afjacztv0z"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "u33jnnulfq"
+  },
+  "model": "graph.conceptresource",
+  "pk": "9qypwiepiw"
+}

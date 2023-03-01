@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "886laqe9",
+    "last_mod": "2014-08-30T21:34:01.630Z",
+    "ordering": 821,
+    "target_goals": [],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "Lagrange multipliers are needed to derive the update rules."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgv886laqe9"
+}

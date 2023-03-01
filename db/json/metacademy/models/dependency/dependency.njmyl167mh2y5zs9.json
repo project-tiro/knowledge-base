@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mh2y5zs9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 190,
+    "target_goals": ["7ib85orl9e"],
+    "source_goals": ["11c9idv010", "u0rp0szpds"],
+    "source": "njmyl167",
+    "reason": "Extending Godel's incompleteness results to set theory requires an interpretation of arithmetic into set theory."
+  },
+  "model": "graph.dependency",
+  "pk": "njmyl167mh2y5zs9"
+}

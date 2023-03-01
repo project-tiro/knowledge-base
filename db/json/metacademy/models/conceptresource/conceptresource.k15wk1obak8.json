@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "ex32fjyz",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": -1,
+    "notes": "[u'The parts relating to topology and volume forms are optional']",
+    "goals_covered": [],
+    "edition": "3",
+    "additional_dependencies": "[{u'tag': u'least_mean_squares', u'id': u'24w1d13c', u'title': u''}]",
+    "global_resource": "tn11fzbzdoy"
+  },
+  "model": "graph.conceptresource",
+  "pk": "k15wk1obak8"
+}

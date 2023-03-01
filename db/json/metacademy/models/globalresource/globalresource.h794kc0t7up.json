@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free online introductory programming textbook which uses the Python language",
+    "version_num": 0,
+    "title": "Think Python: How to Think like a Computer Scientist",
+    "url": "http://www.greenteapress.com/thinkpython/html/index.html",
+    "notes": "",
+    "year": 2014,
+    "access": "free",
+    "last_mod": "2014-09-11T02:28:27.561Z",
+    "authors": "[u'Allen B. Downey']",
+    "edition_years": "[]",
+    "resource_type": "online textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "h794kc0t7up"
+}

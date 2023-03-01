@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dzglti0l",
+    "last_mod": "2014-08-30T21:34:01.183Z",
+    "ordering": 538,
+    "target_goals": [],
+    "source_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source": "jnw8a0ar",
+    "reason": "The probit function is the CDF of the Gaussian distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "jnw8a0ardzglti0l"
+}

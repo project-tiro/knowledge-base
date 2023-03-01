@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A classic introductory probability textbook.",
+    "version_num": 0,
+    "title": "An Introduction to Probability Theory and its Applications",
+    "url": "http://www.amazon.com/gp/product/0471257087/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0471257087&linkCode=as2&tag=metacademy-20&linkId=U6FHUEVMUSMC5SNQ",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'William Feller']",
+    "edition_years": "[u'1950', u'1957', u'1968']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "5yxarsmf32"
+}

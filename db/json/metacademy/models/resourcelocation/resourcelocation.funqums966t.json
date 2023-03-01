@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:05:37.883Z",
+    "url": "https://www.udacity.com/course/viewer#!/c-cs271/l-48678875/e-48749131/m-48699626",
+    "cresource": "27u83kfhqag",
+    "ordering": -1,
+    "location_text": "Part 2, \"Problem solving,\" starting from \"A* Search\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "funqums966t"
+}

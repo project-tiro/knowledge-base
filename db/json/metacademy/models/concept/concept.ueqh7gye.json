@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Dijkstra's algorithm",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.8692747143274588,
+    "summary": "Dijkstra's Algorithm is an algorithm for computing the shortest path between two vertices of a graph where all edges have nonnegative weight. It is based on repeatedly expanding the closest vertex which has not yet been reached.",
+    "last_mod": "2014-08-29T01:38:06.772Z",
+    "tag": "dijkstras_algorithm",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "ueqh7gye"
+}

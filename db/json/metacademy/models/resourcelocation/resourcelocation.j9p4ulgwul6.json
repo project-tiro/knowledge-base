@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:09:52.303Z",
+    "url": "http://www.cs.elte.hu/geometry/csikos/dif/dif10.pdf",
+    "cresource": "m15evo7lvnj",
+    "ordering": -1,
+    "location_text": "Unit 10, \"The Lie algebra of vector fields,\" pages 4-6",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "j9p4ulgwul6"
+}

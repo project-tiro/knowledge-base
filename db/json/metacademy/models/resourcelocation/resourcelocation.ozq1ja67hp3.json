@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T03:54:40.502Z",
+    "url": "http://en.wikipedia.org/wiki/Stack_(abstract_data_type)",
+    "cresource": "sbnvamuu15r",
+    "ordering": -1,
+    "location_text": "Article \"Stack (abstract data type),\" up through \"Software stacks\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ozq1ja67hp3"
+}

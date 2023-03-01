@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4h25sdwl",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 3,
+    "target_goals": ["45td3egk7bh", "bpyms6ol6vi", "r9lqp06q88h", "wrv9crvz14w"],
+    "source_goals": ["b0srq1kra6", "j2cwggb5so4", "obu1s41m4uk", "pslm2gzw5d", "tmk4ejfjijg", "wbssblfcja"],
+    "source": "jk3iwl1f",
+    "reason": "A manifold is orientable iff it has a nonzero volume form"
+  },
+  "model": "graph.dependency",
+  "pk": "jk3iwl1f4h25sdwl"
+}

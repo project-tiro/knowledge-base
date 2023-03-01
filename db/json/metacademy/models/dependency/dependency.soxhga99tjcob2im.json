@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tjcob2im",
+    "last_mod": "2014-08-30T21:34:01.709Z",
+    "ordering": -1,
+    "target_goals": ["4ngj9uttv2h", "756aj5q871r", "og422t01mws", "psmyyyvrqsn"],
+    "source_goals": ["1z3pszxqr3m", "d3hkmi4jdu0", "hdpf4w1zceo", "m3rgg91pkwe", "mc4018ewirg", "r5ymh04n5zj"],
+    "source": "soxhga99",
+    "reason": "Analyzing the dimensions of the subspaces requires determining bases for them."
+  },
+  "model": "graph.dependency",
+  "pk": "soxhga99tjcob2im"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T19:16:27.371Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-6-avl-trees-avl-sort/",
+    "cresource": "nlqqswb0n7s",
+    "ordering": -1,
+    "location_text": "Lecture 6, \"AVL trees, AVL sort\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "l1m9vy7swk7"
+}

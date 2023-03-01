@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Give examples of pathological hash functions which lead to lots of collisions",
+    "concept": "r0b19pum",
+    "last_mod": "2014-08-27T21:56:54.467Z"
+  },
+  "model": "graph.goal",
+  "pk": "7s2hofsat3m"
+}

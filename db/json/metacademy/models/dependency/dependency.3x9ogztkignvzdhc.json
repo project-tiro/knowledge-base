@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ignvzdhc",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 582,
+    "target_goals": [],
+    "source_goals": ["rohasshogu", "yzcwf2y4b2"],
+    "source": "3x9ogztk",
+    "reason": "Collapsed Gibbs sampling is one way of performing inference in the model."
+  },
+  "model": "graph.dependency",
+  "pk": "3x9ogztkignvzdhc"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=hihuMBCuSlU",
+    "cresource": "wmhrzfz7w5",
+    "ordering": 0,
+    "location_text": "Machine Learning :: Model Selection & Cross Validation ",
+    "location_type": "video lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ifqtbr7gdh"
+}

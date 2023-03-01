@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Online videos on machine learning.",
+    "version_num": 0,
+    "title": "Mathematical Monk: Machine Learning",
+    "url": "http://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "s9u3j0waz0"
+}

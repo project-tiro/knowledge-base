@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "hnd1lj3g",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "3",
+    "additional_dependencies": "[{u'title': u'vector spaces'}, {u'title': u'Gaussian elimination'}, {u'title': u'complex vectors and matrices'}]",
+    "global_resource": "zrk3u92u9v"
+  },
+  "model": "graph.conceptresource",
+  "pk": "m68appzla2"
+}

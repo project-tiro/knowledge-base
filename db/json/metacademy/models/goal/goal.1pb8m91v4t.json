@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Derive the chain rule for writing joint entropy as a sum of conditional entropies.",
+    "concept": "bjleobug",
+    "last_mod": "2014-09-01T23:59:30.020Z"
+  },
+  "model": "graph.goal",
+  "pk": "1pb8m91v4t"
+}

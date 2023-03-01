@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conservative vector fields",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.3322117780130498,
+    "summary": "A vector field is conservative if it can be expressed as the gradient of a function (called the potential function), or equivalently, if all line integrals are path independent. The notion is useful because dynamical systems are easier to analyze if they can be described in terms of a potential function. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "conservative_vector_fields",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "kj19sehg"
+}

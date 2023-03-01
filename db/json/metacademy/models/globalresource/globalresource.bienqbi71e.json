@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Scribe notes for \"Computational Inference\" course",
+    "url": "http://www.math.uwaterloo.ca/~aghodsib/courses/w05stat440/w05stat440-notes/jan11.pdf#page=4",
+    "notes": "",
+    "year": 2006,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Alexandra Laflamme']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "bienqbi71e"
+}

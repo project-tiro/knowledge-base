@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:02.414Z",
+    "ordering": 2,
+    "target_goals": ["58ab8u7kc4h", "5stylb6ltat", "908iyypiafw", "a9csgloznzv"],
+    "source_goals": ["0rsvzyquytf", "1ic3mdidfqu", "5pb3ieh5ylo", "zff2dvy1l1v"],
+    "source": "ygqeubhx",
+    "reason": "Breadth-first search is a canonical example of an uninformed search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "ygqeubhxcqpveand"
+}

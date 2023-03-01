@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:32:22.453Z",
+    "url": "http://en.wikipedia.org/wiki/Hill_climbing",
+    "cresource": "ckjfpl417rg",
+    "ordering": -1,
+    "location_text": "Article \"Hill climbing\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d8ex8h8q6j8"
+}

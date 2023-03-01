@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:32:07.905Z",
+    "url": "http://en.wikipedia.org/wiki/Local_search_(optimization)",
+    "cresource": "ckjfpl417rg",
+    "ordering": -1,
+    "location_text": "Article \"Local search (optimization)\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4h7lyfst1ua"
+}

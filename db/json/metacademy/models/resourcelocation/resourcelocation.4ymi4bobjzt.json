@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T03:10:50.268Z",
+    "url": "http://en.wikipedia.org/wiki/Floating_point",
+    "cresource": "8zovbutti96",
+    "ordering": -1,
+    "location_text": "Article \"Floating point\": up through section \"IEEE 754: floating point in modern computers,\" excluding section \"History\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4ymi4bobjzt"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Show that the Hamiltonian flow is a symplectomorphism, i.e. it preserves the symplectic structure",
+    "concept": "69bpesql",
+    "last_mod": "2014-09-19T18:55:09.258Z"
+  },
+  "model": "graph.goal",
+  "pk": "4lwbnlh1aro"
+}

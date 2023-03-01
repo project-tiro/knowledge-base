@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5638xo54",
+    "last_mod": "2014-08-30T21:34:00.877Z",
+    "ordering": 761,
+    "target_goals": [],
+    "source_goals": ["dgbbyg8wi63", "v7qz6bqtp96"],
+    "source": "eah2lnit",
+    "reason": "The PMF for the IBP includes the gamma function."
+  },
+  "model": "graph.dependency",
+  "pk": "eah2lnit5638xo54"
+}

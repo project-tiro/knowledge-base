@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "* Be able to determine the potential function for a conservative vector field",
+    "concept": "kj19sehg",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "2ryob15rvp"
+}

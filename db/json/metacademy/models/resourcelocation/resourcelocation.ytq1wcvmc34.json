@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:25:13.493Z",
+    "url": "http://www.youtube.com/watch?v=5adNQvSlF50",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Empirical risk minimization\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ytq1wcvmc34"
+}

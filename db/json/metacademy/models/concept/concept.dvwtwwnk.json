@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "AdaBoost",
+    "pointers": "* AdaBoost can be interpreted as a  [greedy algorithm to minimize exponential loss](boosting_as_optimization) .\n*  [Decision trees](decision_trees)  are often used as the base classifier.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.1706570046587095,
+    "summary": "AdaBoost is an example of a boosting algorithm, where the goal is to take a \"weak classifier\" (one which performs slightly above chance) and make it into a \"strong classifier\" (one which performs well on the training set). It is widely used in data mining, especially in conjunction with decision trees, because of its simplicity and effectiveness.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "ada_boost",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dvwtwwnk"
+}

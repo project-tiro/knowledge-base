@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Be able to design unit tests based on the specification of a procedure",
+    "concept": "tz6a7wf6",
+    "last_mod": "2014-09-13T21:14:29.167Z"
+  },
+  "model": "graph.goal",
+  "pk": "0tbvq6huvfp"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "binary linear classifiers",
+    "pointers": "* Here are some commonly used binary classification algorithms:\n**  [perceptron](perceptron)\n**  [logistic regression](logistic_regression)\n**  [support vector machines (SVMs)](support_vector_machines)\n**  [Gaussian discriminant analysis](gaussian_discriminant_analysis)\n**  [naive Bayes](naive_bayes)\n* Other kinds of targets include:\n**  [real-valued](linear_regression)\n**  [categorical](multiway_classification)\n**  [ordinal](ordinal_regression)  (i.e. only the ranking matters)\n* We want our classifier to  [generalize well to new data](generalization) , not just perform well on the data it's already seen.\n* Some general techniques for improving generalization include:\n**  [regularization](regularization) , where overly complex solutions are penalized\n**  [model selection](model_selection)\n**  [feature selection](feature_selection)\n* Not all variables of interest can be modeled as linear functions of the input variables. To model nonlinear dependencies, check out:\n**  [basis function expansions](basis_function_expansions)\n**  [neural networks](feed_forward_neural_nets)\n**  [kernel methods](kernel_svm)",
+    "tags": ["machinelearning"],
+    "learn_time": 0.8680041838709844,
+    "summary": "A linear classifier makes a classification decision for a given observation based on the value of a linear combination of the observation's features. In a ``binary'' linear classifier, the observation is classified into one of two possible classes using a linear boundary in the input feature space.",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "binary_linear_classifiers",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gzaovo18"
+}

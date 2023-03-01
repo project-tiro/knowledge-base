@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that matrix multiplication is associative and distributive but not commutative",
+    "concept": "9p3calmt",
+    "last_mod": "2014-08-30T17:58:32.769Z"
+  },
+  "model": "graph.goal",
+  "pk": "ml5y1eo0gm0"
+}

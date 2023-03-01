@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9vt2aaif",
+    "last_mod": "2014-08-30T19:49:57.197Z",
+    "ordering": -1,
+    "target_goals": ["chc6ulpd6y1", "na57pclidb4", "y11kmlxajbx"],
+    "source_goals": [],
+    "source": "veoeq960",
+    "reason": "Sparse coding uses heavy-tailed distributions for the coefficients."
+  },
+  "model": "graph.dependency",
+  "pk": "veoeq9609vt2aaif"
+}

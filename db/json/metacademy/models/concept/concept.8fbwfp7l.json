@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multidimensional scaling",
+    "pointers": "* MDS is closely related to  [kernel PCA](kernel_pca)\n* MDS can be  [generalized to metrics other than Euclidean](mds_non_euclidean)\n*  [Weighted MDS](weighted_mds)  gives a way to uncover meaningful axes by simultaneously modeling multiple similarity matrices\n* Other algorithms for learning nonlinear embeddings include:\n**  [Isomap](isomap) , which tries to model distances along a neighborhood graph\n**  [locally linear embedding](locally_linear_embedding)\n**  [t-SNE](t_sne) , an embedding which tries to model short distances and ignore long ones\n**  [Gaussian process latent variable models](gaussian_process_latent_variable_model) , a Bayesian model similar in spirit to MDS",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Multidimensional scaling is a method for visualizing similarity between data points by embedding the data into a low-dimensional subspace. The locations are chosen so that the distances in the embedding space match the dissimilarities as closely as possible.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "multidimensional_scaling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8fbwfp7l"
+}

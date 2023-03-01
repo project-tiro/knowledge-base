@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "lwji01lp5f",
+    "ordering": 0,
+    "location_text": "Chapter 5, \"Construction of the real numbers,\" subsection \"Integers,\" pages 90-101",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "du5wjrn4ih"
+}

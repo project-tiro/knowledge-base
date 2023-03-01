@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "02fptj4ag5",
+    "ordering": 0,
+    "location_text": "Lecture \"Why object recognition is difficult\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fsjkwa6avf"
+}

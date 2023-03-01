@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know that if the Hessian matrix exists and is positive definite, then a critical point is a local minimum",
+    "concept": "wp7qyg7a",
+    "last_mod": "2014-08-30T19:21:48.960Z"
+  },
+  "model": "graph.goal",
+  "pk": "1o435flepfd"
+}

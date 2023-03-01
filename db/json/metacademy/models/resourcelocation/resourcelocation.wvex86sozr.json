@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/matrix_transformations/lin_trans_examples",
+    "cresource": "00ieyr0vdi",
+    "ordering": 1,
+    "location_text": "Lecture sequence \"Linear transformation examples\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wvex86sozr"
+}

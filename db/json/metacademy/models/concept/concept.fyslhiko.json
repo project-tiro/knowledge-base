@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "logistic regression",
+    "pointers": "* Logistic regression is a  [discriminative model](generative_vs_discriminative) .\n* Logistic regression is a kind of  [generalized linear model](generalized_linear_models) .\n*  [Iterative reweighted least squares (IRLS)](logistic_regression_irls) is a faster method for fitting logistic regression in low-dimensional settings.\n*  [Probit regression](probit_regression)  is a related model which uses thresholded Gaussians for the observation model instead of the logistic function.\n* We can  [formulate logistic regression as a Bayesian model](bayesian_logistic_regression)  to prevent overfitting and measure our confidence in the answer.\n* Here are some other commonly used binary classification algorithms:\n**  [perceptron](perceptron)\n**  [support vector machines (SVMs)](support_vector_machine)\n**  [Gaussian discriminant analysis](gaussian_discriminant_analysis)\n**  [naive Bayes](naive_bayes)\n* We would like our classifier to  [generalize well to new data](generalization) , not just the data it's already seen.\n* Some general techniques for improving generalization include:\n**  [regularization](regularization) , where overly complex solutions are penalized\n**  [model selection](model_selection)\n**  [feature selection](feature_selection)\n* Not all variables of interest can be modeled as linear functions of the input variables. To model nonlinear dependencies, check out:\n**  [basis function expansions](basis_function_expansions)\n**  [neural networks](feed_forward_neural_nets)\n**  [kernel methods](kernel_svm)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.6715961556362022,
+    "summary": "Logistic regression is a machine learning model for binary classification, i.e. learning to classify data points into one of two categories. It's a linear model, in that the decision depends only on the dot product of a weight vector with a feature vector. This means the classification boundary can be represented as a hyperplane. It's a widely used model in its own right, and the general structure of linear-followed-by-sigmoid is a common motif in neural networks.\n",
+    "last_mod": "2014-08-30T23:52:34.102Z",
+    "tag": "logistic_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "fyslhiko"
+}

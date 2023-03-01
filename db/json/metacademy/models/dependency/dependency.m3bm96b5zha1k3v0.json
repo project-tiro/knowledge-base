@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zha1k3v0",
+    "last_mod": "2014-08-30T21:34:01.405Z",
+    "ordering": 246,
+    "target_goals": ["150rtppooy", "8tvnk4f6jq", "p78kkc1vmp"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The chain rule is a way of computing partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5zha1k3v0"
+}

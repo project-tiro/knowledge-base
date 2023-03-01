@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6jrbekjh",
+    "last_mod": "2014-08-30T21:34:00.780Z",
+    "ordering": 648,
+    "target_goals": ["aux1gig1c4", "j4u9gz75vz"],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "The CDF is a property of a probability distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv56jrbekjh"
+}

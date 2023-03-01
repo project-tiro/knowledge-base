@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "b6ahvae4",
+    "last_mod": "2014-08-27T21:16:33.138Z",
+    "ordering": -1,
+    "target_goals": ["lm13ohryx28", "nmtj496ubln", "zxtdm1m7nho"],
+    "source_goals": ["07a1elbr31m", "471yn12x3ae", "4b7f1va5y5b", "4zirq2bp6cg", "q8ajfyjjtqe"],
+    "source": "evw4jfx7",
+    "reason": "Tries are closely related to binary search trees"
+  },
+  "model": "graph.dependency",
+  "pk": "evw4jfx7b6ahvae4"
+}

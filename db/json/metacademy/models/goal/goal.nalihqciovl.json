@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that higher order partial derivatives are symmetric with respect to the ordering of the variables",
+    "concept": "6o8bvixc",
+    "last_mod": "2014-08-30T03:36:29.990Z"
+  },
+  "model": "graph.goal",
+  "pk": "nalihqciovl"
+}

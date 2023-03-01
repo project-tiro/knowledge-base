@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "3zoa6rvakk",
+    "ordering": 2,
+    "location_text": "Section 6.7, \"Methods of proof involving mixed quantifiers,\" pages 172-177",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fhl4wi6vn4"
+}

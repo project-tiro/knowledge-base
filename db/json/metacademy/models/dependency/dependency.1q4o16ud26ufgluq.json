@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "26ufgluq",
+    "last_mod": "2014-08-30T17:04:06.496Z",
+    "ordering": -1,
+    "target_goals": ["k2oe2ho92ts", "scya75ka35l", "ybhjkl6pta9"],
+    "source_goals": [],
+    "source": "1q4o16ud",
+    "reason": "Kalman filtering requires a lot of operations on multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "1q4o16ud26ufgluq"
+}

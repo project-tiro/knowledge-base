@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A monograph on information geometry",
+    "version_num": 0,
+    "title": "Methods of Information Geometry",
+    "url": "http://www.amazon.com/Information-Translations-Mathematical-Monographs-Tanslations/dp/0821843028/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Shun-ichi Amari', u'Hiroshi Nagaoka']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "a7eqxt2am75"
+}

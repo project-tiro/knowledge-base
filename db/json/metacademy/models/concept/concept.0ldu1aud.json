@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "depth-first search",
+    "pointers": "",
+    "tags": ["algorithms", "programming", "symbolicai"],
+    "learn_time": 0.7843009306223844,
+    "summary": "Depth-first search is a kind of graph search where a branch of the search tree is explored as deeply as possible before backtracking. It can be used to compute a topological sort of a graph.\n",
+    "last_mod": "2014-11-08T21:48:44.374Z",
+    "tag": "depth_first_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "0ldu1aud"
+}

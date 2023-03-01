@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "beta process",
+    "pointers": "* The IBP is often used in probabilistic models with  [binary latent features](ibp_linear_gaussian_model) .",
+    "tags": ["bayesianstats", "machinelearning", "probabilitytheor"],
+    "learn_time": 1.0587912170460423,
+    "summary": "The beta process is a random discrete measure that is completely described by a countably infinite set of atoms, where each atom has a finite mass determined from a stick-breaking process. Unlike the Dirichlet process, the weights of the atoms do not have to sum to one, but the masses must be between [0,1], and the marginals of the beta process are not beta distributed. The beta process can be used as a base measure for a Bernoulli process, i.e. to yield a stochastic process for binary random variables. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "beta_process",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "p1fycmrv"
+}

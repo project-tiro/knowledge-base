@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:46:54.420Z",
+    "url": "https://class.coursera.org/algo-004/lecture",
+    "cresource": "x6by62gq4w5",
+    "ordering": -1,
+    "location_text": "Lecture \"Computing strong components: the analysis\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r0i4hxz48nz"
+}

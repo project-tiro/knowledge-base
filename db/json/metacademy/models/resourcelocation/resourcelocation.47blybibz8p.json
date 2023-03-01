@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T16:59:07.264Z",
+    "url": "",
+    "cresource": "t4klne1gfn1",
+    "ordering": -1,
+    "location_text": "Chapter 9, \"Priority queues and heapsort,\" up through 9.5, \"Priority-queue ADT,\" pages 373-402",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "47blybibz8p"
+}

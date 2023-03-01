@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why doesn't solving this equation imply global optimality?",
+    "concept": "qevfxfgv",
+    "last_mod": "2014-08-30T17:13:23.078Z"
+  },
+  "model": "graph.goal",
+  "pk": "hci7ppry17c"
+}

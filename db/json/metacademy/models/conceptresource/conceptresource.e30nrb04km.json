@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "tmvi3pqi",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'The lecture \"EM in practice\" has good practical advice about using EM, and \"Latent variables\" talks about some cool applications.', u'Click on \"Preview\" to see the videos.']",
+    "goals_covered": ["6vipwmw7cg", "7ql1gn67ak", "9naz2yui2p", "dbrkpiwq32", "msaqx4z5o4"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "lv1g5xystt"
+  },
+  "model": "graph.conceptresource",
+  "pk": "e30nrb04km"
+}

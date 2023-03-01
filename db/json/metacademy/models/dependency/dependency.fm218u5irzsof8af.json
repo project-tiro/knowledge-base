@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rzsof8af",
+    "last_mod": "2014-09-19T16:12:07.660Z",
+    "ordering": -1,
+    "target_goals": ["10s390dfqua", "2twcmxt3i9k", "nzopy7nyrdx", "v9by796rdvr", "wszbchjeaxj"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "The Fisher information is defined in terms of the likelihood function and used to analyze the accuracy of maximum likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5irzsof8af"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be able to fit a decision tree using a recursive greedy strategy.",
+    "concept": "46ycc9su",
+    "last_mod": "2014-08-30T23:35:53.809Z"
+  },
+  "model": "graph.goal",
+  "pk": "qwlyz5cz5k"
+}

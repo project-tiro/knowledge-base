@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "opjuvkcjzb",
+    "ordering": 0,
+    "location_text": "Section 9.2, \"Eigenvalues, eigenvectors, and applications,\" up to \"Diagonalizability,\" pages 422-429",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r4qvk8yxim"
+}

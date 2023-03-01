@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "maximum likelihood",
+    "pointers": "* Examples of maximum likelihood estimation include:\n**  [Linear regression](linear_regression_as_maximum_likelihood)\n**  [Logistic regression](logistic_regression)\n**  [Mixture of Gaussians modeling](mixture_of_gaussians)\n* Maximum likelihood has some desirable  [asymptotic properties](asymptotics_of_maximum_likelihood)  such as consistency and asymptotic normality.\n* The  [Cramer-Rao bound](cramer_rao_bound)  implies that maximum likelihood estimation is asymptotically efficient.\n* For many commonly used distributions, we can find the global optimum because the  [optimization problem is convex](convex_optimization) . \n* Other methods for estimating parameters include:\n** the  [method of moments](method_of_moments)\n**  [Bayesian parameter estimation](bayesian_parameter_estimation)\n* Maximum likelihood can be prone to  [overfitting](generalization)  when there is not enough data to estimate the parameters.\n* Some techniques for avoiding overfitting include:\n**  [Regularized maximum likelihood](regularization)\n**  [Bayesian parameter estimation](bayesian_parameter_estimation)\n**  [Model selection](model_selection)\n**  [Feature selection](feature_selection)\n**  [Early stopping](early_stopping)\n* Some commonly used optimization algorithms for maximum likelihood estimation include:\n**  [gradient descent](gradient_descent)\n**  [expectation-maximization (EM)](expectation_maximization)\n**  [second-order methods](second_order_optimization_methods)\n* In  [exponential family models](exponential_families) , maximum likelihood  [can be equivalently interpreted](maximum_likelihood_in_exponential_families)  as maximum entropy modeling.",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 1.1971557875325347,
+    "summary": "Maximum likelihood is a general and powerful technique for learning statistical models, i.e. fitting the parameters to data. The maximum likelihood parameters are the ones under which the observed data has the highest probability. It is widely used in practice, and techniques such as Bayesian parameter estimation are closely related to maximum likelihood.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "maximum_likelihood",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "fm218u5i"
+}

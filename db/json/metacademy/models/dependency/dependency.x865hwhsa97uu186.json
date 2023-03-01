@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "a97uu186",
+    "last_mod": "2014-09-14T18:20:33.658Z",
+    "ordering": 1,
+    "target_goals": ["5xnss5220il", "j1a7i21ckte", "op3slotq5l2", "pc5v22vtuyx"],
+    "source_goals": [
+      "0frdbqwk667",
+      "2i9bp8z92wn",
+      "42rqgmnl2kb",
+      "681cl6bmb49",
+      "km7xdn7z8dg",
+      "mz97vyjyzy6",
+      "tt1m2paft7q",
+      "wbigwzyagp9"
+    ],
+    "source": "x865hwhs",
+    "reason": "An abstract class is a kind of class"
+  },
+  "model": "graph.dependency",
+  "pk": "x865hwhsa97uu186"
+}

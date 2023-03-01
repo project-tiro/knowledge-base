@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "breadth-first search",
+    "pointers": "",
+    "tags": ["algorithms", "programming", "symbolicai"],
+    "learn_time": 1.0111794101671712,
+    "summary": "Breadth-first search is a kind of graph search where nodes are explored in the order of distance from the starting node. It can be used to compute shortest paths in a graph.\n",
+    "last_mod": "2014-10-09T01:45:08.263Z",
+    "tag": "breadth_first_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "ygqeubhx"
+}

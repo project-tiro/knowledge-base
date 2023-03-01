@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:28:19.770Z",
+    "url": "http://math.hws.edu/javanotes/c9/s1.html",
+    "cresource": "uwuiipyny85",
+    "ordering": -1,
+    "location_text": "Section 9.1, \"Recursion\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "94zc5j3cmbi"
+}

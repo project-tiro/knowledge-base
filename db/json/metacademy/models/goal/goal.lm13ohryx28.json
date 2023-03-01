@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to implement insertion, deletion, and search operations",
+    "concept": "b6ahvae4",
+    "last_mod": "2014-08-27T21:19:33.247Z"
+  },
+  "model": "graph.goal",
+  "pk": "lm13ohryx28"
+}

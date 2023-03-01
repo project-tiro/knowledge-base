@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T20:03:21.084Z",
+    "ordering": 6,
+    "target_goals": ["2m0fqttck57", "75p6dip70tt", "hswm5pju25d", "ptig1jtq02g"],
+    "source_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source": "o4lo1hx5",
+    "reason": "Newton's method is guaranteed to produce a descent direction in the convex setting"
+  },
+  "model": "graph.dependency",
+  "pk": "o4lo1hx5o7nh4u08"
+}

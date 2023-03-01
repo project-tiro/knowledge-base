@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf#page=142",
+    "cresource": "r8zj4ffs88",
+    "ordering": 0,
+    "location_text": "Section 5.5, pages 142-147 ",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "drhvio9m1d"
+}

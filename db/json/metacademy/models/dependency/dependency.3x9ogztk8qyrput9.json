@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8qyrput9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 472,
+    "target_goals": [],
+    "source_goals": ["rohasshogu", "yzcwf2y4b2"],
+    "source": "3x9ogztk",
+    "reason": "Collapsed Gibbs sampling is a simple way of performing inference in a CRP clustering model."
+  },
+  "model": "graph.dependency",
+  "pk": "3x9ogztk8qyrput9"
+}

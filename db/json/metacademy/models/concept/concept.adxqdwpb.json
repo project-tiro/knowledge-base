@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "random forests",
+    "pointers": "*  [Boosting](boosting)  is another ensemble method commonly applied to decision trees.\n*  [Dropout](dropout)  is a regularization technique for neural networks inspired by random forests.",
+    "tags": ["machinelearning"],
+    "learn_time": 2.679804786636462,
+    "summary": "Random forests are a machine learning algorithm which averages the predictions over decision trees restricted to random subsets of the input features. They are widely used because they often perform very well with almost no parameter tuning.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "random_forests",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "adxqdwpb"
+}

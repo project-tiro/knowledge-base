@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to determine if a set of vectors is linearly independent",
+    "concept": "soxhga99",
+    "last_mod": "2014-08-30T23:36:24.779Z"
+  },
+  "model": "graph.goal",
+  "pk": "m3rgg91pkwe"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:56:56.472Z",
+    "url": "http://home.earthlink.net/~momotuk/pointers.pdf#page=14",
+    "cresource": "71n06infe8t",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Pointers and strings,\" pages 14-18",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "66t8x3j5p2j"
+}

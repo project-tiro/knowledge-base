@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xij1in6b",
+    "last_mod": "2014-08-30T21:34:00.489Z",
+    "ordering": 658,
+    "target_goals": ["m7u2tnehc7", "o1ptax2ica"],
+    "source_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source": "72682zke",
+    "reason": "The Hermitian operator is the complex analogue of the matrix transpose."
+  },
+  "model": "graph.dependency",
+  "pk": "72682zkexij1in6b"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:25:27.855Z",
+    "url": "",
+    "cresource": "xg3f4imjbcb",
+    "ordering": -1,
+    "location_text": "Section 5.1, \"The linear conjugate gradient method,\" subsection \"Preconditioning,\" pages 118-120",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "k8avz0fker6"
+}

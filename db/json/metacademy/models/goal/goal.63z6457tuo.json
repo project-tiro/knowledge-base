@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Be able to work with the polar representation of complex numbers",
+    "concept": "nu5nhdxb",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "63z6457tuo"
+}

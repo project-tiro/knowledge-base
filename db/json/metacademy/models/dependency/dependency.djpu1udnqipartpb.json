@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qipartpb",
+    "last_mod": "2014-08-30T18:42:19.703Z",
+    "ordering": -1,
+    "target_goals": ["39jcgpca73z", "fknf1gn9r66", "q84jgl0d2ea"],
+    "source_goals": ["g2wwj0l8iw", "m5gk40guop"],
+    "source": "djpu1udn",
+    "reason": "PCA is defined in terms of the covariance matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "djpu1udnqipartpb"
+}

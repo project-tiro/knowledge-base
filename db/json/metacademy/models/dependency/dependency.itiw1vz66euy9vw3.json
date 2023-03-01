@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6euy9vw3",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["ctifodnywq4", "e8fdanudh3y", "f0tu2wl7oio", "rgixvqq4r6b", "vid4msglow2"],
+    "source_goals": ["c8gheqofb2w", "hkq1lp1mvjn", "y52xuqnkffd"],
+    "source": "itiw1vz6",
+    "reason": "The definition of pushdown automata parallels that of finite automata."
+  },
+  "model": "graph.dependency",
+  "pk": "itiw1vz66euy9vw3"
+}

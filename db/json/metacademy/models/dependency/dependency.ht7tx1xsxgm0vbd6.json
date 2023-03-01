@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xgm0vbd6",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 444,
+    "target_goals": ["5p2mg117cf", "b9kabbiot8"],
+    "source_goals": [],
+    "source": "ht7tx1xs",
+    "reason": "variable elimination is an inference algorithm for Bayesian networks."
+  },
+  "model": "graph.dependency",
+  "pk": "ht7tx1xsxgm0vbd6"
+}

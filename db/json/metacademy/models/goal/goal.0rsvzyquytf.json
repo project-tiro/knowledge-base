@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how BFS can be used to compute shortest paths",
+    "concept": "ygqeubhx",
+    "last_mod": "2014-10-09T01:45:08.248Z"
+  },
+  "model": "graph.goal",
+  "pk": "0rsvzyquytf"
+}

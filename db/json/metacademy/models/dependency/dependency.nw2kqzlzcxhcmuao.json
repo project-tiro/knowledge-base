@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "cxhcmuao",
+    "last_mod": "2014-08-30T21:34:01.597Z",
+    "ordering": -1,
+    "target_goals": ["813a8p4xpyz", "n1uxusz9fd5"],
+    "source_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source": "nw2kqzlz",
+    "reason": "The formula for the PDF of the function involves the partial derivatives of the function."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlzcxhcmuao"
+}

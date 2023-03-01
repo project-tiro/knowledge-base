@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "tangent bundle",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 2.1487646957726616,
+    "summary": "The tangent bundle of a differentiable manifold is the collection of tangent spaces at all points of the manifold. There are several equivalent definitions of tangent vectors, the elements of tangent spaces: directional derivatives, vectors in coordinate charts, and equivalence classes of curves. Pushforward is an operation which carries tangent vectors over a map between manifolds.\n",
+    "last_mod": "2014-09-19T14:35:42.226Z",
+    "tag": "tangent_bundle",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "855sc8u4"
+}

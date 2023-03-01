@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Show that the constructed number system satisfies the Peano postulates.",
+    "concept": "ccwr94ca",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "yiiv094p8t"
+}

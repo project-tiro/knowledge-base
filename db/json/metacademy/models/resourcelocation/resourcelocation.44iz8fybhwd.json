@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T06:14:55.866Z",
+    "url": "",
+    "cresource": "cts604nbldn",
+    "ordering": -1,
+    "location_text": "Chapter 8, \"Merging and mergesort,\" up to 8.6, \"Performance characteristics of mergesort,\" pages 347-366",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "44iz8fybhwd"
+}

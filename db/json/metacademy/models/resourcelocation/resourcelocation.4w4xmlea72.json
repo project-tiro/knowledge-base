@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf#page=2",
+    "cresource": "xztgy5eyly",
+    "ordering": 0,
+    "location_text": "Section 2, \"Complementary priors,\" pages 2-3 ",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4w4xmlea72"
+}

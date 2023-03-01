@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Online lectures for Stanford's second-term programming course, taught in C++",
+    "version_num": 0,
+    "title": "Stanford CS106B: Programming Abstractions",
+    "url": "http://see.stanford.edu/see/lecturelist.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-14T04:23:15.547Z",
+    "authors": "[u'Julie Zelenski']",
+    "edition_years": "[]",
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "g40vklweuuf"
+}

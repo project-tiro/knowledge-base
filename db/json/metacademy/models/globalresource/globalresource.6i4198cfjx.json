@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "djweissML Video Lectures",
+    "url": "http://www.youtube.com/watch?v=hihuMBCuSlU",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'David Weiss']",
+    "edition_years": null,
+    "resource_type": "video lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "6i4198cfjx"
+}

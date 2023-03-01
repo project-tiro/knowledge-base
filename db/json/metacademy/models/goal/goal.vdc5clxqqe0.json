@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "What are the values alpha and beta maintained by the alpha-beta pruning procedure?",
+    "concept": "qwj4lbj9",
+    "last_mod": "2014-11-08T23:21:13.327Z"
+  },
+  "model": "graph.goal",
+  "pk": "vdc5clxqqe0"
+}

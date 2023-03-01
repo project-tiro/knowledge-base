@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7pck5wk9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 482,
+    "target_goals": ["1bnydl1hpm", "edzd9mfbex", "gbmziyfhto", "nlskyjw6qx"],
+    "source_goals": ["qmwmwpi30i"],
+    "source": "wltj1far",
+    "reason": "Cook's Theorem is proved by defining nondeterministic Turing machines through SAT clauses."
+  },
+  "model": "graph.dependency",
+  "pk": "wltj1far7pck5wk9"
+}

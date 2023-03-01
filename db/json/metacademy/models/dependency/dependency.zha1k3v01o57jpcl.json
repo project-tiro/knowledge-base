@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1o57jpcl",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 44,
+    "target_goals": ["27rvo0gh9q", "4aej42oimw", "gz9o7w67nl", "wbyrt8eb01"],
+    "source_goals": ["150rtppooy", "8tvnk4f6jq", "p78kkc1vmp"],
+    "source": "zha1k3v0",
+    "reason": "The pullback of a differential is given by the chain rule."
+  },
+  "model": "graph.dependency",
+  "pk": "zha1k3v01o57jpcl"
+}

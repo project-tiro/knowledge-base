@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:03:56.355Z",
+    "url": "https://www.udacity.com/course/viewer#!/c-cs271/l-48720299/m-48271870",
+    "cresource": "5hnuaf5ss7l",
+    "ordering": -1,
+    "location_text": "Part 13, \"Games,\" up through \"Reduce M\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "w2ugj1r3l18"
+}

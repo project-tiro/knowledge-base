@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:52:55.202Z",
+    "url": "",
+    "cresource": "4pekxjtziur",
+    "ordering": -1,
+    "location_text": "Chapter 6, \"Iteration abstraction\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1wtb1aju1m5"
+}

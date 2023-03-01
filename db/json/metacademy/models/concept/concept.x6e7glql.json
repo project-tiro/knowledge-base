@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear regression",
+    "pointers": "* Linear regression is a model for predicting real-valued targets. Other kinds of targets include:\n**  [binary](binary_classification)\n**  [categorical](multiway_classification)\n**  [ordinal](ordinal_regression)  (i.e. only the ordering of the values is significant)\n* Vanilla linear regression is prone to  [overfitting](generalization) .\n* Some extensions which deal with overfitting include:\n**  [ridge regression](ridge_regression)\n**  [L1-regularized linear regression (Lasso)](lasso)\n**  [PCA preprocessing](pca_preprocessing)\n**  [Feature selection](feature_selection)\n**  [Model selection](model_selection)\n* Vanilla linear regression is also sensitive to outliers. Some more robust alternatives include:\n**  [robust linear regression](robust_linear_regression)\n**  [support vector regression](support_vector_regression)\n* The closed-form solution here does not scale well to large-scale problems (more than tens of thousands of variables). For these cases, look into  [stochastic algorithms](stochastic_gradient_descent) .\n* Not all variables of interest can be modeled as linear functions of the input variables. To model nonlinear dependencies, check out:\n**  [basis function expansions](basis_function_expansions)\n**  [neural networks](feed_forward_neural_nets)\n**  [kernel methods](kernel_ridge_regression)\n* Linear regression  [can be interpreted](linear_regression_as_maximum_likelihood)  as  [maximum likelihood estimation](maximum_likelihood)  under a Gaussian noise model.",
+    "tags": ["linearalgebra", "machinelearning"],
+    "learn_time": 2.847297245637515,
+    "summary": "Linear regression is an algorithm for learning to predict a real-valued ``target'' variable as a linear function of one or more real-valued ``input'' variables. It is one of the most widely used statistical learning algorithms, and with care it can be made to work very well in practice. Because it has a closed-form solution, we can exactly analyze many properties of linear regression which have no exact form for other models. This makes it a useful starting point for understanding many other statistical learning algorithms.\n",
+    "last_mod": "2014-09-21T01:50:23.611Z",
+    "tag": "linear_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "x6e7glql"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:33:52.626Z",
+    "url": "",
+    "cresource": "7b81jgwkxkw",
+    "ordering": -1,
+    "location_text": "Section 23.4, \"Topological sort,\" pages 485-487",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0yqy1hiff45"
+}

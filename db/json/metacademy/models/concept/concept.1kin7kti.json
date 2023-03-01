@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "semantics of first-order logic",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 1.1578292367772125,
+    "summary": "The semantics of a first-order language is defined in terms of mathematical structures which give the meanings of all the constants, functions, and predicates in the language. In particular, one can recursively define a function which evaluates, given a structure and a first-order sentence, whether the structure satisfies the sentence. If all structures satisfying a set A of sentences also satisfy another set B of sentences, then A logically implies B.\n\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "semantics_of_first_order_logic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "1kin7kti"
+}

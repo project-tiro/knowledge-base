@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:06:13.753Z",
+    "url": "http://introcs.cs.princeton.edu/java/41analysis/",
+    "cresource": "vbr6x8y17ix",
+    "ordering": -1,
+    "location_text": "Section 4.1, \"Analysis of algorithms\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dw38i6g5fca"
+}

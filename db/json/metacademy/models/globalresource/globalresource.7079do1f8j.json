@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "The Indian Buffet Process: an Introduction and Review",
+    "url": "http://cocosci.berkeley.edu/tom/papers/ibpbs.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Tom Griffiths', u'Zoubin Ghahramani']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "7079do1f8j"
+}

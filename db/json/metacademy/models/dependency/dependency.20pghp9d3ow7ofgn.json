@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3ow7ofgn",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 918,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "20pghp9d",
+    "reason": "Weight decay is a way of implementing an L2 regularization term."
+  },
+  "model": "graph.dependency",
+  "pk": "20pghp9d3ow7ofgn"
+}

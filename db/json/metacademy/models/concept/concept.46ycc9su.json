@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "decision trees",
+    "pointers": "* Two common algorithms for combining decision trees include:\n**  [bagging](bagging) , which reduces variance by sampling random training sets\n**  [boosting](ada_boost) , which makes the model class more expressive",
+    "tags": ["machinelearning"],
+    "learn_time": 3.032249558230345,
+    "summary": "Decision trees are a kind of tree-structured model used in machine learning and data mining. Each leaf node corresponds to a prediction, and each internal node divides the data points into two or more sets depending on the value of one of the input variables. Decision trees are widely used because of their simplicity and their ability to handle heterogeneous input features.\n",
+    "last_mod": "2014-08-30T23:35:54.042Z",
+    "tag": "decision_trees",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "46ycc9su"
+}

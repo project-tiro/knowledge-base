@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "bmpjbmi2",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 3,
+    "notes": "[u'This gives the special case of EP for Gaussian process classification.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[{u'title': u'Gaussian process classification'}]",
+    "global_resource": "223g2f2ne8"
+  },
+  "model": "graph.conceptresource",
+  "pk": "uu7m0p2npc"
+}

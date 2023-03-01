@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "039dq366z0",
+    "ordering": 0,
+    "location_text": "accepted answer",
+    "location_type": "forum"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "n4scb964h8"
+}

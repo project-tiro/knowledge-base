@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian information criterion",
+    "pointers": "*  [Akaike Information Criterion (AIC)](akaike_information_criterion)  is a different model selection criterion with different theoretical underpinnings, and practically, AIC does not penalize the number of parameters as severely as BIC\n*  [Mathematical justification](justifying_aic_and_bic)  of the BIC.",
+    "tags": ["freqstats"],
+    "learn_time": 1.1426306505407828,
+    "summary": "The Bayesian information criterion (BIC) is a rough approximation to the marginal likelihood, based on the asymptotic behavior of the Laplace approximation as more data is observed.\n",
+    "last_mod": "2014-08-30T23:44:41.228Z",
+    "tag": "bayesian_information_criterion",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "slj97of8"
+}

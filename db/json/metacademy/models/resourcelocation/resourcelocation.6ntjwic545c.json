@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:33:54.811Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap2.pdf",
+    "cresource": "kbpp3h44vtm",
+    "ordering": -1,
+    "location_text": "Lecture 2 notes, \"Smooth maps\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6ntjwic545c"
+}

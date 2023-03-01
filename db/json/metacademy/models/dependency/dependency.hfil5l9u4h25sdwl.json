@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4h25sdwl",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 0,
+    "target_goals": ["45td3egk7bh", "bpyms6ol6vi", "r9lqp06q88h", "wrv9crvz14w"],
+    "source_goals": ["b5h567pp0bb", "jkgyjuyl2tk", "qegbm5wqq66"],
+    "source": "hfil5l9u",
+    "reason": "Oriented manifolds are differentiable manifolds endowed with an orientation"
+  },
+  "model": "graph.dependency",
+  "pk": "hfil5l9u4h25sdwl"
+}

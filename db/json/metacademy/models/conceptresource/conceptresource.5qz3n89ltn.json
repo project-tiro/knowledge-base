@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "4t7kblme",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'Skim the introductory networks for a general motivation of neural nets.']",
+    "goals_covered": ["4e2nq1x1fa", "jrsdo9cjzm", "p2jqn3ofie", "pc4prflil4"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "u33jnnulfq"
+  },
+  "model": "graph.conceptresource",
+  "pk": "5qz3n89ltn"
+}

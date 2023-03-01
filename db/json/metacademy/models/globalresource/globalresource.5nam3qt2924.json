@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online programming course aimed at nonmajors, with a light-hearted style",
+    "version_num": 0,
+    "title": "EdX: CS50x Introduction to Computer Science",
+    "url": "https://courses.edx.org/courses/HarvardX/CS50x/2014_T1/info",
+    "notes": "",
+    "year": null,
+    "access": "reg",
+    "last_mod": "2014-09-06T22:00:11.662Z",
+    "authors": "[u'David Malan']",
+    "edition_years": "[]",
+    "resource_type": "online course"
+  },
+  "model": "graph.globalresource",
+  "pk": "5nam3qt2924"
+}

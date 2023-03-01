@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "quicksort",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.6458547142430495,
+    "summary": "Quicksort is one of the most efficient general-purpose sorting algorithms. It works by choosing a \"pivot\" element from the array, dividing the array into those elements less than or larger than the pivot, and recursively sorting the subarrays. It exemplifies the divide-and-conquer approach to algorithm design and the benefits of randomness.\n",
+    "last_mod": "2014-09-13T23:50:57.888Z",
+    "tag": "quicksort",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "h0u95aab"
+}

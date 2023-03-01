@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:53:47.042Z",
+    "url": null,
+    "cresource": "vqodpw3bx1",
+    "ordering": 0,
+    "location_text": "Section 3.1.4, \"Regularized least squares,\" pages 144-146",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ef44emq67t"
+}

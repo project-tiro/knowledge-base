@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to implement an iterator (if you are using Python, this can be done implicitly with a generator, but try to understand how this actually works)",
+    "concept": "3jkfgvut",
+    "last_mod": "2014-09-13T22:54:48.461Z"
+  },
+  "model": "graph.goal",
+  "pk": "sm8ub57gget"
+}

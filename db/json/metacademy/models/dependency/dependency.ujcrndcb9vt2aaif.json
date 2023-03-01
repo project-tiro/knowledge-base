@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9vt2aaif",
+    "last_mod": "2014-08-30T21:34:01.861Z",
+    "ordering": -1,
+    "target_goals": ["chc6ulpd6y1", "na57pclidb4", "y11kmlxajbx"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Fitting sparse coding requires solving an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb9vt2aaif"
+}

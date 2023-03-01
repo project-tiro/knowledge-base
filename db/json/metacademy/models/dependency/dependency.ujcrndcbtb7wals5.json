@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tb7wals5",
+    "last_mod": "2014-08-30T21:34:01.943Z",
+    "ordering": 910,
+    "target_goals": [],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "the Bellman equations provide necessary conditions for a certain class of optimization problems"
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbtb7wals5"
+}

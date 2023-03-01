@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l794phpb",
+    "last_mod": "2014-08-30T21:34:01.201Z",
+    "ordering": 360,
+    "target_goals": ["34ci4rlw4j", "6aritiu06n", "l6s976tn5j", "skguptaxih"],
+    "source_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source": "jnw8a0ar",
+    "reason": "Some canonical examples of statistical tests involve the Gaussian distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "jnw8a0arl794phpb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T23:13:18.859Z",
+    "url": "",
+    "cresource": "6qjb5cxz8c1",
+    "ordering": -1,
+    "location_text": "Section 5.6, \"Pointer arrays; pointers to pointers,\" up through Section 5.9, \"Pointers vs. multi-dimensional arrays\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kdgy514t61x"
+}

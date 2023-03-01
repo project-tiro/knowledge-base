@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "convex functions",
+    "pointers": "* Convex functions are part of the definition of  [convex optimization problems](convex_optimization) , a broad framework for optimization where the global optimum can often be found.\n* Some important examples of convex functions:\n**  [vector norms](vector_norms)\n**  [utility functions](utility)  are typically assumed to be concave\n**  [regularization penalties](regularization)  in machine learning are often convex\n**  [likelihood functions for exponential families](maximum_likelihood_in_exponential_families)\n*  [Jensen's inequality](jensens_inequality)  is an important result about the expectation of a convex function.",
+    "tags": ["optimization"],
+    "learn_time": 2.065908554219645,
+    "summary": "Intuitively, convex functions are bowl-shaped. They are significant in optimization, because it is often possible to efficiently find the global optimum of a convex function.\n",
+    "last_mod": "2014-10-11T21:26:05.030Z",
+    "tag": "convex_functions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "o4lo1hx5"
+}

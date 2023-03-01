@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:53:42.795Z",
+    "url": "http://en.wikibooks.org/wiki/C_Programming/Arrays",
+    "cresource": "55n8i70o9c9",
+    "ordering": -1,
+    "location_text": "Section \"Arrays,\" subsection \"Strings\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s6p6qhbqpca"
+}

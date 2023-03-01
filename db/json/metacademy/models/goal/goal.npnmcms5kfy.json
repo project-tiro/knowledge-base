@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to design a specification of an ADT based on the anticipated needs of the user (e.g. what should be included in the specification and what should be left to the implementation?)",
+    "concept": "h61ljzls",
+    "last_mod": "2014-09-13T20:06:48.978Z"
+  },
+  "model": "graph.goal",
+  "pk": "npnmcms5kfy"
+}

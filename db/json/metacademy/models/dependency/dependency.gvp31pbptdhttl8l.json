@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "tdhttl8l",
+    "last_mod": "2014-08-30T21:34:01.069Z",
+    "ordering": -1,
+    "target_goals": ["42f4u1q3zl7", "9h7vvv7o43l", "d5w26hzy1iq", "jpyow51ihbm"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbptdhttl8l"
+}

@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "target": "6m1m4ru9",
+    "last_mod": "2014-08-30T21:34:00.712Z",
+    "ordering": 704,
+    "target_goals": ["2jx53hxxu7", "3q6uldlkjl", "4yhu1unkwn", "7xqy2rpw0r"],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1fo6m1m4ru9"
+}

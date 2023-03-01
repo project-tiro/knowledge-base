@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Understand how the basic boosting procedure can be generalized to other loss function.s\n** Why do we often re-estimate the weights of the base classifiers for more general boosting algorithms, but not for AdaBoost?",
+    "concept": "51jjb6uh",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "a260lvbb08"
+}

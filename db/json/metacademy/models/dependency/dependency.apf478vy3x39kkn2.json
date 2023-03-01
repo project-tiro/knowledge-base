@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x39kkn2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 250,
+    "target_goals": ["3n0jopm0z5", "9d9fjixvlk", "dfvk3nk4ui"],
+    "source_goals": ["6xodgczm15"],
+    "source": "apf478vy",
+    "reason": "One needs to show a deductive calculus for a logical system can be arithmetized."
+  },
+  "model": "graph.dependency",
+  "pk": "apf478vy3x39kkn2"
+}

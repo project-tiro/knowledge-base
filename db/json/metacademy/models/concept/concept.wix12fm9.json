@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "early stopping",
+    "pointers": "* Other strategies for controlling overfitting in feed-forward neural nets include:\n**  [Weight decay](weight_decay_neural_networks) , a form of $L_2$ regularization\n**  [Tikhonov regularization](tikhonov_regularization) , which rewards invariance to noise in the inputs\n**  [Tangent propagation](tangent_propagation) , which rewards invariance to irrelevant transformations of the inputs such as translation and scalling\n**  [Generative pre-training](generative_pre_training) , which improves generalization by encouraging solutions which also reflect the data distribution",
+    "tags": ["machinelearning"],
+    "learn_time": 0.6538165114376538,
+    "summary": "Early stopping is a technique for controlling overfitting in machine learning models, especially neural networks, by stopping training before the weights have converged. Often we stop when the performance has stopped improving on a held-out validation set.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "early_stopping",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wix12fm9"
+}

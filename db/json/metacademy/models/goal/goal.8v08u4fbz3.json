@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* be aware of ways in which IMPLIES does not correspond to our intuitive notions of implication",
+    "concept": "iqeem7gj",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "8v08u4fbz3"
+}

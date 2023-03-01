@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that the accuracy of the estimates depends on the autocorrelation, which may be difficult to estimate",
+    "concept": "nt9pfhmt",
+    "last_mod": "2014-08-31T15:17:53.706Z"
+  },
+  "model": "graph.goal",
+  "pk": "couhvgld56o"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Video lectures for MIT's introductory computer science course, taught in Python",
+    "version_num": 0,
+    "title": "MIT OpenCourseware: Introduction to Computer Science and Programming",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-09-14T03:28:34.679Z",
+    "authors": "[u'John Guttag']",
+    "edition_years": "[]",
+    "resource_type": "video lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "4b5c9ipojxu"
+}

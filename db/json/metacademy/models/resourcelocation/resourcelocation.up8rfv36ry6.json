@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T20:51:22.820Z",
+    "url": "",
+    "cresource": "3dpl6d7kn5q",
+    "ordering": -1,
+    "location_text": "Chapter 16, \"External searching,\" up through 16.3, \"B-trees,\" pages 669-691",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "up8rfv36ry6"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://class.coursera.org/ml-003/lecture/view?lecture_id=11",
+    "cresource": "ex3rynak20",
+    "ordering": 0,
+    "location_text": "Lecture \"Gradient Descent\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "o9t56re2nq"
+}

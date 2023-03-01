@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Know the Axiom of Foundation (or Axiom of Regularity) and what pathological sets it is meant to rule out",
+    "concept": "65t8tji2",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "c2ppa363nt"
+}

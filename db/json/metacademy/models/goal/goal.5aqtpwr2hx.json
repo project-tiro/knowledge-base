@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Use Zorn's Lemma to show that every vector space has a basis",
+    "concept": "zv1eeedh",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "5aqtpwr2hx"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "d28z14um",
+    "last_mod": "2014-08-30T21:34:02.015Z",
+    "ordering": 692,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "LASSO is a regularized form of linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glqld28z14um"
+}

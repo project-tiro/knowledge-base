@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational logistic regression",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 2.847271280461474,
+    "summary": "Variational logistic regression is an illustrative example of variational Bayes. It illustrates the use of a local variational approximation, in particular the Gaussian lower bound on the sigmoid function.\n",
+    "last_mod": "2014-08-30T20:20:09.930Z",
+    "tag": "variational_logistic_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8bwnckbz"
+}

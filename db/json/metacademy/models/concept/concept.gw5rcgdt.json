@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "C generics",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 2.545081910090535,
+    "summary": "The C programming language does not provide templates, which are commonly used for generic container data types in other statically typed languages. However, it is possible to implement generic containers through a clever use of pointers.\n",
+    "last_mod": "2014-09-07T04:17:40.329Z",
+    "tag": "c_generics",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "gw5rcgdt"
+}

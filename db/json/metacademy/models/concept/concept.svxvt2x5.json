@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "d-separation",
+    "pointers": "* The  [Markov blanket](markov_blanket)  is another characterization of Bayes nets in terms of conditional independencies.\n* The d-separation criterion presented here is inefficient when implemented as an algorithm. The  [Bayes Ball algorithm](bayes_ball)  gives an efficient way of testing conditional independence.",
+    "tags": ["pgm"],
+    "learn_time": 1.6472385142980839,
+    "summary": "D-separation gives a way of determining conditional independence properties in Bayes nets in terms of the graph structure. It captures an intuitive notion of the \"flow\" of probabilistic influence through the graph.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "d_separation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "svxvt2x5"
+}

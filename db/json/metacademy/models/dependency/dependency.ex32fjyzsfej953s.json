@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sfej953s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["00ly5d3w9s8", "cxtqs128z3y", "g0blfko8cnx", "ju5uzzf9k3a", "qhc9m667iep", "rrtelxdgnet"],
+    "source_goals": ["azyqmhdfvtp", "cysntmjm75v", "jg9mqj0d5yf", "oxqerx3mdts", "tfeqf2j0885", "z3f1k7eyhf4"],
+    "source": "ex32fjyz",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ex32fjyzsfej953s"
+}

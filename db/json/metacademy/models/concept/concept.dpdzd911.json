@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "factor graphs",
+    "pointers": "* Sometimes factorization assumptions can be represented as  [tree-structured factor graphs](factor_graph_trees)  when their Bayes net or MRF representations aren't tree-structured. Common examples include polytrees and chordal graphs.\n* In such cases,  [factor graph belief propagation](factor_graph_bp)  can be applied to perform exact inference.",
+    "tags": ["pgm"],
+    "learn_time": 0.47352170995330367,
+    "summary": "Markov random fields often can't reflect the full conditional independence structure of a probabilistic model. For instance, they can't encode whether the variables in a clique have a fully general interaction, or merely pairwise interactions. Factor graphs are a more fine-grained representation of Boltzmann distributions where the factors are shown explicitly in the graph.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "factor_graphs",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dpdzd911"
+}

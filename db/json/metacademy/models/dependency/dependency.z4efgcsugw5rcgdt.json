@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "gw5rcgdt",
+    "last_mod": "2014-09-07T04:13:41.755Z",
+    "ordering": -1,
+    "target_goals": [
+      "0tfize2xk73",
+      "16u89dshrc6",
+      "djtf9ihc7qt",
+      "glgho87oxtl",
+      "hj797naoepw",
+      "lfbmrd8lcnd",
+      "zh17xzb4jn3"
+    ],
+    "source_goals": ["gbvkteimgqf"],
+    "source": "z4efgcsu",
+    "reason": "Using C generics requires pointers to pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "z4efgcsugw5rcgdt"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "expectation propagation",
+    "pointers": "* EP can be used to  [estimate the partition function of a graphical model](ep_partition_function) .\n*  [Variational Bayes](variational_bayes)  is an alternative variational inference method which is often simpler and faster but less accurate.",
+    "tags": ["pgm"],
+    "learn_time": 2.117111963318498,
+    "summary": "In some graphical models, it is intractable even to compute the messages in loopy belief propagation. Expectation propagation is a way of approximating these messages in terms of expectations of sufficient statistics. It can be viewed as a variational inference algorithm, and often gives much more accurate results than mean field based approximations.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "expectation_propagation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "bmpjbmi2"
+}

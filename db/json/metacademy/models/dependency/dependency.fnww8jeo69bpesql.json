@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "69bpesql",
+    "last_mod": "2014-09-19T18:54:50.964Z",
+    "ordering": -1,
+    "target_goals": ["2wykvqlqkr4", "4lwbnlh1aro", "5h1xt56174o", "624n07w4qiu", "d2hr9mzhlka", "y29gin0p8xp"],
+    "source_goals": ["2tc3846j38f", "4cswwl58tj7", "rz9hj920nr0"],
+    "source": "fnww8jeo",
+    "reason": "Hamiltonian flows are defined in symplectic manifolds"
+  },
+  "model": "graph.dependency",
+  "pk": "fnww8jeo69bpesql"
+}

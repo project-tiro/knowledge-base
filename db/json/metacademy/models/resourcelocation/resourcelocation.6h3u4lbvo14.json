@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:09:15.149Z",
+    "url": "https://class.coursera.org/algo-004/lecture/73",
+    "cresource": "ujtvokfhzwf",
+    "ordering": -1,
+    "location_text": "Lecture \"Balanced search trees: operations and applications\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6h3u4lbvo14"
+}

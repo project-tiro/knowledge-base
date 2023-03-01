@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "collapsed Gibbs sampling",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "MCMC samplers can often be improved by marginalizing out a subset of the variables in closed form and performing MCMC over the remaining variables. This is more statistically efficient since each particle can cover a larger part of the distribution, and it can also improve mixing by allowing larger jumps.\n",
+    "last_mod": "2014-08-31T15:18:27.500Z",
+    "tag": "collapsed_gibbs_sampling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3x9ogztk"
+}

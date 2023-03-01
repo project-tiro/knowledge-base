@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "undefinability of truth",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 0.6715738006558571,
+    "summary": "Tarski's Theorem states that no first-order logical theory has a predicate defining the Godel numbers of statements which are true of the natural numbers. In other words, a first-order theory which includes arithmetic can't define its own truth predicate. This is a fundamental limitation on mathematics, because it implies no formal system is powerful enough to define its own semantics.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "undefinability_of_truth",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8k0dt6l0"
+}

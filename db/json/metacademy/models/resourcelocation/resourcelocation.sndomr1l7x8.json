@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T22:12:59.019Z",
+    "url": "http://en.wikipedia.org/wiki/Bloom_filter",
+    "cresource": "qdmm81rurqk",
+    "ordering": -1,
+    "location_text": "Article \"Bloom filters,\" up through section \"Probability of false positives\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "sndomr1l7x8"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Understand why training an RBM is intractable. In particular,\n** why is it intractable to compute the gradient?\n** why does the likelihood function have local optima?",
+    "concept": "gaeep1ux",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "dkzwt3j872"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "tb7wals5",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'This short video segment focuses on the Bellman equations in the context of Markov decision processes.', u'navigate between lecture material using the slider at the top']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "76k3cltl16"
+  },
+  "model": "graph.conceptresource",
+  "pk": "cr989sxzru"
+}

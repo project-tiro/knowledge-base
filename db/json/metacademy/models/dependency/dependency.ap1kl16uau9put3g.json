@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "au9put3g",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 89,
+    "target_goals": ["1sijixkpay", "2crxe4jhx1", "8puebibzsq", "a9doq3z87f", "tp00nvrfb1", "vn5grfnjj6"],
+    "source_goals": ["0poc7m2e6u", "0uvdjfjjuh", "hkhcwgeieh", "q8heyrr9kp"],
+    "source": "ap1kl16u",
+    "reason": "Ultrafilters are defined on power sets."
+  },
+  "model": "graph.dependency",
+  "pk": "ap1kl16uau9put3g"
+}

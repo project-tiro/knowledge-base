@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3tu288tn",
+    "last_mod": "2014-08-30T21:37:57.012Z",
+    "ordering": 597,
+    "target_goals": ["0bpgdp6248", "5pvbx5g4wh"],
+    "source_goals": ["7q6a64oa5ze"],
+    "source": "dfhu6m21",
+    "reason": "The proposal distribution is piecewise exponential."
+  },
+  "model": "graph.dependency",
+  "pk": "dfhu6m213tu288tn"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "topology of R^n",
+    "pointers": null,
+    "tags": [],
+    "learn_time": 1.3165870888666633,
+    "summary": "This node covers basic concepts of point set topology, such as limit points and open and closed sets.\n",
+    "last_mod": "2014-08-30T20:06:27.303Z",
+    "tag": "topology_of_rn",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ryrhok32"
+}

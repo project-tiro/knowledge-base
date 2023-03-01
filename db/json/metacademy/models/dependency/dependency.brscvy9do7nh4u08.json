@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T20:53:52.056Z",
+    "ordering": -1,
+    "target_goals": ["2m0fqttck57", "8gxlgl7bck5"],
+    "source_goals": ["4kpjlh6bder", "ekkxiyr1zwi", "gst0m5e6dfm", "q6dmbai700m", "xulplr3co3l"],
+    "source": "brscvy9d",
+    "reason": "Using Newton's method in practice often requires a line search"
+  },
+  "model": "graph.dependency",
+  "pk": "brscvy9do7nh4u08"
+}

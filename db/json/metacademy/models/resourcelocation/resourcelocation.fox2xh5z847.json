@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:47:58.302Z",
+    "url": "",
+    "cresource": "dxngqypvbrq",
+    "ordering": -1,
+    "location_text": "Section 5.4, \"Trees,\" through 5.6, \"Tree traversal,\" pages 230-249",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fox2xh5z847"
+}

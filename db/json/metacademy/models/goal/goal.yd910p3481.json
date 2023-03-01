@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* What is the motivation behind bagging?  For what sorts of algorithms would you expect it to improve performance?",
+    "concept": "45nkybl6",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "yd910p3481"
+}

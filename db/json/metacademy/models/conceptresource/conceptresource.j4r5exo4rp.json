@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "4wuz9t3u",
+    "version_num": 0,
+    "last_mod": "2014-09-15T00:12:33.701Z",
+    "ordering": 5,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[{u'title': u'Langrange duality'}]",
+    "global_resource": "p935t5ivln"
+  },
+  "model": "graph.conceptresource",
+  "pk": "j4r5exo4rp"
+}

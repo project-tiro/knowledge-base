@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jwerntgq",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 378,
+    "target_goals": ["6rxv0i7ls7", "6u1qhkv1a9", "evxd2brt2i", "hz4kp4lbn7", "n73lgocqoo", "v34qab7sha"],
+    "source_goals": ["0poc7m2e6u", "0uvdjfjjuh", "hkhcwgeieh", "q8heyrr9kp"],
+    "source": "ap1kl16u",
+    "reason": "The ordinal numbers are constructed with set union."
+  },
+  "model": "graph.dependency",
+  "pk": "ap1kl16ujwerntgq"
+}

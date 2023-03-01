@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0melenav",
+    "last_mod": "2014-08-30T21:34:02.121Z",
+    "ordering": 4,
+    "target_goals": ["eeo3p69kbba", "ln7qah1abnp", "o2xpxe22a4k", "q1v8yw6a6p0"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The differential of a function generalizes the notion of gradient"
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x660melenav"
+}

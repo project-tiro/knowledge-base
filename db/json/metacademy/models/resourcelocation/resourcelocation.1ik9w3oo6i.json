@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "d9sjs6251h",
+    "ordering": 0,
+    "location_text": "Section 2.5.2, \"Nearest-neighbor methods\"",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1ik9w3oo6i"
+}

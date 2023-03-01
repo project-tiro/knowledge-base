@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ftvy67hffs",
+    "ordering": 2,
+    "location_text": "Section 6.4, \"Computable functionals and functions,\" pages 237-239",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "o9kbamqq99"
+}

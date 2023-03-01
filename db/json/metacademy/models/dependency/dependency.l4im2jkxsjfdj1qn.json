@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sjfdj1qn",
+    "last_mod": "2014-08-31T00:11:15.034Z",
+    "ordering": 265,
+    "target_goals": ["iem0hrd1jm", "vchyj8yc5c", "x3484d3u16"],
+    "source_goals": ["45s4lkalxjv", "cguejujbnpn", "pwfbwcnflpx"],
+    "source": "l4im2jkx",
+    "reason": "The same ideas are required for modeling the variance parameters."
+  },
+  "model": "graph.dependency",
+  "pk": "l4im2jkxsjfdj1qn"
+}

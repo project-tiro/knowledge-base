@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "cam6w537",
+    "last_mod": "2014-09-11T02:56:55.599Z",
+    "ordering": -1,
+    "target_goals": ["f8soinopf83", "j6xbhu4x11y", "jszlyv1fbrt", "kh3vlvd9bgw", "nfg60u193p4", "pmpujbd78jg"],
+    "source_goals": [
+      "0frdbqwk667",
+      "2i9bp8z92wn",
+      "42rqgmnl2kb",
+      "681cl6bmb49",
+      "km7xdn7z8dg",
+      "mz97vyjyzy6",
+      "tt1m2paft7q",
+      "wbigwzyagp9"
+    ],
+    "source": "x865hwhs",
+    "reason": "Inheritance is a relationship between classes"
+  },
+  "model": "graph.dependency",
+  "pk": "x865hwhscam6w537"
+}

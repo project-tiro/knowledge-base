@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ed8zxgzr",
+    "last_mod": "2014-08-30T21:34:01.293Z",
+    "ordering": 121,
+    "target_goals": ["a340xme98g", "b92j7yuyep", "x5zrlfc920"],
+    "source_goals": ["8n0cw5qvie8", "963rufpw1ks", "ei27y93bn9a", "x4umo5csd04"],
+    "source": "k959cyjm",
+    "reason": "Independence is needed to analyze K nearest neighbors."
+  },
+  "model": "graph.dependency",
+  "pk": "k959cyjmed8zxgzr"
+}

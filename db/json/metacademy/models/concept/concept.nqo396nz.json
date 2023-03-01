@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "differentiable maps between manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.6985302919443882,
+    "summary": "A map from one differentiable manifold to another is differentiable if the corresponding map between local coordinate charts is differentiable. This is independent of the particular coordinate charts. A bijective map which is differentiable in both directions is a diffeomorphism. Differential geometry primarily studies properties which are invariant under diffeomorphism.\n",
+    "last_mod": "2014-09-19T14:33:54.816Z",
+    "tag": "differentiable_maps_between_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "nqo396nz"
+}

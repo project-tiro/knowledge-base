@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T16:56:37.805Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-4-heaps-and-heap-sort/",
+    "cresource": "qthzr4440hy",
+    "ordering": -1,
+    "location_text": "Lecture 4, \"Heaps and heap sort\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6do2s5p7cr3"
+}

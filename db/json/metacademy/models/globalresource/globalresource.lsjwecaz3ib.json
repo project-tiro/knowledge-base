@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "video lectures for Stanford's scientific computing course for computer scientists",
+    "version_num": 0,
+    "title": "Stanford CS205A: Mathematical Methods for Robotics, Vision, and Graphics",
+    "url": "http://graphics.stanford.edu/courses/cs205a-13-fall/schedule.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-10-27T01:38:22.663Z",
+    "authors": "[u'Justin Solomon']",
+    "edition_years": "[]",
+    "resource_type": "lecture videos"
+  },
+  "model": "graph.globalresource",
+  "pk": "lsjwecaz3ib"
+}

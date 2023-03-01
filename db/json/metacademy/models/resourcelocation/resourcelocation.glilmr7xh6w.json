@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T00:18:17.981Z",
+    "url": "http://en.wikibooks.org/wiki/C_Programming/Memory_management",
+    "cresource": "fvfe6gzgylr",
+    "ordering": -1,
+    "location_text": "Section \"Memory management\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "glilmr7xh6w"
+}

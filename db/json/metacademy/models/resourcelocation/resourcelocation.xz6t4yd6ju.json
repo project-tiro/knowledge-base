@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "a29vyuz3yv",
+    "ordering": 0,
+    "location_text": "Section 7.10, \"Undecidability,\" pages 347-350",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xz6t4yd6ju"
+}

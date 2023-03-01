@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mblsqnc0",
+    "last_mod": "2014-09-02T00:04:49.971Z",
+    "ordering": -1,
+    "target_goals": ["zr7rbb5mr2r"],
+    "source_goals": [],
+    "source": "nxcsrgj9",
+    "reason": "Mixture of Gaussians is the canonical example of EM."
+  },
+  "model": "graph.dependency",
+  "pk": "nxcsrgj9mblsqnc0"
+}

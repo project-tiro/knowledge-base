@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "r0b19pum",
+    "last_mod": "2014-09-07T00:22:55.891Z",
+    "ordering": -1,
+    "target_goals": ["2iuzkepeqni", "7s2hofsat3m", "f2k7kqak2t6", "jitrwkmt9sh", "otafj0mbxfx", "z5a5q89r2fk"],
+    "source_goals": [
+      "beqfwlsw6i2",
+      "iqpaa4zfwp1",
+      "j56eqohb5u3",
+      "pea3zehtd5i",
+      "rvzizzum6j3",
+      "vr9fejke412",
+      "w4elk3y5teg"
+    ],
+    "source": "cja1np7y",
+    "reason": "Understanding how hash tables are stored in memory requires pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7yr0b19pum"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of the heuristic justification: we're unlikely to overfit by maximizing over only a small number of hyperparameters",
+    "concept": "n1flwqjp",
+    "last_mod": "2014-09-14T21:52:30.765Z"
+  },
+  "model": "graph.goal",
+  "pk": "go6jccnod9x"
+}

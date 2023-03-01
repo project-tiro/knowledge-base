@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand the benefits of data abstraction:\n** that one need not understand how the data type is implemented in order to use it\n** it gives more flexibility for changing the implementation, so long as it obeys the specification\n** that the user can replace one implementation with another if it proves to be more effective",
+    "concept": "h61ljzls",
+    "last_mod": "2014-09-13T20:06:48.968Z"
+  },
+  "model": "graph.goal",
+  "pk": "g5nwv2sqkuo"
+}

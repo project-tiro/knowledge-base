@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "adxqdwpb",
+    "last_mod": "2014-08-30T21:34:00.994Z",
+    "ordering": 940,
+    "target_goals": ["32v189yn9v", "h25722h9dq", "k2n2r77b0k", "yg9z6qtr88"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The variance of the individual classifiers is important for understanding random forests."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpadxqdwpb"
+}

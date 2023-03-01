@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Know what the posterior predictive distribution is and how to compute it analytically for a simple example (e.g. a beta-Bernoulli model)",
+    "concept": "ap6ijk2i",
+    "last_mod": "2014-08-31T00:03:14.376Z"
+  },
+  "model": "graph.goal",
+  "pk": "9awbz3spah"
+}

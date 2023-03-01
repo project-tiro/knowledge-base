@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "8xkcva10u0",
+    "ordering": 0,
+    "location_text": "Chapter 12 introduction and Section 12.1, pages 559-570",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wxpk1hfkgx"
+}

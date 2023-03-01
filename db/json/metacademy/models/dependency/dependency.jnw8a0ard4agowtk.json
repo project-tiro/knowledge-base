@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "d4agowtk",
+    "last_mod": "2014-09-02T00:06:49.692Z",
+    "ordering": 2,
+    "target_goals": ["au5dgqfmqj"],
+    "source_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source": "jnw8a0ar",
+    "reason": "The Gaussian distribution is an important example of an exponential family distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "jnw8a0ard4agowtk"
+}

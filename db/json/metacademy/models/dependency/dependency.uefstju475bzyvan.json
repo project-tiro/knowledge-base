@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "75bzyvan",
+    "last_mod": "2014-09-14T00:17:14.445Z",
+    "ordering": -1,
+    "target_goals": ["sfqm8ovzrar", "tp7vcx0o4po"],
+    "source_goals": ["8qjyahis8fo", "fjawla4x30g", "gazubxd3m2y", "q4mjdizhua9"],
+    "source": "uefstju4",
+    "reason": "Recursive backtracking is implemented using recursion"
+  },
+  "model": "graph.dependency",
+  "pk": "uefstju475bzyvan"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition",
+    "url": "http://people.sabanciuniv.edu/berrin/cs512/reading/rabiner-tutorial-on-hmm.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Lawrence R. Rabiner']",
+    "edition_years": null,
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "53husldbg5"
+}

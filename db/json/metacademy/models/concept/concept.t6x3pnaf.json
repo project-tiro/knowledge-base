@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "matrix inverse",
+    "pointers": "* The inverse of a matrix can be interpreted in terms of  [systems of linear equations](linear_systems_as_matrices) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.7569017637455442,
+    "summary": "The inverse of a matrix A is a matrix which, when multiplied by A, gives the identity matrix. When it exists, it can be used to solve systems of linear equations.\n",
+    "last_mod": "2014-08-30T17:54:31.142Z",
+    "tag": "matrix_inverse",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "t6x3pnaf"
+}

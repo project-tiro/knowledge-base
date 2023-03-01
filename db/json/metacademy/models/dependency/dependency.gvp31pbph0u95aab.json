@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "h0u95aab",
+    "last_mod": "2014-08-30T21:34:02.187Z",
+    "ordering": 4,
+    "target_goals": ["4io39ia2bie"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The average case analysis requires reasoning about expectations"
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbph0u95aab"
+}

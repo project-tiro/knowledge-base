@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:35:47.086Z",
+    "url": "http://c.learncodethehardway.org/book/ex40.html",
+    "cresource": "pzqjmwcsl0g",
+    "ordering": -1,
+    "location_text": "Exercise 40, \"Binary search trees\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gl2jtu7c6zs"
+}

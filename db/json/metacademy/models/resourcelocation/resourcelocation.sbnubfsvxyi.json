@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:47:49.165Z",
+    "url": "",
+    "cresource": "2reke7lim7h",
+    "ordering": -1,
+    "location_text": "Section 5.2, \"Nonlinear conjugate gradient methods,\" up through \"Behavior of the Fletcher-Reeves method,\" pages 121-127",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "sbnubfsvxyi"
+}

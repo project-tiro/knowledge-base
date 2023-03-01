@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Derive the formulas for Bayesian estimation of Bayes net parameters, and for the predictive distribution over new data, in the simplest case where all variables are fully observed.",
+    "concept": "2c3j4f5b",
+    "last_mod": "2014-08-30T23:39:01.373Z"
+  },
+  "model": "graph.goal",
+  "pk": "9go06loauq"
+}

@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "a6ibqx2d",
+    "last_mod": "2014-08-30T21:34:00.989Z",
+    "ordering": 412,
+    "target_goals": ["8tbtkc3ap8", "i6jttqwct2", "wp2yynrj9q", "xf6iu4ql7o"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "Sequential Monte Carlo algorithms yield unbiased estimators of expectations."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpa6ibqx2d"
+}

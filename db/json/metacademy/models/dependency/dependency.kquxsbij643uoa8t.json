@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "643uoa8t",
+    "last_mod": "2014-10-11T21:27:37.268Z",
+    "ordering": 1,
+    "target_goals": ["6y1bt106ba1", "y083ui01s2l"],
+    "source_goals": ["3abgezik83y", "6jlhnxgnmha", "f9e2826q69z"],
+    "source": "kquxsbij",
+    "reason": "The spectral decomposition gives the eigenvectors and eigenvalues."
+  },
+  "model": "graph.dependency",
+  "pk": "kquxsbij643uoa8t"
+}

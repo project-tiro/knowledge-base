@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of the possible failure modes if the proposal distribution isn't chosen carefully: slow mixing, and low acceptance probabilities",
+    "concept": "e6wbweue",
+    "last_mod": "2014-08-30T18:07:24.646Z"
+  },
+  "model": "graph.goal",
+  "pk": "hmp334zr5ya"
+}

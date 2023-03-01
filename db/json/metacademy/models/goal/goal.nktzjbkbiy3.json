@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know (conceptually) how Kruskal's Algorithm and Prim's Algorithm work",
+    "concept": "7t3gdg00",
+    "last_mod": "2014-08-29T01:23:30.321Z"
+  },
+  "model": "graph.goal",
+  "pk": "nktzjbkbiy3"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian process classification",
+    "pointers": "* We can approximate the solution to GP classification using the  [Laplace approximation](gp_classification_laplace) .\n* Gaussian processes have a variety of uses in machine learning, including:\n**  [regression](gaussian_process_regression)\n**  [black-box optimization](bayesian_optimization)  (where we only get to evaluate the function, and doing so is expensive)\n**  [reinforcement learning](gaussian_processes_for_reinforcement_learning)\n* Techniques for  [constructing kernel functions](constructing_kernels)",
+    "tags": ["machinelearning"],
+    "learn_time": 0.5393264562637049,
+    "summary": "Gaussian process classification is a Bayesian model for nonparametric classification. The data points have associated latent variables which are drawn from a GP prior, and the labels are modeled as stochastic functions of the latent variables.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_process_classification",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "o2wzu5mk"
+}

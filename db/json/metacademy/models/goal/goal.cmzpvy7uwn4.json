@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "What are the largest and smallest positive values that can be represented as single- and double-precision floats?",
+    "concept": "67qu23d4",
+    "last_mod": "2014-09-07T03:43:37.773Z"
+  },
+  "model": "graph.goal",
+  "pk": "cmzpvy7uwn4"
+}

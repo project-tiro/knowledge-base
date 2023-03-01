@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf#page=367",
+    "cresource": "pw0r8aco1d",
+    "ordering": 0,
+    "location_text": "Sections 17.1, \"Introduction: fitting a straight line,\" pages 343-344 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ipsshxhtfc"
+}

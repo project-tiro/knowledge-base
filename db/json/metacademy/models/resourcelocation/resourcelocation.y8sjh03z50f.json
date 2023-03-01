@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T17:16:26.297Z",
+    "url": "http://en.wikipedia.org/wiki/Stirling%27s_approximation",
+    "cresource": "jo8nwlirdae",
+    "ordering": -1,
+    "location_text": "Article \"Stirling's approximation,\" up through section \"Derivation\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "y8sjh03z50f"
+}

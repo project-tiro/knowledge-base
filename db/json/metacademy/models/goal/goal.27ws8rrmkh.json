@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Define equality and comparison operators, and show that these are an equivalence relation and order relations, respectively.",
+    "concept": "ccwr94ca",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "27ws8rrmkh"
+}

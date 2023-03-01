@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Euler's formula",
+    "pointers": null,
+    "tags": [],
+    "learn_time": 1.2833411800074659,
+    "summary": "Euler's formula gives a way of raising numbers to complex powers. It gives a more compact way of representing and deriving trigonometric identities.\n",
+    "last_mod": "2014-08-30T02:51:09.821Z",
+    "tag": "eulers_formula",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "rd092nmd"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be aware that the following are major sources of variance in the estimator, and that effective performance can depend on the details of the implementation:\n** the proposal distribution\n** the resampling method",
+    "concept": "3x1yvytf",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "t7k7cfbbs5"
+}

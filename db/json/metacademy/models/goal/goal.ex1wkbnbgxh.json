@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to manipulate the determinant algebraically, together with matrix multiplication, inverse, and transpose",
+    "concept": "xu60d2g1",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "ex1wkbnbgxh"
+}

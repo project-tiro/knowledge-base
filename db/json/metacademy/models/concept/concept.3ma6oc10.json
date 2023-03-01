@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayes Ball",
+    "pointers": "* Bayes ball is an example of\n**  [dynamic programming](dynamic_programming)\n**  [message passing](message_passing)\n* Bayes ball can be used as a  [preprocessing step](bayes_ball_for_relevance)  in inference to determine which variables are relevant to a conditional probability query.",
+    "tags": ["pgm"],
+    "learn_time": 1.0796446230766013,
+    "summary": "D-separation gives a way of determining conditional independence properties of a Bayes net from the graphical representation, but unfortunately the definition itself doesn't give a practical algorithm. Bayes ball is an efficient algorithm for computing d-separation by passing simple messages between nodes of the graph. The name \"Bayes Ball\" stems from the idea of balls bouncing around a directed graph, where if a ball cannot bounce between two nodes then they are [conditionally] independent.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bayes_ball",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3ma6oc10"
+}

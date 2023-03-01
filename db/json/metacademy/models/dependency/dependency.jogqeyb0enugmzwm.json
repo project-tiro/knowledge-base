@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "enugmzwm",
+    "last_mod": "2014-08-30T21:34:01.230Z",
+    "ordering": 397,
+    "target_goals": ["gl8dfx0jyi"],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "Cramer's rule is an explicit solution to linear systems."
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb0enugmzwm"
+}

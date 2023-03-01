@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8emciktc",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 163,
+    "target_goals": ["4eyf5z3anl", "px7bzf6iau"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "Multinomial logistic regression can be fit using maximum likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5i8emciktc"
+}

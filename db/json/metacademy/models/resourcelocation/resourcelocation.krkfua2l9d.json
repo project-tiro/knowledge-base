@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "jf8ehh4qxv",
+    "ordering": 1,
+    "location_text": " and Section 3.2, \"The nullspace of A: solving Ax = 0,\" pages 132-138",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "krkfua2l9d"
+}

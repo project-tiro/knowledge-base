@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Be able to infer the variance parameters (with the evidence approximation or a conjugate prior)",
+    "concept": "ghb79f4f",
+    "last_mod": "2014-08-31T00:10:00.117Z"
+  },
+  "model": "graph.goal",
+  "pk": "jrdias5tp9"
+}

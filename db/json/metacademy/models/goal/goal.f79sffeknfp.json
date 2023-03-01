@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Compare the convergence rate of CG to that of gradient descent",
+    "concept": "4740ilrp",
+    "last_mod": "2014-10-20T01:09:12.410Z"
+  },
+  "model": "graph.goal",
+  "pk": "f79sffeknfp"
+}

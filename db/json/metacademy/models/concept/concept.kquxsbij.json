@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "eigenvalues and eigenvectors",
+    "pointers": "* Eigenvalues are closely related to the  [characteristic polynomial](characteristic_polynomial)  of a matrix.\n* The determinant of a matrix is the  [product of the eigenvalues](determinant_product_of_eigenvalues) .\n* The  [Spectral Theorem](spectral_decomposition)  states that symmetric matrices have a full set of eigenvalues with orthogonal eigenvectors.\n* Eigenvalues are used in  [solving linear ordinary differential equations](matrix_odes_eigenvalues) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.7860776697294558,
+    "summary": "If A is a square matrix, the eigenvalues are the scalar values u satisfying Ax = ux, and the eigenvectors are the values of x. Eigenvectors and eigenvalues give a convenient representation of matrices for computing powers of matrices and for solving differential equations. An important special case is the spectral decomposition of symmetric matrices.\n",
+    "last_mod": "2014-10-20T01:02:14.210Z",
+    "tag": "eigenvalues_and_eigenvectors",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "kquxsbij"
+}

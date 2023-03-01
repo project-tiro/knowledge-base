@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ygvpnfzn",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 884,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "u223r2u4",
+    "reason": "An important motivator for the CRF is Bayesian topic models."
+  },
+  "model": "graph.dependency",
+  "pk": "u223r2u4ygvpnfzn"
+}

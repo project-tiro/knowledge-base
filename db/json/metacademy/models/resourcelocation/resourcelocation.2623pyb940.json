@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=30",
+    "cresource": "mdojkewvic",
+    "ordering": 0,
+    "location_text": "Section 2.3.1, \"Linear models and least squares,\" pgs. 11-14 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2623pyb940"
+}

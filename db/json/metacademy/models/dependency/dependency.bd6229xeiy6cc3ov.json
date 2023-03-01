@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iy6cc3ov",
+    "last_mod": "2014-08-30T21:34:00.699Z",
+    "ordering": -1,
+    "target_goals": ["o2moaw0g7rp", "xkaz6wiguwn"],
+    "source_goals": ["c5jl823g1hb", "f5sactlyqy9", "qayka8kwrjj", "rcop43kg3r6"],
+    "source": "bd6229xe",
+    "reason": "EM is a way of fitting the probabilistic PCA model."
+  },
+  "model": "graph.dependency",
+  "pk": "bd6229xeiy6cc3ov"
+}

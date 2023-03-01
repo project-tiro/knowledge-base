@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Show that d(dw) = 0 for any differential form w",
+    "concept": "ksfloi9c",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "8pkn5anpoa"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ahmjaii",
+    "last_mod": "2014-08-30T21:34:01.855Z",
+    "ordering": 193,
+    "target_goals": [],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Regularized learning algorithms are usually formulated as optimization problems."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb9ahmjaii"
+}

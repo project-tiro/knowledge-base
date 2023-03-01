@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "BFGS",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.3906129618347223,
+    "summary": "The Broyden-Fletcher-Goldfarb-Shanno (BFGS) algorithm is a quasi-Newton optimization method, and one of the most commonly used optimization algorithms in practice. It approximates the Newton updates by iteratively updating an approximation to the inverse Hessian matrix.",
+    "last_mod": "2014-10-27T01:40:03.283Z",
+    "tag": "bfgs",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "lsy1fxwx"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear approximation",
+    "pointers": null,
+    "tags": ["linearalgebra", "mvcalc"],
+    "learn_time": 1.3906067264139326,
+    "summary": "A function is differentiable at a point x if it can be approximated by a linear function around x. The linear approximation can be computed in terms of the partial derivatives at x.\n",
+    "last_mod": "2014-11-19T03:10:23.535Z",
+    "tag": "linear_approximation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "nw2kqzlz"
+}

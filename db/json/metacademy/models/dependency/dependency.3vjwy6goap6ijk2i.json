@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ap6ijk2i",
+    "last_mod": "2014-08-30T23:59:49.126Z",
+    "ordering": 1,
+    "target_goals": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "source_goals": ["rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "In Bayesian parameter estimation, we need to marginalize out the parameters in order to make predictions."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6goap6ijk2i"
+}

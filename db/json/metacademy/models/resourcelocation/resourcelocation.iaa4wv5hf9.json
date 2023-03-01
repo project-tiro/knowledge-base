@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ceb099fgwy",
+    "ordering": 1,
+    "location_text": "Section 2.6, \"Jensen's inequality and its consequences,\" up to Theorem 2.6.3, pages 25-28",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iaa4wv5hf9"
+}

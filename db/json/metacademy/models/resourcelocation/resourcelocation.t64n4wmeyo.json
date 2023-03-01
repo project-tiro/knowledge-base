@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "qisnqtaoo1",
+    "ordering": 1,
+    "location_text": "Section 1.2, \"Truth assignments,\" pages 20-27",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "t64n4wmeyo"
+}

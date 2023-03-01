@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/100",
+    "cresource": "e30nrb04km",
+    "ordering": 0,
+    "location_text": "Lecture \"Learning with incomplete data -- overview\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xjk5syayx4"
+}

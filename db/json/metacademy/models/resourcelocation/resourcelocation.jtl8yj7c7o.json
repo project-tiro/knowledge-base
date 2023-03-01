@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "z7oqtna1kv",
+    "ordering": 0,
+    "location_text": "Section 11.6, \"Estimating the partition function\"",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jtl8yj7c7o"
+}

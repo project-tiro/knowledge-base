@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rzsof8af",
+    "last_mod": "2014-09-19T16:12:07.737Z",
+    "ordering": -1,
+    "target_goals": ["10s390dfqua", "2twcmxt3i9k", "nzopy7nyrdx", "v9by796rdvr", "wszbchjeaxj"],
+    "source_goals": [],
+    "source": "n31vwot7",
+    "reason": "Fisher information can be viewed as the curvature of the likelihood function around the optimum."
+  },
+  "model": "graph.dependency",
+  "pk": "n31vwot7rzsof8af"
+}

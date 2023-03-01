@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "2o1gkpjm",
+    "last_mod": "2014-08-30T23:57:08.041Z",
+    "ordering": 1,
+    "target_goals": [],
+    "source_goals": ["22ztjzav8m", "jnjs61wmqz", "rdifu6uky7"],
+    "source": "i7i4hny7",
+    "reason": "Bayesian naive Bayes inference is an example of Bayesian parameter estimation for a multinomial distribution"
+  },
+  "model": "graph.dependency",
+  "pk": "i7i4hny72o1gkpjm"
+}

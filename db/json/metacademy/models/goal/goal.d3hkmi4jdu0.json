@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that all bases for a given space have the same number of elements (and hence, dimension is a well-defined concept)",
+    "concept": "soxhga99",
+    "last_mod": "2014-08-30T23:36:26.087Z"
+  },
+  "model": "graph.goal",
+  "pk": "d3hkmi4jdu0"
+}

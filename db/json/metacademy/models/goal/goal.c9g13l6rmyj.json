@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Be able to define a parameterized class in Java",
+    "concept": "f7raxdme",
+    "last_mod": "2014-09-14T18:56:05.406Z"
+  },
+  "model": "graph.goal",
+  "pk": "c9g13l6rmyj"
+}

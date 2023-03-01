@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7lucjwrh",
+    "last_mod": "2014-08-30T21:34:01.685Z",
+    "ordering": -1,
+    "target_goals": ["qq3xjv260uu", "vbb3tzgzw80", "xn02wws917f"],
+    "source_goals": ["7qn1hcnhgzu", "8p9kbv8owsl", "nu0fycw97ey", "x8opko7ruan"],
+    "source": "qxpc5lfx",
+    "reason": "The KKT conditions involve both the primal and dual variables."
+  },
+  "model": "graph.dependency",
+  "pk": "qxpc5lfx7lucjwrh"
+}

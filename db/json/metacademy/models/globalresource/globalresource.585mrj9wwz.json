@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Random forests",
+    "url": "http://www-personal.umich.edu/~jizhu/jizhu/wuke/Breiman-ML01.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Leo Breiman']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "585mrj9wwz"
+}

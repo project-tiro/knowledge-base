@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fnww8jeo",
+    "last_mod": "2014-08-30T21:34:02.173Z",
+    "ordering": -1,
+    "target_goals": ["2tc3846j38f", "4cswwl58tj7", "rz9hj920nr0"],
+    "source_goals": ["8fidvod3avb", "afgznxb906e", "ddn4jhivfrj", "kri5xp9z2xo", "oihj1ur166i", "qw43vzo88e6"],
+    "source": "vh9s6taj",
+    "reason": "Several kinds of subspaces of symplectic vector spaces are defined in terms of orthogonality"
+  },
+  "model": "graph.dependency",
+  "pk": "vh9s6tajfnww8jeo"
+}

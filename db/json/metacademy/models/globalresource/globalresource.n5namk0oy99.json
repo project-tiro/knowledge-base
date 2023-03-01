@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A math blog",
+    "version_num": 0,
+    "title": "Climbing Mount Bourbaki: Thoughts on Mathematics",
+    "url": "http://amathew.wordpress.com/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T19:13:39.800Z",
+    "authors": "[u'Akhil Mathew']",
+    "edition_years": "[]",
+    "resource_type": "blog"
+  },
+  "model": "graph.globalresource",
+  "pk": "n5namk0oy99"
+}

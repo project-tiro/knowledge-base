@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know the rules for how C structs are laid out in memory",
+    "concept": "oijzu9k7",
+    "last_mod": "2014-09-07T03:44:11.316Z"
+  },
+  "model": "graph.goal",
+  "pk": "ngq5na7g13s"
+}

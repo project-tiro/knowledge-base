@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "factor analysis",
+    "pointers": "* Other models related to factor analysis:\n**  [Principal component analysis (PCA)](principal_component_analysis) , which finds the maximum variance directions by solving an eigenvalue problem\n**  [probabilistic PCA](probabilistic_pca) , a similar generative model, but where the noise covariance is spherical rather than diagonal\n**  [probabilistic matrix factorization (PMF)](probabilistic_matrix_factorization) , a Bayesian model for predicting missing entries of a matrix",
+    "tags": ["machinelearning"],
+    "learn_time": 1.9422606522592962,
+    "summary": "Factor analysis is a statistical method used to describe variability among observed, correlated variables in terms of a potentially lower number of unobserved variables called factors. In other words, it is possible, for example, that variations in three or four observed variables mainly reflect the variations in fewer unobserved variables. Factor analysis searches for such joint variations in response to unobserved latent variables. The observed variables are modelled as linear combinations of the potential factors, plus \"error\" terms. [from Wikipedia]\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "factor_analysis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4hmqrfdf"
+}

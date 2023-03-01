@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "gw5rcgdt",
+    "version_num": 0,
+    "last_mod": "2014-09-07T04:17:40.325Z",
+    "ordering": -1,
+    "notes": "[u\"At nearly 3.5 hours of lecture material, this is unusually long for a Metacademy resource. But C generics is a tricky topic with lots of gotchas, so it's helpful to go through a lot of examples.\"]",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "nzi6f76r1f9"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ky0uw25j24k"
+}

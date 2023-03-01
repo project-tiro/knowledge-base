@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "6b0dh3ynto",
+    "ordering": 0,
+    "location_text": "Chapter 2, \"Axioms and operations,\" pages 17-32",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0uv43oacnb"
+}

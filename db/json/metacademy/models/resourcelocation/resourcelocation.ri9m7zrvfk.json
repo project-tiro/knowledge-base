@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "fed98rvhh1",
+    "ordering": 0,
+    "location_text": "Section 4.1, \"Gaussian elimination and the theory of linear systems\"",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ri9m7zrvfk"
+}

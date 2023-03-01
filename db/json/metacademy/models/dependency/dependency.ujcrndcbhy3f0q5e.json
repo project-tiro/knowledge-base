@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hy3f0q5e",
+    "last_mod": "2014-08-30T21:34:01.909Z",
+    "ordering": -1,
+    "target_goals": ["79zostvoaqt", "d0750cz8kkp", "ks2i6uheowu", "nb4e5wbfjtk", "pd7b3dlhcae"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Fitting ICA requires solving an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbhy3f0q5e"
+}

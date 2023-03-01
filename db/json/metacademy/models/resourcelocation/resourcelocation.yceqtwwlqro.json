@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:28:16.754Z",
+    "url": "http://www.youtube.com/watch?v=sLfogkzFNfc",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Parameter initialization\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yceqtwwlqro"
+}

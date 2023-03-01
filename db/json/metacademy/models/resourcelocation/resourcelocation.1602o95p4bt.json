@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:19:47.405Z",
+    "url": "http://c.learncodethehardway.org/book/ex18.html",
+    "cresource": "lvzpozylhy6",
+    "ordering": -1,
+    "location_text": "Exercise 18, \"Pointers to functions\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1602o95p4bt"
+}

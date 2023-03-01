@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "If the language supports it, know the difference between checked and unchecked exceptions and when it is appropriate to use which one",
+    "concept": "o86qck81",
+    "last_mod": "2014-09-13T22:24:37.053Z"
+  },
+  "model": "graph.goal",
+  "pk": "dm6jfqy1iqk"
+}

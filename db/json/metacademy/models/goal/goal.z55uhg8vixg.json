@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what a stack is and what operations it must support",
+    "concept": "0wxbs715",
+    "last_mod": "2014-09-14T04:28:53.180Z"
+  },
+  "model": "graph.goal",
+  "pk": "z55uhg8vixg"
+}

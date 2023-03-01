@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "completeness of first-order logic",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 2.9533628232072453,
+    "summary": "Godel's Completeness Theorem shows that there is a complete (and sound) deductive calculus for first-order logic. In other words, if some set of sentences is consistent (one cannot derive a contradiction from them), then there is some model in which all the sentences are satisfied. This result is significant in that it unifies the syntax and semantics of first-order logic.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "completeness_of_first_order_logic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "iyyjegsx"
+}

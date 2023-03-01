@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/56",
+    "cresource": "wvcx1hh06p",
+    "ordering": 5,
+    "location_text": "Lecture \"Clique trees and independence\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tz0fjl6f16"
+}

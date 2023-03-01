@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "bjleobug",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": ["1pb8m91v4t", "gt5mcrv9g2", "q1cmx9sfi2", "sak5rxzyk2", "zfxkrcthbd"],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "v0qjk8ebyd"
+  },
+  "model": "graph.conceptresource",
+  "pk": "pktx7v9r0q"
+}

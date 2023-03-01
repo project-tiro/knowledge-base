@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "h04w4n4x5m",
+    "ordering": 0,
+    "location_text": "Section 18.1, \"Introduction\" (of chapter 18, \"Structure learning in Bayesian networks\"), pages 783-785",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d9rx7dbp7f"
+}

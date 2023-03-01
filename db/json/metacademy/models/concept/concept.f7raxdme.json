@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "generic collections in Java",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 2.0196319431583074,
+    "summary": "In programming, code that defines or uses container classes should be generic in several senses. Typically, the container should be able to hold objects of differing types. Also, code which uses containers shouldn't rely on a particular implementation, but should call methods which are common to different implementations. Both aspects are tricky in a statically typed language like Java, but Java provides some features, such as parameterized classes, to help deal with this. (Note: you should use Java 5 or later, since earlier versions did not support generics.)\n",
+    "last_mod": "2014-09-14T18:56:13.630Z",
+    "tag": "generic_collections_in_java",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "f7raxdme"
+}

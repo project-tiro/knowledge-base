@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "junction trees",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 3.8044500946032698,
+    "summary": "The sum-product algorithm is a way of computing marginals in a tree-structured graphical model. The junction tree algorithm generalizes this to arbitrary graphs by grouping together variables into cliques, such that the cliques form a tree. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "junction_trees",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dvb36dyf"
+}

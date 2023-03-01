@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Using the subset construction, show that deterministic and nondeterministic finite automata are equivalent",
+    "concept": "660f1vav",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "jk2hms7vqjj"
+}

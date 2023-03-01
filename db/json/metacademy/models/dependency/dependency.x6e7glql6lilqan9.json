@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6lilqan9",
+    "last_mod": "2014-08-30T21:34:02.011Z",
+    "ordering": 59,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glql6lilqan9"
+}

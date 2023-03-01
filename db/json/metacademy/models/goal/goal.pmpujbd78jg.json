@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "If the language is statically typed, understand why a variable of type S can be assigned a value which is a subclass of S but not a superclass",
+    "concept": "cam6w537",
+    "last_mod": "2014-09-11T03:17:48.094Z"
+  },
+  "model": "graph.goal",
+  "pk": "pmpujbd78jg"
+}

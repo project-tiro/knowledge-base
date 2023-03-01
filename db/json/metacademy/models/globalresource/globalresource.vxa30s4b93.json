@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory textbook on axiomatic set theory.",
+    "version_num": 0,
+    "title": "Elements of Set Theory",
+    "url": "http://www.amazon.com/Elements-Set-Theory-Herbert-Enderton/dp/0122384407",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Herbert B. Enderton']",
+    "edition_years": "[u'1977']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "vxa30s4b93"
+}

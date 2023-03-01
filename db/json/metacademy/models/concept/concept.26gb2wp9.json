@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "SVM vs. logistic regression",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 0.669276009471547,
+    "summary": "Logistic regression and SVMs are closely related algorithms, even though this isn't obvious from the usual presentation. In particular, the loss functions are very similar, and linear SVMs and logistic regression can often be substituted for one another without a big difference in performance.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "svm_vs_logistic_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "26gb2wp9"
+}

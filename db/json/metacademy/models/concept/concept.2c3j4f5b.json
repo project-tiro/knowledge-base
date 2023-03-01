@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian estimation of Bayes net parameters",
+    "pointers": "* These techniques can be used to  [learn the Bayes net structures](bayes_net_structure_learning) , i.e. the pattern of nodes and edges.",
+    "tags": ["bayesianstats", "pgm"],
+    "learn_time": 1.3584947875100688,
+    "summary": "Bayesian parameter estimation techniques can be applied to learning Bayes net parameters. This leads to more stable estimates in situations with limited data and can improve generalization performance.\n",
+    "last_mod": "2014-08-30T23:39:01.583Z",
+    "tag": "bayesian_estimation_bayes_net_params",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2c3j4f5b"
+}

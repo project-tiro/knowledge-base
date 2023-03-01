@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "6npwllz9",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'best read after learning about the Dirichlet Process']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "tojbaxgy4a"
+  },
+  "model": "graph.conceptresource",
+  "pk": "qx8yb5l052"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A comprehensive introductory algorithms textbook affectionately known as \"CLRS\"",
+    "version_num": 0,
+    "title": "Introduction to Algorithms",
+    "url": "http://www.amazon.com/Introduction-Algorithms-Edition-Thomas-Cormen/dp/0262033844/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-29T01:44:21.424Z",
+    "authors": "[u'Thomas H. Cormen', u'Charles E. Leiserson', u'Ronald L. Rivest', u'Clifford Stein']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "5zsqz9ibodv"
+}

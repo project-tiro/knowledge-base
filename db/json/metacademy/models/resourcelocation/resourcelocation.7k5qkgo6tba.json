@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:12:43.912Z",
+    "url": "http://en.wikipedia.org/wiki/AC-3_algorithm",
+    "cresource": "cym52vrivis",
+    "ordering": -1,
+    "location_text": "Article \"AC-3 algorithm\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7k5qkgo6tba"
+}

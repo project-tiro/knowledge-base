@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "backpropagation",
+    "pointers": "* Since backpropagation is basically a way of computing gradients, it  [can be also used in quasi-Newton methods](backpropagation_quasi_newton) , not just gradient descent.\n* Backpropagation can be used to  [compute second derivatives](backpropagation_second_order)  as well.\n* Unfortunately, training neural nets is  [not a convex optimization problem](neural_nets_not_convex) , so it suffers from local optima and plateaus.\n*  [Generative pre-training](generative_pre_training)  is one strategy for getting around these local optima.",
+    "tags": ["machinelearning"],
+    "learn_time": 2.173249196418545,
+    "summary": "Backpropagation is the standard algorithm for training supervised feed-forward neural nets. More precisely, it isn't actually a learning algorithm, but a way of computing the gradient of the loss function with respect to the network parameters. Mathematically, it's just an instance of the chain rule for derivatives, but it has an intuitive interpretation in terms of passing messages between the units.\n",
+    "last_mod": "2014-09-21T01:28:44.045Z",
+    "tag": "backpropagation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "iplkhc1b"
+}

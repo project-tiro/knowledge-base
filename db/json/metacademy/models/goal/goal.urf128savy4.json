@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Prove that any comparison-based sorting algorithm requires at least O(n log n) operations",
+    "concept": "8fe71xe9",
+    "last_mod": "2014-08-27T17:27:27.677Z"
+  },
+  "model": "graph.goal",
+  "pk": "urf128savy4"
+}

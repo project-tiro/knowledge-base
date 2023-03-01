@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "oceraae8",
+    "version_num": 0,
+    "last_mod": "2014-09-07T03:42:44.937Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "zlxls3ug8s0"
+  },
+  "model": "graph.conceptresource",
+  "pk": "4jc1sbuqckd"
+}

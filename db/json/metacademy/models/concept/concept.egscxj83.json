@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "limited memory BFGS",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.7074465587927843,
+    "summary": "Limited-memory BFGS (L-BFGS) is a quasi-Newton optimization method, and one of the most popular optimization methods for problems with large numbers of variables. It is based on BFGS, but rather than store the approximate inverse Hessian explicitly, it maintains an implicit representation as a product of rank-one-plus-identity factors. All but the most recent K factors are dropped, which keeps the storage requirements bounded.\n",
+    "last_mod": "2014-10-27T01:51:18.863Z",
+    "tag": "limited_memory_bfgs",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "egscxj83"
+}

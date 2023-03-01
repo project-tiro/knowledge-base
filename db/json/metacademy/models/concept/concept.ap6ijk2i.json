@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian parameter estimation",
+    "pointers": "* Some other parameter estimation methods include:\n** the  [method of moments](method_of_moments)\n**  [maximum likelihood](maximum_likelihood)\n* Ultimately, we don't just want to learn parameters, we want to use them for something.  [Bayesian decision theory](bayesian_decision_theory)  concerns how to act based on our inferences from the data.\n* Usually, the posterior over parameters and the predictive distribution can't be computed in closed form. Here are some strategies for getting approximate solutions:\n**  [maximum a posteriori (MAP) estimation](map_parameter_estimation) , i.e. finding the most likely parameters\n**  [variational Bayes](variational_bayes) , a framework for approximating intractable posterior distributions with tractable ones\n**  [markov chain Monte Carlo (MCMC)](markov_chain_monte_carlo) , a set of techniques for approximately sampling from the posterior\n* Regularization can often be  [viewed as MAP estimation in a Bayesian model](regularization_as_map) .\n* While Bayesian parameter estimation attenuates overfitting, it doesn't solve the problem completely. Strategies for controlling model complexity include:\n**  [Bayesian model comparison](bayesian_model_comparison)\n**  [Bayesian model averaging](bayesian_model_averaging)\n**  [Bayesian nonparametrics](bayesian_nonparametrics)\n* The choice of a prior distribution over parameters is not always obvious. Often we choose them based on criteria like the following:\n**  [conjugate priors](conjugate_priors) , where the prior and posterior have the same functional form\n**  [uninformative priors](uninformative_priors) , which try to say as little as possible about the parameter\n**  [Bayesian model averaging](bayesian_model_averaging) , where we average over multiple choices of the prior\n**  [hierarchical models](hierarchical_bayesian_modeling) , where the prior for one problem comes from information obtained from related problems \n**  [eliciting priors from human experts](eliciting_priors)",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.8978692527842886,
+    "summary": "In the Bayesian framework, we treat the parameters of a statistical model as random variables. The model is specified by a prior distribution over the values of the variables, as well as an evidence model which determines how the parameters influence the observed data. When we condition on the observations, we get the posterior distribution over parameters. The term ``Bayesian parameter estimation'' is deceptive, because often we can skip the parameter estimation step entirely. Rather, we integrate out the parameters and directly make predictions about future observables.\n",
+    "last_mod": "2014-08-31T00:03:15.078Z",
+    "tag": "bayesian_parameter_estimation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ap6ijk2i"
+}

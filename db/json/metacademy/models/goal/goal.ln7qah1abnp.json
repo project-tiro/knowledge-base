@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Given a coordinate chart on a manifold, construct a coordinate chart on the cotangent bundle",
+    "concept": "0melenav",
+    "last_mod": "2014-09-01T02:39:02.621Z"
+  },
+  "model": "graph.goal",
+  "pk": "ln7qah1abnp"
+}

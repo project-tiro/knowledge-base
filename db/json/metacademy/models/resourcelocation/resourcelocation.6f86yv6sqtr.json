@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:32:58.246Z",
+    "url": "https://class.coursera.org/algo-004/lecture/52",
+    "cresource": "p5exkfbsg61",
+    "ordering": -1,
+    "location_text": "Lecture \"Topological sort\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6f86yv6sqtr"
+}

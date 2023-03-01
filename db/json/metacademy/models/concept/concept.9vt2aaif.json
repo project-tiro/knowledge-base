@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sparse coding",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.4796961175109016,
+    "summary": "Sparse coding is a probabilistic model of natural images where each region of an image is represented as a linaer combination of a small number of components drawn from a dictionary. When the model is fit to natural images, the dictionary elements resemble the receptive fields of cells in the primary visual cortex.\n",
+    "last_mod": "2014-09-21T01:45:09.373Z",
+    "tag": "sparse_coding",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9vt2aaif"
+}

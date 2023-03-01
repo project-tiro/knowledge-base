@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:43:56.513Z",
+    "url": "",
+    "cresource": "8dcgu42rtqp",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Réseaux profonds (Deep learning)\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0obnvwnr110"
+}

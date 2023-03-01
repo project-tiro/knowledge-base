@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sorting",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.5882500269129827,
+    "summary": "Sorting refers to rearranging the elements of an array to be ordered according to some criterion. It is commonly used as a running example in introductory algorithms courses because the common sorting algorithms exemplify important algorithm design and analysis techniques.\n",
+    "last_mod": "2014-09-14T16:08:13.941Z",
+    "tag": "sorting",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "iszv8c6h"
+}

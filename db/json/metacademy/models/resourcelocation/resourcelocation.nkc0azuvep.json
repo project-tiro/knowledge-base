@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "xlhqq133st",
+    "ordering": 0,
+    "location_text": "Section 2, \"The annealed importance sampling procedure\"",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "nkc0azuvep"
+}

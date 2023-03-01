@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know the distinction between public and private fields/methods, if the language provides this; otherwise know the language's conventions for marking things as private",
+    "concept": "x865hwhs",
+    "last_mod": "2014-09-11T02:30:06.075Z"
+  },
+  "model": "graph.goal",
+  "pk": "2i9bp8z92wn"
+}

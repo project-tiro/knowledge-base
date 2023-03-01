@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:28:50.993Z",
+    "url": "http://math.hws.edu/javanotes/c5/s5.html",
+    "cresource": "gpye9mcz31y",
+    "ordering": -1,
+    "location_text": "Section 5.5.5, \"Abstract classes\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q5el3c61ni5"
+}

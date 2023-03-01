@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to compute the posterior distribution using Bayes' Rule",
+    "concept": "ap6ijk2i",
+    "last_mod": "2014-08-31T00:03:04.359Z"
+  },
+  "model": "graph.goal",
+  "pk": "qu2nxd0ccq"
+}

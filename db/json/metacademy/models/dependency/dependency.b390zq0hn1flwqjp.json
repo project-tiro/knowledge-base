@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n1flwqjp",
+    "last_mod": "2014-08-30T20:04:05.018Z",
+    "ordering": -1,
+    "target_goals": ["37al3i5sev1", "go6jccnod9x"],
+    "source_goals": ["4mjb1dlm54", "4n0u0b3sdo", "uyspc07txs", "xntiq9ywo6"],
+    "source": "b390zq0h",
+    "reason": "The evidence approximation is a way of approximating Bayesian model comparison."
+  },
+  "model": "graph.dependency",
+  "pk": "b390zq0hn1flwqjp"
+}

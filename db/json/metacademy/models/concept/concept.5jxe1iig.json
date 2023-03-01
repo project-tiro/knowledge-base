@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "latent semantic analysis",
+    "pointers": "* LSA has an odd interpretation when viewed as a probabilistic model.  [Probabilistic LSA](probabilistic_lsa)  is a similar model with a more principled probabilistic interpretation.\n* LSA is exactly equivalent to applying  [principle component analysis](principal_component_analysis)  to a term by document count matrix\n* LSA is commonly used in information retrieval. There, it's referred to as  [latent semantic indexing](latent_semantic_indexing) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.0807941400690404,
+    "summary": "Latent Semantic Analysis (LSA), or Latent Semantic Indexing (LSI), is a statistical technique typically used for analyzing relationships between a set of documents and the terms they contain. At its core, LSA performs singular value decomposition (SVD) on a term-by-document count matrix of a corpus and interprets the SVD factors as the \"topics\" of the documents.  We can then use these resulting factors (topics) to determine the document-document, document-term, and term-term similarities in the given corpus.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "latent_semantic_analysis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "5jxe1iig"
+}

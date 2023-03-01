@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T20:32:45.618Z",
+    "url": "",
+    "cresource": "m3p8r8vpdpz",
+    "ordering": -1,
+    "location_text": "Section 3.3, \"Rate of convergence,\" up through subsection \"Convergence rate of steepest descent,\" pages 41-44",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yizyorgg9nc"
+}

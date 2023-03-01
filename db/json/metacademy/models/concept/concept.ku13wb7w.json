@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "convergence of gradient descent",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.381188660653403,
+    "summary": "Under certain conditions, gradient descent can be shown to obey linear convergence, where the number of significant digits accuracy grows linearly in the number of iterations. Furthermore, the rate of convergence is inversely proportional to the condition number, or the ratio of the largest and smallest eigenvectors of the Hessian near the optimum.",
+    "last_mod": "2014-10-20T01:02:43.538Z",
+    "tag": "convergence_of_gradient_descent",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "ku13wb7w"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8axm4wao",
+    "last_mod": "2014-08-30T20:18:25.542Z",
+    "ordering": -1,
+    "target_goals": ["8khucyxixcz", "zsgagdu66la"],
+    "source_goals": ["1g3eemq2ak", "9m41e376n2", "nd8c9fggpp"],
+    "source": "g2b5lqga",
+    "reason": "KL divergence is part of the objective function in variational EM."
+  },
+  "model": "graph.dependency",
+  "pk": "g2b5lqga8axm4wao"
+}

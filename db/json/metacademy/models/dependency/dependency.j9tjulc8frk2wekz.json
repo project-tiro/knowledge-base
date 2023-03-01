@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "frk2wekz",
+    "last_mod": "2014-08-30T21:34:01.156Z",
+    "ordering": 313,
+    "target_goals": ["05tfyyu9pn", "os11sc1f40", "yh1t727gsu", "zzhro891ja"],
+    "source_goals": ["hsws51w7hau", "rmhpdqjxpbh", "vmqsftf8qq4"],
+    "source": "j9tjulc8",
+    "reason": "The union bound is an important tool for analyzing PAC learning."
+  },
+  "model": "graph.dependency",
+  "pk": "j9tjulc8frk2wekz"
+}

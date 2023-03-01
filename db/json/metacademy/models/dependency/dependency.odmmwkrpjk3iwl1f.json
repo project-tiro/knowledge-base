@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:38:42.321Z",
+    "ordering": 0,
+    "target_goals": ["b0srq1kra6", "obu1s41m4uk", "pslm2gzw5d", "wbssblfcja"],
+    "source_goals": ["beu6trbj6gh", "vlxmvze1f3l", "w39t3ysuc45"],
+    "source": "odmmwkrp",
+    "reason": "Differential forms are a kind of tensor field"
+  },
+  "model": "graph.dependency",
+  "pk": "odmmwkrpjk3iwl1f"
+}

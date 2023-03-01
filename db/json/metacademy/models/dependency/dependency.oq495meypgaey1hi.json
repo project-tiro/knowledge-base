@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pgaey1hi",
+    "last_mod": "2014-09-01T02:43:01.583Z",
+    "ordering": 352,
+    "target_goals": ["49bs4gqsrt", "an4dkl0ooi", "m95agdj8x8"],
+    "source_goals": ["4aca3ammoz", "i3e4kz5h2z", "npmo4n0b58"],
+    "source": "oq495mey",
+    "reason": "The Divergence Theorem is a theorem about surface integrals."
+  },
+  "model": "graph.dependency",
+  "pk": "oq495meypgaey1hi"
+}

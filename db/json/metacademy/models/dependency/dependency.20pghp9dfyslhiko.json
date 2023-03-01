@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fyslhiko",
+    "last_mod": "2014-08-30T23:52:19.122Z",
+    "ordering": 2,
+    "target_goals": ["goy0dn31fjy"],
+    "source_goals": [],
+    "source": "20pghp9d",
+    "reason": "The logistic regression solution is usually regularized to prevent degenerate solutions."
+  },
+  "model": "graph.dependency",
+  "pk": "20pghp9dfyslhiko"
+}

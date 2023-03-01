@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vb48h13n",
+    "last_mod": "2014-08-30T03:26:28.518Z",
+    "ordering": -1,
+    "target_goals": ["94itqg8lwxt", "m7bewsny7mp", "qx4yuqu3hrr", "ruh8kxlh5ix", "ybb3mn8yvf5"],
+    "source_goals": ["70dcc4lk3f", "v6egxrlebf"],
+    "source": "zlyqzsgn",
+    "reason": "HMC uses the gradient of the log probability in its update rule."
+  },
+  "model": "graph.dependency",
+  "pk": "zlyqzsgnvb48h13n"
+}

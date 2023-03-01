@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* What is the information gain criterion, and why does it produce better splits than classification accuracy?",
+    "concept": "46ycc9su",
+    "last_mod": "2014-08-30T23:35:53.925Z"
+  },
+  "model": "graph.goal",
+  "pk": "fw67icdhff"
+}

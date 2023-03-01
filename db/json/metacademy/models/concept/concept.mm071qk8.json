@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational inference and exponential families",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 0.6725270926450841,
+    "summary": "Variational inference algorithms based on mean field turn out to have especially nice forms in exponential family models with appropriate conjugate structure.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "variational_exponential_family",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "mm071qk8"
+}

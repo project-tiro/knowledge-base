@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oegfe73w",
+    "last_mod": "2014-08-30T21:34:01.437Z",
+    "ordering": 608,
+    "target_goals": [],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "Mean field makes the approximation that certain random variables, or sets of random variables, are independent."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98eoegfe73w"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian elimination",
+    "pointers": "* Gaussian elimination can be viewed as  [factorizing a matrix](lu_factorization)  into a lower triangular and an upper triangular matrix.\n* If the matrix is symmetric positive definite, we never need to pivot; in this case, the algorithm is known as the  [Cholesky decomposition](cholesky_decomposition) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 2.7251817819891215,
+    "summary": "Gaussian elimination is an algorithm for solving systems of linear equations, computing matrix inverses, and computing the LU factorization of a matrix.\n",
+    "last_mod": "2014-08-30T03:18:33.618Z",
+    "tag": "gaussian_elimination",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8de793ha"
+}

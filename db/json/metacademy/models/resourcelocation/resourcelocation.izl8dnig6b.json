@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "taw2r9o1k7",
+    "ordering": 0,
+    "location_text": "slide 22",
+    "location_type": "lecture slide"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "izl8dnig6b"
+}

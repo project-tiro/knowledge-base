@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "kernel trick",
+    "pointers": "* Techniques for  [constructing kernels](constructing_kernels)\n* The kernel trick is used in many machine learning algorithms, including:\n**  [kernel ridge regression](kernel_ridge_regression)\n**  [kernel support vector machines](kernel_svm)\n**  [Gaussian process regression](gaussian_process_regression)\n* The theory of  [reproducing kernel Hilbert spaces](reproducing_kernel_hilbert_spaces)  justifies the use of kernelized representations.",
+    "tags": ["machinelearning"],
+    "learn_time": 0.7500825415536434,
+    "summary": "We can use linear models to model complex nonlinear functions by mapping the original data to a basis function representation. Such a representation can get unweildy, however. The kernel trick allows us to implicitly map the data to a very high (possibly infinite) dimensional space by replacing the dot product with a more general inner product, or kernel.\n",
+    "last_mod": "2014-10-11T21:33:30.607Z",
+    "tag": "kernel_trick",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "uh66zhs6"
+}

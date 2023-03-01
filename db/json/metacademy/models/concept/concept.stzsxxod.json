@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "computing matrix inverses",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.3533320869174386,
+    "summary": "Matrix inverses can be computed using Gaussian elimination.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "computing_matrix_inverses",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "stzsxxod"
+}

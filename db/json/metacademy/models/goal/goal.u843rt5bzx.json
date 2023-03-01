@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Know the Cauchy-Schwartz inequality for covariance (which bounds the covariance in terms of the individual variances)",
+    "concept": "mxpmyv5u",
+    "last_mod": "2014-08-31T15:49:49.169Z"
+  },
+  "model": "graph.goal",
+  "pk": "u843rt5bzx"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T19:48:08.191Z",
+    "url": "http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf#page=498",
+    "cresource": "8mszl3tbuc5",
+    "ordering": -1,
+    "location_text": "Section 9.5, \"Newton's method,\" pages 484-496",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "j8nxjeym3b1"
+}

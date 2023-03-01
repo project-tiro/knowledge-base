@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how to allocate a multi-dimensional array (represented in terms of pointers to pointers)",
+    "concept": "z4efgcsu",
+    "last_mod": "2014-09-07T03:48:54.140Z"
+  },
+  "model": "graph.goal",
+  "pk": "t5zvdoddpox"
+}

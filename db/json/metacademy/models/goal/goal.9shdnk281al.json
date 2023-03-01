@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Be able to implement the insertion and deletion operations such that the invariant is maintained",
+    "concept": "85rf7d3l",
+    "last_mod": "2014-08-27T19:17:11.190Z"
+  },
+  "model": "graph.goal",
+  "pk": "9shdnk281al"
+}

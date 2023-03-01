@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why do linear combinations of linear transformations correspond to linear combinations of matrices?",
+    "concept": "frmn5lqo",
+    "last_mod": "2014-08-30T17:33:23.567Z"
+  },
+  "model": "graph.goal",
+  "pk": "m1sm56agb0g"
+}

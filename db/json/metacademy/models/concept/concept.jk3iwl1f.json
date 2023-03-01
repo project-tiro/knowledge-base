@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "differential forms",
+    "pointers": null,
+    "tags": ["diffgeom", "mvcalc"],
+    "learn_time": 1.183664259983445,
+    "summary": "Differential forms are tensor fields on manifolds where the tensors are alternating, i.e. they satisfy properties analogous to those of the determinant. Differential forms can be combined using the wedge product. They are needed to define integration on manifolds, and are fundamental to de Rham cohomology.\n",
+    "last_mod": "2014-09-19T14:53:43.654Z",
+    "tag": "differential_forms",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jk3iwl1f"
+}

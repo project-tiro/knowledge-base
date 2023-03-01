@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "eoh18sqa",
+    "last_mod": "2014-08-30T23:43:18.079Z",
+    "ordering": 0,
+    "target_goals": ["3s6sgjdtwf", "xm4gzjxchm"],
+    "source_goals": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "source": "ap6ijk2i",
+    "reason": "We use Bayesian parameter estimation to get the posterior on which we base our decisions."
+  },
+  "model": "graph.dependency",
+  "pk": "ap6ijk2ieoh18sqa"
+}

@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "target": "1dx39mek",
+    "last_mod": "2014-08-31T15:46:05.939Z",
+    "ordering": 270,
+    "target_goals": ["7g5rrg9rqq"],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": "The Euclidean ball is a canonical example of a convex set."
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1fo1dx39mek"
+}

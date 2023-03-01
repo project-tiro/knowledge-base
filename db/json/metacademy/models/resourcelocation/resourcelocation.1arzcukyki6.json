@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/automata/lecture/22",
+    "cresource": "4cvgt298jjo",
+    "ordering": -1,
+    "location_text": "Lecture \"The pumping lemma for CFL's\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1arzcukyki6"
+}

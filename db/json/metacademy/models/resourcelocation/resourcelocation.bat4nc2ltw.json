@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "21h1hzs102",
+    "ordering": 1,
+    "location_text": "Lecture \"Convolutional nets for object recognition\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bat4nc2ltw"
+}

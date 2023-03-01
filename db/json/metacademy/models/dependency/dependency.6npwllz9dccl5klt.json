@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dccl5klt",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 135,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "6npwllz9",
+    "reason": "The Chinese restaurant process is one canonical interpretation of the Dirichlet process."
+  },
+  "model": "graph.dependency",
+  "pk": "6npwllz9dccl5klt"
+}

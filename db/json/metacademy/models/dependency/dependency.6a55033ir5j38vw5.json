@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "r5j38vw5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 375,
+    "target_goals": ["psz4dv960b"],
+    "source_goals": ["66axk5ygrz", "kom3g8m6f7", "nwl9iky3wx", "psfgcy8sbs"],
+    "source": "6a55033i",
+    "reason": "The Compactness Theorem is stated in terms of finite sets."
+  },
+  "model": "graph.dependency",
+  "pk": "6a55033ir5j38vw5"
+}

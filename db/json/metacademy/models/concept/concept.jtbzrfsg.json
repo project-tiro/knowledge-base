@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "kernel SVM",
+    "pointers": "* The kernel SVM can be optimized with the  [sequential minimal optimization (SMO) algorithm](sequential_minimal_optimization) \".\n* Techniques for  [constructing kernels](constructing_kernels)\n* Other examples of kernelized models include:\n**  [kernel ridge regression](kernel_ridge_regression)\n**  [Gaussian process regression](gaussian_process_regression)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.057268575602302,
+    "summary": "The main advantage of the SVM as a linear classifier is that it can be kernelized in order to represent complex nonlinear decision boundaries. Conveniently, since only a (hopefully) sparse subset of the training examples are used, kernels only need to be computed with a small fraction of the training examples. Kernel SVMs are one of the most widely used classifiers in machine learning, because off-the-shelf tools often perform very well.\n \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "kernel_svm",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jtbzrfsg"
+}

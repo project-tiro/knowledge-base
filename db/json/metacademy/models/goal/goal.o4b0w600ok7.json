@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of the difference in motivation between the two methods (GMMs are motivated in terms of density modeling, k-means in terms of vector quantization)",
+    "concept": "byspgfas",
+    "last_mod": "2014-08-30T02:40:50.423Z"
+  },
+  "model": "graph.goal",
+  "pk": "o4b0w600ok7"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:55:15.625Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap13.pdf#page=3",
+    "cresource": "diprgugf9vh",
+    "ordering": -1,
+    "location_text": "Lecture notes 13, \"Differential forms,\" subsections 3, \"Exterior derivative,\" through 4, \"Pull-back invariance,\" pages 3-8",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "30ku3luc70h"
+}

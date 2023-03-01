@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Understand the relationship with logistic regression:\n** the two have similar activation functions\n** however, probit regression is more sensitive to outliers",
+    "concept": "xid0o4wp",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "ydeoj7u1sn"
+}

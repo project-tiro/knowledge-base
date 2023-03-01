@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "line search",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 2.2354486385274965,
+    "summary": "In optimization algorithms such as gradient descent, a careful choice of step size can be important for good performance. Line search is a class of methods for choosing a step size large enough to make progress, but not so large as to cause instability.\n",
+    "last_mod": "2014-10-11T21:01:46.838Z",
+    "tag": "line_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "brscvy9d"
+}

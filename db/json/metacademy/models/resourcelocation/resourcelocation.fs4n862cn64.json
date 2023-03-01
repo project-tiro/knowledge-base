@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:07:28.557Z",
+    "url": "http://en.wikipedia.org/wiki/Minimax#Minimax_algorithm_with_alternate_moves",
+    "cresource": "82u905tu4bo",
+    "ordering": -1,
+    "location_text": "Article \"Minimax,\" subsection \"Minimax algorithm with alternate moves\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fs4n862cn64"
+}

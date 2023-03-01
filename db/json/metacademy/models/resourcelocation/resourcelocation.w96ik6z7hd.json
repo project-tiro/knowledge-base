@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://en.wikipedia.org/wiki/Peano_axioms",
+    "cresource": "8arzgvnl59",
+    "ordering": 0,
+    "location_text": "Article \"Peano axioms\" ",
+    "location_type": "wiki"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "w96ik6z7hd"
+}

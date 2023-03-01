@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ub4pkcy",
+    "last_mod": "2014-08-30T23:39:46.375Z",
+    "ordering": 900,
+    "target_goals": ["2ez7jdwsu6", "8h2moufznb", "l7uzk3m3c8", "m0rsh3wia9", "m3ab0ev5of"],
+    "source_goals": ["8pw2i4ytp1", "9go06loauq"],
+    "source": "2c3j4f5b",
+    "reason": "The same Bayesian analysis is used to derive the Bayesian scoring criterion."
+  },
+  "model": "graph.dependency",
+  "pk": "2c3j4f5b9ub4pkcy"
+}

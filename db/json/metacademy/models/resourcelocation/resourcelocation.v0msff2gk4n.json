@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T00:31:37.877Z",
+    "url": "",
+    "cresource": "q909czyi10b",
+    "ordering": -1,
+    "location_text": "Section 5.12, \"Complicated declarations\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "v0msff2gk4n"
+}

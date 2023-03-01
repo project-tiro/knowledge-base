@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Prove the Schroeder-Bernstein Theorem: that if two sets each dominate each other, then they are equinumerous.",
+    "concept": "9llvvj6h",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "eujxmysv5a"
+}

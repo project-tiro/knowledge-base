@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=TxBLRz-gNq4&list=PL17567A1A3F5DB5E4&index=4",
+    "cresource": "iy8o916tup",
+    "ordering": 3,
+    "location_text": "Lecture 1.4, \"Measure theory: examples of measures\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1hbkvskiln"
+}

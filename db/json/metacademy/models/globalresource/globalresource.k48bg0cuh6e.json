@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A tutorial on the Fisher information matrix",
+    "version_num": 0,
+    "title": "Fisher matrix for beginners",
+    "url": "http://www.physics.ucdavis.edu/~dwittman/Fisher-matrix-guide.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T15:55:52.187Z",
+    "authors": "[u'David Wittman']",
+    "edition_years": "[]",
+    "resource_type": "notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "k48bg0cuh6e"
+}

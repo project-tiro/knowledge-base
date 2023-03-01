@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Markov chain Monte Carlo",
+    "pointers": "* Some commonly used MCMC algorithms include:\n**  [Gibbs sampling](gibbs_sampling) , where one variable is resampled given the others \n**  [Metropolis-Hastings](metropolis_hastings) , a very general technique\n*  [Sequential importance sampling](sequential_importance_sampling)  is an alternative family of sampling techniques. \n* While MCMC is normally used as an approximate inference technique, it can also be used to get  [exact samples](mcmc_exact_samples) .\n* We can  [analyze the mixing rate](analyzing_mcmc_mixing)  of MCMC samplers using spectral graph theory. ",
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.276913619980067,
+    "summary": "Markov Chain Monte Carlo (MCMC) is a set of techniques for approximately sampling from a probability distribution p by running a Markov chain which has p as its stationary distribution. Gibbs sampling and Metropolis-Hastings are the most common examples.\n",
+    "last_mod": "2014-08-30T21:40:54.804Z",
+    "tag": "markov_chain_monte_carlo",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "19eauumg"
+}

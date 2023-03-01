@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x9ogztk",
+    "last_mod": "2014-08-31T15:18:27.233Z",
+    "ordering": 553,
+    "target_goals": ["rohasshogu", "yzcwf2y4b2"],
+    "source_goals": ["rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "Collapsed Gibbs sampling involves marginalizing out some of the variables."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6go3x9ogztk"
+}

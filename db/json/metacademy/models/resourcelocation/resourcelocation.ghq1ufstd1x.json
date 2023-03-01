@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:27:14.305Z",
+    "url": "http://c.learncodethehardway.org/book/ex9.html",
+    "cresource": "atanrg14msz",
+    "ordering": -1,
+    "location_text": "Exercise 9, \"Arrays and strings\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ghq1ufstd1x"
+}

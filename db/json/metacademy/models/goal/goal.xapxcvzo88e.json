@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know why the value of a board state often needs to be estimated with an evaluation function, and give some examples of evaluation functions",
+    "concept": "zlk11edy",
+    "last_mod": "2014-11-08T23:08:55.167Z"
+  },
+  "model": "graph.goal",
+  "pk": "xapxcvzo88e"
+}

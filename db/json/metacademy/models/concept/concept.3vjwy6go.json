@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multivariate distributions",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.8144805756650653,
+    "summary": "Multivariate distributions are a way of representing the dependencies between multiple random variables.\n",
+    "last_mod": "2014-08-31T15:49:35.563Z",
+    "tag": "multivariate_distributions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3vjwy6go"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "60c0yz46in",
+    "ordering": 2,
+    "location_text": "Section 4.4, \"Methods of proof,\" pages 99-104",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bmlexhi2lm"
+}

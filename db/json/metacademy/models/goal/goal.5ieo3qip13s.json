@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know why the Gauss-Newton matrix, unlike the Hessian matrix, is guaranteed to be positive semidefinite",
+    "concept": "vw8og6fv",
+    "last_mod": "2014-11-19T03:12:17.125Z"
+  },
+  "model": "graph.goal",
+  "pk": "5ieo3qip13s"
+}

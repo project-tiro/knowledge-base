@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=436",
+    "cresource": "q9xrx2l17s",
+    "ordering": 0,
+    "location_text": "Section 12.2, \"The support vector classifier,\" pages 417-422, not including subsection \"Computing the support vector classifier\" ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "idosw4usvp"
+}

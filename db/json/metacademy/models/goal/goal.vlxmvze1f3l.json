@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to compute the coordinate representation of a tensor field given a coordinate chart",
+    "concept": "odmmwkrp",
+    "last_mod": "2014-09-01T02:38:30.759Z"
+  },
+  "model": "graph.goal",
+  "pk": "vlxmvze1f3l"
+}

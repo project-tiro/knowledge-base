@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "SVM optimality conditions",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.1155080803672648,
+    "summary": "Using Lagrange duality, we can formulate a set of conditions that characterize the optimal solution to the SVM objective. These conditions show that the weight vector is a linear combination of a (hopefully small) subset of the training points, those for which the margin constraint is tight.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "svm_optimality_conditions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2qi7kod1"
+}

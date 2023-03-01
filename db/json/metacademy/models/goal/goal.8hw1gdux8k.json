@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to reduce a set of first-order sentences to conjunctive normal form.",
+    "concept": "qebvps8f",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "8hw1gdux8k"
+}

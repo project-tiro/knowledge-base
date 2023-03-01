@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T19:07:52.782Z",
+    "url": "",
+    "cresource": "tdnhgdwfh3b",
+    "ordering": -1,
+    "location_text": "Section 13.4, \"Red-black trees,\" pages 565-573",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ogszwa9o4cu"
+}

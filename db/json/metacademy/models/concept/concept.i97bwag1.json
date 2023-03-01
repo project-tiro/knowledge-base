@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "flows on manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 1.1266245353725322,
+    "summary": "Given a vector field X on a manifold, an integral curve for X through p is a curve passing through p whose tangent vector matches X at every point. The set of all integral curves can be analyzed in terms of a flow, where each point is transported along the corresponding integral curve. Flows are used to define the Lie derivative.\n",
+    "last_mod": "2014-09-19T14:38:19.507Z",
+    "tag": "flows_on_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "i97bwag1"
+}

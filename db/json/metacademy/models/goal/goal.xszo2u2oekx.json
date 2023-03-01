@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Give some examples of admissible heuristics. If possible, explain how they can be interpreted in terms of loosening problem constraints.",
+    "concept": "6zgu0pb6",
+    "last_mod": "2014-11-08T21:08:28.105Z"
+  },
+  "model": "graph.goal",
+  "pk": "xszo2u2oekx"
+}

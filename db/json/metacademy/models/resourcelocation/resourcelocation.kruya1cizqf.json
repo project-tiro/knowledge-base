@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:02:05.510Z",
+    "url": "http://beej.us/guide/bgc/output/html/singlepage/bgc.html#ptarith",
+    "cresource": "jvn0oaz0z0s",
+    "ordering": 3,
+    "location_text": "Section 12.1, \"Pointer arithmetic\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kruya1cizqf"
+}

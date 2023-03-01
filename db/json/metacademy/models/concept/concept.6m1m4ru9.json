@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian discriminant analysis",
+    "pointers": "* GDA is an example of a  [generative model](generative_vs_discriminative) .\n* GDA is closely related to  [Fisher's linear discriminant](fishers_linear_discriminant) , a method for data visualization.\n* In the two-class case, GDA is equivalent to  [linear regression](linear_regression) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.7196084946516546,
+    "summary": "Gaussian discriminant analysis (GDA) is a generative model for classification where the distribution of each class is modeled as a multivariate Gaussian.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_discriminant_analysis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6m1m4ru9"
+}

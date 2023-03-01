@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "a6ibqx2d",
+    "last_mod": "2014-08-30T21:34:00.428Z",
+    "ordering": 411,
+    "target_goals": ["8tbtkc3ap8", "i6jttqwct2", "wp2yynrj9q", "xf6iu4ql7o"],
+    "source_goals": ["4q6atuu5x5p", "9afsp8d06dy", "axcvmb33hrr", "hbb32jyi0nh"],
+    "source": "66hh5md7",
+    "reason": "Importance sampling is one step of sequential Monte Carlo algorithms."
+  },
+  "model": "graph.dependency",
+  "pk": "66hh5md7a6ibqx2d"
+}

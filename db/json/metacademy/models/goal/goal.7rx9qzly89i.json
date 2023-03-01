@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why convergence can be very fast if the eigenvalues of A form a small number of clumps",
+    "concept": "4740ilrp",
+    "last_mod": "2014-10-20T01:23:04.468Z"
+  },
+  "model": "graph.goal",
+  "pk": "7rx9qzly89i"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to derive the approximation from the trapezoidal rule for integration",
+    "concept": "09778p8o",
+    "last_mod": "2014-08-27T17:16:46.496Z"
+  },
+  "model": "graph.goal",
+  "pk": "7fimp5r5yti"
+}

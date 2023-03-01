@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/logic.pdf#page=44",
+    "cresource": "8pvay2gj4e",
+    "ordering": 1,
+    "location_text": "Section 18, \"Intuitive background,\" pages 44-47",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7raj0t5oym"
+}

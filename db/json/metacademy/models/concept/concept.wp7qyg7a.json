@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "second derivative test",
+    "pointers": null,
+    "tags": ["mvcalc", "optimization"],
+    "learn_time": 1.507166120712879,
+    "summary": "In an optimization problem, a critical point (where the partial derivatives are zero) may be a local minimum or maximum, or a saddle point. The second derivative test is a way of testing optimality: a point is a (local) minimum if the Hessian matrix is positive definite.\n",
+    "last_mod": "2014-10-11T21:34:01.097Z",
+    "tag": "second_derivative_test",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wp7qyg7a"
+}

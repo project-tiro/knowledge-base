@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o4lo1hx5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 617,
+    "target_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source_goals": ["7g5rrg9rqq", "rbr9j411x9"],
+    "source": "1dx39mek",
+    "reason": "The domain of a convex function must be a convex set."
+  },
+  "model": "graph.dependency",
+  "pk": "1dx39meko4lo1hx5"
+}

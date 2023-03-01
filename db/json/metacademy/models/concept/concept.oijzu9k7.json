@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "C struct representation",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 0.9770281199585596,
+    "summary": "The layout of C structs in memory is defined by the language standard. Understanding this representation can be useful for conserving memory. ",
+    "last_mod": "2014-09-07T03:44:11.324Z",
+    "tag": "c_struct_representation",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "oijzu9k7"
+}

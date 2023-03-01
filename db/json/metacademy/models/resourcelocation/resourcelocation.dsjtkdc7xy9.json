@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:47:12.437Z",
+    "url": "",
+    "cresource": "yxbe6hklf2y",
+    "ordering": -1,
+    "location_text": "Section 23.5, \"Strongly connected components,\" pages 488-493",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dsjtkdc7xy9"
+}

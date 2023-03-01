@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "differentiable manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 1.4306680538941166,
+    "summary": "A manifold is a space that locally resembles Euclidean space. It generalizes the notion of a surface: is is more general in the sense that a manifold need not be embedded in some higher dimensional Euclidean space. A differentiable (or smooth) manifold is a manifold equipped with a differential (or smooth) structure, which allows us to define notions such as differentiable functions, derivatives, and integrals. It is the basic object of study in differential geometry.\n\n",
+    "last_mod": "2014-09-19T14:31:59.476Z",
+    "tag": "differentiable_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "hfil5l9u"
+}

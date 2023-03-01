@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:02.368Z",
+    "ordering": 5,
+    "target_goals": ["58ab8u7kc4h", "908iyypiafw"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to be able to analyze the complexity of a search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2cqpveand"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sequential Monte Carlo",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.9278242920765523,
+    "summary": "Sequential Monte Carlo is a general framework for Monte Carlo algorithms which involve sampling from a sequence of distributions. It encompasses sequential importance sampling, particle filters, and annealed importance sampling as special cases.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "sequential_monte_carlo",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "a6ibqx2d"
+}

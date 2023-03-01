@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory algorithms textbook with code examples in C++; available through Safari Books Online",
+    "version_num": 0,
+    "title": "Algorithms in C++, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching",
+    "url": "http://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-09-14T04:47:22.512Z",
+    "authors": "[u'Robert Sedgewick']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "7apewiijdhx"
+}

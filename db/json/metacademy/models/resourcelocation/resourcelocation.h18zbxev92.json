@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-50-double-integrals-in-polar-coordinates",
+    "cresource": "ik8da4eotk",
+    "ordering": 0,
+    "location_text": "Session 50, \"Double integrals in polar coordinates\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "h18zbxev92"
+}

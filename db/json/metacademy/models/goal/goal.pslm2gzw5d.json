@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Be able to manipulate the wedge product algebraically",
+    "concept": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:40:00.145Z"
+  },
+  "model": "graph.goal",
+  "pk": "pslm2gzw5d"
+}

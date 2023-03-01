@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hfil5l9u",
+    "last_mod": "2014-08-30T21:34:02.075Z",
+    "ordering": -1,
+    "target_goals": ["b5h567pp0bb", "jkgyjuyl2tk", "qegbm5wqq66"],
+    "source_goals": ["ursdf81jhmp", "vas6nh65ern"],
+    "source": "ryrhok32",
+    "reason": "Open sets are used in the definition of a differentiable manifold."
+  },
+  "model": "graph.dependency",
+  "pk": "ryrhok32hfil5l9u"
+}

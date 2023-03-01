@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "2f23avi6dt",
+    "ordering": 0,
+    "location_text": "Section 8.6, \"The Bayesian approach to parameter estimation,\" up through 8.6.1, \"Further remarks on priors,\" pages 285-296",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "e2dtsuaf6n"
+}

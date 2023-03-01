@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "i9mo2e09",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 6,
+    "notes": "[u'This presents the measure theoretic approach to probability, but should still be accessible without significant math background.']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "1l223io2s7"
+  },
+  "model": "graph.conceptresource",
+  "pk": "iy8o916tup"
+}

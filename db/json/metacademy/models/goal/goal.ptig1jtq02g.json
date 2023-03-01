@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 6,
+    "text": "Be aware that there is often a linear convergence regime followed by a quadratic convergence regime",
+    "concept": "o7nh4u08",
+    "last_mod": "2014-11-19T03:09:28.201Z"
+  },
+  "model": "graph.goal",
+  "pk": "ptig1jtq02g"
+}

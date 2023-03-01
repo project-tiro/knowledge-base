@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Chain Rule",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.3322117780130498,
+    "summary": "The chain rule for partial derivatives gives a way of computing the partial derivatives of compositions of functions in terms of the partial derivatives of the individual functions.\n",
+    "last_mod": "2014-08-31T15:11:03.307Z",
+    "tag": "chain_rule",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "zha1k3v0"
+}

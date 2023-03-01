@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jfrdulg7",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 431,
+    "target_goals": ["1ml3tz2gmx", "cup5vqdjkh", "d8pynqqwiw"],
+    "source_goals": ["lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "NP is defined in terms of asymptotic complexity."
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2jfrdulg7"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:58:52.333Z",
+    "url": "",
+    "cresource": "vgwvsrsjnbq",
+    "ordering": -1,
+    "location_text": "Chapter 6, \"Adversarial search,\" up through 6.2, \"Optimal decisions in games,\" pages 161-167",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7wkvwxo4q7f"
+}

@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "zugf8116",
+    "last_mod": "2014-11-08T22:08:38.346Z",
+    "ordering": -1,
+    "target_goals": ["87plp4g397i", "98enddecvh4", "nf74urwh1v8", "y0x5ryz74ls"],
+    "source_goals": [
+      "52884tx1f50",
+      "6j1csawu680",
+      "6rdjriejaui",
+      "8ssihbif05x",
+      "90y9mx6063z",
+      "nu6cjl8svj6",
+      "xw36huab8xv"
+    ],
+    "source": "jo8tm547",
+    "reason": "Arc consistency is a heuristic for CSPs"
+  },
+  "model": "graph.dependency",
+  "pk": "jo8tm547zugf8116"
+}

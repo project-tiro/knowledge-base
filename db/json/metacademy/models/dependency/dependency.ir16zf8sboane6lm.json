@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "boane6lm",
+    "last_mod": "2014-08-30T21:34:01.151Z",
+    "ordering": 430,
+    "target_goals": [],
+    "source_goals": ["ck5z4o8ibdc", "cvt257bumh7", "opc0bf6hu10"],
+    "source": "ir16zf8s",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ir16zf8sboane6lm"
+}

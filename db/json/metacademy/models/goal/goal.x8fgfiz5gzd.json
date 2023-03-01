@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what a directed acyclic graph is",
+    "concept": "pfisxcdr",
+    "last_mod": "2014-10-09T01:45:20.575Z"
+  },
+  "model": "graph.goal",
+  "pk": "x8fgfiz5gzd"
+}

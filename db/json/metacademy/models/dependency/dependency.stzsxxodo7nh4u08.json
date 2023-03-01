@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T20:03:03.544Z",
+    "ordering": 7,
+    "target_goals": ["2m0fqttck57", "ko0mk0n8zl1"],
+    "source_goals": ["wdye9s4no2"],
+    "source": "stzsxxod",
+    "reason": "The expensive step in high-dimensional settings is inverting the Hessian"
+  },
+  "model": "graph.dependency",
+  "pk": "stzsxxodo7nh4u08"
+}

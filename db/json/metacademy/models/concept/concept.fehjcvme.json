@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Laplace approximation",
+    "pointers": "* Some other approximations to Bayesian parameter estimation include:\n**  [variational Bayes](variational_bayes)\n**  [Markov chain Monte Carlo (MCMC)](markov_chain_monte_carlo)\n* The  [Bayesian information criterion (BIC)](bayesian_information_criterion)  can be  [justified](justifying_aic_and_bic)  in terms of the Laplace approximation.\n* Some other ways to approximate the model evidence include:\n**  [variational Bayes](variational_bayes)\n**  [MCMC](mcmc_partition_function)\n* The Laplace approximation approximates the posterior with a Gaussian. Other Gaussian approximations are more accurate, though often slower and more complicated to implement:\n**  [expectation propagation](expectation_propagation)\n**  [Gaussian lower bound to the logistic function](variational_logistic_regression)",
+    "tags": ["machinelearning"],
+    "learn_time": 0.8117825822462197,
+    "summary": "The Laplace approximation is a way of approximating Bayesian parameter estimation and Bayesian model comparison. It is based on a second-order Taylor approximation of the log posterior around the MAP estimate, which results in a Gaussian approximation to the posterior.\n",
+    "last_mod": "2014-09-14T21:52:43.345Z",
+    "tag": "laplace_approximation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "fehjcvme"
+}

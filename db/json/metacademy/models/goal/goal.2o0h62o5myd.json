@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "What are the pitfalls of running too many or too few CG steps in each update?",
+    "concept": "8lles84k",
+    "last_mod": "2014-10-27T01:39:52.176Z"
+  },
+  "model": "graph.goal",
+  "pk": "2o0h62o5myd"
+}

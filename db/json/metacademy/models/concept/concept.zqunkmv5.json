@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "hierarchical Dirichlet process",
+    "pointers": "* The HDP topic model can be viewed as a nonparametric generalization of  [latent Dirichlet allocation](latent_dirichlet_allocation)",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.1426306505407828,
+    "summary": "The Hierarchical Dirichlet Process (HDPs) is a stochastic process that can be used to define a nonparametric distribution on a mixture of mixtures (or admixture) model. That is, each grouping of data is a draw from a mixture model, and the mixture components are shared among the different groups. Using a hierarchy of Dirichlet processes allows the number of mixture components to be inferred from the data. HDPs are most commonly used in topic modeling, where the top mixture corresponds to the global set of topics shared among the entire corpus (all documents) and the secondary mixture corresponds to the topic mixture for a given document.",
+    "last_mod": "2014-09-14T17:45:47.132Z",
+    "tag": "hierarchical_dirichlet_process",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "zqunkmv5"
+}

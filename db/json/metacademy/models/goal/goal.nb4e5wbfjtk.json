@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Be aware that the data is first preprocessed with PCA",
+    "concept": "hy3f0q5e",
+    "last_mod": "2014-08-30T16:56:04.060Z"
+  },
+  "model": "graph.goal",
+  "pk": "nb4e5wbfjtk"
+}

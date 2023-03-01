@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "aa4zzgxe",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 180,
+    "target_goals": ["wacyz9x9b5", "wf2hbjdb0k", "zs5ap5s6kx"],
+    "source_goals": ["6xodgczm15"],
+    "source": "apf478vy",
+    "reason": "Lob's Theorem is a statement about proofs in first-order logic."
+  },
+  "model": "graph.dependency",
+  "pk": "apf478vyaa4zzgxe"
+}

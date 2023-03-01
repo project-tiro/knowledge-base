@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "#page=10",
+    "cresource": "1pf0p3uivc",
+    "ordering": 1,
+    "location_text": "Section 3, \"Using random features,\" pages 10-11 ",
+    "location_type": "paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "chjlpop092"
+}

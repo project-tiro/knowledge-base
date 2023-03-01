@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* What happens if you try to store too many memories in a Hopfield net?",
+    "concept": "4t7kblme",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "jrsdo9cjzm"
+}

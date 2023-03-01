@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "asymptotic complexity",
+    "pointers": null,
+    "tags": ["algorithms"],
+    "learn_time": 2.388822316660954,
+    "summary": "The asymptotic (time) complexity of an algorithm refers to the scaling of the running time of an algorithm as a function of the input size. The time complexity is typically given in terms of big-O notation, where the running time is bounded up to a multiplicative constant. \n\n",
+    "last_mod": "2014-09-14T16:06:13.755Z",
+    "tag": "asymptotic_complexity",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "mnj2e4z2"
+}

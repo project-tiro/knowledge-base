@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:34:13.604Z",
+    "url": "",
+    "cresource": "okokaudsmtx",
+    "ordering": -1,
+    "location_text": "",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cu9rqncjwnr"
+}

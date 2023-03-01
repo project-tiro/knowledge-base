@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "information form for multivariate Gaussians",
+    "pointers": "* Many  [computations on multivariate Gaussians](computations_on_multivariate_gaussians)  are more efficient in information form.\n* We saw we can represent multivariate Gaussians in covariance form or information form. These dual representations apply to  [exponential families](exponential_families)  more generally.\n*  [Gaussian Markov random fields](gaussian_mrfs)  are a kind of graphical model which captures sparsity in the information form representation.",
+    "tags": ["machinelearning", "pgm", "probabilitytheor"],
+    "learn_time": 0.6966948644410225,
+    "summary": "While we normally represent multivariate Gaussians in terms of their mean and covariance, information form is often a useful alternative. The distribution is represented in terms of a quadratic \"energy function.\" This representation is convenient for conditioning, and is the basis for Gaussian Markov random fields.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "multivariate_gaussians_information_form",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "0kkgvslp"
+}

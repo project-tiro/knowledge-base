@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "nonlinear conjugate gradient",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.1936767458702042,
+    "summary": "While conjugate gradient is a method for solving linear systems (and important properties of the algorithm depend on this), it can also be applied heuristically to optimization problems more generally. The Fletcher-Reeves and Polak-Ribiere algorithms are two particular methods for doing so.\n",
+    "last_mod": "2014-10-20T01:47:59.352Z",
+    "tag": "nonlinear_conjugate_gradient",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "wojx5447"
+}

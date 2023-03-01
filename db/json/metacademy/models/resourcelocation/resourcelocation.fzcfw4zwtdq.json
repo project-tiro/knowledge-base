@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:25:26.271Z",
+    "url": "http://www.youtube.com/watch?v=PpFTODTztsU",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Loss function\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fzcfw4zwtdq"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "46ycc9su",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'The rest of the \"decision tree induction\" section is optional but useful.', u\"Watch the Week One lectures if you're not familiar with the basic machine learning setup.\", u'Click on \"Preview\" to see the videos.']",
+    "goals_covered": ["4913uw4gwg", "fw67icdhff", "h6we5wxj24", "nq2mwmif7f", "qwlyz5cz5k"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "0iv91z9t7o"
+  },
+  "model": "graph.conceptresource",
+  "pk": "votena8iby"
+}

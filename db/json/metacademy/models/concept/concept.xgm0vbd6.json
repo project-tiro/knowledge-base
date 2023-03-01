@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variable elimination",
+    "pointers": "* If we want to perform multiple queries, we go through lots of redundant calculations.  [Belief propagation](sum_product_on_trees)  gives a way of reusing the computations.\n* In  [Gaussian graphical models](gaussian_mrfs) , variable elimination is  [equivalent](gaussian_variable_elimination_as_gaussian_elimination)  to  [Gaussian elimination](gaussian_elimination) .",
+    "tags": ["pgm"],
+    "learn_time": 1.7589297722826693,
+    "summary": "Variable elimination is a simple algorithm for marginalization and partition function computation in graphical models. It is based on interchanging sums and products in the definitions of marginals or partition functions. While it produces exact answers, the complexity blows up exponentially in the worst case. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "variable_elimination",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "xgm0vbd6"
+}

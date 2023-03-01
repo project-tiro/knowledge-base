@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why the unnormalized version is unbiased but the normalized version isn't",
+    "concept": "66hh5md7",
+    "last_mod": "2014-08-30T16:47:56.490Z"
+  },
+  "model": "graph.goal",
+  "pk": "9afsp8d06dy"
+}

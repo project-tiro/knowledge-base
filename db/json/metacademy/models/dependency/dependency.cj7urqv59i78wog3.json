@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9i78wog3",
+    "last_mod": "2014-08-30T21:34:00.796Z",
+    "ordering": -1,
+    "target_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "HMMs are a way of organizing information about random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv59i78wog3"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory linear algebra textbook with an emphasis on numerical methods.",
+    "version_num": 0,
+    "title": "Introduction to Linear Algebra",
+    "url": "http://math.mit.edu/linearalgebra/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Gilbert Strang']",
+    "edition_years": "[u'???', u'1993', u'2003', u'2009']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "nvq19pttr1"
+}

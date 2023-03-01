@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Be able to use the EM algorithm to learn Bayes net parameters when some of the variables are unobserved.\n** Know how to derive the update rules.\n** Know how you would implement it if you're given toolboxes for inference and for parameter learning with fully observed data. What outputs are needed from the inference algorithm?",
+    "concept": "tmvi3pqi",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "dbrkpiwq32"
+}

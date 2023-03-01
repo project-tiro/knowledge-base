@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1q4o16ud",
+    "last_mod": "2014-08-31T15:36:25.013Z",
+    "ordering": 3,
+    "target_goals": [],
+    "source_goals": ["rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "Marginalization is one operation we commonly need to perform."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6go1q4o16ud"
+}

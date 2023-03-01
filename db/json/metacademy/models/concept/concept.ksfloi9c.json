@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "exterior derivative",
+    "pointers": null,
+    "tags": ["diffgeom", "mvcalc"],
+    "learn_time": 0.8311006969059869,
+    "summary": "The exterior function is a generalization of the differential of a function to differential forms. It appears in the statement of Stokes's Theorem for manifolds.\n",
+    "last_mod": "2014-09-19T14:55:15.627Z",
+    "tag": "exterior_derivative",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ksfloi9c"
+}

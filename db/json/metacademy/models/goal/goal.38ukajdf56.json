@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Be able to eliminate existential quantifiers using Skolemization.",
+    "concept": "qebvps8f",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "38ukajdf56"
+}

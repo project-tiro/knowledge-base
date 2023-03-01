@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how a topological sort can be computed using depth-first search",
+    "concept": "pfisxcdr",
+    "last_mod": "2014-10-09T01:45:20.578Z"
+  },
+  "model": "graph.goal",
+  "pk": "wd88599d1oo"
+}

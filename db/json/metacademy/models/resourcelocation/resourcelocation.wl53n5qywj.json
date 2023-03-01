@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "9rcw9prkkn",
+    "ordering": 1,
+    "location_text": " Section 4.2, \"Discrete random variables,\" pages 138-140",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wl53n5qywj"
+}

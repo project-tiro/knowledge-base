@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "qipartpb",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[{u'title': u'Lagrange multipliers'}]",
+    "global_resource": "0itr0mhzfe"
+  },
+  "model": "graph.conceptresource",
+  "pk": "8xkcva10u0"
+}

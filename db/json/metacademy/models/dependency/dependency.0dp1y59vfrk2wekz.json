@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "frk2wekz",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 312,
+    "target_goals": ["05tfyyu9pn", "os11sc1f40", "yh1t727gsu", "zzhro891ja"],
+    "source_goals": [],
+    "source": "0dp1y59v",
+    "reason": "PAC learning is a way of analyzing the generalization performance of learning algorithms."
+  },
+  "model": "graph.dependency",
+  "pk": "0dp1y59vfrk2wekz"
+}

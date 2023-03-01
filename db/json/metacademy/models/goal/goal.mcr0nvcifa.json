@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Optional: show that the maximum likelihood optimization problem is convex (which implies there are no local optima). You may first want to read about  [covariance matrices](covariance_matrices)  and  [convex optimization](convex_optimization) .",
+    "concept": "8e0cx8ap",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "mcr0nvcifa"
+}

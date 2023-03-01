@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cxhcmuao",
+    "last_mod": "2014-08-30T18:37:56.220Z",
+    "ordering": -1,
+    "target_goals": ["813a8p4xpyz", "n1uxusz9fd5"],
+    "source_goals": ["l26wpxymsra"],
+    "source": "xu60d2g1",
+    "reason": "The formula for the PDF of the function involves a determinant."
+  },
+  "model": "graph.dependency",
+  "pk": "xu60d2g1cxhcmuao"
+}

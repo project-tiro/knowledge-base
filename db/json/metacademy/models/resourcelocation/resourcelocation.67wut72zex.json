@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "onmwzo4t2g",
+    "ordering": 0,
+    "location_text": "Lecture \"Variables\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "67wut72zex"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "et4wr4sv",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "4",
+    "additional_dependencies": "[{u'title': u'Gaussian elimination'}, {u'title': u'computing the nullspace'}]",
+    "global_resource": "nvq19pttr1"
+  },
+  "model": "graph.conceptresource",
+  "pk": "x3k6ch65og"
+}

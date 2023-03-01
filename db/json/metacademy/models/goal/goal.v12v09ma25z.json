@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why does Gaussian elimination without row exchanges give an LU factorization?",
+    "concept": "0sqslybm",
+    "last_mod": "2014-08-30T17:35:34.955Z"
+  },
+  "model": "graph.goal",
+  "pk": "v12v09ma25z"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "learning linear dynamical systems",
+    "pointers": null,
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "We can perform maximum likelihood estimation for the parameters of a linear dynamical system using the EM algorithm. The E step involves running a Kalman smoother, and the M step involves maximum likelihood inference in multivariate Gaussians.\n",
+    "last_mod": "2014-08-30T17:17:12.830Z",
+    "tag": "learning_linear_dynamical_systems",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vsldtcz7"
+}

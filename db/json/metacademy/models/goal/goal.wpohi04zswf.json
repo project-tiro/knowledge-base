@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Be able to compute the Fisher information matrix for simple distributions (e.g. Gaussian)",
+    "concept": "5p5nsbin",
+    "last_mod": "2014-09-19T15:50:47.933Z"
+  },
+  "model": "graph.goal",
+  "pk": "wpohi04zswf"
+}

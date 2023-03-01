@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:14:00.889Z",
+    "url": "",
+    "cresource": "u1fv5dafqjm",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"Inheritance and polymorphism: better living in Objectville,\" pages 165-196",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jxjttpldgec"
+}

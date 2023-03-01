@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Poisson distribution",
+    "pointers": "*  [Poisson processes](poisson_process)  are a kind of stochastic process where counts of events within a set follow a Poisson distribution.\n* For large values of the scale parameter, the Poisson distribution is well approximated by a Gaussian distribution. This follows from the  [Central Limit Theorem](central_limit_theorem) .\n* The Poisson distribution is a member of the  [exponential family](exponential_families) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.48797085675363,
+    "summary": "The Poisson distribution is a discrete probability distribution for the counts of independent random events in a given time interval, e.g. babies born in a hospital in 1 month or lightening strikes in Mexico in 1 week. It is one of the most common discrete distributions used in virtually every scientific and financial field.\n",
+    "last_mod": "2014-08-30T18:40:00.146Z",
+    "tag": "poisson_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6luscvfb"
+}

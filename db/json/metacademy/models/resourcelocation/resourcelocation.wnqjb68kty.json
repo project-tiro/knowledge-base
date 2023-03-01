@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "eo1c4rbw7m",
+    "ordering": 0,
+    "location_text": "Section 2.2.3, \"The normal distribution,\" pages 54-58",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wnqjb68kty"
+}

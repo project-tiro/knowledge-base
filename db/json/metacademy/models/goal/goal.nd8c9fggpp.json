@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Derive some basic properties:\n** that it is nonnegative\n** that the KL divergence between a distribution and itself is 0",
+    "concept": "g2b5lqga",
+    "last_mod": "2014-08-30T21:39:01.753Z"
+  },
+  "model": "graph.goal",
+  "pk": "nd8c9fggpp"
+}

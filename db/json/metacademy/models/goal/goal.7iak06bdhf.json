@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Know and be able to apply alternative characterizations of convex functions\n** first-order condition (linear approximation lies below the function)\n** second-order condition (second derivative matrix is positive semidefinite)",
+    "concept": "o4lo1hx5",
+    "last_mod": "2014-08-31T15:44:53.899Z"
+  },
+  "model": "graph.goal",
+  "pk": "7iak06bdhf"
+}

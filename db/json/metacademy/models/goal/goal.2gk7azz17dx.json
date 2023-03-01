@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what data structures need to be maintained in order to efficiently guarantee acyclicity",
+    "concept": "7t3gdg00",
+    "last_mod": "2014-08-29T01:23:33.650Z"
+  },
+  "model": "graph.goal",
+  "pk": "2gk7azz17dx"
+}

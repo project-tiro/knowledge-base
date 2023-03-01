@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "r0b19pum",
+    "last_mod": "2014-08-27T21:55:04.652Z",
+    "ordering": -1,
+    "target_goals": ["2iuzkepeqni", "7s2hofsat3m", "f2k7kqak2t6", "jitrwkmt9sh", "otafj0mbxfx", "z5a5q89r2fk"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the asymptotic complexity of hash tables"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2r0b19pum"
+}

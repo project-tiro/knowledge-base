@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "5d7jkr5h0p",
+    "ordering": 0,
+    "location_text": "Section 3.4, \"Bivariate distributions,\" pages 118-126",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "i2ywh7o6ez"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ckzxcco5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 232,
+    "target_goals": ["y2uel99rt7"],
+    "source_goals": ["3n0jopm0z5", "dfvk3nk4ui"],
+    "source": "3x39kkn2",
+    "reason": "Godel numbering is needed to construct the self-referential sentence in the proof."
+  },
+  "model": "graph.dependency",
+  "pk": "3x39kkn2ckzxcco5"
+}

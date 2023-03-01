@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m48dlx1l",
+    "last_mod": "2014-08-30T23:37:09.751Z",
+    "ordering": 490,
+    "target_goals": ["mxlpv0kjhn"],
+    "source_goals": ["ms74z6r81xd", "zr7rbb5mr2r"],
+    "source": "mblsqnc0",
+    "reason": "Baum-Welch is a special case of EM."
+  },
+  "model": "graph.dependency",
+  "pk": "mblsqnc0m48dlx1l"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "subspaces",
+    "pointers": "* Subspaces are used to define the  [rank of a matrix](four_fundamental_subspaces) , an important concept in solving linear systems.",
+    "tags": ["linearalgebra"],
+    "learn_time": 0.9614847273611051,
+    "summary": "A subspace is a subset of a vector space which is itself a vector space. Examples include spans of sets of vectors and solution sets to linear equations of the form Ax = 0.\n",
+    "last_mod": "2014-08-30T19:58:49.373Z",
+    "tag": "subspaces",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "hnd1lj3g"
+}

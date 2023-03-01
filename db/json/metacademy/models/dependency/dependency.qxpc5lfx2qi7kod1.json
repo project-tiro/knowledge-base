@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "2qi7kod1",
+    "last_mod": "2014-08-30T21:34:01.681Z",
+    "ordering": 295,
+    "target_goals": [],
+    "source_goals": ["7qn1hcnhgzu", "8p9kbv8owsl", "nu0fycw97ey", "x8opko7ruan"],
+    "source": "qxpc5lfx",
+    "reason": "The optimality conditions for SVMs are derived from the Lagrange dual."
+  },
+  "model": "graph.dependency",
+  "pk": "qxpc5lfx2qi7kod1"
+}

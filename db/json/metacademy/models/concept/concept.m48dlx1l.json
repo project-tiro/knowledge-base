@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Baum-Welch algorithm",
+    "pointers": null,
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.8620247157196836,
+    "summary": "The Baum-Welch algorithm is an algorithm for maximum likelihood learning in hidden Markov models (HMMs). It is a special case of expectation-maximization (EM), and alternates between inferring the posterior marginals and maximizing the expected log-likelihood given those posterior marginals.\n",
+    "last_mod": "2014-08-30T23:37:42.335Z",
+    "tag": "baum_welch_algorithm",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m48dlx1l"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fehjcvme",
+    "last_mod": "2014-08-30T21:34:02.041Z",
+    "ordering": -1,
+    "target_goals": ["czfzdhezjoo", "j0ftdcd5d34"],
+    "source_goals": ["ra5maz2bvl0", "u3oqs6wopwu", "wjmn4sdlyx0"],
+    "source": "xc6xwgmx",
+    "reason": "The Laplace approximation is a second-order Taylor expansion around the MAP estimate."
+  },
+  "model": "graph.dependency",
+  "pk": "xc6xwgmxfehjcvme"
+}

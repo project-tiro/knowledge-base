@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ckzxcco5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 234,
+    "target_goals": ["06pun4amfx", "y2uel99rt7"],
+    "source_goals": ["b4q2f75lf6", "uvrptaumcv", "vo5778f8vv"],
+    "source": "068x3j1s",
+    "reason": "Expressing Godel's Incompleteness Theorem in terms of computability requires the Church-Turing thesis."
+  },
+  "model": "graph.dependency",
+  "pk": "068x3j1sckzxcco5"
+}

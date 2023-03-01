@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jcuxtsdx",
+    "last_mod": "2014-08-30T21:34:01.914Z",
+    "ordering": 777,
+    "target_goals": ["1bh0tshy1p", "l42z5lh0oo", "q5vwcwqjm5"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Maximum likelihood is an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbjcuxtsdx"
+}

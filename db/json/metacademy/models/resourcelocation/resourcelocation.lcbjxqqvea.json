@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf#page=51",
+    "cresource": "2p4fwpz19v",
+    "ordering": 0,
+    "location_text": "Chapter 5, \"Energy based models and Boltzmann machines,\" pages 48-68 ",
+    "location_type": "review paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lcbjxqqvea"
+}

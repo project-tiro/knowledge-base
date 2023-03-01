@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "dpaysocapl",
+    "ordering": 0,
+    "location_text": "Section 6.1, \"Introduction to eigenvalues,\" pages 283-291",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rroj0dz46i"
+}

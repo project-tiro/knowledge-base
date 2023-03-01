@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=UqQmbwBLhFE&list=PL17567A1A3F5DB5E4&index=26",
+    "cresource": "kzfa0zsqj4",
+    "ordering": 1,
+    "location_text": "Lecture 5.2, \"Marginals and conditionals\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x4lg6dpk9s"
+}

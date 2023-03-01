@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "floating point representation",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 0.982391544732654,
+    "summary": "Floating points are the main representation most computers use for performing approximate computations on real-valued quantities. They are represented in terms of a sign bit, a mantissa, and an exponent. ",
+    "last_mod": "2014-09-07T03:43:37.783Z",
+    "tag": "floating_point_representation",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "67qu23d4"
+}

@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "f7raxdme",
+    "last_mod": "2014-09-14T18:55:26.917Z",
+    "ordering": -1,
+    "target_goals": [
+      "13zks931i1n",
+      "5dm13bu360w",
+      "c9g13l6rmyj",
+      "nzypwqoewnx",
+      "ty4lqshxfmn",
+      "wfe4joby6st",
+      "xzx6ha8aqcn"
+    ],
+    "source_goals": ["5xnss5220il", "j1a7i21ckte", "op3slotq5l2", "pc5v22vtuyx"],
+    "source": "a97uu186",
+    "reason": "Collection supertypes are defined as interfaces or abstract classes"
+  },
+  "model": "graph.dependency",
+  "pk": "a97uu186f7raxdme"
+}

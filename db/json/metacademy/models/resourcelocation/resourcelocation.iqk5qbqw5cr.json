@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:35:23.259Z",
+    "url": "http://artint.info/html/ArtInt_73.html",
+    "cresource": "fbnfoyxbzh9",
+    "ordering": -1,
+    "location_text": "Section 4.1, \"Features and states\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iqk5qbqw5cr"
+}

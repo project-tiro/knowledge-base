@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Know the precise definitions of big-O, big-Theta, and big-Omega notations",
+    "concept": "mnj2e4z2",
+    "last_mod": "2014-08-27T04:58:06.810Z"
+  },
+  "model": "graph.goal",
+  "pk": "lzw7j7hhqm"
+}

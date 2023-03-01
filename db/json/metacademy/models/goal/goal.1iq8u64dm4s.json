@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know some situations where it is appropriate to raise an exception (including cases where it need not indicate a bug in the program)",
+    "concept": "o86qck81",
+    "last_mod": "2014-09-13T22:24:37.051Z"
+  },
+  "model": "graph.goal",
+  "pk": "1iq8u64dm4s"
+}

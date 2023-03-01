@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "enugmzwm",
+    "last_mod": "2014-08-30T21:34:02.045Z",
+    "ordering": 399,
+    "target_goals": ["gl8dfx0jyi"],
+    "source_goals": [
+      "6qskbmq8v95",
+      "by4ycqgdc3u",
+      "ex1wkbnbgxh",
+      "l26wpxymsra",
+      "lz48237ty44",
+      "nlv60rnyftg",
+      "ozjiyia8oki"
+    ],
+    "source": "xu60d2g1",
+    "reason": "Cramer's rule involves determinants."
+  },
+  "model": "graph.dependency",
+  "pk": "xu60d2g1enugmzwm"
+}

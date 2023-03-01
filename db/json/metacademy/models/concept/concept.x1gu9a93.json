@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear regression: closed-form solution",
+    "pointers": null,
+    "tags": ["linearalgebra", "machinelearning"],
+    "learn_time": 1.2365983557968778,
+    "summary": "Linear regression has a closed-form solution in terms of basic linear algebra operations. This makes it a useful starting point for understanding many other statistical learning algorithms.\n",
+    "last_mod": "2014-09-21T01:51:01.377Z",
+    "tag": "linear_regression_closed_form",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "x1gu9a93"
+}

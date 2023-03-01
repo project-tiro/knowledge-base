@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uyuyaft6",
+    "last_mod": "2014-08-30T21:34:00.954Z",
+    "ordering": -1,
+    "target_goals": ["5ve8dndtvbr", "6m6uzvgsz1w", "bdj7hg35oyz", "h6usr6ecjwn", "o9xgn14pyq1"],
+    "source_goals": ["4ri78x1la24", "hwjalyi7wl5", "i58krv7vmsz", "iiw4v053w9l", "r9nqc9yq15l", "ra3yq5sw9ck"],
+    "source": "gpj01efp",
+    "reason": "The Viterbi algorithm is closely based on the forward-backward algorithm."
+  },
+  "model": "graph.dependency",
+  "pk": "gpj01efpuyuyaft6"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ahmjaii",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 192,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "d28z14um",
+    "reason": "LASSO is an instructive example of regularization."
+  },
+  "model": "graph.dependency",
+  "pk": "d28z14um9ahmjaii"
+}

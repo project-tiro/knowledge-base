@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "integration on manifolds",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 2.12459125757609,
+    "summary": "One can define integration of differential forms on manifolds in a way that is independent of the coordinate charts. This generalizes the notions of line integrals, volume, and surface integrals.\n",
+    "last_mod": "2014-09-19T15:12:04.730Z",
+    "tag": "integration_on_manifolds",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "sfej953s"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A surprisingly readable and comprehensive reference on the major topics in pure math.",
+    "version_num": 0,
+    "title": "The Princeton Companion to Mathematics",
+    "url": "http://press.princeton.edu/titles/8350.html",
+    "notes": "",
+    "year": 2008,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Timothy Gowers', u'June Barrow-Green', u'Imre Leader']",
+    "edition_years": null,
+    "resource_type": "reference"
+  },
+  "model": "graph.globalresource",
+  "pk": "fmsw6lu5y2"
+}

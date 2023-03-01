@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "33jo0b3d1q",
+    "ordering": 0,
+    "location_text": "Chapter 1, \"The sample space,\" pages 7-24",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "72g8dbk5vg"
+}

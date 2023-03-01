@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hy3f0q5e",
+    "last_mod": "2014-10-11T21:19:47.607Z",
+    "ordering": -1,
+    "target_goals": ["79zostvoaqt", "d0750cz8kkp", "ks2i6uheowu", "nb4e5wbfjtk", "pd7b3dlhcae"],
+    "source_goals": ["1mm659bmc6p", "3j1jrhaagti", "4s3bap3s4a6", "fmybk1ljkwv", "yx1uv0u0i9t", "zq9zntpaxfj"],
+    "source": "n3btymcr",
+    "reason": "Standard ICA has an orthogonality constraint."
+  },
+  "model": "graph.dependency",
+  "pk": "n3btymcrhy3f0q5e"
+}

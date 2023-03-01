@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Know the definition of mutual information (in terms of the difference between joint entropy and conditional entropy)",
+    "concept": "vg0jaqar",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "7l0j3kix9g"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Taylor approximations",
+    "pointers": "* Some uses of Taylor approximations:\n**  [Characterizing optimal solutions](second_derivative_test)  to optimization problems\n** The  [delta method](delta_method)  for approximating the error of a statistical estimator\n**  [Newton-Rhapson](newton_rhapson) , a convex optimization algorithm",
+    "tags": ["mvcalc"],
+    "learn_time": 1.2833411800074659,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "taylor_approximations",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "n31vwot7"
+}

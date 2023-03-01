@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:16:07.284Z",
+    "url": "",
+    "cresource": "y87j2xvf5nu",
+    "ordering": -1,
+    "location_text": "Section 12.6, \"Performance characteristics of BSTs,\" pages 521-524",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8yi87akc75h"
+}

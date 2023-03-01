@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 3,
+    "dependencies": ["gvp31pbpveollwsb", "i9mo2e09cj7urqv5", "i9mo2e09veollwsb"],
+    "concepts": ["cj7urqv5", "gvp31pbp", "i9mo2e09", "veollwsb"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "veollwsb"
+}

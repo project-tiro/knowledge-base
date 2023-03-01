@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Lowenheim-Skolem theorems",
+    "pointers": null,
+    "tags": ["logic", "settheory"],
+    "learn_time": 1.692274906479688,
+    "summary": "The Lowenheim-Skolem theorems state that if a first-order theory has an infinite model, then it has models of every infinite cardinality. It implies that certain foundational theories in mathematics, such as Peano arithmetic and Zermelo-Frankl set theory, must have nonstandard models.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "lowenheim_skolem_theorems",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dlf6i87t"
+}

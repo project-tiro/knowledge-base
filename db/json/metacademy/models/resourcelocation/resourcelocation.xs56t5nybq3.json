@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:27:33.298Z",
+    "url": "http://c.learncodethehardway.org/book/ex36.html",
+    "cresource": "atanrg14msz",
+    "ordering": -1,
+    "location_text": "Exercise 36, \"Safer strings\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xs56t5nybq3"
+}

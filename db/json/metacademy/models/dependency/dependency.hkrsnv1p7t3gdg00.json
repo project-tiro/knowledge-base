@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7t3gdg00",
+    "last_mod": "2014-08-29T01:23:42.728Z",
+    "ordering": -1,
+    "target_goals": ["2gk7azz17dx", "vd519gtylr0"],
+    "source_goals": ["37ji7hifyc4"],
+    "source": "hkrsnv1p",
+    "reason": "Heaps are needed to efficiently maintain acyclicity"
+  },
+  "model": "graph.dependency",
+  "pk": "hkrsnv1p7t3gdg00"
+}

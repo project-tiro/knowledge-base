@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "inference in MRFs",
+    "pointers": "* Under widely held assumptions, there is  [no efficient exact inference algorithm](complexity_of_inference)  for graphical models. \n* We can perform  [inference in Bayes nets](inference_in_bayes_nets)  by converting them to MRFs. \n* Here are some algorithms for exact inference:\n**  [variable elimination](variable_elimination) , a conceptually simple one\n** belief propagation, an extension of variable elimination which reuses computations. This has two forms:\n***  [sum-product](sum_product_on_trees) , for computing marginals\n***  [max-product](max_product_on_trees) , for computing the most likely assignment\n* When exact inference is infeasible, we must resort to approximate inference algorithms, such as:\n**  [loopy belief propagation](loopy_belief_propagation) , which applies the BP update rules on non-tree graphs\n**  [Markov chain Monte Carlo](markov_chain_monte_carlo) , a sampling-based method\n**  [variational inference](variational_inference) , which tries to find a tractable approximation to the posterior\n*  [Inference is at most cubic in Gaussian graphical models](inference_in_gaussian_mrfs) , and often much better",
+    "tags": ["pgm"],
+    "learn_time": 1.3542671748850164,
+    "summary": "One reason we build graphical models is so we can perform inference, i.e. ask questions about the distribution. The most common queries include: (1) finding the marginal distribution of one or several nodes, (2) finding the most likely joint assignment, or (3) computing the partition function. Items (1) and (3) are closely related. While exact inference is intractable in the general case, there are powerful approximate inference algorithms, as well as interesting classes of tractable models.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "inference_in_mrfs",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gi2vjxnr"
+}

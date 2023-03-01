@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bmpjbmi2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 610,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "wiyafj74",
+    "reason": "EP is an approximation to loopy BP."
+  },
+  "model": "graph.dependency",
+  "pk": "wiyafj74bmpjbmi2"
+}

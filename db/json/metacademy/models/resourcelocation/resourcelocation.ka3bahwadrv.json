@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:44:47.995Z",
+    "url": "",
+    "cresource": "qx4r2l32v62",
+    "ordering": -1,
+    "location_text": "Section 25.3, \"The Bellman-Ford algorithm,\" pages 532-535",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ka3bahwadrv"
+}

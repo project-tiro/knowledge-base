@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "qz7on40yr4",
+    "ordering": 0,
+    "location_text": "Section 20.3, subsections \"Unsupervised clustering: learning mixtures of Gaussians\" (pages 725-727) and \"The general form of the EM algorithm\" (pages 731-732)",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f19pqnw89p"
+}

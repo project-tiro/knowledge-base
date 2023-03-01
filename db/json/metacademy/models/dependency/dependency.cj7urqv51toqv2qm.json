@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1toqv2qm",
+    "last_mod": "2014-08-30T21:34:00.772Z",
+    "ordering": -1,
+    "target_goals": ["t76thsan4z8", "uxxind55itl"],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "The inequalities bound the probabilities of random variables taking on extreme values."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv51toqv2qm"
+}

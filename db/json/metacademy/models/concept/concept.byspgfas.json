@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "comparing Gaussian mixtures and k-means",
+    "pointers": "* Other clustering methods include:\n**  [naive Bayes](naive_bayes) , a probabilistic model for discrete data\n**  [spectral clustering](spectral_clustering) , for when the clusters don't have nice convex shapes\n* The application of clustering to finding meaningful regions of images is called  [image segmentation](image_segmentation) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Gaussian mixture models and K-means are two canonical approaches to clustering, i.e. dividing data points into meaningful groups. This concept node discusses the tradeoffs between them.\n",
+    "last_mod": "2014-08-31T15:24:48.752Z",
+    "tag": "gaussian_mixtures_vs_k_means",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "byspgfas"
+}

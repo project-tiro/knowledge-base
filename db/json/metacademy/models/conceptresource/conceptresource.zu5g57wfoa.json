@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "20pghp9d",
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:53:50.002Z",
+    "ordering": 1,
+    "notes": "[u\"Don't worry about deriving the closed-form solution in equation (7.33).\"]",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "8gh2yvt43k"
+  },
+  "model": "graph.conceptresource",
+  "pk": "zu5g57wfoa"
+}

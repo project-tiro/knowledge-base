@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "b8u38o2k",
+    "last_mod": "2014-08-30T21:34:01.636Z",
+    "ordering": 818,
+    "target_goals": [],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "NMF is a constrained optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgvb8u38o2k"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T17:22:25.215Z",
+    "url": "",
+    "cresource": "bpfh6vnu0iz",
+    "ordering": -1,
+    "location_text": "Section 9.1, \"Lower bounds for sorting,\" pages 172-174",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fiqh6y315l5"
+}

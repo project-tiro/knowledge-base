@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:00:57.842Z",
+    "url": "http://publications.gbdirect.co.uk/c_book/chapter9/string_handling.html",
+    "cresource": "v6e326uyvef",
+    "ordering": -1,
+    "location_text": "Section 9.16, \"String handling\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yd8jpw0yrq0"
+}

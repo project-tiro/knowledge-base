@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know two formulations of PCA: subspace of maximum variance, and subspace of minimum reconstruction error",
+    "concept": "qipartpb",
+    "last_mod": "2014-08-30T18:41:50.026Z"
+  },
+  "model": "graph.goal",
+  "pk": "fknf1gn9r66"
+}

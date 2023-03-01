@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4740ilrp",
+    "last_mod": "2014-10-20T01:00:05.828Z",
+    "ordering": 1,
+    "target_goals": ["7rx9qzly89i", "f79sffeknfp", "rk6kg2quda6", "vjswupbhoco"],
+    "source_goals": [],
+    "source": "gl5fz2vi",
+    "reason": "Analyzing conjugate gradient requires talking about roots of polynomials"
+  },
+  "model": "graph.dependency",
+  "pk": "gl5fz2vi4740ilrp"
+}

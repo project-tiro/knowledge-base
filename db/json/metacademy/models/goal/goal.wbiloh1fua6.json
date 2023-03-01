@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why is preconditioning important for good performance?  (In particular, is it needed for the Newton or the CG aspect of the algorithm?)",
+    "concept": "8lles84k",
+    "last_mod": "2014-10-27T01:39:52.189Z"
+  },
+  "model": "graph.goal",
+  "pk": "wbiloh1fua6"
+}

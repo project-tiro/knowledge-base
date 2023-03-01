@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multiple integrals",
+    "pointers": "* Some uses of multiple integrals:\n** Computing the probability that a  [multivariate continuous random variable](multivariate_distributions)  takes a value in some set\n* The  [Riemann integral](riemann_integral)  formalizes these notions.\n* Some tricks for evaluating multiple integrals:\n**  [changing the order of integration](eval_multi_int_changing_order)\n**  [change of variables](eval_multi_int_change_of_variables)\n**  [polar coordinates](eval_multi_int_polar_coordinates)\n**  [spherical coordinates](eval_multi_int_spherical_coordinates)\n**  [cylindrical coordinates](eval_multi_int_cylindrical_coordinates)\n*  [Measure theory](measures)  offers a more general notion of integration.",
+    "tags": ["mvcalc"],
+    "learn_time": 3.10208054275314,
+    "summary": "A multiple integral generalizes integration to functions of n variables and produces a general (n-1)-dimensional volume. For instance, n=2 corresponds to an area. Multiple integrals occur frequently in probability theory and machine learning when examining marginal densities.",
+    "last_mod": "2014-08-30T18:19:48.309Z",
+    "tag": "multiple_integrals",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jp7i38z3"
+}

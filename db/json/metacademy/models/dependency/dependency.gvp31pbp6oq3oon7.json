@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6oq3oon7",
+    "last_mod": "2014-09-01T02:36:30.088Z",
+    "ordering": 55,
+    "target_goals": ["0bslatfoaw", "3oqzs2w7mw", "dsdsniu3tw", "he830s0ihz", "xv4sgfvx9j"],
+    "source_goals": ["m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "Differential entropy is defined as an expectation"
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbp6oq3oon7"
+}

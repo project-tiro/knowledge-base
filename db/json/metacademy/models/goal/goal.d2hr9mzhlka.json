@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Be aware of the physical interpretation of Hamiltonian flows",
+    "concept": "69bpesql",
+    "last_mod": "2014-09-19T18:55:09.267Z"
+  },
+  "model": "graph.goal",
+  "pk": "d2hr9mzhlka"
+}

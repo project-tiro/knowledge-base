@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T19:42:59.794Z",
+    "ordering": -1,
+    "target_goals": ["2m0fqttck57", "75p6dip70tt"],
+    "source_goals": ["1o435flepfd", "3xxr3mklnsw", "t37jqu61vih", "tgsbsdyc7vt"],
+    "source": "wp7qyg7a",
+    "reason": "Understanding the behavior of Newton's method requires understanding second-order optimality conditions"
+  },
+  "model": "graph.dependency",
+  "pk": "wp7qyg7ao7nh4u08"
+}

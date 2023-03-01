@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-19T03:59:31.229Z",
+    "url": "",
+    "cresource": "116sgvwazb5",
+    "ordering": -1,
+    "location_text": "Section 8.2, \"Automatic differentiation,\" up through \"reverse mode,\" pages 204-210",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4tnnmop9so9"
+}

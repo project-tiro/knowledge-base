@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "kh97ku1wrux",
+    "ordering": -1,
+    "location_text": "Section 7.2, \"The Pumping Lemma for context-free languages,\" pages 279-287",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kdznheq9b3d"
+}

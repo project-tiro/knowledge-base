@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tthhtqqg",
+    "last_mod": "2014-08-27T22:11:35.050Z",
+    "ordering": 0,
+    "target_goals": ["srcfs8sf2in", "yov8464kn7v"],
+    "source_goals": ["2iuzkepeqni", "7s2hofsat3m", "f2k7kqak2t6", "jitrwkmt9sh", "otafj0mbxfx", "z5a5q89r2fk"],
+    "source": "r0b19pum",
+    "reason": "Bloom filters use hash functions"
+  },
+  "model": "graph.dependency",
+  "pk": "r0b19pumtthhtqqg"
+}

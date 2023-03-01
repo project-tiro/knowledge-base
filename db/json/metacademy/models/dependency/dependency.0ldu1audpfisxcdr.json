@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pfisxcdr",
+    "last_mod": "2014-08-29T00:31:08.518Z",
+    "ordering": -1,
+    "target_goals": ["kg25q4wwylo", "pwmvd61c434", "wd88599d1oo", "x8fgfiz5gzd"],
+    "source_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source": "0ldu1aud",
+    "reason": "A topological sort can be computed using depth-first search"
+  },
+  "model": "graph.dependency",
+  "pk": "0ldu1audpfisxcdr"
+}

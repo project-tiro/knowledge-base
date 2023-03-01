@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uqe7o6kx",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 737,
+    "target_goals": ["1rfdywnl99", "5km9dw0poc", "dnrnoshvpp", "iy72akaxea", "mddktyz9ye"],
+    "source_goals": ["intmx0we9d", "nba39r8e29", "o4maylqjeh", "qn02twjqdw"],
+    "source": "sug552ho",
+    "reason": "Unification is a commonly used operation in first order reasoning."
+  },
+  "model": "graph.dependency",
+  "pk": "sug552houqe7o6kx"
+}

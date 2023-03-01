@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "dynamic memory allocation in C",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.0539615211836637,
+    "summary": "Dynamic memory allocation refers to allocating regions of memory while a program is running. In C, this is done manually using the functions malloc and realloc. Most modern high-level programming languages manage memory automatically, but it is still helpful to understand what's going on beneath the hood.\n",
+    "last_mod": "2014-09-14T15:50:16.928Z",
+    "tag": "dynamic_memory_allocation_in_c",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "98kl8bwj"
+}

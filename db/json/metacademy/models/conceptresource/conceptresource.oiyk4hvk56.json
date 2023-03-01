@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "bcs899hy",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": null,
+    "goals_covered": ["87g2v0l76h", "87n7p8lv64"],
+    "edition": "online",
+    "additional_dependencies": "[]",
+    "global_resource": "fw05an3qmi"
+  },
+  "model": "graph.conceptresource",
+  "pk": "oiyk4hvk56"
+}

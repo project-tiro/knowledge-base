@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "fop9e6ra",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'The proof of the identity about products of gamma functions is optional.']",
+    "goals_covered": ["36rwy4pi3z", "6cwc44e33z", "oro33d1qa0"],
+    "edition": "3",
+    "additional_dependencies": "[{u'title': u'binomial distribution'}]",
+    "global_resource": "xtu8uzlljm"
+  },
+  "model": "graph.conceptresource",
+  "pk": "eahqzwlytr"
+}

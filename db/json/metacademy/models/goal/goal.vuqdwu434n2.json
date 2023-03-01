@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Show that the sum of independent Gaussian random variables is Gaussian",
+    "concept": "jnw8a0ar",
+    "last_mod": "2014-09-01T02:36:55.621Z"
+  },
+  "model": "graph.goal",
+  "pk": "vuqdwu434n2"
+}

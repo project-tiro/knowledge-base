@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Show that Turing machines and lambda calculus are equivalent",
+    "concept": "068x3j1s",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "xzzna7gcnb"
+}

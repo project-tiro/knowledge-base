@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T02:57:35.467Z",
+    "url": "http://www.cs.elte.hu/geometry/csikos/dif/dif9.pdf",
+    "cresource": "a7j12bktd9r",
+    "ordering": -1,
+    "location_text": "Unit 9, \"The tangent bundle\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "odd4kb32nc4"
+}

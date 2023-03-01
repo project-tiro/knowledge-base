@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ht7tx1xs",
+    "last_mod": "2014-08-30T21:34:00.820Z",
+    "ordering": 853,
+    "target_goals": [],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "Bayes nets are a way of structuring information about random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv5ht7tx1xs"
+}

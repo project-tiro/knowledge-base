@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://linear.ups.edu/html/section-LC.html",
+    "cresource": "3sja2z92w3",
+    "ordering": 1,
+    "location_text": "Section \"Linear combinations\" ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "v9z413ai98"
+}

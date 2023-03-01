@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "constructing kernels",
+    "pointers": "* The  [Schur product theorem](schur_product_theorem)  justifies the surprising fact that the product of kernels is a kernel.\n* Kernels can be defined on a variety of mathematical objects, allowing us to extend linear machine learning models to those cases:\n**  [strings](kernels_on_strings)\n**  [graphs](kernels_on_graphs)\n*  [Fisher kernels](fisher_kernel)  are a general recipe for obtaining a kernel from a generative model.",
+    "tags": ["machinelearning"],
+    "learn_time": 2.0460844695359226,
+    "summary": "The kernel trick allows us to reformulate linear machine learning models in terms of a kernel function which defines a notion of similarity between data points. A few simple rules allow us to construct kernels which capture a wide variety of similarity functions.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "constructing_kernels",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9j4edw40"
+}

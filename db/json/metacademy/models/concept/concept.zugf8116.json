@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "arc consistency",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 0.9349644150045683,
+    "summary": "Arc consistency is a heuristic for pruning out possible values for the variables in a CSP which cannot possibly be part of a consistent solution. The set of values for all variables is arc consistent if for each value d of a variable X, and each neighbor Y of X, there is some value of Y which is consistent with d (in terms of the constraint between X and Y). The AC3 procedure iteratively removes values until the graph is arc consistent.\n",
+    "last_mod": "2014-11-09T00:13:43.083Z",
+    "tag": "arc_consistency",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "zugf8116"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "slj97of8",
+    "last_mod": "2014-08-30T23:44:40.925Z",
+    "ordering": 666,
+    "target_goals": ["4r3nbe5dq3"],
+    "source_goals": ["czfzdhezjoo", "j0ftdcd5d34"],
+    "source": "fehjcvme",
+    "reason": "The Laplace approximation is a way of justifying the BIC."
+  },
+  "model": "graph.dependency",
+  "pk": "fehjcvmeslj97of8"
+}

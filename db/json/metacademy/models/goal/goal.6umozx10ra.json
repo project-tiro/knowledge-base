@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to estimate the parameters of the model computationally (e.g. with the Laplace approximation or EP)",
+    "concept": "gluv53rd",
+    "last_mod": "2014-08-30T23:54:10.295Z"
+  },
+  "model": "graph.goal",
+  "pk": "6umozx10ra"
+}

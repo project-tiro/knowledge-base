@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T19:14:34.490Z",
+    "url": "http://en.wikipedia.org/wiki/Avl_trees",
+    "cresource": "2i3pbcmchqc",
+    "ordering": -1,
+    "location_text": "Article \"AVL tree\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "44ju7mb3riq"
+}

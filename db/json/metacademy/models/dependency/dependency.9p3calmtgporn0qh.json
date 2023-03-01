@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gporn0qh",
+    "last_mod": "2014-08-30T21:34:00.640Z",
+    "ordering": 662,
+    "target_goals": [],
+    "source_goals": ["1pf04pmhjmj", "i9hfvjl1ikv", "ml5y1eo0gm0", "zfmglzw7j9b"],
+    "source": "9p3calmt",
+    "reason": "Markov models can be conveniently represented using transition matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "9p3calmtgporn0qh"
+}

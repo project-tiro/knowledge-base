@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m8no247q",
+    "last_mod": "2014-08-31T00:19:13.609Z",
+    "ordering": 0,
+    "target_goals": ["6ud84eajbq"],
+    "source_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source": "n4mru8iv",
+    "reason": "Gibbs sampling can be used to approximately sample from the equilibrium distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "n4mru8ivm8no247q"
+}

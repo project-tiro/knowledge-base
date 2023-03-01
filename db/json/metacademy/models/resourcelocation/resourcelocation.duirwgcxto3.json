@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "dm846mthhl7",
+    "ordering": -1,
+    "location_text": "Chapter 14, \"Differential forms,\" subsection \"Exterior derivatives,\" pages 362-373",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "duirwgcxto3"
+}

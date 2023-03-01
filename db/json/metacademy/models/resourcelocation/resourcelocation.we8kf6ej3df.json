@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:09:08.763Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/mfds.pdf",
+    "cresource": "uqhb74ird3z",
+    "ordering": -1,
+    "location_text": "Section 1.1, \"Manifolds: definitions, and first examples,\" pages 1-3",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "we8kf6ej3df"
+}

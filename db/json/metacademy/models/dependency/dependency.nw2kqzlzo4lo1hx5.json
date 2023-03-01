@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o4lo1hx5",
+    "last_mod": "2014-08-31T15:44:18.981Z",
+    "ordering": 619,
+    "target_goals": ["7iak06bdhf"],
+    "source_goals": ["ajuwpvlc4vl", "kjszqgpglkm", "yg5p6277qzo"],
+    "source": "nw2kqzlz",
+    "reason": "The first-order condition for convexity is that the linear approximation lie below the function."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlzo4lo1hx5"
+}

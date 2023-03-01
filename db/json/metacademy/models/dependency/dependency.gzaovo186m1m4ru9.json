@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6m1m4ru9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 700,
+    "target_goals": ["2jx53hxxu7", "3q6uldlkjl", "4yhu1unkwn", "7xqy2rpw0r"],
+    "source_goals": [],
+    "source": "gzaovo18",
+    "reason": "GDA is a binary linear classifier."
+  },
+  "model": "graph.dependency",
+  "pk": "gzaovo186m1m4ru9"
+}

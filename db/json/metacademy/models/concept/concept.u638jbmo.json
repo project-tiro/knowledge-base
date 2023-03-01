@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "bootstrap",
+    "pointers": null,
+    "tags": ["freqstats"],
+    "learn_time": 3.299412294332832,
+    "summary": "The bootstrap is a Monte Carlo technique for estimating variances or confidence intervals of statistical estimators. It uses the empirical distribution as a proxy for the true distribution, and measures the accuracy of the estimator on datasets resampled from the empirical distribution. It is widely applicable and doesn't require assuming a parametric form for the true distribution.\n\n",
+    "last_mod": "2014-09-14T21:51:50.753Z",
+    "tag": "bootstrap",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "u638jbmo"
+}

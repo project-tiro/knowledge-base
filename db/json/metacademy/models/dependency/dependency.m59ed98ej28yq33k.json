@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "j28yq33k",
+    "last_mod": "2014-08-30T21:34:01.428Z",
+    "ordering": 484,
+    "target_goals": ["3nuvfhiqv7", "jn6mq3n7bk", "vlpp9nd1am"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "The theorem is a statement about independent random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98ej28yq33k"
+}

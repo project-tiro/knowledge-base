@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 2,
+    "target_goals": ["j2cwggb5so4", "obu1s41m4uk", "pslm2gzw5d", "tmk4ejfjijg", "wbssblfcja"],
+    "source_goals": ["6qskbmq8v95", "by4ycqgdc3u", "l26wpxymsra"],
+    "source": "xu60d2g1",
+    "reason": "Differential forms are defined in terms of determinants."
+  },
+  "model": "graph.dependency",
+  "pk": "xu60d2g1jk3iwl1f"
+}

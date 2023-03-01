@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "matrix multiplication",
+    "pointers": "* Common operations on matrices include:\n**  [matrix inverse](matrix_inverse) , which is useful for  [solving systems of linear equations](linear_systems_as_matrices)\n**  [eigenvalues](eigenvalues_and_eigenvectors) , a central concept in many areas of science and engineering \n** the  [singular value decomposition](singular_value_decomposition) , a canonical representation of matrices closely related to eigenvalues \n* Many properties of matrix multiplication can be generalized to  [linear operators on vector spaces](linear_operators) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.8429593883559032,
+    "summary": "Matrix multiplication is an operator on matrices which satisfies many of the properties of multiplication, although not commutativity. \n",
+    "last_mod": "2014-08-30T17:58:46.575Z",
+    "tag": "matrix_multiplication",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9p3calmt"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "3ma6oc10",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 5,
+    "notes": "[u'slide 22 provides a \"cheat sheet\" for the Bayes ball rules']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "pth7i8fm14"
+  },
+  "model": "graph.conceptresource",
+  "pk": "taw2r9o1k7"
+}

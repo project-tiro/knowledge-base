@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "The Indian Buffet Process: Scalable Inference and Extensions",
+    "url": "http://people.csail.mit.edu/finale/papers/finale_msc.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Finale Doshi-Velez']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "ghz7hjxkuk"
+}

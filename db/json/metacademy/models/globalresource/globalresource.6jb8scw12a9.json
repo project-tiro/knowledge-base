@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "a popular textbook for graduate computer vision courses",
+    "version_num": 0,
+    "title": "Computer Vision: Algorithms and Applications",
+    "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.414.9846&rep=rep1&type=pdf",
+    "notes": "",
+    "year": 2010,
+    "access": "free",
+    "last_mod": "2015-03-04T08:52:10.256Z",
+    "authors": "[u'Richard Szeliski']",
+    "edition_years": "[u'2010']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "6jb8scw12a9"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ht7tx1xs",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 855,
+    "target_goals": [],
+    "source_goals": ["jo0xgzn0eg", "nfgfqkv2ll", "ngvexhb56o", "nrpe0lxi8u", "vsy8ngqezs"],
+    "source": "4dolhyv3",
+    "reason": "Bayes nets are used for forms of reasoning based on Bayes' Rule."
+  },
+  "model": "graph.dependency",
+  "pk": "4dolhyv3ht7tx1xs"
+}

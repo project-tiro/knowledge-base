@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how class methods are like ordinary functions, but with an additional \"this\" argument (which is implicit in some languages)",
+    "concept": "x865hwhs",
+    "last_mod": "2014-09-11T02:30:06.077Z"
+  },
+  "model": "graph.goal",
+  "pk": "wbigwzyagp9"
+}

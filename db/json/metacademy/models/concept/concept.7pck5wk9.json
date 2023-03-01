@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "NP-completeness",
+    "pointers": null,
+    "tags": ["theorycomp"],
+    "learn_time": 1.2833411800074659,
+    "summary": "A problem L is NP-complete if it is in NP and every other problem in NP can be reduced to L. NP-complete problems are therefore the \"hardest\" problems in NP: if any NP-complete problem has a polynomial time solution, then P = NP. Many widely studied problems are NP-complete, and practically speaking, one might as well give up looking for polynomial time algorithms for such problems.\n",
+    "last_mod": "2014-08-31T15:34:49.927Z",
+    "tag": "np_completeness",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "7pck5wk9"
+}

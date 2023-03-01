@@ -1,0 +1,15 @@
+{
+  "fields": {
+    "depth": 3,
+    "dependencies": [
+      "2ueqnq3wc511ncvu",
+      "c511ncvu1kin7kti",
+      "iqeem7gj1kin7kti",
+      "iqeem7gjsug552ho",
+      "sug552ho1kin7kti"
+    ],
+    "concepts": ["1kin7kti", "2ueqnq3w", "c511ncvu", "iqeem7gj", "sug552ho"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "1kin7kti"
+}

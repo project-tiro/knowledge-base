@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An advanced undergraduate text on optimization methods",
+    "version_num": 0,
+    "title": "Numerical Optimization",
+    "url": "http://www.amazon.com/Numerical-Optimization-Operations-Financial-Engineering/dp/0387303030/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-11-19T03:58:35.867Z",
+    "authors": "[u'Jorge Nocedal', u'Stephen J. Wright']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "sy4lfkm89qk"
+}

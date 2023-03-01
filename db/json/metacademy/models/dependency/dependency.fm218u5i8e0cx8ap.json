@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8e0cx8ap",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 887,
+    "target_goals": ["gor92sai84", "mcr0nvcifa", "zxx0ct3ixh"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "Maximum likelihood is a criterion for learning MRF parameters."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5i8e0cx8ap"
+}

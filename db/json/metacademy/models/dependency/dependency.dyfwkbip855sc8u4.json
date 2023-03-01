@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "855sc8u4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 7,
+    "target_goals": ["qthbarjkvtj"],
+    "source_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source": "dyfwkbip",
+    "reason": "Change of basis transformations are needed to convert between coordinate representations"
+  },
+  "model": "graph.dependency",
+  "pk": "dyfwkbip855sc8u4"
+}

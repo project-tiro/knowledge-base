@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be familiar with three equivalent interpretations of matrix multiplication: dot products, outer products, and matrix-vector multiplication",
+    "concept": "9p3calmt",
+    "last_mod": "2014-08-30T17:57:15.971Z"
+  },
+  "model": "graph.goal",
+  "pk": "1pf04pmhjmj"
+}

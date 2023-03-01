@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:18:13.714Z",
+    "url": "http://c.learncodethehardway.org/book/ex17.html",
+    "cresource": "4wqrxcljqyq",
+    "ordering": -1,
+    "location_text": "Exercise 17, \"Heap and stack memory allocation\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mu0rx14s6ta"
+}

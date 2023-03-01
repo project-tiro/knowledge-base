@@ -1,0 +1,37 @@
+{
+  "fields": {
+    "last_mod": "2014-12-18T08:17:26.912Z",
+    "concepts": [
+      "3cqp31aa",
+      "4ocvc918",
+      "8vhx3x66",
+      "9p3calmt",
+      "bveqc1fo",
+      "kp6axa2i",
+      "m3bm96b5",
+      "nw2kqzlz",
+      "vxncdcer",
+      "x6e7glql",
+      "zlyqzsgn"
+    ],
+    "dependencies": [
+      "4ocvc918bveqc1fo",
+      "8vhx3x66zlyqzsgn",
+      "9p3calmtx6e7glql",
+      "bveqc1fo8vhx3x66",
+      "bveqc1fo9p3calmt",
+      "bveqc1fonw2kqzlz",
+      "kp6axa2i8vhx3x66",
+      "kp6axa2im3bm96b5",
+      "kp6axa2ivxncdcer",
+      "kp6axa2izlyqzsgn",
+      "m3bm96b58vhx3x66",
+      "m3bm96b5nw2kqzlz",
+      "nw2kqzlz8vhx3x66",
+      "vxncdcernw2kqzlz"
+    ],
+    "title": "Coursera-ML-Roadmap"
+  },
+  "model": "graph.graph",
+  "pk": "js6v3eqj"
+}

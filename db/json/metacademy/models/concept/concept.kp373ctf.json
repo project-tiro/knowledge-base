@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Fisher's linear discriminant",
+    "pointers": "* Other methods for projecting data onto a low-dimensional subspace include:\n**  [principal component analysis (PCA)](principal_component_analysis)\n**  [factor analysis](factor_analysis)\n* Often we can get a better visualization of the data using a nonlinear embedding. Some methods for doing this include:\n**  [multidimensional scaling (MDS)](multidimensional_scaling)\n**  [Isomap](isomap)\n**  [locally linear embedding](locally_linear_embedding)\n**  [stochastic neighbor embedding](stochastic_neighbor_embedding)\n* If the goal is classification rather than visualization, consider some other algorithms more directly geared towards the task:\n**  [multiway logistic regression](multiway_logistic_regression)\n**  [multiclass support vector machines (SVMs)](multiclass_svms)",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 1.22401095509865,
+    "summary": "Fisher's linear discriminant is a technique for visualizing high-dimensional data belonging to multiple classes by projecting it onto a low-dimensional subspace. The subspace is chosen to maximize the ratio of between-class to within-class variance.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "fishers_linear_discriminant",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "kp373ctf"
+}

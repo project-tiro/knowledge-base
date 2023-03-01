@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zlk11edy",
+    "last_mod": "2014-11-08T22:57:15.901Z",
+    "ordering": -1,
+    "target_goals": ["pfu84301oc1"],
+    "source_goals": ["8qjyahis8fo", "fjawla4x30g", "gazubxd3m2y", "q4mjdizhua9"],
+    "source": "uefstju4",
+    "reason": "Minimax search is implemented using recursion"
+  },
+  "model": "graph.dependency",
+  "pk": "uefstju4zlk11edy"
+}

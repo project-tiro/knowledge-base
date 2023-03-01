@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Know some terminology: variable, constraint, domain, assignment, Boolean CSP",
+    "concept": "jo8tm547",
+    "last_mod": "2014-11-08T21:43:38.735Z"
+  },
+  "model": "graph.goal",
+  "pk": "8ssihbif05x"
+}

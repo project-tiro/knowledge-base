@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "365wg8e7",
+    "last_mod": "2014-08-30T21:34:01.412Z",
+    "ordering": 802,
+    "target_goals": ["euwxlw9hcn", "v8d3nsdrw2", "yx114qehtx", "zil5hdya5d"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "The Chernoff bounds are statements about independent random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98e365wg8e7"
+}

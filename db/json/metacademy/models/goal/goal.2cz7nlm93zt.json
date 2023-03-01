@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that if the temperature is cooled down slowly enough, simulated annealing finds a global minimum",
+    "concept": "lu25c8st",
+    "last_mod": "2014-11-08T22:39:38.226Z"
+  },
+  "model": "graph.goal",
+  "pk": "2cz7nlm93zt"
+}

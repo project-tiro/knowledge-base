@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sum-product on trees",
+    "pointers": "* If we apply the BP update rules in a non-tree graph, it often still works; this is known as  [loopy BP](loopy_belief_propagation) .\n* We can apply (exact) BP to any MRF using the  [junction tree representation](juction_trees) , although possibly with a large increase in complexity\n* The  [special case](gaussian_bp_on_trees)  of Gaussian graphical models\n* Some HMM inference algorithms can be  [interpreted as belief propagation](hmm_inference_as_bp)\n* If we have a polytree or chordal MRF, we can convert it to a  [factor graph](factor_graph)  and then  [run BP](factor_graph_bp) .\n* BP  [can be interpreted](loopy_bp_as_variational)  as fixed point updates to an optimization problem involving Bethe free energy.",
+    "tags": ["pgm"],
+    "learn_time": 1.8072792038064416,
+    "summary": "Sum-product is an algorithm for marginalization and partition function computation in graphical models. It is based on dynamic programming, and has the advantage that it reuses computations to compute marginals for all nodes in the graph. It is a generalization of the forward-backward algorithm for hidden Markov models.\n\n",
+    "last_mod": "2014-09-21T01:40:31.549Z",
+    "tag": "sum_product_on_trees",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ng1snrq4"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "soxhga99",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[{u'title': u'vector spaces'}]",
+    "global_resource": "i4sf9xbwug"
+  },
+  "model": "graph.conceptresource",
+  "pk": "93zn8zi0d6"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Know what Russell's Paradox refers to and why it is a contradiction in naive set theory",
+    "concept": "d64717ph",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "5wtb8aqscg"
+}

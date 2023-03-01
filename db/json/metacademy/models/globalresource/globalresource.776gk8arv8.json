@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory probability textbook.",
+    "version_num": 0,
+    "title": "A First Course in Probability",
+    "url": "http://www.amazon.com/gp/product/032179477X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=032179477X&linkCode=as2&tag=metacademy-20&linkId=RR6VVNMNLKVDTMY6",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Sheldon Ross']",
+    "edition_years": "[u'???', u'1984', u'1988', u'1994', u'1997', u'2001', u'2005', u'2011', u'2012']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "776gk8arv8"
+}

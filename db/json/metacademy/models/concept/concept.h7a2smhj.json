@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "backpropagation for second-order methods",
+    "pointers": "* Computing second derivatives explicitly can be too expensive in high dimensions. However, backpropagation can still be used with quasi-Newton methods which only require gradients. \n* Some features of neural nets which make second-order training difficult:\n** the objective function is not convex, so the Hessian might not be PSD \n** some commonly used nonlinearities are not differentiable \n* Hessian-free optimization is a second-order method which has been successfully applied to training deep neural nets. ",
+    "tags": ["machinelearning"],
+    "learn_time": 1.706608030225194,
+    "summary": "Backpropagation is normally used to propagate first-order derivatives (gradients). However, it can also be used to propagate second-order derivatives, at least approximately.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "backpropagation_second_order",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "h7a2smhj"
+}

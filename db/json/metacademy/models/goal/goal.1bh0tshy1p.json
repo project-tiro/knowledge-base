@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Understand the basic assumptions behind a generalized linear model.\n** In particular, the natural parameters are assumed to be a linear function of the inputs. What role does this play in the maximum likelihood update rule?",
+    "concept": "jcuxtsdx",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1bh0tshy1p"
+}

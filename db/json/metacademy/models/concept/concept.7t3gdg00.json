@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "minimum spanning trees",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.6156048814713686,
+    "summary": "A minimum spanning tree of a graph is a subgraph which is a tree, and which minimizes, out of all possible subtrees, the total weight of the edges. A minimum spanning tree can be computed efficiently using Kruskal's Algorithm or Prim's Algorithm.\n",
+    "last_mod": "2014-08-29T01:23:42.826Z",
+    "tag": "minimum_spanning_trees",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "7t3gdg00"
+}

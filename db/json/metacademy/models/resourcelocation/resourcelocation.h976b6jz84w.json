@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:27:25.672Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/riem1.pdf",
+    "cresource": "pb604e7mgnl",
+    "ordering": -1,
+    "location_text": "Start of Section 3.1, \"Riemannian metrics and the Levi-Civita connection,\" pages 1-2",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "h976b6jz84w"
+}

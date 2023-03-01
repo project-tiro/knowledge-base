@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "x2jslawy",
+    "last_mod": "2014-11-19T03:58:00.226Z",
+    "ordering": -1,
+    "target_goals": ["a3qc3jt986q", "e5ozeg5lixr", "z2ww2q7zz2j"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "Automatic differentiation is used to compute partial derivatives"
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5x2jslawy"
+}

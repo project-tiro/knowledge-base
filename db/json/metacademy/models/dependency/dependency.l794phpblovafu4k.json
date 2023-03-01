@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lovafu4k",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 317,
+    "target_goals": ["10bqkwu5e1", "kanjddqi3k", "ofi8a13b9s", "q0x87rjfh6"],
+    "source_goals": ["34ci4rlw4j", "6aritiu06n", "l6s976tn5j", "skguptaxih"],
+    "source": "l794phpb",
+    "reason": "Comparing populations involves hypothesis testing."
+  },
+  "model": "graph.dependency",
+  "pk": "l794phpblovafu4k"
+}

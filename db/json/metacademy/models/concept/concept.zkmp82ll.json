@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "kernel PCA",
+    "pointers": "* Some other ways of learning nonlinear representations of data:\n**  [feed-forward neural nets](feed_forward_neural_nets) , which adapt the representations in the context of some other learning objective\n**  [spectral embeddings](spectral_embeddings) , a very similar algorithm based on spectral graph theory\n* Kernel PCA is closely related to  [multidimensional scaling](multidimensional_scaling) , a technique for visualizing similarity data",
+    "tags": ["machinelearning"],
+    "learn_time": 1.0641908791031942,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "kernel_pca",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "zkmp82ll"
+}

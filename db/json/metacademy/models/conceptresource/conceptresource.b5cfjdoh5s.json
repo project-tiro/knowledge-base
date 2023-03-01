@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "hg92xygv",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'The parts concerning computability (starting with Theorem 5.5) are optional, and depend on Sections 6.3-6.4']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "z2rb5plqhy"
+  },
+  "model": "graph.conceptresource",
+  "pk": "b5cfjdoh5s"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "fpgxj5d3v0",
+    "ordering": 0,
+    "location_text": "Section 3.4, \"The gradient,\" pages 104-106",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1xjp9agi2h"
+}

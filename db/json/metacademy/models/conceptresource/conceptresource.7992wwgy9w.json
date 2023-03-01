@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "oq495mey",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u'This presents a more rigorous treatment than the other resources.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[{u'title': u'differential forms'}, {u'title': u'pullback'}, {u'title': u'determinant'}]",
+    "global_resource": "zrkt0mc0kr"
+  },
+  "model": "graph.conceptresource",
+  "pk": "7992wwgy9w"
+}

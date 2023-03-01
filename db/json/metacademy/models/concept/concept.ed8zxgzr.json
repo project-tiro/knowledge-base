@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "K nearest neighbors",
+    "pointers": "* KNN is especially prone to the  [curse of dimensionality](curse_of_dimensionality) .\n* KNN is a canonical example of a nonparametric learning algorithm. Other examples include:\n**  [kernel support vector machines (SVMs)](kernel_svm)\n**  [Gaussian process regression](gaussian_process_regression)",
+    "tags": ["machinelearning"],
+    "learn_time": 4.277554892597144,
+    "summary": "K nearest neighbors is a very simple machine learning algorithm which simply averages the labels of the K nearest neighbors in the training set. It is a canonical example of a nonparametric learning algorithm. It has the advantage that it can learn arbitrarily complex functions, but it is especially sensitive to the curse of dimensionality.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "k_nearest_neighbors",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ed8zxgzr"
+}

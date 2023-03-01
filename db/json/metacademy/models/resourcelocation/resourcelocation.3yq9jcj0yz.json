@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=RMS-WglZP-c&list=PL17567A1A3F5DB5E4&index=13",
+    "cresource": "ukuknho4k5",
+    "ordering": 1,
+    "location_text": "Lecture 2.3, \"Independence (continued)\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3yq9jcj0yz"
+}

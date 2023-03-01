@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Give examples of functions which can't be represented compactly (e.g. majority, parity)",
+    "concept": "46ycc9su",
+    "last_mod": "2014-08-30T23:35:53.679Z"
+  },
+  "model": "graph.goal",
+  "pk": "nq2mwmif7f"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "iterators",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.4330085607432903,
+    "summary": "In programming, an iterator (sometimes called a generator) is an object which allows the user to iterate over the elements of a container in order. In many high-level programming languages, common iteration idioms (such as foreach loops) implicitly use iterators.\n",
+    "last_mod": "2014-09-13T22:56:02.706Z",
+    "tag": "iterators",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "3jkfgvut"
+}

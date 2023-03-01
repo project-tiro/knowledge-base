@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 6,
+    "text": "* Be aware of the principle of duality (that Boolean algebras are symmetric with respect to meet and join)",
+    "concept": "dg2c76qt",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "q28isufkhv"
+}

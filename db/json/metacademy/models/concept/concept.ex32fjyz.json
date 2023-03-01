@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Riemannian metrics",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 1.0958877576423773,
+    "summary": "A Riemannian metric assigns an inner product to the tangent space at each point of a differentiable manifold. It gives a local notion of distance, and allows one to define notions such as orthogonal vectors, the norm of a vector, the length of a path, and the distance between two points. ",
+    "last_mod": "2014-09-21T22:44:10.947Z",
+    "tag": "riemannian_metrics",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "ex32fjyz"
+}

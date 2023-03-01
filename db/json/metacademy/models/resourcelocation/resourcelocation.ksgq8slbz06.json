@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:25:39.680Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/vb.pdf",
+    "cresource": "okm31hcxlhd",
+    "ordering": -1,
+    "location_text": "Start of Section 2, \"Vector bundles,\" pages 1-2",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ksgq8slbz06"
+}

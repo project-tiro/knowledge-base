@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why the acceptance probability increases as the step size decreases and why it approaches 1 for arbitrarily small steps",
+    "concept": "vb48h13n",
+    "last_mod": "2014-08-30T03:27:15.762Z"
+  },
+  "model": "graph.goal",
+  "pk": "qx4yuqu3hrr"
+}

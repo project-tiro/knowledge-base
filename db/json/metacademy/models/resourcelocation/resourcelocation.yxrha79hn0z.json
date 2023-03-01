@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:46:33.739Z",
+    "url": "http://publications.gbdirect.co.uk/c_book/the_c_book.pdf#page=127",
+    "cresource": "pbn2kedyobk",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Arrays and pointers,\" up through 5.3, \"Pointers, \" pages 127-140",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yxrha79hn0z"
+}

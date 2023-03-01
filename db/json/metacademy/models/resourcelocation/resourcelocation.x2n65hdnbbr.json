@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:19:27.996Z",
+    "url": "http://www.wisdom.weizmann.ac.il/~yakov/Geometry/1.pdf",
+    "cresource": "hpzwhyt2nnj",
+    "ordering": -1,
+    "location_text": "Part 1, \"Introduction to manifolds\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x2n65hdnbbr"
+}

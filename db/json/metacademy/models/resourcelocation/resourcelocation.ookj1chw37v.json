@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:46:29.765Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-8-hashing-with-chaining/",
+    "cresource": "26n737zyrbs",
+    "ordering": -1,
+    "location_text": "Lecture \"Hashing with chaining\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ookj1chw37v"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how the optimal solution can be computed, either using the SVD or the spectral decomposition of the covariance",
+    "concept": "qipartpb",
+    "last_mod": "2014-08-30T18:42:19.467Z"
+  },
+  "model": "graph.goal",
+  "pk": "39jcgpca73z"
+}

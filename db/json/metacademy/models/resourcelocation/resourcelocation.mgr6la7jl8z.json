@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:30:51.529Z",
+    "url": "http://en.wikipedia.org/wiki/Interface_(Java)",
+    "cresource": "5y49wvgcosi",
+    "ordering": -1,
+    "location_text": "Article \"Interface (Java)\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mgr6la7jl8z"
+}

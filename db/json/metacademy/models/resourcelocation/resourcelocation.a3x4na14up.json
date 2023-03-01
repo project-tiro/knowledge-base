@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/subspace_basis/v/linear-subspaces",
+    "cresource": "oc8mr43hor",
+    "ordering": 1,
+    "location_text": "Lecture \"Linear subspaces\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "a3x4na14up"
+}

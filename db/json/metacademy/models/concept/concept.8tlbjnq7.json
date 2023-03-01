@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "soft margin SVM",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.26288813054212,
+    "summary": "The standard SVM objective function, which maximizes the margin, only makes sense when the training set is linearly separable. The soft margin SVM gives more flexibility by allowing some of the training points to be misclassified. In addition to handling non-separable training sets, it also can be more robust to outliers or mislabeled data.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "soft_margin_svm",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8tlbjnq7"
+}

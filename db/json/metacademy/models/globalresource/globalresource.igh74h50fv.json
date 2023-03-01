@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "The Indian Buffet Process: An Introduction and Review",
+    "url": "http://mlg.eng.cam.ac.uk/pub/pdf/GriGha11.pdf",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Thomas L. Griffiths', u'Zoubin Ghahramani']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "igh74h50fv"
+}

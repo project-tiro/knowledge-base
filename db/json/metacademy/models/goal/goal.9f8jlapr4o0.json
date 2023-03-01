@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to design a specification for a procedure based on the user's anticipated needs (in particular, what should be put in the specification and what should be left to the implementation?)",
+    "concept": "9791pgmc",
+    "last_mod": "2014-09-13T20:17:31.576Z"
+  },
+  "model": "graph.goal",
+  "pk": "9f8jlapr4o0"
+}

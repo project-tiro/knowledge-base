@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0wtbiq82",
+    "last_mod": "2014-08-30T21:34:01.409Z",
+    "ordering": -1,
+    "target_goals": ["1ztij09zfe6", "8rcp722kl04", "qais9g6qglm", "uffsmjg9q06", "zvh3xezt924"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "MGFs are a powerful tool for analyzing sums of independent random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98e0wtbiq82"
+}

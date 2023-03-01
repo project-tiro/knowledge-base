@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oceraae8",
+    "last_mod": "2014-09-07T00:37:24.391Z",
+    "ordering": -1,
+    "target_goals": ["1e466c8p86n", "mh4c58qqag7", "qvkjpqabza4"],
+    "source_goals": ["l9r0la0i3r9", "q105klrq9ll"],
+    "source": "yws89ctj",
+    "reason": "Understanding what function pointers point to requires understanding the execution model"
+  },
+  "model": "graph.dependency",
+  "pk": "yws89ctjoceraae8"
+}

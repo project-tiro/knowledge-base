@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9i78wog3",
+    "last_mod": "2014-08-30T21:34:01.979Z",
+    "ordering": -1,
+    "target_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source_goals": ["v7myx7fp03h", "wpe7kb3c9bs", "z17krgjzed5"],
+    "source": "wesmgdpo",
+    "reason": "HMMs are based on Markov chains."
+  },
+  "model": "graph.dependency",
+  "pk": "wesmgdpo9i78wog3"
+}

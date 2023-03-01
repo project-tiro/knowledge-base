@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to solve some common kinds of recurrences, or at least give bounds on their solutions",
+    "concept": "zg3gnubl",
+    "last_mod": "2014-08-27T05:59:51.775Z"
+  },
+  "model": "graph.goal",
+  "pk": "5o14yexw71z"
+}

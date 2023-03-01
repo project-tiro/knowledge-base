@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:07:44.518Z",
+    "url": "http://en.wikipedia.org/wiki/Evaluation_function",
+    "cresource": "82u905tu4bo",
+    "ordering": -1,
+    "location_text": "Article \"Evaluation function\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9o63cmkx9vh"
+}

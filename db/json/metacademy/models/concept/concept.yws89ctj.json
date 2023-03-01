@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "call stack",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.2957351177435728,
+    "summary": "All modern programming language support procedure calls, and the call stack is the data structure which contains the necessary information for this to happen.  It is an important concept in C programming, since local variables are allocated on the stack (rather than the heap).\n",
+    "last_mod": "2014-09-14T03:46:53.448Z",
+    "tag": "call_stack",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "yws89ctj"
+}

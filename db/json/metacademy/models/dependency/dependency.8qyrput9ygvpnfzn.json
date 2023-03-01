@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ygvpnfzn",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 885,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "8qyrput9",
+    "reason": "CRF topic models can be seen as a hierarchical extension of CRP clustering."
+  },
+  "model": "graph.dependency",
+  "pk": "8qyrput9ygvpnfzn"
+}

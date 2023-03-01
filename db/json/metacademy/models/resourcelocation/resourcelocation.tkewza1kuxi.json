@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:16:07.282Z",
+    "url": "",
+    "cresource": "y87j2xvf5nu",
+    "ordering": -1,
+    "location_text": "Section 12.5, \"Binary search trees (BSTs),\" pages 515-521",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tkewza1kuxi"
+}

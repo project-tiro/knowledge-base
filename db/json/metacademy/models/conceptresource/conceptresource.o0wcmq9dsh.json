@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "ap6ijk2i",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 6,
+    "notes": "[u\"If you're not familiar with Bayes nets, don't worry: most of these lectures don't depend on them.\", u'Click on \"Preview\" to see the videos.']",
+    "goals_covered": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "edition": null,
+    "additional_dependencies": "[{u'title': u'maximum likelihood'}]",
+    "global_resource": "lv1g5xystt"
+  },
+  "model": "graph.conceptresource",
+  "pk": "o0wcmq9dsh"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lu25c8st",
+    "last_mod": "2014-11-08T22:34:26.759Z",
+    "ordering": -1,
+    "target_goals": ["2cz7nlm93zt", "75u17skiilw", "hhu6vy313zh"],
+    "source_goals": ["5a0sbkdff9u", "bzmtb4zbq4i"],
+    "source": "4mger90x",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "4mger90xlu25c8st"
+}

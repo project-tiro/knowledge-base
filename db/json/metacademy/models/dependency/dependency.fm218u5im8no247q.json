@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m8no247q",
+    "last_mod": "2014-08-31T00:19:23.994Z",
+    "ordering": 1,
+    "target_goals": ["z425f36ow2"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "Boltzmann machines are trained using maximum likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5im8no247q"
+}

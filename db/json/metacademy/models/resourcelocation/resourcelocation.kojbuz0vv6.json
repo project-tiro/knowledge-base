@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "d8utk59qrv",
+    "ordering": 0,
+    "location_text": "Section 8.4, \"The t distributions,\" pages 480-484",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kojbuz0vv6"
+}

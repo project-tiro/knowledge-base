@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* How are the requirements for structure learning different if your goal is knowledge discovery or density modeling?\n** In particular, if the goal is density modeling, why might you want a graph which is sparser than the true one?",
+    "concept": "9ub4pkcy",
+    "last_mod": "2014-08-31T15:15:23.683Z"
+  },
+  "model": "graph.goal",
+  "pk": "l7uzk3m3c8"
+}

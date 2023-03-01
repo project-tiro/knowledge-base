@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fm218u5i",
+    "last_mod": "2014-08-30T21:34:01.420Z",
+    "ordering": 159,
+    "target_goals": [],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "The data are generally assumed to be independent draws from a distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98efm218u5i"
+}

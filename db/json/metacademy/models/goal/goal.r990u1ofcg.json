@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Use Green's Theorem to show that conservative vector fields have zero curl",
+    "concept": "wljagdyu",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "r990u1ofcg"
+}

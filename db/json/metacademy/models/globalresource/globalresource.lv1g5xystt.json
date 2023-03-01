@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online course on probabilistic graphical models.",
+    "version_num": 0,
+    "title": "Coursera: Probabilistic Graphical Models",
+    "url": "https://class.coursera.org/pgm/lecture/preview",
+    "notes": "",
+    "year": 2013,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Daphne Koller']",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "lv1g5xystt"
+}

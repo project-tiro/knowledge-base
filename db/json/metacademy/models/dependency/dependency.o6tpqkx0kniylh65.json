@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kniylh65",
+    "last_mod": "2014-09-21T22:43:11.925Z",
+    "ordering": 4,
+    "target_goals": ["n0bdcco8si6"],
+    "source_goals": ["3cs1m0ttas2", "9ytkpz30fs3", "ejwds91a89z", "j01f7tv6etg", "k3svrb57hnn"],
+    "source": "o6tpqkx0",
+    "reason": "The Riemannian metric is typically taken to be the Fisher metric"
+  },
+  "model": "graph.dependency",
+  "pk": "o6tpqkx0kniylh65"
+}

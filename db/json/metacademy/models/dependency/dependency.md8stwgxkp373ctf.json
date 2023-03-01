@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kp373ctf",
+    "last_mod": "2014-08-30T21:34:01.494Z",
+    "ordering": 566,
+    "target_goals": ["f6226zp48d", "ftlupybs84"],
+    "source_goals": ["8mmwc5b2fad", "9isuh31jfbf", "ayhxjhhbdhl", "e9rj1yz7cm4", "ttsmioadwij"],
+    "source": "md8stwgx",
+    "reason": "FDA is an algorithm for projection onto a low-dimensional subspace."
+  },
+  "model": "graph.dependency",
+  "pk": "md8stwgxkp373ctf"
+}

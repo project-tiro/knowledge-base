@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jcuxtsdx",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 778,
+    "target_goals": ["1bh0tshy1p", "l42z5lh0oo", "q5vwcwqjm5"],
+    "source_goals": [],
+    "source": "okv0c3op",
+    "reason": "Linear regression is an instructive example of a generalized linear model."
+  },
+  "model": "graph.dependency",
+  "pk": "okv0c3opjcuxtsdx"
+}

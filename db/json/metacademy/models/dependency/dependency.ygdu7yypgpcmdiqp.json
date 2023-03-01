@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gpcmdiqp",
+    "last_mod": "2014-08-30T20:00:24.671Z",
+    "ordering": -1,
+    "target_goals": ["cvnhns5fuz3", "cz3b04mj5tp", "joudelrfpyz"],
+    "source_goals": [],
+    "source": "ygdu7yyp",
+    "reason": "Swedson-Wang is a method for sampling from MRFs."
+  },
+  "model": "graph.dependency",
+  "pk": "ygdu7yypgpcmdiqp"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* be able to manipulate propositional formulas (e.g. with distributive laws, de Morgan’s laws)",
+    "concept": "iqeem7gj",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "oig62apn7c"
+}

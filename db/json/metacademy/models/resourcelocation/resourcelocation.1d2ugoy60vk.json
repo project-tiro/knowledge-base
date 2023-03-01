@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T20:56:29.983Z",
+    "url": "",
+    "cresource": "dz98mvliocd",
+    "ordering": -1,
+    "location_text": "Section 3.5, \"Step length selection algorithms,\" pages 56-63",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1d2ugoy60vk"
+}

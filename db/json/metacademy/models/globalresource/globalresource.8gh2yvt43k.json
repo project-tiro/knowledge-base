@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A very comprehensive graudate-level machine learning textbook.",
+    "version_num": 0,
+    "title": "Machine Learning: a Probabilistic Perspective",
+    "url": "http://www.cs.ubc.ca/~murphyk/MLbook/index.html",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Kevin P. Murphy']",
+    "edition_years": "[u'2012']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "8gh2yvt43k"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "a differential geometry textbook which carefully motivates the definitions",
+    "version_num": 0,
+    "title": "A Comprehensive Introduction to Differential Geometry, Volume 1",
+    "url": "http://www.amazon.com/Comprehensive-Introduction-Differential-Geometry-Edition/dp/0914098705/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Michael Spivak']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "tn11fzbzdoy"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "graph representations",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 0.45726445426010975,
+    "summary": "Graphs, both directed and undirected, are one of the fundamental data structures in algorithms. Depending if the graph is sparse or dense, we may prefer to represent it as adjacency lists or an adjacency matrix. Or, we may directly carry our an algorithm on an implicit graph representation without ever constructing a representation of the full graph.\n",
+    "last_mod": "2014-10-09T01:44:00.831Z",
+    "tag": "graph_representations",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "9qd1a8d6"
+}

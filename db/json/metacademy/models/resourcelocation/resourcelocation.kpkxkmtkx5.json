@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "2v6447m7m7",
+    "ordering": 0,
+    "location_text": "Sections 2.2, \"The idea of elimination,\" and 2.3, \"Elimination using matrices,\" pages 45-61",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kpkxkmtkx5"
+}

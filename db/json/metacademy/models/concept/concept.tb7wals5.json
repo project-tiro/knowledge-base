@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bellman equations",
+    "pointers": null,
+    "tags": ["reinforcementlea"],
+    "learn_time": 1.2137485418077738,
+    "summary": "The Bellman equations are a system of equations that provide a recursive definition of optimality associated with dynamic programming. Informally, the Bellman equations state that optimality is achieved by taking an optimal first action and recursively taking optimal subsequent actions.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bellman_equations",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "tb7wals5"
+}

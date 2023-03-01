@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "regular expressions",
+    "pointers": "",
+    "tags": ["programming", "theorycomp"],
+    "learn_time": 1.1335122420096038,
+    "summary": "A regular expression is a sequence of characters describing a pattern against which strings can be matched. They are commonly used to search text files for patterns, e.g. as in tools like grep.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "regular_expressions",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "e2mkfu6w"
+}

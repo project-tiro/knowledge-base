@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "tl3gg7oi",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u\"Don't worry about the measure theoretic terminology.\"]",
+    "goals_covered": ["rid51tb46o", "v07jb2sb4y", "vszt49gv3w"],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "spakje3lq9"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ih66pp8tro"
+}

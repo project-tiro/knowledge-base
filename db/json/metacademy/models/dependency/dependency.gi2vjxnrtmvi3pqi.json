@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tmvi3pqi",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 25,
+    "target_goals": ["6vipwmw7cg", "7ql1gn67ak", "9naz2yui2p", "dbrkpiwq32", "msaqx4z5o4"],
+    "source_goals": [],
+    "source": "gi2vjxnr",
+    "reason": "The E step requires solving an inference problem."
+  },
+  "model": "graph.dependency",
+  "pk": "gi2vjxnrtmvi3pqi"
+}

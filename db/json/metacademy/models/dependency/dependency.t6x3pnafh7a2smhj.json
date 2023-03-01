@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "h7a2smhj",
+    "last_mod": "2014-08-30T21:34:01.750Z",
+    "ordering": 955,
+    "target_goals": [],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "We often want to approximate the inverse Hessian rather than the Hessian itself."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnafh7a2smhj"
+}

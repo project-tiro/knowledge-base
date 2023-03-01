@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "vxzsyea9xj",
+    "ordering": 1,
+    "location_text": "Section 10.10.2, \"The t-test,\" page 170",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hc34p4gslg"
+}

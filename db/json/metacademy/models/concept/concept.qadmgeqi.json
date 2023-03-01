@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "transformation method",
+    "pointers": "* Other ways of sampling from a 1-D distribution include:\n**  [rejection sampling](rejection_sampling)\n**  [slice sampling](slice_sampling) , an iterative method\n** the polar coordinates trick for  [sampling from a Gaussian](sampling_gaussian)",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The transformation method is a way of sampling from univariate probability distributions by sampling a uniform random variable and inverting the CDF.\n",
+    "last_mod": "2014-08-30T20:07:06.853Z",
+    "tag": "transformation_method",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qadmgeqi"
+}

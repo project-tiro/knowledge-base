@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/3.-double-integrals-and-line-integrals-in-the-plane/part-a-double-integrals/session-48-examples-of-double-integration",
+    "cresource": "jer37lfker",
+    "ordering": 1,
+    "location_text": "Session 48, \"Examples of double integration\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fkq19ejdsh"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "d4agowtk",
+    "last_mod": "2014-09-02T00:06:44.132Z",
+    "ordering": 1,
+    "target_goals": ["au5dgqfmqj"],
+    "source_goals": ["5ehkkueeje", "9uphvxs2zn", "dhv091we5g", "r51au6tf21"],
+    "source": "7sdn50ks",
+    "reason": "The binomial distribution is an important example of an exponential family distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "7sdn50ksd4agowtk"
+}

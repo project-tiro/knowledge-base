@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vh9s6taj",
+    "last_mod": "2014-08-30T21:34:01.804Z",
+    "ordering": -1,
+    "target_goals": ["8fidvod3avb", "afgznxb906e", "ddn4jhivfrj", "kri5xp9z2xo", "oihj1ur166i", "qw43vzo88e6"],
+    "source_goals": ["4ngj9uttv2h", "756aj5q871r", "og422t01mws", "psmyyyvrqsn"],
+    "source": "tjcob2im",
+    "reason": "The four fundamental subspaces include the canonical examples of pairs of orthogonal subspaces."
+  },
+  "model": "graph.dependency",
+  "pk": "tjcob2imvh9s6taj"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "function pointers in C",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.7242906574467467,
+    "summary": "In C, a function pointer is a pointer to the segment of code implementing a function. It is important for implementing generic data structures in C.\n",
+    "last_mod": "2014-09-14T15:50:49.605Z",
+    "tag": "function_pointers_in_c",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "oceraae8"
+}

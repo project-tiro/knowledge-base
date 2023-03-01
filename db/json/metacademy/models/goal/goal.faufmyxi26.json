@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Prove the Rao-Blackwell Theorem, which implies that estimators should be based on sufficient statistics when the exist.\n** Note: the general form of the Rao-Blackwell Theorem, which applies to convex loss functions, depends on  [Jensen's inequality](jensens_inequality) , but many texts give the special case for squared error.",
+    "concept": "8lm3xmw0",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "faufmyxi26"
+}

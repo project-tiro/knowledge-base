@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayes net structure learning",
+    "pointers": "*  [BDe priors](bde_priors)  are a kind of prior distribution which results in \"fairer\" comparisons between models of different complexities.\n* Many  [heuristics](bayes_net_structure_search_strategies)  have been developed for searching over Bayes net structures.\n* If we restrict ourselves to trees, we can find the globally optimal structure under the maximum likelihood scoring criterion. This is known as  [Chow-Liu trees](chow_liu_trees) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 2.7601890908668203,
+    "summary": "If the structure of a Bayes net (in particular, the set of edges) is not known, we may wish to learn it from data. This requires trading off the degree of fit with the complexity of the network. The Bayesian score gives a simple and efficient way of evaluating Bayes net structures.\n",
+    "last_mod": "2014-08-31T15:15:23.862Z",
+    "tag": "bayes_net_structure_learning",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9ub4pkcy"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "odmmwkrp",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 4,
+    "target_goals": ["77qaa2sybke", "lf6enm082te"],
+    "source_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source": "dyfwkbip",
+    "reason": "One needs to be able to convert tensor fields between coordinate systems"
+  },
+  "model": "graph.dependency",
+  "pk": "dyfwkbipodmmwkrp"
+}

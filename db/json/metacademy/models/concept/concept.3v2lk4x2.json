@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian model averaging",
+    "pointers": "*  [Reversible jump MCMC](reversible_jump_mcmc)  is a class of sampling algorithms often used for Bayesian model averaging.",
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 1.0796446230766013,
+    "summary": "In model selection, we typically select a single \"best\" model from a set of candidate models (based upon some selection criteria, such as an AIC score) and then use this model for prediction. Instead of selecting a single \"best\" model and using it for prediction, Bayesian Model Averaging BMA uses a weighted average of each model's individual prediction for the final predicted value, where the weight is the posterior probability of the model given the data. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bayesian_model_averaging",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3v2lk4x2"
+}

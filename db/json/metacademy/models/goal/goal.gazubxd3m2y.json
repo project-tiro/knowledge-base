@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know of examples where the naive recursive approach is inefficient (e.g. calculating Fibonacci numbers) and how to get around this",
+    "concept": "uefstju4",
+    "last_mod": "2014-09-14T04:46:17.688Z"
+  },
+  "model": "graph.goal",
+  "pk": "gazubxd3m2y"
+}

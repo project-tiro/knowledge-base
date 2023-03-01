@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bellman-Ford algorithm",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 0.5758620069615055,
+    "summary": "The Bellman-Ford algorithm is an algorithm for computing the shortest path between two points in a weighted graph. Unlike with Dijkstra's algorithm, the edge weights are allowed to be negative. On the down side, it has a larger running time, O(VE).\n",
+    "last_mod": "2014-08-29T01:48:40.575Z",
+    "tag": "bellman_ford_algorithm",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "du1pab7j"
+}

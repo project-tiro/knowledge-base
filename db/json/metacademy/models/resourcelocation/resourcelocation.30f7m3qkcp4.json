@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:07:19.465Z",
+    "url": "http://people.missouristate.edu/songfengzheng/Teaching/MTH541/Lecture%20notes/Fisher_info.pdf#page=11",
+    "cresource": "gf6dm1kwssd",
+    "ordering": -1,
+    "location_text": "Lecture \"Fisher information and the Cramer-Rao bound,\" subsection \"Multiple parameter case,\" pages 11-12",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "30f7m3qkcp4"
+}

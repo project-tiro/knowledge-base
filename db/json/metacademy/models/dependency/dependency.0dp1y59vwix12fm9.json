@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wix12fm9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 282,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "0dp1y59v",
+    "reason": "Early stopping is meant to improve generalization performance."
+  },
+  "model": "graph.dependency",
+  "pk": "0dp1y59vwix12fm9"
+}

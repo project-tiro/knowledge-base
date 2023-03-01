@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/linear_combinations",
+    "cresource": "hkp6ctmmnj",
+    "ordering": 1,
+    "location_text": "Lecture \"Linear combinations and spans\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hyomciyceg"
+}

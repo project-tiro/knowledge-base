@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "PDFs of functions of random variables",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 2.1500958530404803,
+    "summary": "The PDF of a continuous function of continuous random variables can be computed in terms of the joint PDF and the Jacobian of the function.\n",
+    "last_mod": "2014-08-30T18:38:21.885Z",
+    "tag": "pdfs_of_functions_of_random_variables",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "cxhcmuao"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dyfwkbip",
+    "last_mod": "2014-08-30T21:34:00.915Z",
+    "ordering": 707,
+    "target_goals": ["418d8nraz5", "sd6di8tabv"],
+    "source_goals": ["03nhk6qaa5l", "1p5hjzui7yw", "68u669n3fcx", "ih9qocak3p7", "m1sm56agb0g"],
+    "source": "frmn5lqo",
+    "reason": "Change of basis is often used for finding better representations of linear transformations."
+  },
+  "model": "graph.dependency",
+  "pk": "frmn5lqodyfwkbip"
+}

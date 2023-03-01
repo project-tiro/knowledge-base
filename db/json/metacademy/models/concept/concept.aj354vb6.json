@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Pitman-Yor process",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "pitman_yor_process",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "aj354vb6"
+}

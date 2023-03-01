@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Derive the Baum-Welch algorithm as a special case of EM.",
+    "concept": "m48dlx1l",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "mxlpv0kjhn"
+}

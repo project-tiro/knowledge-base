@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "unsupervised pre-training",
+    "pointers": "* The advantages of unsupervised pre-training relate to the distinction between  [generative and discriminative models](generative_vs_discriminative)",
+    "tags": ["machinelearning"],
+    "learn_time": 1.1487346374773333,
+    "summary": "Training deep feed-forward neural networks can be difficult because of local optima in the objective function and because complex models are prone to overfitting. Unsupervised pre-training initializes a discriminative neural net from one which was trained using an unsupervised criterion, such as a deep belief network or a deep autoencoder. This method can sometimes help with both the optimization and the overfitting issues.\n",
+    "last_mod": "2014-09-21T01:43:56.517Z",
+    "tag": "unsupervised_pre_training",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "uhxmipgh"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of the motivation in terms of the waiting time for n events to occur",
+    "concept": "tdhttl8l",
+    "last_mod": "2014-08-30T03:10:42.811Z"
+  },
+  "model": "graph.goal",
+  "pk": "9h7vvv7o43l"
+}

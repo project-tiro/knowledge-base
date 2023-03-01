@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "x2jslawy",
+    "last_mod": "2014-11-19T03:58:09.213Z",
+    "ordering": -1,
+    "target_goals": ["a3qc3jt986q", "e5ozeg5lixr", "z2ww2q7zz2j"],
+    "source_goals": ["150rtppooy", "8tvnk4f6jq", "p78kkc1vmp"],
+    "source": "zha1k3v0",
+    "reason": "Automatic differentiation is based on the chain rule"
+  },
+  "model": "graph.dependency",
+  "pk": "zha1k3v0x2jslawy"
+}

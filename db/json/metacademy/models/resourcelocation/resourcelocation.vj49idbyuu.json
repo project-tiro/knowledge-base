@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf#page=574",
+    "cresource": "o2uua4zvuo",
+    "ordering": 0,
+    "location_text": "Section 27.4, \"Markov chain Monte Carlo,\" pages 550-553 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vj49idbyuu"
+}

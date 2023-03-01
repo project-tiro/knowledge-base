@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ap6ijk2i",
+    "last_mod": "2014-08-31T00:03:14.280Z",
+    "ordering": 4,
+    "target_goals": ["8cpngwrgof", "9awbz3spah", "w8dwzsjx7s", "y8c9wxr457"],
+    "source_goals": ["36rwy4pi3z", "6cwc44e33z", "oro33d1qa0"],
+    "source": "fop9e6ra",
+    "reason": "The beta-Bernoulli distribution is an instructive example of Bayesian parameter estimation."
+  },
+  "model": "graph.dependency",
+  "pk": "fop9e6raap6ijk2i"
+}

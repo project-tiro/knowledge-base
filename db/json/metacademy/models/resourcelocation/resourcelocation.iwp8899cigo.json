@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:24:00.094Z",
+    "url": "http://en.wikipedia.org/wiki/Binary_search",
+    "cresource": "sfzhtvourmb",
+    "ordering": -1,
+    "location_text": "Article \"Binary search\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iwp8899cigo"
+}

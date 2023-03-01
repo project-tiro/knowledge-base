@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://cs229.stanford.edu/notes/cs229-notes4.pdf#page=8",
+    "cresource": "rp1knh6jsk",
+    "ordering": 0,
+    "location_text": "Lecture 4, \"Learning Theory,\" Section 4, \"The case of infinite H,\" pages 8-11 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7nbusthlnd"
+}

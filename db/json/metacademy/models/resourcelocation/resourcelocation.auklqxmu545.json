@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:54:25.883Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=26",
+    "cresource": "37xj8zandcd",
+    "ordering": -1,
+    "location_text": "Section 4.2, \"Vector fields as derivations,\" pages 26-27",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "auklqxmu545"
+}

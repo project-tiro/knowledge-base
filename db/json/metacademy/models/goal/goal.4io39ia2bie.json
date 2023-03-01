@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Analyze the average case running time of quicksort",
+    "concept": "h0u95aab",
+    "last_mod": "2014-08-27T06:00:01.219Z"
+  },
+  "model": "graph.goal",
+  "pk": "4io39ia2bie"
+}

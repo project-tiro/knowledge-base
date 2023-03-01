@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://math.stackexchange.com/questions/23093/could-someone-explain-conditional-independence/23100#23100",
+    "cresource": "uls8r7vtqf",
+    "ordering": 0,
+    "location_text": "Could someone explain conditional independence? ",
+    "location_type": "forum"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "h6it4mmo38"
+}

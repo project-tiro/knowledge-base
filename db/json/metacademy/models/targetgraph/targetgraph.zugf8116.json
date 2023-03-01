@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "depth": 5,
+    "dependencies": [
+      "4mger90xjo8tm547",
+      "cja1np7ywahfxtxd",
+      "jo8tm547zugf8116",
+      "k4imou8pzugf8116",
+      "mnj2e4z2zugf8116",
+      "uefstju4wahfxtxd",
+      "wahfxtxdk4imou8p"
+    ],
+    "concepts": ["4mger90x", "cja1np7y", "jo8tm547", "k4imou8p", "mnj2e4z2", "uefstju4", "wahfxtxd", "zugf8116"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "zugf8116"
+}

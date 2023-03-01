@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "embezrqhx4r",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"The tangent bundle,\" from pages 84-88",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jr0iqgl2tke"
+}

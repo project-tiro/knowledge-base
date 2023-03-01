@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "How many significant digits can be represented with single- and double-precision floats?",
+    "concept": "67qu23d4",
+    "last_mod": "2014-09-07T03:43:37.771Z"
+  },
+  "model": "graph.goal",
+  "pk": "op5v27nx8xb"
+}

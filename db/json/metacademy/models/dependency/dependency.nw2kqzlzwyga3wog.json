@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wyga3wog",
+    "last_mod": "2014-09-02T00:03:10.759Z",
+    "ordering": 1,
+    "target_goals": ["91ndrok93qj", "o3ua0rouh4a"],
+    "source_goals": ["ajuwpvlc4vl", "kjszqgpglkm"],
+    "source": "nw2kqzlz",
+    "reason": "The change of variables formula involves a linear approximation to the transformation."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlzwyga3wog"
+}

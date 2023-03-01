@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* When would you use the Chernoff bound vs. the Chebyshev bound?",
+    "concept": "365wg8e7",
+    "last_mod": "2014-08-31T15:13:59.311Z"
+  },
+  "model": "graph.goal",
+  "pk": "v8d3nsdrw2"
+}

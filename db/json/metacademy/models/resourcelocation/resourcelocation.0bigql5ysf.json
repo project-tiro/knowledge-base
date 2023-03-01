@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.gaussianprocess.org/gpml/chapters/RW2.pdf#page=9",
+    "cresource": "53bcm0553z",
+    "ordering": 0,
+    "location_text": "Section 2.2, starting with \"Prediction with noise-free observations,\" pages 15-19 ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0bigql5ysf"
+}

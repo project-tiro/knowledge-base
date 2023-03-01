@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "p1fycmrv",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 409,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "5638xo54",
+    "reason": "The IBP is the sequential process for sampling from a Bernoulli process with a beta process base-measure."
+  },
+  "model": "graph.dependency",
+  "pk": "5638xo54p1fycmrv"
+}

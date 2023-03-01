@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T20:06:17.288Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec06.pdf",
+    "cresource": "zacgmti7m9j",
+    "ordering": -1,
+    "location_text": "Lecture 6, \"Abstract data types\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ud57ihf2nt8"
+}

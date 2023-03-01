@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:35:42.224Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap4.pdf",
+    "cresource": "0iyqb68lypv",
+    "ordering": -1,
+    "location_text": "Lecture 4, \"Tangent vectors\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "osrv0nc8ili"
+}

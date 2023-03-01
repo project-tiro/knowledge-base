@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to write down the recurrence equation which gives the running time of a recursive algorithm",
+    "concept": "zg3gnubl",
+    "last_mod": "2014-08-27T05:59:51.773Z"
+  },
+  "model": "graph.goal",
+  "pk": "6r4wqz5qrru"
+}

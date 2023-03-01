@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook on linear algebra and multivariable calculus with proofs.",
+    "version_num": 0,
+    "title": "Multivariable Mathematics",
+    "url": "http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP000815.html",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Theodore Shifrin']",
+    "edition_years": "[u'2005']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "zrkt0mc0kr"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "QR decomposition",
+    "pointers": "* The Gram-Schmidt procedure is not numerically stable. In practice, we would compute the QR decomposition using one of:\n**  [Householder transformations](householder_transformations)\n**  [Givens rotations](givens_rotations)",
+    "tags": ["linearalgebra"],
+    "learn_time": 0.9312463189822848,
+    "summary": "The operations of the Gram-Schmidt procedure can be represented as a factorization of a matrix into an orthogonal matrix Q and an upper triangular matrix R. This is a useful representation for solving linear least squares problems.\n",
+    "last_mod": "2014-08-30T19:02:34.754Z",
+    "tag": "qr_decomposition",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "bzgvr988"
+}

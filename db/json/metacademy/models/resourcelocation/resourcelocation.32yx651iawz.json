@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:12:32.454Z",
+    "url": "",
+    "cresource": "31iu0tk60bm",
+    "ordering": -1,
+    "location_text": "Chapter 13, \"Binary search trees,\" up through 13.3, \"Insertion and deletion,\" pages 244-254",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "32yx651iawz"
+}

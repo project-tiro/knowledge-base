@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=CW9YGii1nSA&list=PLD0F06AA0D2E8FFBA&index=48",
+    "cresource": "bt14gor40e",
+    "ordering": 0,
+    "location_text": "Lecture 8.3: Bayesian Naive Bayes (part 1) ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f7m6ulde5c"
+}

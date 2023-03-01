@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T00:05:37.647Z",
+    "url": "https://class.coursera.org/algo-004/lecture/51",
+    "cresource": "93x8zz42ax2",
+    "ordering": -1,
+    "location_text": "Lecture \"Depth-first search: the basics\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "um3lcq05vm6"
+}

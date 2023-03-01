@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dfhu6m21",
+    "last_mod": "2014-09-02T00:06:09.470Z",
+    "ordering": 1,
+    "target_goals": ["nrc1itsjjrl", "yhdq8trzay0"],
+    "source_goals": ["aux1gig1c4"],
+    "source": "6jrbekjh",
+    "reason": "The CDF is used in analyzing waiting times."
+  },
+  "model": "graph.dependency",
+  "pk": "6jrbekjhdfhu6m21"
+}

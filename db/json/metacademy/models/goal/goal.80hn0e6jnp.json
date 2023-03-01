@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Be able to derive simple consequences of the axioms",
+    "concept": "65t8tji2",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "80hn0e6jnp"
+}

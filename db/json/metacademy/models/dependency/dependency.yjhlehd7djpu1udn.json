@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "djpu1udn",
+    "last_mod": "2014-10-11T21:32:55.414Z",
+    "ordering": 420,
+    "target_goals": ["g2wwj0l8iw", "m5gk40guop"],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "The covariance matrix is a PSD matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7djpu1udn"
+}

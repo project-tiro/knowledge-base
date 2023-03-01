@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "rkxyez1rl0",
+    "ordering": 1,
+    "location_text": " variance of a sum,\" pages 215-219",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "oh6jaoyfmd"
+}

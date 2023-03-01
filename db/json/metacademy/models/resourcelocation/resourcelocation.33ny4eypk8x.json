@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:54:38.669Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec04.pdf",
+    "cresource": "l3ivepred7e",
+    "ordering": -1,
+    "location_text": "Lecture 4 notes, \"State machines,\" pages 1-7",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "33ny4eypk8x"
+}

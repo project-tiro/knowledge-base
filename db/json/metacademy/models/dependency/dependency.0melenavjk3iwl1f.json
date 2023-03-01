@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:39:12.560Z",
+    "ordering": 1,
+    "target_goals": ["b0srq1kra6", "obu1s41m4uk", "pslm2gzw5d", "wbssblfcja"],
+    "source_goals": ["eeo3p69kbba", "ln7qah1abnp", "o2xpxe22a4k", "q1v8yw6a6p0"],
+    "source": "0melenav",
+    "reason": "Covector fields are an important special case of differential forms"
+  },
+  "model": "graph.dependency",
+  "pk": "0melenavjk3iwl1f"
+}

@@ -1,0 +1,20 @@
+{
+  "fields": {
+    "depth": 3,
+    "dependencies": [
+      "cj7urqv5gvp31pbp",
+      "gvp31pbph0u95aab",
+      "i9mo2e09cj7urqv5",
+      "iszv8c6hh0u95aab",
+      "mnj2e4z2h0u95aab",
+      "mnj2e4z2iszv8c6h",
+      "mnj2e4z2zg3gnubl",
+      "uefstju4h0u95aab",
+      "uefstju4zg3gnubl",
+      "zg3gnublh0u95aab"
+    ],
+    "concepts": ["cj7urqv5", "gvp31pbp", "h0u95aab", "i9mo2e09", "iszv8c6h", "mnj2e4z2", "uefstju4", "zg3gnubl"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "h0u95aab"
+}

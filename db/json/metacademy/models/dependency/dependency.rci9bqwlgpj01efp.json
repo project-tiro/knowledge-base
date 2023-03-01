@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gpj01efp",
+    "last_mod": "2014-08-30T03:05:17.692Z",
+    "ordering": -1,
+    "target_goals": ["4ri78x1la24", "hwjalyi7wl5", "i58krv7vmsz", "iiw4v053w9l", "r9nqc9yq15l", "ra3yq5sw9ck"],
+    "source_goals": ["2jqlt4gf7e", "378n082vvx", "i19spqsn2y"],
+    "source": "rci9bqwl",
+    "reason": "The justification of the algorithm uses the conditional independence properties."
+  },
+  "model": "graph.dependency",
+  "pk": "rci9bqwlgpj01efp"
+}

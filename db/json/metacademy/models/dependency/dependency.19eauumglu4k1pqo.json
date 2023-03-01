@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lu4k1pqo",
+    "last_mod": "2014-08-30T21:40:54.616Z",
+    "ordering": 896,
+    "target_goals": ["l0dyitdtie", "lprjwhir62", "tklfgk2joc"],
+    "source_goals": ["3eh3thnruxf", "uiu5rlbjkc8"],
+    "source": "19eauumg",
+    "reason": "AIS uses MCMC transition operators."
+  },
+  "model": "graph.dependency",
+  "pk": "19eauumglu4k1pqo"
+}

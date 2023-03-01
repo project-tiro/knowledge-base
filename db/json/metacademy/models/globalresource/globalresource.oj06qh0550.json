@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for an introductory computer science course",
+    "version_num": 0,
+    "title": "MIT 16.070: Introduction to Computers and Programming",
+    "url": "http://web.mit.edu/16.070/www/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Kristina Lundqvist']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "oj06qh0550"
+}

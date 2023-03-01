@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why failing to free memory results in a \"memory leak,\" and know some best practices for avoiding this",
+    "concept": "98kl8bwj",
+    "last_mod": "2014-09-07T00:21:57.588Z"
+  },
+  "model": "graph.goal",
+  "pk": "n02j2qxft21"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "fm218u5i",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'Read the Principles and Examples sections.']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "pce9rz8fby"
+  },
+  "model": "graph.conceptresource",
+  "pk": "4r6ezuyd0e"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:46:01.755Z",
+    "url": "",
+    "cresource": "ocuyn292ehw",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Recursion and trees,\" up through 5.2, \"Divide and conquer,\" pages 202-222",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "z3kxblavkys"
+}

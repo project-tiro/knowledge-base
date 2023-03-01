@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m7e9wl29",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 97,
+    "target_goals": ["82yt8tg695", "gt4onjn8xz", "u9dpazc3tc"],
+    "source_goals": ["1rfdywnl99", "5km9dw0poc", "dnrnoshvpp", "iy72akaxea", "mddktyz9ye"],
+    "source": "uqe7o6kx",
+    "reason": "Unification is a part of reasoning algorithms for first-order Horn clauses."
+  },
+  "model": "graph.dependency",
+  "pk": "uqe7o6kxm7e9wl29"
+}

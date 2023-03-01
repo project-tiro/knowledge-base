@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T14:50:28.611Z",
+    "url": "http://home.earthlink.net/~momotuk/pointers.pdf",
+    "cresource": "4jc1sbuqckd",
+    "ordering": -1,
+    "location_text": "Chapter 10, \"Pointers to functions,\" pages 42-52",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4mo0kvi7p41"
+}

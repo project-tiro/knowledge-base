@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "loss function",
+    "pointers": "* In  [Bayesian decision theory](bayesian_decision_theory)  we perform inference to minimize the  [posterior expected loss](posterior_expected_loss)  using various loss functions. Some important results are:\n** minimizing a  [zero-one loss function](zero_one_loss_function)  yields a  [Maximum A Posteriori (MAP) parameter estimation](map_parameter_estimation)\n** minimizing the  [squared error loss function](squared_error_loss_function)  yields the posterior mean parameter estimation\n** minimizing the  [L1 loss function](l1_loss)  function yields a posterior median parameter estimation",
+    "tags": [],
+    "learn_time": 0.6258932905671174,
+    "summary": "A loss function or cost function is a function that maps the outcome of a decision to a real-valued cost associated with that outcome. Loss functions are common in machine learning, information theory, statistics, and mathematical optimization, and help guide decision making under uncertainty.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "loss_function",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "3cqp31aa"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:27:27.367Z",
+    "url": "http://www.wisdom.weizmann.ac.il/~yakov/Geometry/3.pdf#page=4",
+    "cresource": "md1skja8msf",
+    "ordering": -1,
+    "location_text": "Part 2, \"Tangent bundles,\" section 3, \"Vector fields,\" pages 4-6",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fu7zgpgwduw"
+}

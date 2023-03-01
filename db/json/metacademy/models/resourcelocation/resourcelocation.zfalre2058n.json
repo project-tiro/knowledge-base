@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:21:40.658Z",
+    "url": "http://www.youtube.com/watch?v=O4I7dQC4VtU",
+    "cresource": "kv20xacggfi",
+    "ordering": -1,
+    "location_text": "Lecture \"Capacity of neural network\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "zfalre2058n"
+}

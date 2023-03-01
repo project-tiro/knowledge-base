@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A readable tutorial on the conjugate gradient method",
+    "version_num": 0,
+    "title": "An introduction to the conjugate gradient method without the agonizing pain",
+    "url": "http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-10-20T01:46:11.417Z",
+    "authors": "[u'Jonathan Richard Shewchuk']",
+    "edition_years": "[]",
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "hcudtjyw17z"
+}

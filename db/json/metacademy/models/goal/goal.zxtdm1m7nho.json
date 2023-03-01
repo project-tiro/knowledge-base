@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to return the set of stored strings with a given prefix",
+    "concept": "b6ahvae4",
+    "last_mod": "2014-08-27T21:19:33.248Z"
+  },
+  "model": "graph.goal",
+  "pk": "zxtdm1m7nho"
+}

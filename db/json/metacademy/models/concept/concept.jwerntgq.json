@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "ordinal numbers",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 1.6174916099172563,
+    "summary": "The ordinal numbers are a way of measuring the size of well-ordered sets. They give a way of talking about different sizes of infinity. They are needed to construct the cardinal numbers, which measure the sizes of sets more generally.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "ordinal_numbers",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jwerntgq"
+}

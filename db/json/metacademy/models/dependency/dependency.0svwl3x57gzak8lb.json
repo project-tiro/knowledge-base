@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7gzak8lb",
+    "last_mod": "2014-08-30T23:31:09.375Z",
+    "ordering": -1,
+    "target_goals": ["amxhlov30da", "eu796wqp6xs"],
+    "source_goals": ["ioo149551ww", "js61pyndeip", "tsrijo0cin3", "vyauxjhhte7"],
+    "source": "0svwl3x5",
+    "reason": "The b-tree operations are closely related to those of red-black trees"
+  },
+  "model": "graph.dependency",
+  "pk": "0svwl3x57gzak8lb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "a97uu186",
+    "last_mod": "2014-09-14T18:20:33.627Z",
+    "ordering": 2,
+    "target_goals": ["5xnss5220il", "j1a7i21ckte", "op3slotq5l2", "pc5v22vtuyx"],
+    "source_goals": ["f8soinopf83", "j6xbhu4x11y", "jszlyv1fbrt", "kh3vlvd9bgw", "nfg60u193p4", "pmpujbd78jg"],
+    "source": "cam6w537",
+    "reason": "Interfaces and abstract classes are used to define inheritance hierarchies"
+  },
+  "model": "graph.dependency",
+  "pk": "cam6w537a97uu186"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be aware of the \"P vs. NP\" problem and why it's important",
+    "concept": "jfrdulg7",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1ml3tz2gmx"
+}

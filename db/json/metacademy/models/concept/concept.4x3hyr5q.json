@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "propositional proofs",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 3.0856596419366613,
+    "summary": "A formal proof is an argument in a formal system where each step is justified by one of a precisely defined set of inference rules. Formal proofs are used as a model for studying mathematics itself, and are used in formal verification. One hopes a proof system is sound, in that each inference rule yields only true statements when its premises are true. A system is complete if all true statements expressible in some logical language can be proved within the system. Various proof systems have been defined for propositional logic which are both sound and complete. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "propositional_proofs",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4x3hyr5q"
+}

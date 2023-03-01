@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kqwbso0y",
+    "last_mod": "2014-08-31T00:06:51.613Z",
+    "ordering": 3,
+    "target_goals": ["epyjp474w4b", "rh85fruo1mm"],
+    "source_goals": ["2nsalb4rw9", "3lquv7b2zc"],
+    "source": "553vdk1m",
+    "reason": "The predictive distribution, with the scale parameter integrated out, is a student-t distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "553vdk1mkqwbso0y"
+}

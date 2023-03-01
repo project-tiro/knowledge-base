@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "cotangent bundle",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 1.0724520225610032,
+    "summary": "The cotangent bundle of a differentiable manifold M is the bundle of dual spaces to the tangent spaces at each point of M. The elements are known as covectors. An important example of a covector field is the differential of a function -- this is the generalization of the gradient to manifolds. Pullback is an operator which \"pulls back\" a covector field over a map.\n",
+    "last_mod": "2014-09-19T14:49:02.760Z",
+    "tag": "cotangent_bundle",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "0melenav"
+}

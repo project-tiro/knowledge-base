@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bcs899hy",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 762,
+    "target_goals": ["87g2v0l76h", "87n7p8lv64"],
+    "source_goals": ["1gad8akkm0", "wa0gfkt00w", "z8l2u65010"],
+    "source": "q09afwzo",
+    "reason": "the F measure is defined as the weighted harmonic mean of the precision and recall"
+  },
+  "model": "graph.dependency",
+  "pk": "q09afwzobcs899hy"
+}

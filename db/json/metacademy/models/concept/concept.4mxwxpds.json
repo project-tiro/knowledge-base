@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "cross validation",
+    "pointers": "* Cross-validation is a common technique used to measure the  [generalization](generalization)  of a statistical model on all data present in a dataset",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 1.3087806963018656,
+    "summary": "Cross validation is the process of partitioning an observed dataset into a training dataset and a testing dataset and then performing the statistical analysis on the training dataset (e.g. learning the parameters of a distribution used to describe the data) and then validated using the testing dataset (e.g. measuring how well the learned distribution describes the testing dataset). Following the validation step, a new, untested portion of the training dataset becomes the testing dataset and the previous testing dataset is incorporated into the training dataset. This cycle repeats until all data has been tested. This process is used to test how well a statistical analysis generalizes to new data.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "cross_validation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4mxwxpds"
+}

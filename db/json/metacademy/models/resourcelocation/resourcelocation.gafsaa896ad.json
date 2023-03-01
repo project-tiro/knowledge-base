@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T20:57:47.403Z",
+    "url": "http://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf#page=477",
+    "cresource": "mptq4k18knj",
+    "ordering": -1,
+    "location_text": "Section 9.2, \"Descent methods,\" pages 463-466",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gafsaa896ad"
+}

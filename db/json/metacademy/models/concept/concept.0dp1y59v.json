@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "generalization",
+    "pointers": "* Some techniques for estimating generalization error include:\n**  [Cross-validation](cross_validation) , a simple and widely applicable technique\n** The  [Akaike information criterion](akaike_information_criterion)  (for probabilistic models)\n** The  [C_p statistic](cp_statistic)  (for linear regression)\n* Here are some general strategies for controlling overfitting:\n**  [model selection](model_selection)\n**  [feature selection](feature_selection)\n**  [regularization](regularization)\n* Some theoretical concepts useful for understanding generalization include:\n** For linear regression, generalization error can be determined analytically, and  [breaks down exactly into a sum of bias and variance terms](bias_variance_decomposition) \". This provides a useful intuition for other models as well.\n**  [Probably Approximately Correct (PAC) learning](pac_learning) , which analyzes whether an algorithm usually learns a good-enough model\n**  [VC dimension](vc_dimension) , a quantity which characterizes the complexity of a continuously-parameterized model\n**  [Structural risk minimization](structural_risk_minimization) , a way of controlling overfitting by defining a nested sequence of models of increasing complexity",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 1.267239386758064,
+    "summary": "When we fit a statistical model, we are interested in generalizing, i.e. making good predictions on data we haven't seen yet. We can fail at this in two ways: by underfitting (missing important structure in the data), or by overfitting (where the model is too sensitive to idiosyncrasies in the data). We can measure the generalization error of a model by training it on a ``training set'' and then evaluating it on a separate ``test set.'' Understanding the tradeoffs of model fit vs. complexity and how to measure generalization is key to getting any machine learning algorithm to work in practice.\n \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "generalization",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "0dp1y59v"
+}

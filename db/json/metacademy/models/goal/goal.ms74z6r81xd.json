@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why the optimization landscape for maximum likelihood in a mixture model is difficult (i.e. it is nonconvex, and it has symmetries and saddle points)",
+    "concept": "mblsqnc0",
+    "last_mod": "2014-09-01T23:57:24.008Z"
+  },
+  "model": "graph.goal",
+  "pk": "ms74z6r81xd"
+}

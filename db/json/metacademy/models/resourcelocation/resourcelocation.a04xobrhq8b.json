@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T23:55:06.988Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-1/lecture-6-recursion/",
+    "cresource": "c5bhpv6346o",
+    "ordering": -1,
+    "location_text": "Lecture 6, \"Recursion,\" starting from 12:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "a04xobrhq8b"
+}

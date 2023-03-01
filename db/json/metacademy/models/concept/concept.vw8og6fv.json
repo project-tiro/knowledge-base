@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gauss-Newton algorithm",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 0.4862473298167229,
+    "summary": "The Gauss-Newton algorithm is a method for solving nonlinear least squares problems, based on iteratively solving linearized versions of the problem. It can also be seen as an approximation to Newton's method where terms corresponding to the curvature of the mapping are dropped.\n\n",
+    "last_mod": "2014-11-19T03:12:17.132Z",
+    "tag": "gauss_newton_algorithm",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "vw8og6fv"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gmih3ocq",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 120,
+    "target_goals": ["hm9i0kulkg", "uyuh4niexd", "xifoqxszuc"],
+    "source_goals": [],
+    "source": "gzaovo18",
+    "reason": "The perceptron is a binary linear classifier."
+  },
+  "model": "graph.dependency",
+  "pk": "gzaovo18gmih3ocq"
+}

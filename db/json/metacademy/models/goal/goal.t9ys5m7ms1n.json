@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to use an iterator by explicitly calling the methods",
+    "concept": "3jkfgvut",
+    "last_mod": "2014-09-13T22:54:48.456Z"
+  },
+  "model": "graph.goal",
+  "pk": "t9ys5m7ms1n"
+}

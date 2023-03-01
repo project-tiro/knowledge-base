@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hkrsnv1p",
+    "last_mod": "2014-08-27T18:25:04.579Z",
+    "ordering": 2,
+    "target_goals": ["upn4rf2kfhi"],
+    "source_goals": ["art3u9zf9do", "q50kui9u6dp", "ygkvxbnss16"],
+    "source": "iszv8c6h",
+    "reason": "Sorting is a canonical use case for heaps"
+  },
+  "model": "graph.dependency",
+  "pk": "iszv8c6hhkrsnv1p"
+}

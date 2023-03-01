@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "stochastic gradient descent",
+    "pointers": "*  [Natural gradient](natural_gradient)  allows us to speed up stochastic gradient descent by accounting for the curvature of the objective function.\n*  [Second-order optimization methods](second_order_optimization)  more generally often converge faster than first order methods, though they are harder to do in a stochastic framework.\n* In  [large-scale machine learning](tradeoffs_large_scale_learning) , stochastic gradient descent achieves a good tradeoff between statistical error and optimization error.",
+    "tags": ["optimization"],
+    "learn_time": 1.1558093682708825,
+    "summary": "Stochastic gradient descent (SGD) is an iterative optimization algorithm that can be applied to functions that are a linear combination of differentiable functions. These types of functions often arise when the full objective function is a linear combination of objective functions at each data point, e.g. a least squares objective function. While batch gradient descent uses the full gradient of the function, SGD approximates the full gradient by using the gradient at each of the functions in the linear combination, e.g. the gradient of the objective function at each data point. SGD is often used to optimize non-convex functions, e.g. those that arise in neural networks.\n",
+    "last_mod": "2014-09-19T19:43:55.596Z",
+    "tag": "stochastic_gradient_descent",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "57amwk40"
+}

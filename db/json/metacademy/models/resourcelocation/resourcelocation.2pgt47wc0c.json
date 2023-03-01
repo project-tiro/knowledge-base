@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=579",
+    "cresource": "1petzd7ppq",
+    "ordering": 0,
+    "location_text": "Section 14.7.2, \"Independent component analysis,\" pages 560-565 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2pgt47wc0c"
+}

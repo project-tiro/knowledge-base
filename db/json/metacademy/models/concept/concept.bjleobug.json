@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "entropy",
+    "pointers": "* Entropy determines the  [amount by which a message can be compressed](entropy_and_compression) .\n*  [Relationship with entropy from statistical mechanics](entropy_stat_mech)\n*  [Conditional entropy](conditional_entropy)  gives the amount of uncertainty in one random variable when the value of another one is known\n*  [Differential entropy](differential_entropy)  is the analogue of entropy for continuous random variables.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.9892113566248404,
+    "summary": "Entropy is a measure of the information content of a random variable, and one of the fundamental quantities of information theory. It determines the minimum expected code length necessary to encode samples of the random variable.\n",
+    "last_mod": "2014-09-01T23:59:31.875Z",
+    "tag": "entropy",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "bjleobug"
+}

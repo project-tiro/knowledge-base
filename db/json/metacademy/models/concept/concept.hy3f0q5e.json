@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "independent component analysis",
+    "pointers": "* Some other techniques for learning meaningful representations of data:\n**  [manifold learning](manifold_learning) , where we try to embed points in a low-dimensional space where similar points are close together\n**  [sparse coding](sparse_coding) , a generative model similar to ICA, but which gives an overcomplete representation (i.e. larger than the input representation)\n* ICA is often used for learning representations of:\n**  [images](learning_representations_of_images)\n**  [audio](learning_representations_of_audio)\n*  [FastICA](fast_ica)  is an efficient algorithm for fitting ICA models.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.31321713663893,
+    "summary": "Independent component analysis (ICA) is a latent variable model where the observations are modeled as linear combinations of latent variables which are usually drawn from a heavy-tailed distribution. Common uses include source separation and sparse dictionary learning.\n",
+    "last_mod": "2014-08-30T16:56:04.085Z",
+    "tag": "independent_component_analysis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "hy3f0q5e"
+}

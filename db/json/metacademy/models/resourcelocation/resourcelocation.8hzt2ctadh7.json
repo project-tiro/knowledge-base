@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:29:06.816Z",
+    "url": "http://math.hws.edu/javanotes/c5/s7.html",
+    "cresource": "gpye9mcz31y",
+    "ordering": -1,
+    "location_text": "Section 5.7, \"Interfaces\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8hzt2ctadh7"
+}

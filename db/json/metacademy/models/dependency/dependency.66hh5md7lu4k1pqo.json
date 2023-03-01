@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lu4k1pqo",
+    "last_mod": "2014-08-30T21:34:00.432Z",
+    "ordering": 897,
+    "target_goals": ["l0dyitdtie", "lprjwhir62", "tklfgk2joc"],
+    "source_goals": ["4q6atuu5x5p", "9afsp8d06dy", "axcvmb33hrr", "hbb32jyi0nh"],
+    "source": "66hh5md7",
+    "reason": "AIS gives a weighted sample from the distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "66hh5md7lu4k1pqo"
+}

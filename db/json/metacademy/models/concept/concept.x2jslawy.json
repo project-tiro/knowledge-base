@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "automatic differentiation",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.1620889035793323,
+    "summary": "Automatic differentiation is a method for computing partial derivatives or directional derivatives of a function, given a program which computes the function. It is based on the chain rule for derivatives, but shares computations between different entries of the result. \n",
+    "last_mod": "2014-11-19T04:00:05.711Z",
+    "tag": "automatic_differentiation",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "x2jslawy"
+}

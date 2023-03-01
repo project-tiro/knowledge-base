@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Markov chains",
+    "pointers": "*  [Markov models](markov_models)  are a probabilistic model which models the data as Markov chains. \n*  [Markov chain Monte Carlo (MCMC)](markov_chain_monte_carlo)  is a powerful class of techniques for approximate inference in probabilistic models. ",
+    "tags": ["machinelearning", "probabilitytheor"],
+    "learn_time": 0.7832615640768942,
+    "summary": "In a Markov chain, a system transitions stochastically from one state to another. It is a memoryless process, in the sense that the distribution over the next state depends only on the current state, and not on the state at any past time. Markov chains are useful models of many natural processes and the basis of powerful techniques in probabilistic inference and randomized algorithms.\n",
+    "last_mod": "2014-08-30T17:52:14.104Z",
+    "tag": "markov_chains",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wesmgdpo"
+}

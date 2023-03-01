@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u82kuklv",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 184,
+    "target_goals": ["65i2tidhb7", "8kfod9tzw3", "m5su444gco", "zajv192dbk"],
+    "source_goals": ["0poc7m2e6u", "0uvdjfjjuh", "hkhcwgeieh", "q8heyrr9kp"],
+    "source": "ap1kl16u",
+    "reason": "The Dedekind cut construction defines real numbers as sets."
+  },
+  "model": "graph.dependency",
+  "pk": "ap1kl16uu82kuklv"
+}

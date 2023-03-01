@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "h0u95aab",
+    "last_mod": "2014-08-27T18:25:39.609Z",
+    "ordering": 3,
+    "target_goals": ["3abd81tnn67", "4io39ia2bie", "dq8qghegzqc", "w5bdav0gr63"],
+    "source_goals": ["5o14yexw71z", "6qr7fhv08p8", "6r4wqz5qrru"],
+    "source": "zg3gnubl",
+    "reason": "The most straightforward implementation of quicksort is recursive"
+  },
+  "model": "graph.dependency",
+  "pk": "zg3gnublh0u95aab"
+}

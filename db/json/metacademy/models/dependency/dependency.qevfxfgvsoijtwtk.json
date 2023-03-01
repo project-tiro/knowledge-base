@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "soijtwtk",
+    "last_mod": "2014-08-30T21:34:01.648Z",
+    "ordering": 403,
+    "target_goals": [],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "Lagrange multipliers are necessary for analyzing variational inference algorithms."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgvsoijtwtk"
+}

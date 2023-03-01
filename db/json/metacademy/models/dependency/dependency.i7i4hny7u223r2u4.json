@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u223r2u4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 27,
+    "target_goals": [],
+    "source_goals": ["22ztjzav8m", "jnjs61wmqz", "rdifu6uky7"],
+    "source": "i7i4hny7",
+    "reason": "Bayesian parameter estimation with multinomials is a component of LDA."
+  },
+  "model": "graph.dependency",
+  "pk": "i7i4hny7u223r2u4"
+}

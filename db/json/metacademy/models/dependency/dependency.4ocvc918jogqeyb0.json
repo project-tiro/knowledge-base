@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jogqeyb0",
+    "last_mod": "2014-08-30T21:34:00.376Z",
+    "ordering": -1,
+    "target_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source_goals": ["h1dr5u0ml6m", "hlonikcuk0x", "zqfd16t4kpj"],
+    "source": "4ocvc918",
+    "reason": "Linear systems are represented in terms of matrix-vector multiplication."
+  },
+  "model": "graph.dependency",
+  "pk": "4ocvc918jogqeyb0"
+}

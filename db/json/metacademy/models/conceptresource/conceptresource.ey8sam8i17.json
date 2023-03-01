@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "q3j5cjx4",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'The lecture provides definitions, descriptions, and examples of MDPs -- it briefly covers value iteration (a method for finding optimal policies) near the end of the lecture']",
+    "goals_covered": ["5riuz66ot7", "hjf2d445ts", "lxpo8982aj", "tzkk1l95c1"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "hgmk4lelmt"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ey8sam8i17"
+}

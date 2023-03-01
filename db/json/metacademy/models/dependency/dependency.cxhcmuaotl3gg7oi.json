@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tl3gg7oi",
+    "last_mod": "2014-08-30T21:34:00.853Z",
+    "ordering": 130,
+    "target_goals": ["rid51tb46o", "v07jb2sb4y", "vszt49gv3w"],
+    "source_goals": ["813a8p4xpyz", "n1uxusz9fd5"],
+    "source": "cxhcmuao",
+    "reason": "Deriving the M-H acceptance probability requires computing the PDF of a transformation."
+  },
+  "model": "graph.dependency",
+  "pk": "cxhcmuaotl3gg7oi"
+}

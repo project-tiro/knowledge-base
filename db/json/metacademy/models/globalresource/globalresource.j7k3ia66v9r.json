@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook introducing many basic concepts in number theory from a computational perspective.",
+    "version_num": 0,
+    "title": "A Computational Introduction to Number Theory and Algebra",
+    "url": "http://shoup.net/ntb/ntb-v2.pdf",
+    "notes": "",
+    "year": 2008,
+    "access": "free",
+    "last_mod": "2014-10-09T19:36:24.039Z",
+    "authors": "[u'Victor Shoup']",
+    "edition_years": "[]",
+    "resource_type": "Textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "j7k3ia66v9r"
+}

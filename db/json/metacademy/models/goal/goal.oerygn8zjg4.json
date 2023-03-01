@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how k-means can be interpreted as a Gaussian mixture model in the small variance limit",
+    "concept": "byspgfas",
+    "last_mod": "2014-08-30T02:40:03.393Z"
+  },
+  "model": "graph.goal",
+  "pk": "oerygn8zjg4"
+}

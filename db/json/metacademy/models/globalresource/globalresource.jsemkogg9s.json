@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Nonparametric Bayesian Models",
+    "url": "http://videolectures.net/mlss09uk_teh_nbm/",
+    "notes": "",
+    "year": 2009,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Yee Whye Teh']",
+    "edition_years": null,
+    "resource_type": "video lecture"
+  },
+  "model": "graph.globalresource",
+  "pk": "jsemkogg9s"
+}

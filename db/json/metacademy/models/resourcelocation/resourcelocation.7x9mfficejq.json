@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T23:20:12.665Z",
+    "url": "http://home.earthlink.net/~momotuk/pointers.pdf#page=30",
+    "cresource": "p1g3jdeheuy",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"More on multi-dimensional arrays,\" pages 30-31",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7x9mfficejq"
+}

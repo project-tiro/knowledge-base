@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qfzexdq8",
+    "last_mod": "2014-09-19T16:12:07.232Z",
+    "ordering": 526,
+    "target_goals": ["7coi54wpsq", "d06x379joc"],
+    "source_goals": ["10s390dfqua", "2twcmxt3i9k", "nzopy7nyrdx", "v9by796rdvr", "wszbchjeaxj"],
+    "source": "rzsof8af",
+    "reason": "The bound is given in terms of Fisher information."
+  },
+  "model": "graph.dependency",
+  "pk": "rzsof8afqfzexdq8"
+}

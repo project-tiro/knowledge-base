@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "60c0yz46in",
+    "ordering": 3,
+    "location_text": "Section 4.5, \"Formal proofs,\" pages 104-108",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wwbwg7dq4e"
+}

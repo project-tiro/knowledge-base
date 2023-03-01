@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "machine representations of integers and characters",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 0.9770281199585596,
+    "summary": "In most programming languages, integers are stored in memory using a particular, standardized binary representation. (At least, standard for any given hardware architecture.) Characters are represented similarly. Understanding this representation is important when performing bitwise operations, and it explains why overflow bugs are possible.\n",
+    "last_mod": "2014-09-07T03:43:12.784Z",
+    "tag": "machine_representations_of_integers_and_characters",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "lb6bx27d"
+}

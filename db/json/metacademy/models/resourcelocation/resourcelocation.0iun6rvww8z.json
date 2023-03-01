@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:53:43.652Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap13.pdf#page=7",
+    "cresource": "dkjsu4iuvnj",
+    "ordering": -1,
+    "location_text": "Section 13.5, \"Pull-back invariance,\" pages 7-8 (only the part about the wedge product)",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0iun6rvww8z"
+}

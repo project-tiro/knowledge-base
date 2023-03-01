@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5jxe1iig",
+    "last_mod": "2014-08-30T21:34:02.052Z",
+    "ordering": 122,
+    "target_goals": [],
+    "source_goals": ["5upb6kz5zuj", "i9wfy4f7mbo", "u110xag5t1n"],
+    "source": "y1719kys",
+    "reason": "The SVD is one step of LSA."
+  },
+  "model": "graph.dependency",
+  "pk": "y1719kys5jxe1iig"
+}

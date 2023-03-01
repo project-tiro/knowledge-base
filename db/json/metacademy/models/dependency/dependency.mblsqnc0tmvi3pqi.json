@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tmvi3pqi",
+    "last_mod": "2014-08-30T21:34:01.475Z",
+    "ordering": 23,
+    "target_goals": ["6vipwmw7cg", "7ql1gn67ak", "9naz2yui2p", "dbrkpiwq32", "msaqx4z5o4"],
+    "source_goals": ["5bzak2k5sba", "ms74z6r81xd", "v8zfdf2nblq", "zr7rbb5mr2r"],
+    "source": "mblsqnc0",
+    "reason": "We can use the EM algorithm to fill in missing data."
+  },
+  "model": "graph.dependency",
+  "pk": "mblsqnc0tmvi3pqi"
+}

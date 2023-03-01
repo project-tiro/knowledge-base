@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Why does this optimization problem use a weighted Frobenius norm rather than a Frobenius norm?",
+    "concept": "lsy1fxwx",
+    "last_mod": "2014-10-27T01:40:03.261Z"
+  },
+  "model": "graph.goal",
+  "pk": "5vajiruv4bc"
+}

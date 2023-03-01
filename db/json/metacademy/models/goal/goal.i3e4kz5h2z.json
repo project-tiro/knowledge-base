@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Derive the formula for a surface integral for a surface given as z = f(x, y).",
+    "concept": "oq495mey",
+    "last_mod": "2014-09-01T02:42:52.793Z"
+  },
+  "model": "graph.goal",
+  "pk": "i3e4kz5h2z"
+}

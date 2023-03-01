@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4740ilrp",
+    "last_mod": "2014-10-20T01:02:22.936Z",
+    "ordering": 2,
+    "target_goals": ["7rx9qzly89i", "vjswupbhoco"],
+    "source_goals": ["3abgezik83y", "c927npzmp8k", "f9e2826q69z"],
+    "source": "kquxsbij",
+    "reason": "Analyzing conjugate gradient requires talking about eigenvalues"
+  },
+  "model": "graph.dependency",
+  "pk": "kquxsbij4740ilrp"
+}

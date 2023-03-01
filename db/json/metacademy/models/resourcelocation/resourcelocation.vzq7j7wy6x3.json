@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:50:58.961Z",
+    "url": "",
+    "cresource": "h42ldcbywyo",
+    "ordering": -1,
+    "location_text": "Chapter 14, \"Hashing,\" up through 14.2, \"Separate chaining,\" pages 587-601",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vzq7j7wy6x3"
+}

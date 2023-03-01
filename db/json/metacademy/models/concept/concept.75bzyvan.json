@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "recursive backtracking",
+    "pointers": "",
+    "tags": ["algorithms", "programming", "symbolicai"],
+    "learn_time": 1.3551251830851505,
+    "summary": "Suppose you wish to find an object that satisfies certain constraints, such as a solution to a Sudoku puzzle. Recursive backtracking is an elegant way to implement a brute-force search. It uses recursive calls to build up a candidate solution, backtracking whenever it violates a constraint so that it can move on to the next possibility. ",
+    "last_mod": "2014-11-13T03:35:28.145Z",
+    "tag": "recursive_backtracking",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "75bzyvan"
+}

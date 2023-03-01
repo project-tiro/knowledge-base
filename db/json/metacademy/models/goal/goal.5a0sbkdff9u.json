@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know some terminology: initial state, action, successor function, state space, path, goal test, step cost, solution, optimal solution",
+    "concept": "4mger90x",
+    "last_mod": "2014-11-08T20:08:18.085Z"
+  },
+  "model": "graph.goal",
+  "pk": "5a0sbkdff9u"
+}

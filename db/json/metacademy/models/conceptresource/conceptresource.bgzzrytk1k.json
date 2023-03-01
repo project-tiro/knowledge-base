@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "ng1snrq4",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'This section describe the junction tree (or clique tree) algorithm, a way of applying BP to general graphs. The notation differs significantly from the more traditional formulation of BP on factor graphs.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "k1y5wugd8l"
+  },
+  "model": "graph.conceptresource",
+  "pk": "bgzzrytk1k"
+}

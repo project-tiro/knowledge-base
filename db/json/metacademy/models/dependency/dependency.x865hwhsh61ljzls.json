@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "h61ljzls",
+    "last_mod": "2014-09-13T20:02:19.753Z",
+    "ordering": -1,
+    "target_goals": ["ca1dxgeox14", "g5nwv2sqkuo", "npnmcms5kfy", "t0dwo2e388m"],
+    "source_goals": [
+      "0frdbqwk667",
+      "2i9bp8z92wn",
+      "42rqgmnl2kb",
+      "681cl6bmb49",
+      "km7xdn7z8dg",
+      "mz97vyjyzy6",
+      "tt1m2paft7q",
+      "wbigwzyagp9"
+    ],
+    "source": "x865hwhs",
+    "reason": "Abstract data types are often implemented as classes"
+  },
+  "model": "graph.dependency",
+  "pk": "x865hwhsh61ljzls"
+}

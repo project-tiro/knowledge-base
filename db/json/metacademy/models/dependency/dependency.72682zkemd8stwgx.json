@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "md8stwgx",
+    "last_mod": "2014-08-30T21:34:00.473Z",
+    "ordering": -1,
+    "target_goals": ["8mmwc5b2fad", "9isuh31jfbf", "ayhxjhhbdhl", "e9rj1yz7cm4", "ttsmioadwij"],
+    "source_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source": "72682zke",
+    "reason": "The matrix transpose is used in the formula for the projection matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "72682zkemd8stwgx"
+}

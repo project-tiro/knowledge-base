@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Know what the pushforward operator is, and be able to compute it given the coordinate representations of maps and vectors",
+    "concept": "855sc8u4",
+    "last_mod": "2014-08-31T15:20:35.375Z"
+  },
+  "model": "graph.goal",
+  "pk": "5833l4t5p3z"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "compactness of propositional logic",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 0.449037489047881,
+    "summary": "The Compactness Theorem of propositional logic states that if a given set of propositional sentences is contradictory, then there is also some finite subset which is contradictory.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "compactness_of_propositional_logic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jnww935m"
+}

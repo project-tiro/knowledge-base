@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "conditional independence",
+    "pointers": "* Conditional independence is fundamental to probabilistic graphical models, including:\n**  [Markov models](markov_models) , memoryless random sequences where each state is independent of the past conditioned on the previous state\n**  [Bayesian networks](bayesian_networks) , which (roughly) represent causal structure\n**  [Markov random fields](markov_random_fields) , which model which random variables directly interact with each other",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Two random variables X and Y are conditionally independent given a random variable Z if they are independent in the conditional distribution given Z. Conditional independence is central notion in probabilistic modeling, because a model's conditional independence assumptions often lead to tractable algorithms for inference and learning in that model.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "conditional_independence",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "rci9bqwl"
+}

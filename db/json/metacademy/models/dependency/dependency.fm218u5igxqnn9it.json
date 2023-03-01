@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gxqnn9it",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 123,
+    "target_goals": ["3qn9wq2mf3", "49e2933rqg", "jsu04euchp"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "Maximum likelihood is a simple way to learn Bayes net parameters."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5igxqnn9it"
+}

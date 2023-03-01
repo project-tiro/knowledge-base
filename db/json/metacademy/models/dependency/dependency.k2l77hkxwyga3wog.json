@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wyga3wog",
+    "last_mod": "2014-09-02T00:01:09.278Z",
+    "ordering": 0,
+    "target_goals": ["91ndrok93qj", "o3ua0rouh4a"],
+    "source_goals": ["3lq6lx5vjit"],
+    "source": "k2l77hkx",
+    "reason": "Polar coordinates are an instructive example."
+  },
+  "model": "graph.dependency",
+  "pk": "k2l77hkxwyga3wog"
+}

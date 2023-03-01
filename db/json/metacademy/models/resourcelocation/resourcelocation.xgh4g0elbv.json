@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=cM1BqBv11U8&list=PL17567A1A3F5DB5E4&index=14",
+    "cresource": "pgclnk1lvm",
+    "ordering": 0,
+    "location_text": "Lecture 2.4, \"Bayes' Rule and the Chain Rule\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xgh4g0elbv"
+}

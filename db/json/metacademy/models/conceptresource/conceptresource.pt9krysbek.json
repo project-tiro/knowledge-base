@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "65t8tji2",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'Skim Section 4, \"Ordinals and their basic properties,\" for the Axiom of Foundation.']",
+    "goals_covered": ["80hn0e6jnp", "c2ppa363nt", "ld57feavrv", "qrzbxbyu5l", "yplt6sdie4"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "zuvxqk9nji"
+  },
+  "model": "graph.conceptresource",
+  "pk": "pt9krysbek"
+}

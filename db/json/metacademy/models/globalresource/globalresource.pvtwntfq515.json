@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A series of posts describing modular arithmetic",
+    "version_num": 0,
+    "title": "Khan Academy: Modular Arithmetic",
+    "url": "https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/what-is-modular-arithmetic",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-20T23:17:52.974Z",
+    "authors": "[u'']",
+    "edition_years": "[]",
+    "resource_type": "Article"
+  },
+  "model": "graph.globalresource",
+  "pk": "pvtwntfq515"
+}

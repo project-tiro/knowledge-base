@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the transpose (or inverse) of an orthogonal matrix is also orthogonal",
+    "concept": "n3btymcr",
+    "last_mod": "2014-10-11T21:21:34.728Z"
+  },
+  "model": "graph.goal",
+  "pk": "fmybk1ljkwv"
+}

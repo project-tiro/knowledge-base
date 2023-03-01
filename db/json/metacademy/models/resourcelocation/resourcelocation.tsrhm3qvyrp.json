@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T04:49:04.105Z",
+    "url": "",
+    "cresource": "62gqy4bjvdh",
+    "ordering": -1,
+    "location_text": "Chapter 2, \"Principles of algorithmic analysis,\" pages 27-64",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tsrhm3qvyrp"
+}

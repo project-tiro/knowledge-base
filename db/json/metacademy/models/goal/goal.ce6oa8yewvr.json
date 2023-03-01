@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that the existence of an integral curve is guaranteed locally",
+    "concept": "i97bwag1",
+    "last_mod": "2014-08-31T15:21:45.467Z"
+  },
+  "model": "graph.goal",
+  "pk": "ce6oa8yewvr"
+}

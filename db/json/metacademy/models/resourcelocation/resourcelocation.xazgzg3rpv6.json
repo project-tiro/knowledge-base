@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:38:29.098Z",
+    "url": "http://en.wikipedia.org/wiki/Simulated_annealing",
+    "cresource": "3n9zkx194rk",
+    "ordering": -1,
+    "location_text": "Article \"Simulated annealing\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xazgzg3rpv6"
+}

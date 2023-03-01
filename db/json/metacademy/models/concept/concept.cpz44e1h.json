@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "variational linear regression",
+    "pointers": "*  [Variational logistic regression](variational_logistic_regression)  is the analogue for classification.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Variational linear regression is an illustrative example of variational Bayes.\n\n",
+    "last_mod": "2014-08-30T20:19:17.602Z",
+    "tag": "variational_linear_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "cpz44e1h"
+}

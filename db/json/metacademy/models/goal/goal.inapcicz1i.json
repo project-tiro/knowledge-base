@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Derive AdaBoost as a sequential procedure to minimize the exponential loss on the training set.",
+    "concept": "51jjb6uh",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "inapcicz1i"
+}

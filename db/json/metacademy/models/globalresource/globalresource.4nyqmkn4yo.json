@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "A Revealing Introduction to Hidden Markov Models",
+    "url": "http://www.cs.sjsu.edu/~stamp/RUA/HMM.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Mark Stamp']",
+    "edition_years": null,
+    "resource_type": "tutorial"
+  },
+  "model": "graph.globalresource",
+  "pk": "4nyqmkn4yo"
+}

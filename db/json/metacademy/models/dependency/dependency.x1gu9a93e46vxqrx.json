@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "e46vxqrx",
+    "last_mod": "2014-08-30T21:34:01.995Z",
+    "ordering": 50,
+    "target_goals": [],
+    "source_goals": ["2dpj7edmz1o", "9spfpnqxvah"],
+    "source": "x1gu9a93",
+    "reason": "The bias-variance decomposition can be derived from the closed-form solution to linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "x1gu9a93e46vxqrx"
+}

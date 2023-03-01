@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:27:39.105Z",
+    "url": "",
+    "cresource": "6m9j1qyvn5t",
+    "ordering": -1,
+    "location_text": "Section 4.3, \"Local search algorithms and optimization problems,\" up through \"Hill-climbing search,\" pages 110-114",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vyf563yqq90"
+}

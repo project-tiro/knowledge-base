@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ueqh7gye",
+    "last_mod": "2014-08-29T01:30:18.263Z",
+    "ordering": 2,
+    "target_goals": ["0kg4102gbl3", "p32em0z7iny"],
+    "source_goals": ["37ji7hifyc4"],
+    "source": "hkrsnv1p",
+    "reason": "Dijkstra's algorithm can be implemented efficiently using a heap"
+  },
+  "model": "graph.dependency",
+  "pk": "hkrsnv1pueqh7gye"
+}

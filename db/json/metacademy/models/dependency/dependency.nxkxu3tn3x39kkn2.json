@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x39kkn2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 251,
+    "target_goals": ["3n0jopm0z5", "9d9fjixvlk"],
+    "source_goals": ["3vkr6d2jd5", "826r35kbgf", "aix0qht1i5", "pf6ucrmbo7", "pyouwosbai"],
+    "source": "nxkxu3tn",
+    "reason": "Arithmetization requires showing that things are representable in arithmetic."
+  },
+  "model": "graph.dependency",
+  "pk": "nxkxu3tn3x39kkn2"
+}

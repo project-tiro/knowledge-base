@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ummxprtk",
+    "last_mod": "2014-08-30T21:34:00.570Z",
+    "ordering": 574,
+    "target_goals": ["qhvsd06flf", "urbyxx9vei", "vwb4txlsn8"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The optimality condition for the unconstrained case is given in terms of the gradient."
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x66ummxprtk"
+}

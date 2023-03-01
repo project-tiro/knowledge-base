@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T19:41:17.494Z",
+    "url": "http://en.wikipedia.org/wiki/Cram%C3%A9r%E2%80%93Rao_bound",
+    "cresource": "vxqlo0f9jww",
+    "ordering": -1,
+    "location_text": "Article \"Cramer-Rao bound\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dftytrodatk"
+}

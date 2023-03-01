@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "simulated annealing",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 0.6760304432322758,
+    "summary": "Simulated annealing is a kind of hill-climbing search, often applied to constraint satisfaction problems (CSPs) or optimization problems. In order to escape local optima, it starts with a \"hotter\" version of the problem, where downhill moves are frequently taken. It gradually cools down the temperature, such that the behavior approaches standard hill-climbing. If the cooling down is done slowly enough, simulated annealing is guaranteed to find the global optimum.\n",
+    "last_mod": "2014-11-08T22:39:38.234Z",
+    "tag": "simulated_annealing",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "lu25c8st"
+}

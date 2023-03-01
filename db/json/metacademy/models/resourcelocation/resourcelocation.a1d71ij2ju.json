@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-unranked-retrieval-sets-1.html",
+    "cresource": "0vz75n03yo",
+    "ordering": 0,
+    "location_text": "\"Evaluation of Unranked Retrieval Sets\" ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "a1d71ij2ju"
+}

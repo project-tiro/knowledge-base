@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m48dlx1l",
+    "last_mod": "2014-08-30T21:34:00.609Z",
+    "ordering": 489,
+    "target_goals": ["mxlpv0kjhn"],
+    "source_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source": "9i78wog3",
+    "reason": "Baum-Welch is an algorithm for learning HMM parameters."
+  },
+  "model": "graph.dependency",
+  "pk": "9i78wog3m48dlx1l"
+}

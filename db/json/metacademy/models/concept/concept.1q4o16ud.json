@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "computations on multivariate Gaussians",
+    "pointers": "* Some probabilistic models allow for more efficient conditioning by exploiting problem structure:\n**  [Gaussian Markov random fields](gaussian_markov_random_fields) , which exploit sparsity in the precision matrix\n**  [Linear-Gaussian models](linear_gaussian_models) , which exploit sparsity in the Cholesky decomposition",
+    "tags": ["machinelearning", "pgm", "probabilitytheor"],
+    "learn_time": 1.219489069571057,
+    "summary": "Multivariate Gaussians are widely used in computational sciences because many useful operations can be performed efficiently. Marginalization is easy: we simply pull the relevant rows and columns of the mean and covariance. Conditioning can be done with a matrix inversion.\n",
+    "last_mod": "2014-08-31T15:36:41.434Z",
+    "tag": "computations_on_multivariate_gaussians",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "1q4o16ud"
+}

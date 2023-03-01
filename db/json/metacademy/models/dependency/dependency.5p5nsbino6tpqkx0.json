@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o6tpqkx0",
+    "last_mod": "2014-09-19T16:33:29.311Z",
+    "ordering": -1,
+    "target_goals": ["3cs1m0ttas2", "9ytkpz30fs3", "ejwds91a89z", "j01f7tv6etg", "k3svrb57hnn"],
+    "source_goals": ["ajmq9xf6uqj", "f8g08eea0s5", "h1ld8my0ilw", "qwmnba0lhht", "w59cvdkbx09", "wpohi04zswf"],
+    "source": "5p5nsbin",
+    "reason": "The Fisher metric is defined in terms of the Fisher information matrix"
+  },
+  "model": "graph.dependency",
+  "pk": "5p5nsbino6tpqkx0"
+}

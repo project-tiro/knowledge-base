@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Akaike information criterion",
+    "pointers": "*  [Bayesian Information Criterion (BIC)](bayesian_information_criterion)  is a different model selection criterion with different theoretical underpinnings, and practically, AIC does not penalize the number of parameters as severely as BIC\n*  [Mathematical justification of the AIC](justifying_aic_and_bic) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The Akaike Information Criterion (AIC) is a frequentist model selection criterion typically used to regularize maximum likelihood estimators. The AIC provides a relative estimate of the quality of the tested models (so it is necessary to report the AIC differences between models), but the AIC will not indicate if all tested models poorly describe the data. The quality score is a relative estimate of the kl-divergence between the given model and the true model.\n",
+    "last_mod": "2014-08-30T21:39:01.837Z",
+    "tag": "akaike_information_criterion",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2q9hdutk"
+}

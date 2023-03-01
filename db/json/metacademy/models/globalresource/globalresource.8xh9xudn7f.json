@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An overview of much of mathematical physics.",
+    "version_num": 0,
+    "title": "The Road to Reality",
+    "url": "http://www.amazon.com/The-Road-Reality-Complete-Universe/dp/0679776311",
+    "notes": "",
+    "year": 2007,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Roger Penrose']",
+    "edition_years": null,
+    "resource_type": "book"
+  },
+  "model": "graph.globalresource",
+  "pk": "8xh9xudn7f"
+}

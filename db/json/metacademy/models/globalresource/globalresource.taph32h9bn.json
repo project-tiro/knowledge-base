@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A review paper on deep learning techniques written by one of the leaders in the field.",
+    "version_num": 0,
+    "title": "Learning deep architectures for AI",
+    "url": "http://www.iro.umontreal.ca/~bengioy/papers/ftml_book.pdf",
+    "notes": "",
+    "year": 2009,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Yoshua Bengio']",
+    "edition_years": null,
+    "resource_type": "review paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "taph32h9bn"
+}

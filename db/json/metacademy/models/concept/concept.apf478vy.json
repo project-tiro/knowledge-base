@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "proofs in first-order logic",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 2.330209572336951,
+    "summary": "One can prove statements in first-order logic using a formal deductive calculus. Such a formal proof system is a central tool in the foundations of mathematics, since it serves as a formal model of mathematical reasoning more generally.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "proofs_in_first_order_logic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "apf478vy"
+}

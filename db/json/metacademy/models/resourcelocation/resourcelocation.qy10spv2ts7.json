@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T00:23:56.870Z",
+    "url": "http://en.wikipedia.org/wiki/Backtracking",
+    "cresource": "2jh5ihu59ud",
+    "ordering": -1,
+    "location_text": "Article \"Backtracking\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qy10spv2ts7"
+}

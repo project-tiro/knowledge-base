@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/factorization-into-a-lu/",
+    "cresource": "4b6x1vmv1c",
+    "ordering": 0,
+    "location_text": "Lecture \"Factorization into A = LU\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iyfk0idq5d"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oraccr8b",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["rzrgzn25hgg", "t8lfwdr9mcg", "u3wksqac8w4", "zm2e0yg3yax"],
+    "source_goals": ["539u7y6ab57", "dcm1guxnz2r"],
+    "source": "hcyt5zje",
+    "reason": "Context-free languages are a superclass of regular languages."
+  },
+  "model": "graph.dependency",
+  "pk": "hcyt5zjeoraccr8b"
+}

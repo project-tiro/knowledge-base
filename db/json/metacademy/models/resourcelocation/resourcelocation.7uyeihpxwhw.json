@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-11T02:29:47.255Z",
+    "url": "http://www.greenteapress.com/thinkpython/html/thinkpython018.html",
+    "cresource": "86vuqt2uom3",
+    "ordering": -1,
+    "location_text": "Chapter 18, \"Classes and methods\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7uyeihpxwhw"
+}

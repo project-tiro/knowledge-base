@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "4c182f3gwm",
+    "ordering": 0,
+    "location_text": "Section 10.2, \"Ordinals,\" pages 468-477",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5j2ijd61vm"
+}

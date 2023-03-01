@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Understand how the student-t distribution is defined in terms of samples drawn from a normal distribution.",
+    "concept": "553vdk1m",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "2nsalb4rw9"
+}

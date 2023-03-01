@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zjqvid2s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 369,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "so30pf29",
+    "reason": "GP regression is the simplest setting in which to discuss hyperparameter learning."
+  },
+  "model": "graph.dependency",
+  "pk": "so30pf29zjqvid2s"
+}

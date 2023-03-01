@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "nqo396nz",
+    "last_mod": "2014-09-01T02:36:03.777Z",
+    "ordering": 1,
+    "target_goals": ["1wgr9u5a2dt", "di3e9krpk5d", "ta1iefywurk", "u7idp6weub7", "w5c7j2apzbe"],
+    "source_goals": ["ajuwpvlc4vl", "kjszqgpglkm", "n71zbfch9z4", "qaz9c7mnf2b", "yg5p6277qzo"],
+    "source": "nw2kqzlz",
+    "reason": "Differentiability on manifolds is defined in terms of differentiability in Euclidean space."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlznqo396nz"
+}

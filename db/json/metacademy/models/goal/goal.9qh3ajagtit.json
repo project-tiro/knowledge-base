@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know the difference between preorder, postorder and in-order traversal",
+    "concept": "zd073egx",
+    "last_mod": "2014-09-14T04:02:57.729Z"
+  },
+  "model": "graph.goal",
+  "pk": "9qh3ajagtit"
+}

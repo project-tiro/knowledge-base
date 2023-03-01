@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to express the line integral in terms of the arc length parameterization, or in terms of an arbitrary parameterization",
+    "concept": "lprnbl8i",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "m1kmygeblv"
+}

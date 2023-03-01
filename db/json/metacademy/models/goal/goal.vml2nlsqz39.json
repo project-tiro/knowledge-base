@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of some pitfalls of maximum likelihood estimation: non-identifiability of the system, and instability of the system",
+    "concept": "vsldtcz7",
+    "last_mod": "2014-08-30T17:17:12.829Z"
+  },
+  "model": "graph.goal",
+  "pk": "vml2nlsqz39"
+}

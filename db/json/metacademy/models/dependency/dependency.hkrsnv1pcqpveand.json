@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:44.525Z",
+    "ordering": 3,
+    "target_goals": ["a9csgloznzv"],
+    "source_goals": ["37ji7hifyc4"],
+    "source": "hkrsnv1p",
+    "reason": "Uniform cost search is implemented using a heap"
+  },
+  "model": "graph.dependency",
+  "pk": "hkrsnv1pcqpveand"
+}

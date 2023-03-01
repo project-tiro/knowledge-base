@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Stirling's approximation",
+    "pointers": "",
+    "tags": [],
+    "learn_time": 1.1254170586827876,
+    "summary": "Stirling's approximation is a formula for approximating N!. It is derived from the trapezoidal rule for integration.",
+    "last_mod": "2014-08-27T17:16:46.502Z",
+    "tag": "stirlings_approximation",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "09778p8o"
+}

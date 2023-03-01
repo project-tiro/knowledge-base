@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "preconditioned conjugate gradient",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 0.5270558564105554,
+    "summary": "Conjugate gradient can converge slowly if the matrix A defining the linear system is ill-conditioned. Preconditioning is a technique for transforming the linear system into a coordinate system where A is (hopefully) better conditioned. ",
+    "last_mod": "2014-10-27T01:01:06.628Z",
+    "tag": "preconditioned_conjugate_gradient",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "140ybzdv"
+}

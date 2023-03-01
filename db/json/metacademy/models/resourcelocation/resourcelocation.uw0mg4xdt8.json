@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "3alvpx0ce6",
+    "ordering": 0,
+    "location_text": "Section 3.2, \"The Vapnik-Chervonenkis dimension,\" pages 50-51",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "uw0mg4xdt8"
+}

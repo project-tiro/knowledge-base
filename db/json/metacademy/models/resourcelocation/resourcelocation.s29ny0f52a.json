@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://linear.ups.edu/html/section-VS.html",
+    "cresource": "t46qh8obfm",
+    "ordering": 0,
+    "location_text": "Section \"Vector spaces\" of chapter \"Vector spaces\" ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s29ny0f52a"
+}

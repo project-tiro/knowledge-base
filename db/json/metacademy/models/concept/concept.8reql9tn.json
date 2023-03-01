@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian variable elimination as Gaussian elimination",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 1.1287802664937767,
+    "summary": "The computations involved in Gaussian variable elimination are the same as those used to compute the Cholesky decomposition of the covariance matrix.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_variable_elimination_as_gaussian_elimination",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8reql9tn"
+}

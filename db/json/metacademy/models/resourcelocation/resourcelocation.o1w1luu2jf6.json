@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "bly8uficxrp",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Vector fields and differential equations,\" pages 148-156",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "o1w1luu2jf6"
+}

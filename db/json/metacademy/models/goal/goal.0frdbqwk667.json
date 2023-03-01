@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know some basic terminology: classes, instances, attributes (or fields or instance variables), methods, instantiation",
+    "concept": "x865hwhs",
+    "last_mod": "2014-09-11T02:30:06.064Z"
+  },
+  "model": "graph.goal",
+  "pk": "0frdbqwk667"
+}

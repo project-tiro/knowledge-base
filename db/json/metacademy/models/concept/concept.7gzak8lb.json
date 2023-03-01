@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "b-trees",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.8127470782547532,
+    "summary": "B-trees are a data structure analogous to binary search trees, but where a given node may have more than two children. They are a fundamental data structure in databases, since they can be used to search extremely large datasets with only a handful of disk accesses.\n",
+    "last_mod": "2014-08-30T23:31:22.875Z",
+    "tag": "b_trees",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "7gzak8lb"
+}

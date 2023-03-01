@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xub4wekq",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 76,
+    "target_goals": [],
+    "source_goals": ["ex1wkbnbgxh", "l26wpxymsra"],
+    "source": "xu60d2g1",
+    "reason": "The determinant of the covariance matrix is part of the normalizing constant."
+  },
+  "model": "graph.dependency",
+  "pk": "xu60d2g1xub4wekq"
+}

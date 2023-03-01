@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T17:27:20.759Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-7-counting-sort-radix-sort-lower-bounds-for-sorting/",
+    "cresource": "9eqskju9g22",
+    "ordering": -1,
+    "location_text": "Lecture 7, \"Counting sort, radix sort, lower bounds for sorting,\" up to 32:30",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "c1757j0pr9n"
+}

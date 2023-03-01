@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1q4o16ud",
+    "last_mod": "2014-08-31T15:36:41.134Z",
+    "ordering": 2,
+    "target_goals": [],
+    "source_goals": ["g2wwj0l8iw", "m5gk40guop"],
+    "source": "djpu1udn",
+    "reason": "Many operations involve manipulating covariance matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "djpu1udn1q4o16ud"
+}

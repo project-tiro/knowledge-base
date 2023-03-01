@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pgaey1hi",
+    "last_mod": "2014-08-30T21:34:01.386Z",
+    "ordering": 353,
+    "target_goals": ["49bs4gqsrt", "an4dkl0ooi", "m95agdj8x8", "szmi8sqeuk"],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The definition of divergence includes partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5pgaey1hi"
+}

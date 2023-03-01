@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "h0u95aab",
+    "last_mod": "2014-08-27T18:25:31.871Z",
+    "ordering": 0,
+    "target_goals": ["3abd81tnn67", "4io39ia2bie", "dq8qghegzqc", "w5bdav0gr63"],
+    "source_goals": ["art3u9zf9do", "q50kui9u6dp", "ygkvxbnss16"],
+    "source": "iszv8c6h",
+    "reason": "Quicksort is a sorting algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "iszv8c6hh0u95aab"
+}

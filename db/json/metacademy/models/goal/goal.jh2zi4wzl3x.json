@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how k-means can be interpreted as hard-EM in a Gaussian mixture model",
+    "concept": "byspgfas",
+    "last_mod": "2014-08-30T02:39:38.036Z"
+  },
+  "model": "graph.goal",
+  "pk": "jh2zi4wzl3x"
+}

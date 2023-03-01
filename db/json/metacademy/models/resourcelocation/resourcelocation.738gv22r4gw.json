@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:11:55.978Z",
+    "url": "",
+    "cresource": "9uj05kjqqwi",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Pointers and arrays\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "738gv22r4gw"
+}

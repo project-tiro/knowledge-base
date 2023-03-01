@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "w9hhcm6kts",
+    "ordering": 0,
+    "location_text": "Chapter 5, \"Construction of the real numbers,\" subsection \"Rational numbers,\" pages 101-111",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9acrqk4fch"
+}

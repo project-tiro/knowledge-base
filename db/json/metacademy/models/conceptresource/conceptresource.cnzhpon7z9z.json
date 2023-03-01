@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "cqpveand",
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:40:44.726Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "l49mo8n4d6a"
+  },
+  "model": "graph.conceptresource",
+  "pk": "cnzhpon7z9z"
+}

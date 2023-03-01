@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tl3gg7oi",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 128,
+    "target_goals": ["rid51tb46o", "v07jb2sb4y", "vszt49gv3w"],
+    "source_goals": [],
+    "source": "3v2lk4x2",
+    "reason": "Reversible jump MCMC is intended for Bayesian model averaging."
+  },
+  "model": "graph.dependency",
+  "pk": "3v2lk4x2tl3gg7oi"
+}

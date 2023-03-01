@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ej3ez1pjmu",
+    "ordering": 0,
+    "location_text": "Section 7.3, \"Polar, cylindrical, and spherical coordinates,\" pages 288-296",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ueel662fyf"
+}

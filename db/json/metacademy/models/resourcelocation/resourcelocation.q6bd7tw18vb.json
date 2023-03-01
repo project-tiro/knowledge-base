@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:49:58.566Z",
+    "url": "http://math.hws.edu/javanotes/c10/index.html",
+    "cresource": "ufja6ztnapp",
+    "ordering": -1,
+    "location_text": "Chapter 10, \"Generic programming and collection classes\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q6bd7tw18vb"
+}

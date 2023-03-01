@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://mathworld.wolfram.com/PartialDerivative.html",
+    "cresource": "kxql8d9u6j",
+    "ordering": 0,
+    "location_text": "Partial Derivatives Entry ",
+    "location_type": "online compendium"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "v653xv71f9"
+}

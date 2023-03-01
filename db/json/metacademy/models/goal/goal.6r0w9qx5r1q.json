@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how (fixed-size) integers are represented in memory. How many different values can be represented in a given number of bytes?",
+    "concept": "lb6bx27d",
+    "last_mod": "2014-09-07T03:43:12.770Z"
+  },
+  "model": "graph.goal",
+  "pk": "6r0w9qx5r1q"
+}

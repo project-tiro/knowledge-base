@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "complex vectors and matrices",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 0.5962728414800312,
+    "summary": "We can define complex vectors and matrices with properties closely analogous to their real-valued analogues. Complex matrices come up when dealing with eigendecompositions of non-symmetric matrices. They are also used in computing the fast Fourier transform.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "complex_vectors_and_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "xij1in6b"
+}

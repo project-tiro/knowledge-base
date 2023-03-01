@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://en.wikipedia.org/wiki/Conditional_independence",
+    "cresource": "zsfapt4hwx",
+    "ordering": 0,
+    "location_text": "Article: Conditional Independence ",
+    "location_type": "wiki"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pet0bu34j3"
+}

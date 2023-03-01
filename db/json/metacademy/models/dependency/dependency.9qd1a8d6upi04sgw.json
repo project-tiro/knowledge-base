@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "upi04sgw",
+    "last_mod": "2014-08-29T00:45:15.505Z",
+    "ordering": 0,
+    "target_goals": ["56pq15pgyqr", "5sng8d36ic6", "n57p5lwgbpd", "tb5m0bt2gj8"],
+    "source_goals": ["4cgc1ll3rwz", "k8j9zqs1pz4", "sciukb923a9"],
+    "source": "9qd1a8d6",
+    "reason": "Finding strongly connected components is an algorithmic problem on graphs"
+  },
+  "model": "graph.dependency",
+  "pk": "9qd1a8d6upi04sgw"
+}

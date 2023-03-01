@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "annealed importance sampling",
+    "pointers": "* AIS is commonly used to  [estimate the partition function](ais_partition_function)  of a probabilistic model.\n*  [Tempered transitions](tempered_transitions)  is another MCMC algorithm based on modifying the target distribution.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.4752855446497526,
+    "summary": "Annealed importance sampling (AIS) is a Monte Carlo algorithm based on sampling from a sequence of distributions which interpolate between a tractable initial distribution and the intractable target distribution. It returns a set of weighted samples, and in the limit of infinitely many intermediate distributions, the variance of the weights approahces zero. The most common use is in estimating partition functions.\n",
+    "last_mod": "2014-08-30T21:41:27.087Z",
+    "tag": "annealed_importance_sampling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "lu4k1pqo"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "stack",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 2.10276003729032,
+    "summary": "A stack is an abstract data type which supports two operations in constant time: pushing (inserting an element on top) and popping (removing the top element). It can be implemented as an array or as a linked list. ",
+    "last_mod": "2014-09-14T16:31:19.980Z",
+    "tag": "stack",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "0wxbs715"
+}

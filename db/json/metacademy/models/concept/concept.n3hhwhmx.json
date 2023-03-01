@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "vector fields",
+    "pointers": "* The  [gradient](gradient)  of a function is a common example of a vector field.\n* Some operations which can be applied to vector fields:\n**  [line integrals](line_integrals)\n**  [surface integrals](surface_integrals)",
+    "tags": ["mvcalc"],
+    "learn_time": 0.8597961828601907,
+    "summary": "A vector field is a function associating a vector with each point. Common examples include flow fields, force fields, and gradients of functions.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "vector_fields",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "n3hhwhmx"
+}

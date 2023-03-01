@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Be able to formulate a CSP to model a problem",
+    "concept": "jo8tm547",
+    "last_mod": "2014-11-08T21:43:38.736Z"
+  },
+  "model": "graph.goal",
+  "pk": "90y9mx6063z"
+}

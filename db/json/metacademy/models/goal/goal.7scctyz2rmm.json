@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand what happens when you declare a multidimensional array, and why this is different from the pointers-to-pointers situation",
+    "concept": "z4efgcsu",
+    "last_mod": "2014-09-07T03:48:54.731Z"
+  },
+  "model": "graph.goal",
+  "pk": "7scctyz2rmm"
+}

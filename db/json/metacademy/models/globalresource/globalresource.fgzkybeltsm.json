@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Video lectures for a course on neural nets (course page is in French, but lectures are in English)",
+    "version_num": 0,
+    "title": "University of Montreal IFT725: Reseaux Neuroneaux",
+    "url": "http://www.dmi.usherb.ca/~larocheh/cours/ift725_A2014/contenu.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-21T01:46:08.576Z",
+    "authors": "[u'Hugo Larochelle']",
+    "edition_years": "[]",
+    "resource_type": "video lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "fgzkybeltsm"
+}

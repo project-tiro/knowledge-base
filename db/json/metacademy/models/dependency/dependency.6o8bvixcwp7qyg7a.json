@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wp7qyg7a",
+    "last_mod": "2014-08-30T21:34:00.455Z",
+    "ordering": -1,
+    "target_goals": ["1o435flepfd", "3xxr3mklnsw", "t37jqu61vih", "tgsbsdyc7vt"],
+    "source_goals": ["7j1zifs4o1u", "nalihqciovl"],
+    "source": "6o8bvixc",
+    "reason": "The test involves second derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "6o8bvixcwp7qyg7a"
+}

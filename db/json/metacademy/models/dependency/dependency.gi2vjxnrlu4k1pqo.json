@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lu4k1pqo",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 898,
+    "target_goals": ["l0dyitdtie", "lprjwhir62", "tklfgk2joc"],
+    "source_goals": [],
+    "source": "gi2vjxnr",
+    "reason": "AIS is often used to estimate the partition function."
+  },
+  "model": "graph.dependency",
+  "pk": "gi2vjxnrlu4k1pqo"
+}

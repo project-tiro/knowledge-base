@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "jnw8a0ar",
+    "last_mod": "2014-08-30T21:34:01.038Z",
+    "ordering": -1,
+    "target_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The Gaussian distribution is parameterized in terms of expected value and variance."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpjnw8a0ar"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for a differential geometry course",
+    "version_num": 0,
+    "title": "Australian National University lecture notes on differential geometry",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T15:05:45.859Z",
+    "authors": "[u'Ben Andrews']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "fdihiv0jqhn"
+}

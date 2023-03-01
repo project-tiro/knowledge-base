@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multinomial distribution",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.6170444108156208,
+    "summary": "The multinomial distribution is a generalization of the binomial distribution to the case where each of the events may take on more than two possible values.\n",
+    "last_mod": "2014-08-30T18:18:12.060Z",
+    "tag": "multinomial_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2g7ee7t1"
+}

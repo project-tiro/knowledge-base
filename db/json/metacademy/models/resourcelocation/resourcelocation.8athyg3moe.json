@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "l679d9gt3g",
+    "ordering": 1,
+    "location_text": " Section 6.2, \"The binomial distribution,\" pages 136-139",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8athyg3moe"
+}

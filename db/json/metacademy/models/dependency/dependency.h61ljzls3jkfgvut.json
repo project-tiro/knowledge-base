@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3jkfgvut",
+    "last_mod": "2014-09-13T22:52:57.953Z",
+    "ordering": -1,
+    "target_goals": ["0xmtydbomrn", "gy7h03xmy8h", "sm8ub57gget", "t9ys5m7ms1n", "ujhtyuuw9ff", "uv3mdz60oz5"],
+    "source_goals": ["ca1dxgeox14", "g5nwv2sqkuo", "npnmcms5kfy", "t0dwo2e388m"],
+    "source": "h61ljzls",
+    "reason": "An iterator is an abstract data type"
+  },
+  "model": "graph.dependency",
+  "pk": "h61ljzls3jkfgvut"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Know what test-driven development refers to, and why it can be beneficial (compared to writing tests at the very end)",
+    "concept": "tz6a7wf6",
+    "last_mod": "2014-09-13T21:14:29.164Z"
+  },
+  "model": "graph.goal",
+  "pk": "nmllij7rad1"
+}

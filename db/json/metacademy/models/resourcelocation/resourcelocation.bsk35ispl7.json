@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "h2ggdkqv5c",
+    "ordering": 0,
+    "location_text": "Section 1.4, \"Linear transformations and matrix algebra,\" pages 23-38",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bsk35ispl7"
+}

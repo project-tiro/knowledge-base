@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6luscvfb",
+    "last_mod": "2014-08-30T18:39:38.283Z",
+    "ordering": -1,
+    "target_goals": ["233c7ku8tgc", "lu2e7fgkjye", "v512fpb3iz7"],
+    "source_goals": ["5ehkkueeje", "9uphvxs2zn", "dhv091we5g", "r51au6tf21"],
+    "source": "7sdn50ks",
+    "reason": "The Poisson distribution is a limiting case of the binomial distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "7sdn50ks6luscvfb"
+}

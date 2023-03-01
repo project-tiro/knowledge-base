@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T15:09:04.964Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=39",
+    "cresource": "fu7t27sa83k",
+    "ordering": -1,
+    "location_text": "Section 6.2, \"Partitions of unity,\" pages 39-41",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "t76dswl1g9l"
+}

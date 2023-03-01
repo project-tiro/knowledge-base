@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:54:36.999Z",
+    "url": "http://www.cs.toronto.edu/~mbrubake/teaching/C11-Fall2014/Handouts/NonlinearRegression.pdf#page=3",
+    "cresource": "zbmpo7wyi4q",
+    "ordering": -1,
+    "location_text": "Lecture 3, \"Nonlinear regression,\" Section 2, \"Overfitting and regularization,\" pages 3-5",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f1l9bxvr65e"
+}

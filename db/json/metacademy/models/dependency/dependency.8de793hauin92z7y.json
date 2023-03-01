@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uin92z7y",
+    "last_mod": "2014-08-30T21:34:00.536Z",
+    "ordering": 268,
+    "target_goals": ["6yd2b1rq6i"],
+    "source_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source": "8de793ha",
+    "reason": "Gaussian elimination is used to compute the nullspace."
+  },
+  "model": "graph.dependency",
+  "pk": "8de793hauin92z7y"
+}

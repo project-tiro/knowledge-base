@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wljagdyu",
+    "last_mod": "2014-08-30T21:34:01.281Z",
+    "ordering": 935,
+    "target_goals": ["3v7juo8hji", "r990u1ofcg", "up49dw94w8", "yv5z3mt04u"],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "The statement of Green's Theorem requires a multiple integral."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z3wljagdyu"
+}

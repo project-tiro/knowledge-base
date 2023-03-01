@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/intrologic-004/lecture/58",
+    "cresource": "nkuw7mugzq",
+    "ordering": 0,
+    "location_text": "Lecture sequence \"Induction\" ",
+    "location_type": "online course"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xo3iyk24j7"
+}

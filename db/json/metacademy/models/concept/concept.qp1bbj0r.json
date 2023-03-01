@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "fitting logistic regression with iterative reweighted least squares",
+    "pointers": "* While Newton's method is very fast for small scale problems, it doesn't scale very well.\n** For large numbers of features, consider  [quasi-Newton methods](quasi_newton_methods) .\n** For large numbers of data points, consider  [stochastic gradient descent](stochastic_gradient_descent) .",
+    "tags": ["machinelearning"],
+    "learn_time": 0.4945196668707854,
+    "summary": "One way of fitting logistic regression is using Newton's method. This winds up having an intuitive form, where each update takes the form of a linear regression problem and the data points are all assigned weights depending how far they are from the decision boundary.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "logistic_regression_irls",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qp1bbj0r"
+}

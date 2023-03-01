@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Why is gradient descent not guaranteed to find the global optimum?",
+    "concept": "zlyqzsgn",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "v6egxrlebf"
+}

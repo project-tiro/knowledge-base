@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T19:59:26.375Z",
+    "url": "",
+    "cresource": "6yknjn9ffaj",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Data abstraction,\" up through 5.4, \"Additional methods\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5spgxxf5dvl"
+}

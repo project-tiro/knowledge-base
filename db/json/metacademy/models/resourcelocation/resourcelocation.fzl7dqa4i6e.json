@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T20:50:28.658Z",
+    "url": "",
+    "cresource": "7uojhsvn6vl",
+    "ordering": -1,
+    "location_text": "Chapter 19, \"B-trees,\" pages 381-397",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fzl7dqa4i6e"
+}

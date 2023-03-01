@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lovafu4k",
+    "last_mod": "2014-08-31T15:26:22.279Z",
+    "ordering": 319,
+    "target_goals": ["10bqkwu5e1", "kanjddqi3k", "ofi8a13b9s", "q0x87rjfh6"],
+    "source_goals": ["m8nx4zatadu", "nte8w095vsl"],
+    "source": "gvp31pbp",
+    "reason": "The tests require computing variances."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbplovafu4k"
+}

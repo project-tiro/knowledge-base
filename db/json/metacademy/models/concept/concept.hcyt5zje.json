@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "regular languages",
+    "pointers": "",
+    "tags": ["theorycomp"],
+    "learn_time": 2.1189930761508813,
+    "summary": "A regular language is a formal language which can be defined using a regular expression. Equivalently, it is a language definable as the set of strings accepted by some finite automaton, either deterministic or nondeterministic. ",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "regular_languages",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "hcyt5zje"
+}

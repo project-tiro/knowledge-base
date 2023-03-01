@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Brief notes on the Fisher information matrix",
+    "version_num": 0,
+    "title": "Information Matrix",
+    "url": "http://faculty.psy.ohio-state.edu/myung/personal/info_matrix.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T15:57:17.522Z",
+    "authors": "[u'Jay I. Myung', u'Daniel J. Navarro']",
+    "edition_years": "[]",
+    "resource_type": "notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "tz86efrc5ak"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kj19sehg",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 222,
+    "target_goals": ["2ryob15rvp", "6iva8sz6cc", "877wwgikft", "iqyj8o2k8y", "x0ql3gpz68", "y39quhmvql"],
+    "source_goals": ["m1kmygeblv", "p6e6v59le5", "stjcb1kgbq", "xwi3elf0qc"],
+    "source": "lprnbl8i",
+    "reason": "Line integrals are independent of the path for a conservative vector field."
+  },
+  "model": "graph.dependency",
+  "pk": "lprnbl8ikj19sehg"
+}

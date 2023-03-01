@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Be aware of a pitfall of using Newton's method for nonconvex problems: it looks for critical points, not (local) minima",
+    "concept": "o7nh4u08",
+    "last_mod": "2014-11-19T03:09:41.808Z"
+  },
+  "model": "graph.goal",
+  "pk": "75p6dip70tt"
+}

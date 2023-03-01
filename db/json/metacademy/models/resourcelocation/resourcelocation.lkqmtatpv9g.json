@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:15:29.726Z",
+    "url": "",
+    "cresource": "pzjrbqov24b",
+    "ordering": -1,
+    "location_text": "Read about one of the frameworks under \"Language-level unit testing support\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lkqmtatpv9g"
+}

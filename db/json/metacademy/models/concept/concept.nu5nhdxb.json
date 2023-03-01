@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "complex numbers",
+    "pointers": null,
+    "tags": [],
+    "learn_time": 1.8438767172968566,
+    "summary": "Complex numbers are numbers expressible as a + bi, where i^2 = -1. They are often more convenient to work with than real numbers, because all complex (and hence all real) polynomials of degree n have n complex roots. Many trigonometric identities can be derived more simply using complex numbers.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "complex_numbers",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "nu5nhdxb"
+}

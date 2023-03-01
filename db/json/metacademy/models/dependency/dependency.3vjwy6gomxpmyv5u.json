@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mxpmyv5u",
+    "last_mod": "2014-08-31T15:49:35.338Z",
+    "ordering": 633,
+    "target_goals": ["abo3nbpsbm", "iae14vnjvk", "jvow28bvkl", "m15n6xggsj", "u843rt5bzx", "z66edo7cna"],
+    "source_goals": ["rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "Covariance is defined in terms of a multivariate PMF or PDF."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6gomxpmyv5u"
+}

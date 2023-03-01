@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sfej953s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["00ly5d3w9s8", "cxtqs128z3y", "g0blfko8cnx", "ju5uzzf9k3a", "qhc9m667iep", "rrtelxdgnet"],
+    "source_goals": ["45td3egk7bh", "bpyms6ol6vi", "r9lqp06q88h", "wrv9crvz14w"],
+    "source": "4h25sdwl",
+    "reason": "Integration is defined on oriented manifolds"
+  },
+  "model": "graph.dependency",
+  "pk": "4h25sdwlsfej953s"
+}

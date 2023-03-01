@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uyuyaft6",
+    "last_mod": "2014-08-30T21:34:00.613Z",
+    "ordering": -1,
+    "target_goals": ["5ve8dndtvbr", "6m6uzvgsz1w", "bdj7hg35oyz", "h6usr6ecjwn", "o9xgn14pyq1"],
+    "source_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source": "9i78wog3",
+    "reason": "The Viterbi algorithm is an algorithm for HMM inference."
+  },
+  "model": "graph.dependency",
+  "pk": "9i78wog3uyuyaft6"
+}

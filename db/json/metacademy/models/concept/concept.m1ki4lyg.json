@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "well orderings",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 0.7096659943653544,
+    "summary": "A total ordering R on a set S is a well ordering if every subset of S has a smallest element. Well orderings are important because one can use a generalization of mathematical induction known as transfinite induction. The canonical example is the ordinal numbers.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "well_orderings",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m1ki4lyg"
+}

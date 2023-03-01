@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:02.513Z",
+    "ordering": 4,
+    "target_goals": ["a9csgloznzv"],
+    "source_goals": ["sfqm8ovzrar", "tp7vcx0o4po"],
+    "source": "75bzyvan",
+    "reason": "Depth first search can be implemented using recursive backtracking"
+  },
+  "model": "graph.dependency",
+  "pk": "75bzyvancqpveand"
+}

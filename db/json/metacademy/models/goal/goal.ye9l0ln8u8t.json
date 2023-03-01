@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the limit of a sum/product is the sum/product of the limits",
+    "concept": "vxncdcer",
+    "last_mod": "2014-08-30T17:18:44.756Z"
+  },
+  "model": "graph.goal",
+  "pk": "ye9l0ln8u8t"
+}

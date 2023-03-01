@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ummxprtk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 573,
+    "target_goals": ["qhvsd06flf", "urbyxx9vei", "vwb4txlsn8"],
+    "source_goals": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "source": "o4lo1hx5",
+    "reason": "The function being optimized must be convex."
+  },
+  "model": "graph.dependency",
+  "pk": "o4lo1hx5ummxprtk"
+}

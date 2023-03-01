@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory course on automata and the theory of computation.",
+    "version_num": 0,
+    "title": "Coursera: Automata",
+    "url": "https://class.coursera.org/automata/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Jeffrey D. Ullman']",
+    "edition_years": "[]",
+    "resource_type": "online course"
+  },
+  "model": "graph.globalresource",
+  "pk": "2b0vufivcx1"
+}

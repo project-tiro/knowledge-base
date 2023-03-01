@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Be able to compute the volume of a prism using the dot product and cross product",
+    "concept": "m9v3pvr7",
+    "last_mod": "2014-08-31T15:52:06.926Z"
+  },
+  "model": "graph.goal",
+  "pk": "y3om6vj7qt"
+}

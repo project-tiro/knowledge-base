@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=88",
+    "cresource": "ub8g9j58cy",
+    "ordering": 1,
+    "location_text": "Section 3.4.3, \"Discussion: subset selection, ridge regression, and the Lasso,\" pages 69-73 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q8vq26p14n"
+}

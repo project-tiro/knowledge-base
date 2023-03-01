@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gl5fz2vi",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 468,
+    "target_goals": [],
+    "source_goals": ["2tbmh765j9", "4xvesb4stg", "63z6457tuo", "vqabgtkbjy"],
+    "source": "nu5nhdxb",
+    "reason": "The roots may be complex valued."
+  },
+  "model": "graph.dependency",
+  "pk": "nu5nhdxbgl5fz2vi"
+}

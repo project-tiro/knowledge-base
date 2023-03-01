@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T20:56:29.982Z",
+    "url": "",
+    "cresource": "dz98mvliocd",
+    "ordering": -1,
+    "location_text": "Section 3.1, \"Step length,\" pages 31-37",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rqs62177ecr"
+}

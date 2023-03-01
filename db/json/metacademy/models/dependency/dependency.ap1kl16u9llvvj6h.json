@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9llvvj6h",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 153,
+    "target_goals": ["eujxmysv5a", "fgkoge6z94", "psdzdy55fv", "uafaqerbyg", "yoms67opr7"],
+    "source_goals": ["0poc7m2e6u", "0uvdjfjjuh", "hkhcwgeieh", "q8heyrr9kp"],
+    "source": "ap1kl16u",
+    "reason": "Sets of different cardinalities are constructed using various set operations."
+  },
+  "model": "graph.dependency",
+  "pk": "ap1kl16u9llvvj6h"
+}

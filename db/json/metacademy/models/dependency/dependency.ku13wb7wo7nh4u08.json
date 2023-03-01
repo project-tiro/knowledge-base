@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T20:16:32.049Z",
+    "ordering": -1,
+    "target_goals": ["ptig1jtq02g"],
+    "source_goals": ["0e4vey24wa0", "2gw3zpuh5pc", "i4pp41euycc", "td05a2545is"],
+    "source": "ku13wb7w",
+    "reason": "The analysis of Newton's method is based on the analysis of gradient descent"
+  },
+  "model": "graph.dependency",
+  "pk": "ku13wb7wo7nh4u08"
+}

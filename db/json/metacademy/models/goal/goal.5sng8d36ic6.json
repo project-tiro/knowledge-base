@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how the strongly connected components can be found using two depth-first searches",
+    "concept": "upi04sgw",
+    "last_mod": "2014-08-29T00:47:24.481Z"
+  },
+  "model": "graph.goal",
+  "pk": "5sng8d36ic6"
+}

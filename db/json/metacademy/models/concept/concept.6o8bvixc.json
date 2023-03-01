@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "higher-order partial derivatives",
+    "pointers": "* The single-dimensional Taylor approximations can be  [generalized to the multivariate case](taylor_approximations) .",
+    "tags": ["mvcalc"],
+    "learn_time": 0.9481828008137371,
+    "summary": "When we take partial derivatives of partial derivatives, we get what are known as higher-order partial derivatives. This can describe local properties of a function which aren't captured by the first-order approximation. \n",
+    "last_mod": "2014-08-30T03:36:29.992Z",
+    "tag": "higher_order_partial_derivatives",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6o8bvixc"
+}

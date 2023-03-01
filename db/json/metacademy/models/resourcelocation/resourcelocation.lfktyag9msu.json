@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:13:08.532Z",
+    "url": "http://introcs.cs.princeton.edu/java/43stack/",
+    "cresource": "ofol51yjz4r",
+    "ordering": -1,
+    "location_text": "Section 4.3, \"Stacks and queues,\" up through \"List traversal\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "lfktyag9msu"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* The nonparametric bootstrap introduces two sources of error: using the empirical distribution as a proxy for the true distribution, and repeatedly simulating from the empirical distribution. Which of these would you expect to be a larger source of error?",
+    "concept": "u638jbmo",
+    "last_mod": "2014-09-14T21:51:50.730Z"
+  },
+  "model": "graph.goal",
+  "pk": "8gbauivtgd"
+}

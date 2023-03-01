@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o6tpqkx0",
+    "last_mod": "2014-09-19T16:33:29.477Z",
+    "ordering": -1,
+    "target_goals": ["3cs1m0ttas2", "9ytkpz30fs3", "ejwds91a89z", "j01f7tv6etg", "k3svrb57hnn"],
+    "source_goals": ["g2wwj0l8iw", "m5gk40guop"],
+    "source": "djpu1udn",
+    "reason": "The Fisher metric can be represented in terms of a covariance"
+  },
+  "model": "graph.dependency",
+  "pk": "djpu1udno6tpqkx0"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/2.-partial-derivatives/part-b-chain-rule-gradient-and-directional-derivatives/session-34-the-chain-rule-with-more-variables",
+    "cresource": "e1d7hkiyzf",
+    "ordering": 2,
+    "location_text": "Session 34, \"The chain rule with more variables\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "c1ou9yz2ie"
+}

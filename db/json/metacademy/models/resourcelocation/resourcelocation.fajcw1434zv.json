@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T21:45:58.893Z",
+    "url": "https://class.coursera.org/algo-004/lecture/64",
+    "cresource": "6h48d9qvja9",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Hashing: the basics\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fajcw1434zv"
+}

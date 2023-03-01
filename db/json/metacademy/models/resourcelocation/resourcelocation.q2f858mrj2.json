@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "pv31eclyga",
+    "ordering": 0,
+    "location_text": "Section 9.4, \"The Spectral Theorem,\" pages 455-463",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q2f858mrj2"
+}

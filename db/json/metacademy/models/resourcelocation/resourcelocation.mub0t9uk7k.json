@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "cil924k6v2",
+    "ordering": 0,
+    "location_text": "Section 3.2.2-3.2.3, pages 43-45",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mub0t9uk7k"
+}

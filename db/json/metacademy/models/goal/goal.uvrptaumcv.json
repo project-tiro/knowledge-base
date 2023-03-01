@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Show that a function is recursive iff it is computable (by some Turing-complete formalism)",
+    "concept": "068x3j1s",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "uvrptaumcv"
+}

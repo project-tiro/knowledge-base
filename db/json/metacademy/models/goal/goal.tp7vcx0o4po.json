@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to implement recursive backtracking to solve search problems",
+    "concept": "75bzyvan",
+    "last_mod": "2014-11-13T03:35:28.137Z"
+  },
+  "model": "graph.goal",
+  "pk": "tp7vcx0o4po"
+}

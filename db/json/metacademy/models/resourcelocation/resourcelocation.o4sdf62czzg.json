@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:14:01.771Z",
+    "url": "",
+    "cresource": "38o69u7bck5",
+    "ordering": -1,
+    "location_text": "Section 10.7, \"Unit and integration testing\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "o4sdf62czzg"
+}

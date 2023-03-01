@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xa9pvisu",
+    "last_mod": "2014-08-30T20:16:03.972Z",
+    "ordering": -1,
+    "target_goals": ["8z7po8mscoq", "hilizkf6tui", "tudpch1dz08", "xlh5s08y6oj"],
+    "source_goals": ["5i1j83rvalq", "7i8gi9218kn", "c927npzmp8k", "f9e2826q69z"],
+    "source": "kquxsbij",
+    "reason": "Unitary matrices are characterized in terms of the eigenvalues having unit norm."
+  },
+  "model": "graph.dependency",
+  "pk": "kquxsbijxa9pvisu"
+}

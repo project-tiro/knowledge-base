@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Probabilistic Latent Semantic Indexing",
+    "url": "http://cs.brown.edu/~th/papers/Hofmann-SIGIR99.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Thomas Hoffman']",
+    "edition_years": null,
+    "resource_type": "research paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "d2x2awmq5q"
+}

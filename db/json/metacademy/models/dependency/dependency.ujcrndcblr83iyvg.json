@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lr83iyvg",
+    "last_mod": "2014-08-30T21:34:01.926Z",
+    "ordering": 384,
+    "target_goals": ["6mfkdu2n9n", "rstg5clahw"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Finding the optimal solution requires solving an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcblr83iyvg"
+}

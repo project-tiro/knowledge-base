@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "mutual information",
+    "pointers": "* Mutual information can also be  [defined](mutual_information_and_kl_divergence)  in terms of  [KL divergence](kl_divergence) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.8171622551792044,
+    "summary": "Mutual information is a measure of the amount of information one random variable conveys about another. It is one of the fundamental quantities of information theory, and determines the rate at which information can be conveyed over a noisy channel.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "mutual_information",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vg0jaqar"
+}

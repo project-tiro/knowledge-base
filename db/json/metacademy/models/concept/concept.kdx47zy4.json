@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Kalman smoother",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Kalman smoothing is a posterior inference algorithm for linear dynamical systems (LDSs). It computes posterior marginals for all time steps conditioned on all of the observations. It is used in parameter learning for LDSs.\n",
+    "last_mod": "2014-08-30T17:05:26.517Z",
+    "tag": "kalman_smoother",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "kdx47zy4"
+}

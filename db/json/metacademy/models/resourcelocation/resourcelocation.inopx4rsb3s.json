@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-19T03:36:14.093Z",
+    "url": "http://ufldl.stanford.edu/wiki/index.php/Gradient_checking_and_advanced_optimization",
+    "cresource": "9421fauosoi",
+    "ordering": -1,
+    "location_text": "Section \"Gradient checking and advanced optimization\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "inopx4rsb3s"
+}

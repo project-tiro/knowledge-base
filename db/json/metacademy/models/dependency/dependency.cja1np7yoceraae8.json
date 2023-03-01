@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "oceraae8",
+    "last_mod": "2014-09-07T00:37:24.233Z",
+    "ordering": -1,
+    "target_goals": ["1e466c8p86n", "mh4c58qqag7", "qvkjpqabza4"],
+    "source_goals": [
+      "beqfwlsw6i2",
+      "iqpaa4zfwp1",
+      "j56eqohb5u3",
+      "pea3zehtd5i",
+      "rvzizzum6j3",
+      "vr9fejke412",
+      "w4elk3y5teg"
+    ],
+    "source": "cja1np7y",
+    "reason": "A function pointer is a kind of pointer"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7yoceraae8"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-06T22:00:54.428Z",
+    "url": "https://courses.edx.org/courses/HarvardX/CS50x/2014_T1/courseware/bbb733f5fdb743bc96e16af8ce7ce46a/a7552b3c65d6483c8308944cc7710045/",
+    "cresource": "gvqpvxcbmjn",
+    "ordering": -1,
+    "location_text": "Week 4: \"Lecture, continued\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qk2p09z26g5"
+}

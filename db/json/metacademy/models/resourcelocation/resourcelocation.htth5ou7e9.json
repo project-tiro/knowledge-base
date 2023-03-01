@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://linear.ups.edu/html/section-MISLE.html",
+    "cresource": "rr9nwxmwfl",
+    "ordering": 0,
+    "location_text": "Section \"Matrix inverses and systems of linear equations,\" subsection \"Computing the inverse of a matrix\" ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "htth5ou7e9"
+}

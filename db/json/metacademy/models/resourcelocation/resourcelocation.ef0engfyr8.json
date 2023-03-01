@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/",
+    "cresource": "4cjgeax68c",
+    "ordering": 0,
+    "location_text": "Lecture \"Complex matrices: fast Fourier transform,\" from 12:00 to 16:30 ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ef0engfyr8"
+}

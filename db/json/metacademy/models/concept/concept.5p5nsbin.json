@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Fisher information matrix",
+    "pointers": "* Fisher information matrices can be used to analyze the  [asymptotics of maximum likelihood estimation](asymptotics_of_maximum_likelihood) .",
+    "tags": ["freqstats"],
+    "learn_time": 0.5561603521842993,
+    "summary": "The Fisher information matrix is a generalization of Fisher information to distributions with multiple parameters. Roughly speaking, it determines the amount that observing a sample from the distribution constrains the parameters in any given direction. \n",
+    "last_mod": "2014-10-11T21:33:16.158Z",
+    "tag": "fisher_information_matrix",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "5p5nsbin"
+}

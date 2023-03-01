@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:00:59.676Z",
+    "url": "",
+    "cresource": "loogfjlodwp",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Solving problems by searching,\" up through 3.2, \"Example problems,\" pages 59-68",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ywmkagujnel"
+}

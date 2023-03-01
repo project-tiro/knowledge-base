@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "lower bound on sorting",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 0.4223269466007192,
+    "summary": "It can be shown that any general purpose sorting algorithm, i.e. one which uses only comparisons, requires at least O(n log n) operations in the worst case. This motivates the need for special purpose sorting algorithms which exploit additional problem structure.",
+    "last_mod": "2014-08-27T17:27:27.686Z",
+    "tag": "lower_bound_on_sorting",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "8fe71xe9"
+}

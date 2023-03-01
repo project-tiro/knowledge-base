@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "The standard reference for the C programming language",
+    "version_num": 0,
+    "title": "The C Programming Language",
+    "url": "http://www.amazon.com/The-Programming-Language-2nd-Edition/dp/0131103628",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-09-07T00:31:02.311Z",
+    "authors": "[u'Brian W. Kernighan', u'Dennis Ritchie']",
+    "edition_years": "[]",
+    "resource_type": "reference"
+  },
+  "model": "graph.globalresource",
+  "pk": "ois4n53wz8h"
+}

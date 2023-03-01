@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090113.pdf#page=581",
+    "cresource": "c0umykh9se",
+    "ordering": 0,
+    "location_text": "Section 27.5.3, \"Slice sampling,\" pages 557-558 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wg5jc8452g"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "feed-forward neural nets",
+    "pointers": "* Neural nets are a form of  [distributed representation](distributed_representations) .\n* Neural nets can be trained using an algorithm called  [backpropagation](backpropagation) .\n* Some examples of neural net architectures:\n**  [convolutional nets](convolutional_nets) , an architecture for vision problems where the weights are replicated across an image\n**  [Boltzmann machines](boltzmann_machines) , a kind of neural net used for density modeling\n**  [deep belief nets](deep_belief_nets) , which are used for learning multilayer representations\n**  [recurrent neural nets](recurrent_neural_nets) , which implement a form of memory over time\n* The field of  [deep learning](deep_learning)  studies how to automatically construct features using deep neural nets.\n*  [Connectionist psychology](connectionist_psychology)  uses neural nets to model human cognition.\n* We can theoretically analyze the  [representational capacity of neural nets](representational_capacity_of_neural_nets) .",
+    "tags": ["machinelearning"],
+    "learn_time": 1.5862693059797899,
+    "summary": "Feed-forward neural networks are a supervised learning architecture consisting of a set of neuron-like \"units,\" each one of which computes a simple function of its inputs. Because layers of such neurons can be stacked, neural nets are capable of learning complex nonlinear functions of the inputs.  \n",
+    "last_mod": "2014-09-21T01:21:54.006Z",
+    "tag": "feed_forward_neural_nets",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "m9abwewv"
+}

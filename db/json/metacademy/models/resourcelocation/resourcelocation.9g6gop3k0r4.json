@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:02:16.516Z",
+    "url": "",
+    "cresource": "a9q90hjxvz",
+    "ordering": -1,
+    "location_text": "Chapter 4, \"Informed search and exploration,\" up through 4.2, \"Heuristic functions,\" pages 94-110",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9g6gop3k0r4"
+}

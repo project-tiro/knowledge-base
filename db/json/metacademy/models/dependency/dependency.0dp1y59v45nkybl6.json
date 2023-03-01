@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "45nkybl6",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 68,
+    "target_goals": ["fwexm4f7g6", "yd910p3481"],
+    "source_goals": [],
+    "source": "0dp1y59v",
+    "reason": "Bagging is a method for improving generalization."
+  },
+  "model": "graph.dependency",
+  "pk": "0dp1y59v45nkybl6"
+}

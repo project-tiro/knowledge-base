@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf#page=9",
+    "cresource": "u6fybtmnu3",
+    "ordering": 0,
+    "location_text": "Section 3, \"Partially, totally, and well ordered sets,\" pages 9-13 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "j7vcidaknr"
+}

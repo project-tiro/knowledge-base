@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://cs229.stanford.edu/notes/cs229-notes1.pdf#page=11",
+    "cresource": "i2xki07f32",
+    "ordering": 0,
+    "location_text": "Chapter 1 Section 3 ``Probabilistic interpretation\" ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "so0i7i9fjb"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wp7qyg7a",
+    "last_mod": "2014-10-11T21:34:00.946Z",
+    "ordering": -1,
+    "target_goals": ["1o435flepfd", "3xxr3mklnsw", "t37jqu61vih", "tgsbsdyc7vt"],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "If the matrix is positive definite, then the point is a local minimum."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7wp7qyg7a"
+}

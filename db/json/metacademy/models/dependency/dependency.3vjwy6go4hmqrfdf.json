@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4hmqrfdf",
+    "last_mod": "2014-08-30T21:34:00.314Z",
+    "ordering": 602,
+    "target_goals": ["b6r1057k16", "dpuh82l4t6"],
+    "source_goals": ["0dn5y4a30ff", "bj7m9mcr2q8", "f3qgin4eljt", "rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "Factor analysis defines a joint distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6go4hmqrfdf"
+}

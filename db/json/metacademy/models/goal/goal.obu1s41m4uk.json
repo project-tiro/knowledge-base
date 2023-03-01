@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 6,
+    "text": "Show that the wedge product is natural, i.e. commutes with pullback",
+    "concept": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:41:43.024Z"
+  },
+  "model": "graph.goal",
+  "pk": "obu1s41m4uk"
+}

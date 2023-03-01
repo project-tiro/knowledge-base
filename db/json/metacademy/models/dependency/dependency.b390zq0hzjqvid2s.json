@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zjqvid2s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 370,
+    "target_goals": [],
+    "source_goals": ["4mjb1dlm54", "4n0u0b3sdo", "uyspc07txs", "xntiq9ywo6"],
+    "source": "b390zq0h",
+    "reason": "The optimization criterion is based on Bayesian model comparison."
+  },
+  "model": "graph.dependency",
+  "pk": "b390zq0hzjqvid2s"
+}

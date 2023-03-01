@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear transformations as matrices",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 3.2258565723270105,
+    "summary": "Linear transformations from one vector space to another can be represented as matrices if a basis is given for each space. Common examples include projections, reflections, rotations, and scaling. Linear combinations, compositions and inverses of transformations can be analyzed in terms of matrix operations.\n",
+    "last_mod": "2014-08-30T17:33:48.308Z",
+    "tag": "linear_transformations_as_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "frmn5lqo"
+}

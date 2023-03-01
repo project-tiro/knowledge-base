@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oz9fppum",
+    "last_mod": "2014-08-30T21:34:01.577Z",
+    "ordering": 720,
+    "target_goals": [],
+    "source_goals": ["cc8kerabea2", "zyjqwgpxjuz"],
+    "source": "ndwscpao",
+    "reason": "Soft weight sharing is based on mixture of Gaussians models."
+  },
+  "model": "graph.dependency",
+  "pk": "ndwscpaooz9fppum"
+}

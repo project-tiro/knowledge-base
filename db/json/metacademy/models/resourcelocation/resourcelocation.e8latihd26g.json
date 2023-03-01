@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-19T03:11:27.462Z",
+    "url": "",
+    "cresource": "tyqphbxls6",
+    "ordering": -1,
+    "location_text": "Section 10.3, \"Algorithms for nonlinear least-squares problems,\" subsection \"The Gauss-Newton method,\" pages 254-255",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "e8latihd26g"
+}

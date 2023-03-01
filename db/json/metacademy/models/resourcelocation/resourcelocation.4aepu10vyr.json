@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "5k0z71vbfr",
+    "ordering": 1,
+    "location_text": "Lecture \"Limiting the size of the weights\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4aepu10vyr"
+}

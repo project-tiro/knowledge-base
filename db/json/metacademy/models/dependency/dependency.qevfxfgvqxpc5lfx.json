@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qxpc5lfx",
+    "last_mod": "2014-08-30T21:34:01.644Z",
+    "ordering": -1,
+    "target_goals": ["7qn1hcnhgzu", "8p9kbv8owsl", "nu0fycw97ey", "x8opko7ruan"],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "The optimization variables in the dual problem are the Lagrange multipliers."
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgvqxpc5lfx"
+}

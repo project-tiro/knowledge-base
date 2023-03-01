@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "pushdown automata",
+    "pointers": "",
+    "tags": ["theorycomp"],
+    "learn_time": 2.6002311040484125,
+    "summary": "Pushdown automata are a simple model of computation where the memory consists of an (unbounded) stack of symbols. Nondeterministic pushdown automata are equivalent in expressive power to context-free grammars. Deterministic pushdown automata can recognize only a smaller set of languages, but most modern programming languages are recognizable by a deterministic pushdown automaton.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "pushdown_automata",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "6euy9vw3"
+}

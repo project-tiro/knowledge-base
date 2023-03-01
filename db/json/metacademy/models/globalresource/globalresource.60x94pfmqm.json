@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Machine learning - random forests",
+    "url": "http://www.youtube.com/watch?v=3kYujfDgmNk",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Nando de Freitas']",
+    "edition_years": null,
+    "resource_type": "online lecture"
+  },
+  "model": "graph.globalresource",
+  "pk": "60x94pfmqm"
+}

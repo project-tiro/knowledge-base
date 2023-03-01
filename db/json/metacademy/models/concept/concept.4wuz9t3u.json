@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "support vector machine",
+    "pointers": "* If the training set is not linearly separable, the  [soft-margin SVM](soft_margin_svm)  allows for some of the constraints to be violated.\n* The SVM can be optimized with the  [sequential minimal optimization (SMO)](sequential_minimal_optimization)  algorithm.\n* The main advantage of SVMs is that they can be  [kernelized](kernel_svm)  in order to capture nonlinear dependencies.\n* The SVM is  [closely related](svm_vs_logistic_regression)  to  [logistic regression](logistic_regression) , and it is instructive to compare the loss functions.\n* The SVM  [can be justified](statistical_learning_theory_for_svm)  as optimizing a tradeoff between bias and variance.",
+    "tags": ["machinelearning"],
+    "learn_time": 1.2362096199396946,
+    "summary": "The support vector machine (SVM) is a classification algorithm which tries to fit a hyperplane which maximizes the margin, or the smallest distance separating an example from the decision boundary. The main advantage is that SVMs can be kernelized, allowing them to represent complex nonlinear decision boundaries. Conveniently, the kernelized representation only requires explicitly computing kernels with a small fraction of the data points.\n",
+    "last_mod": "2014-09-15T00:12:33.728Z",
+    "tag": "support_vector_machine",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4wuz9t3u"
+}

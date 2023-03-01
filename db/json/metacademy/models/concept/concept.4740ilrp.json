@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "convergence of conjugate gradient",
+    "pointers": "",
+    "tags": ["optimization"],
+    "learn_time": 1.2547952662156785,
+    "summary": "The conjugate gradient algorithm typically isn't run to completion, but is more commonly stopped after a small number of iterations to obtain an approximate solution. If the eigenspectrum of A satisfies certain properties, one can show that CG can find a good approximate solution quickly.\n",
+    "last_mod": "2014-10-20T01:27:56.347Z",
+    "tag": "convergence_of_conjugate_gradient",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "4740ilrp"
+}

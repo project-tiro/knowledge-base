@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf#page=13",
+    "cresource": "afz8wzagel",
+    "ordering": 0,
+    "location_text": "Section 4, \"Ordinals and their basic properties,\" pages 13-19 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d19m6hiyld"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Stokes' Theorem (three dimensions)",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.2162065666683286,
+    "summary": "Stokes' Theorem is a theorem relating a line integral along the boundary of a surface to the integral of curl over the surface. It can be seen as a three-dimensional generalization of Green's Theorem.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "stokes_theorem_three_dimensions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "w62ib36y"
+}

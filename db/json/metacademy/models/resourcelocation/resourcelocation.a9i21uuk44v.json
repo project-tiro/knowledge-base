@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:56:52.513Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-13-breadth-first-search-bfs/",
+    "cresource": "h48wxry6l5z",
+    "ordering": -1,
+    "location_text": "Lecture 13, \"Breadth-first search (BFS),\" starting from 31:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "a9i21uuk44v"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "velhrzh6",
+    "last_mod": "2014-08-27T18:26:05.119Z",
+    "ordering": 2,
+    "target_goals": ["0ukbeeolrvk", "db5xmld5pwg"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the complexity of merge sort"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2velhrzh6"
+}

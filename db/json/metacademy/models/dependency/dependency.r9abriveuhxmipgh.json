@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uhxmipgh",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 206,
+    "target_goals": ["2gkf330rf1", "j7yejwo31z", "p0hyrlascx"],
+    "source_goals": ["9qp76wic48", "dnwj27vy41", "iveawfdam8", "jrwoni3ink"],
+    "source": "r9abrive",
+    "reason": "DBNs are learned in the pre-training step."
+  },
+  "model": "graph.dependency",
+  "pk": "r9abriveuhxmipgh"
+}

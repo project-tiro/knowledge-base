@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Why can the value of the function outside its domain be taken to be infinity?",
+    "concept": "o4lo1hx5",
+    "last_mod": "2014-08-31T15:44:53.207Z"
+  },
+  "model": "graph.goal",
+  "pk": "92ajs6nh73"
+}

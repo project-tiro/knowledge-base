@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "ndwscpao",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "1-online",
+    "additional_dependencies": "[{u'title': u'Bayesian networks'}]",
+    "global_resource": "6wqosv9107"
+  },
+  "model": "graph.conceptresource",
+  "pk": "qr4kpeam3z"
+}

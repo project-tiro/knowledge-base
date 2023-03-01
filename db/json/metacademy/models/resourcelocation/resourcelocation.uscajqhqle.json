@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "92zzgzf5kc",
+    "ordering": 0,
+    "location_text": "Section 15.7, \"Stokes' Theorem,\" pages 1065-1070",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "uscajqhqle"
+}

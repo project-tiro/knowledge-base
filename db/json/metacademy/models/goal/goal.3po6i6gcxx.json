@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* be able to define mathematically: a truth assignment, whether a formula is satisfied",
+    "concept": "iqeem7gj",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "3po6i6gcxx"
+}

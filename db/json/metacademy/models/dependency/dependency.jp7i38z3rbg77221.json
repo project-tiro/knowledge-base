@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "rbg77221",
+    "last_mod": "2014-08-30T21:34:01.277Z",
+    "ordering": 716,
+    "target_goals": [],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "Multiple integrals are needed to compute probabilities associated with continuous multivariate distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z3rbg77221"
+}

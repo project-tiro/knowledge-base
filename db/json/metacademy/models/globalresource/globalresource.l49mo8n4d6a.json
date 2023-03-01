@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free online AI textbook",
+    "version_num": 0,
+    "title": "Artificial Intelligence: Foundations of Computational Agents",
+    "url": "http://artint.info/index.html",
+    "notes": "",
+    "year": 2010,
+    "access": "free",
+    "last_mod": "2014-11-08T22:39:05.107Z",
+    "authors": "[u'David Poole', u'Alan Mackworth']",
+    "edition_years": "[u'']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "l49mo8n4d6a"
+}

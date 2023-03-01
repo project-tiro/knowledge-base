@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:11:04.956Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/lecture-5-binary-search-trees-bst-sort/",
+    "cresource": "nhkqmfa98bp",
+    "ordering": -1,
+    "location_text": "Lecture 5, \"Binary search trees, BST sort\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hnc346ve4tj"
+}

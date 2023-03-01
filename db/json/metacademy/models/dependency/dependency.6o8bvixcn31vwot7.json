@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n31vwot7",
+    "last_mod": "2014-08-30T21:34:00.442Z",
+    "ordering": 11,
+    "target_goals": [],
+    "source_goals": ["7j1zifs4o1u", "nalihqciovl"],
+    "source": "6o8bvixc",
+    "reason": "Second-order Taylor approximations involve second derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "6o8bvixcn31vwot7"
+}

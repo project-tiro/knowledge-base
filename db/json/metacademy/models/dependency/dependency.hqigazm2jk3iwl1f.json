@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:39:26.829Z",
+    "ordering": 3,
+    "target_goals": ["b0srq1kra6", "obu1s41m4uk", "pslm2gzw5d", "wbssblfcja"],
+    "source_goals": ["60do4p8i6dy"],
+    "source": "hqigazm2",
+    "reason": "The volume interpretation of determinants is a motivation for the volume form."
+  },
+  "model": "graph.dependency",
+  "pk": "hqigazm2jk3iwl1f"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:42:52.320Z",
+    "url": "",
+    "cresource": "c99by8o3fec",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Machine de Boltzmann restreintes (Restricted Boltzmann Machines)\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "sywt7zq4kro"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sjfdj1qn",
+    "last_mod": "2014-08-31T00:09:35.170Z",
+    "ordering": 262,
+    "target_goals": ["iem0hrd1jm", "vchyj8yc5c", "x3484d3u16"],
+    "source_goals": ["f5sactlyqy9", "rcop43kg3r6"],
+    "source": "bd6229xe",
+    "reason": "Bayesian PCA is an elaboration of probabilistic PCA."
+  },
+  "model": "graph.dependency",
+  "pk": "bd6229xesjfdj1qn"
+}

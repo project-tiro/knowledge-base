@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "k959cyjm",
+    "last_mod": "2014-08-30T21:34:01.137Z",
+    "ordering": -1,
+    "target_goals": ["8n0cw5qvie8", "963rufpw1ks", "ei27y93bn9a", "x4umo5csd04"],
+    "source_goals": ["3cyyh1wa5eq", "klb862c1jnb", "krg8o512a9k", "l33hro8mmqu"],
+    "source": "i9mo2e09",
+    "reason": "Independence is a property of events in a probability space."
+  },
+  "model": "graph.dependency",
+  "pk": "i9mo2e09k959cyjm"
+}

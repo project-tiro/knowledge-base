@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "vzi3kdsyhr",
+    "ordering": 1,
+    "location_text": "Section 11.3, \"Comparing paired samples,\" up through 11.3.1, \"Methods based on the normal distribution,\" pages 444-447",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4rmul6ga9v"
+}

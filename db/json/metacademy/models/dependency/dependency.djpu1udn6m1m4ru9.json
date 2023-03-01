@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "6m1m4ru9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 703,
+    "target_goals": ["2jx53hxxu7", "3q6uldlkjl", "4yhu1unkwn", "7xqy2rpw0r"],
+    "source_goals": ["g2wwj0l8iw", "m5gk40guop"],
+    "source": "djpu1udn",
+    "reason": "The GDA solution is given in terms of covariance matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "djpu1udn6m1m4ru9"
+}

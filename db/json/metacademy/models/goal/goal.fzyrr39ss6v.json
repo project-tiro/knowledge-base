@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know some terminology: node, edge, child node, parent node, leaf, internal node, root node, height",
+    "concept": "zd073egx",
+    "last_mod": "2014-09-14T04:02:57.727Z"
+  },
+  "model": "graph.goal",
+  "pk": "fzyrr39ss6v"
+}

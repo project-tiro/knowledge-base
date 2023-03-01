@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-11T20:32:45.617Z",
+    "url": "",
+    "cresource": "m3p8r8vpdpz",
+    "ordering": -1,
+    "location_text": "Section 3.2, \"Convergence of line search methods,\" pages 37-41",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6s5laia85cj"
+}

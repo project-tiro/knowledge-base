@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uq6rlqz5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["5uq7ki9qf2", "gzggsmb0bn", "q0ofito8z39", "qw73b8mq7y"],
+    "source_goals": ["lonhopp3ua", "rtufpd0474", "zios6s80tj"],
+    "source": "msntabgz",
+    "reason": "Identifying the cardinals with ordinals requires the Axiom of Choice."
+  },
+  "model": "graph.dependency",
+  "pk": "msntabgzuq6rlqz5"
+}

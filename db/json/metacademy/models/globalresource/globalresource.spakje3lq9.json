@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A monograph on Monte Carlo methods.",
+    "version_num": 0,
+    "title": "Monte Carlo Statistical Methods",
+    "url": "http://www.amazon.com/Monte-Statistical-Methods-Springer-Statistics/dp/0387212396",
+    "notes": "",
+    "year": 2005,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Christian P. Robert', u'George Casella']",
+    "edition_years": null,
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "spakje3lq9"
+}

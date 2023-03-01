@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:24:14.303Z",
+    "url": "http://math.hws.edu/javanotes/c5/s6.html",
+    "cresource": "zn5h0xp59af",
+    "ordering": -1,
+    "location_text": "Section 5.6, \"this and super\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vgls2r5nc98"
+}

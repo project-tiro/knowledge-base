@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "representability in arithmetic",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 4.3331174415510025,
+    "summary": "A relation is definable in a first-order theory T if there is a formula f expressible in the language of T, such that f(x) is provable in T whenever x is in R; otherwise the negation must be provable. It can be shown that the functions representable in arithmetic are exactly those functions which are recursive, or equivalently, computable. The notion of representability is used to construct self-referential sentences in the proof of Godel's Incompleteness Theorem.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "representability_in_arithmetic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "nxkxu3tn"
+}

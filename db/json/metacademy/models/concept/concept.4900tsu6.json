@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "register machines",
+    "pointers": null,
+    "tags": ["theorycomp"],
+    "learn_time": 1.169284389777247,
+    "summary": "Register machines are a model of computation involving a set of registers which can hold arbitrarily large positive integers. Despite the model's simplicity, it is Turing complete. The simplicity of the definition is helpful in computability theory, because reductions from counter machines can be easier than reductions from Turing machines.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "register_machines",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4900tsu6"
+}

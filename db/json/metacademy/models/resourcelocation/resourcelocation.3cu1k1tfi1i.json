@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T21:12:57.227Z",
+    "url": "http://en.wikipedia.org/wiki/Unit_testing",
+    "cresource": "pzjrbqov24b",
+    "ordering": -1,
+    "location_text": "Article \"Unit testing\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3cu1k1tfi1i"
+}

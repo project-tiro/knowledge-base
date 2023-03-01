@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "1yl2oyhtt8",
+    "ordering": 0,
+    "location_text": "Section 18.5, \"Why learning works: computational learning theory,\" pages 668-673",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3fh148k74w"
+}

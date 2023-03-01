@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4kwyusmd",
+    "last_mod": "2014-08-30T23:46:39.561Z",
+    "ordering": 690,
+    "target_goals": [],
+    "source_goals": ["45s4lkalxjv", "cguejujbnpn", "pwfbwcnflpx"],
+    "source": "l4im2jkx",
+    "reason": "The posterior over parameters for a multivariate Gaussian is part of the update rule for this model."
+  },
+  "model": "graph.dependency",
+  "pk": "l4im2jkx4kwyusmd"
+}

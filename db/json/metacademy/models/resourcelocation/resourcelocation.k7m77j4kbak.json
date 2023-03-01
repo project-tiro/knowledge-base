@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:26:25.435Z",
+    "url": "http://www.youtube.com/watch?v=p5tL2JqCRDo",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Parameter gradient\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "k7m77j4kbak"
+}

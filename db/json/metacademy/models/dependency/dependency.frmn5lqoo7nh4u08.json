@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T20:02:55.721Z",
+    "ordering": 10,
+    "target_goals": ["2m0fqttck57", "ptig1jtq02g"],
+    "source_goals": ["03nhk6qaa5l", "1p5hjzui7yw", "68u669n3fcx", "ih9qocak3p7", "m1sm56agb0g"],
+    "source": "frmn5lqo",
+    "reason": "One justification of Newton's method is that it is invariant to affine transformations"
+  },
+  "model": "graph.dependency",
+  "pk": "frmn5lqoo7nh4u08"
+}

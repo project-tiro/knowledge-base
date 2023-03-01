@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:08:34.493Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/lecture-notes/MIT6_005F11_lec03.pdf#page=6",
+    "cresource": "lcj370oxd8i",
+    "ordering": -1,
+    "location_text": "Lecture 3 notes, \"Specifications,\" subsections on exceptions, pages 6-10",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "brrouat82jf"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kar6bfhf",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 169,
+    "target_goals": ["0orghrg7ng", "b5fgo75z41", "fmylgb8zim", "t0vwzia7is", "wvubqsy00q"],
+    "source_goals": ["8ebp56l5b8", "f6e8p6cggs", "onppjs24q2", "ul57oe7e5a"],
+    "source": "6x87nosp",
+    "reason": "Turing machines are the canonical model of computation when reasoning about decidability."
+  },
+  "model": "graph.dependency",
+  "pk": "6x87nospkar6bfhf"
+}

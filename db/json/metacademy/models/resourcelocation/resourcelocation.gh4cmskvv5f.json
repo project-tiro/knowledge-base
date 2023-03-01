@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T00:04:01.008Z",
+    "url": "https://www.youtube.com/watch?v=1nYDflSL0Mg#t=1801",
+    "cresource": "8cnkvzfzwd0",
+    "ordering": -1,
+    "location_text": "Lecture 8, starting from 30:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gh4cmskvv5f"
+}

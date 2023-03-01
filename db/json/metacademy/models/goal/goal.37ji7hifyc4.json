@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know which operations a priority queue is expected to support, and the running times of those operations",
+    "concept": "hkrsnv1p",
+    "last_mod": "2014-11-08T20:55:20.662Z"
+  },
+  "model": "graph.goal",
+  "pk": "37ji7hifyc4"
+}

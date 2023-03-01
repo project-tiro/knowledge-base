@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qebvps8f",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 500,
+    "target_goals": ["8hw1gdux8k", "nsvypbvwru", "z1s6zrp3fb"],
+    "source_goals": ["1rfdywnl99", "5km9dw0poc", "dnrnoshvpp", "iy72akaxea", "mddktyz9ye"],
+    "source": "uqe7o6kx",
+    "reason": "Unification is part of the resolution procedure."
+  },
+  "model": "graph.dependency",
+  "pk": "uqe7o6kxqebvps8f"
+}

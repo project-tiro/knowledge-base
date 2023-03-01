@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "a6ibqx2d",
+    "last_mod": "2014-08-30T21:34:00.237Z",
+    "ordering": 413,
+    "target_goals": ["8tbtkc3ap8", "i6jttqwct2", "wp2yynrj9q", "xf6iu4ql7o"],
+    "source_goals": ["3eh3thnruxf", "bdf8amc02fk", "uiu5rlbjkc8"],
+    "source": "19eauumg",
+    "reason": "The rejuvenation step involves applying an MCMC operator."
+  },
+  "model": "graph.dependency",
+  "pk": "19eauumga6ibqx2d"
+}

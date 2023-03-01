@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/probability/random-variables-topic/poisson_process",
+    "cresource": "aoxp3jm3rx",
+    "ordering": 0,
+    "location_text": "lecture sequence \"poisson processes\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8nxffatvie"
+}

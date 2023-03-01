@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "apf478vy",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u\"This resource is more mathematically rigorous than the others. It's useful if you're already comfortable writing proofs in FOL and want to analyze the proofs themselves.\"]",
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[{u'title': u'structural induction'}]",
+    "global_resource": "psdeikotva"
+  },
+  "model": "graph.conceptresource",
+  "pk": "mjears9pk7"
+}

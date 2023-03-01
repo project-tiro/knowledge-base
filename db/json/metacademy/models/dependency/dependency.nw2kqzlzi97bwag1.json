@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "i97bwag1",
+    "last_mod": "2014-08-30T21:34:02.165Z",
+    "ordering": -1,
+    "target_goals": ["ce6oa8yewvr", "idnhc0wcs3e", "mun2mvhkwzj", "qgofzm06qrg", "swhrzys2m6u", "x8l8umkugyl"],
+    "source_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source": "nw2kqzlz",
+    "reason": "One wants to check continuity of the flow"
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlzi97bwag1"
+}

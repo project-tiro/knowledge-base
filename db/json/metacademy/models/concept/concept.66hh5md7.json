@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "importance sampling",
+    "pointers": "* The  [variance of the importance weights](analyzing_importance_sampling)  depends on a Renyi divergence between the two distributions.\n* Importance sampling is ineffective except in simple situations. More sophisticated versions include:\n**  [Sequential importance resampling (SIR)](sequential_importance_resampling)\n**  [particle filters](particle_filter)",
+    "tags": ["bayesianstats", "pgm", "probabilitytheor"],
+    "learn_time": 0.7950300278052762,
+    "summary": "Importance sampling is a way of estimating expectations under an intractable distribution p by sampling from a tractable distribution q and reweighting the samples according to the ratio of the probabilities. While importance sampling has unreasonably large variance when applied naively, it forms the basis for some very effective Monte Carlo estimators.\n",
+    "last_mod": "2014-08-30T16:48:49.053Z",
+    "tag": "importance_sampling",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "66hh5md7"
+}

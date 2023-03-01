@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Chernoff bounds",
+    "pointers": "*  [Deriving the bounds](chernoff_bounds_proof)\n* Chernoff bounds are widely used in:\n**  [randomized algorithms](chernoff_bounds_randomized_algorithms)\n**  [analyzing the performance of statistical estimators](chernoff_bounds_statistical_estimators)",
+    "tags": ["freqstats"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The Chernoff bounds are a way of bounding the probability that a sum of independent random variables takes on extreme values. Compared with Chebyshev's inequality, it requires a stronger assumption (independence), but is a far tighter bound. They are commonly used to analyze randomized algorithms and PAC-learning methods.\n",
+    "last_mod": "2014-08-31T15:13:59.416Z",
+    "tag": "chernoff_bounds",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "365wg8e7"
+}

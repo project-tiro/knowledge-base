@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Fisher information",
+    "pointers": "* The  [Fisher information matrix](fisher_information_matrix)  is the multivariate generalization.",
+    "tags": ["freqstats"],
+    "learn_time": 1.554184564887476,
+    "summary": "Fisher information is a quantity from statistics which measures the amount of information a sample from a distribution provides about the parameter value. It has several equivalent definitions, one of which is the variance of the derivative of the log-likelihood. Since it determines the asymptotic behavior of maximum likelihood estimation, it can be used to compute approximate confidence intervals for parameters.",
+    "last_mod": "2014-09-19T16:14:01.222Z",
+    "tag": "fisher_information",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "rzsof8af"
+}

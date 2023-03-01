@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~mackay/itprnn/ps/389.414.pdf#page=1",
+    "cresource": "rlmilw7di2",
+    "ordering": 0,
+    "location_text": "Section 30.1, \"Hamiltonian Monte Carlo,\" pages 387-390 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r3ccnupocz"
+}

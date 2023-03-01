@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://en.wikipedia.org/wiki/Axiom_of_choice",
+    "cresource": "27czar1bqh",
+    "ordering": 0,
+    "location_text": "Article \"Axiom of Choice\" ",
+    "location_type": "wiki"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "szc2uflmvt"
+}

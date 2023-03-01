@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:40:31.546Z",
+    "url": "http://www.youtube.com/watch?v=-z5lKPHcumo",
+    "cresource": "kz2qpydm7gj",
+    "ordering": -1,
+    "location_text": "Lecture \"Belief propagation\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "wbzvq5ttwbc"
+}

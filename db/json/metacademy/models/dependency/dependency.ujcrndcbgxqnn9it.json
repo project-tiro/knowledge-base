@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gxqnn9it",
+    "last_mod": "2014-08-30T21:34:01.904Z",
+    "ordering": 125,
+    "target_goals": ["3qn9wq2mf3", "49e2933rqg", "jsu04euchp"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Finding the maximum likelihood solution requires solving an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbgxqnn9it"
+}

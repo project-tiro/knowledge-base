@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graudate-level textbook on machine learning and information theory.",
+    "version_num": 0,
+    "title": "Information Theory, Inference, and Learning Algorithms",
+    "url": "http://www.inference.phy.cam.ac.uk/itprnn/book.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'David MacKay']",
+    "edition_years": "[u'2003']",
+    "resource_type": "online textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "ylgvrhqkyn"
+}

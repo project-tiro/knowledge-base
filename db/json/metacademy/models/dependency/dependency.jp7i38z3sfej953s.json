@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sfej953s",
+    "last_mod": "2014-08-30T21:34:02.158Z",
+    "ordering": -1,
+    "target_goals": ["00ly5d3w9s8", "cxtqs128z3y", "g0blfko8cnx", "ju5uzzf9k3a", "qhc9m667iep", "rrtelxdgnet"],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "Integrals on manifolds are defined in terms of integrals on R^n"
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z3sfej953s"
+}

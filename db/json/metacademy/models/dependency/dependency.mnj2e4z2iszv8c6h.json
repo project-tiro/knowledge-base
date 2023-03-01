@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "iszv8c6h",
+    "last_mod": "2014-08-27T05:10:19.003Z",
+    "ordering": -1,
+    "target_goals": ["art3u9zf9do", "q50kui9u6dp", "ygkvxbnss16"],
+    "source_goals": ["lmigt6ci4er", "lzw7j7hhqm", "vq16eqxeal"],
+    "source": "mnj2e4z2",
+    "reason": "One needs to analyze the complexity of the sorting algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "mnj2e4z2iszv8c6h"
+}

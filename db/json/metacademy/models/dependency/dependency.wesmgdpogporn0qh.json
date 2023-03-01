@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gporn0qh",
+    "last_mod": "2014-08-30T21:34:01.983Z",
+    "ordering": 661,
+    "target_goals": [],
+    "source_goals": ["v7myx7fp03h", "wpe7kb3c9bs", "z17krgjzed5"],
+    "source": "wesmgdpo",
+    "reason": "Markov models are based on Markov chains."
+  },
+  "model": "graph.dependency",
+  "pk": "wesmgdpogporn0qh"
+}

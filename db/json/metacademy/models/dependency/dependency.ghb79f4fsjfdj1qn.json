@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sjfdj1qn",
+    "last_mod": "2014-08-31T00:09:59.684Z",
+    "ordering": 263,
+    "target_goals": ["iem0hrd1jm", "vchyj8yc5c", "x3484d3u16"],
+    "source_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "ngail3kuhl", "xdi8cq7o4y"],
+    "source": "ghb79f4f",
+    "reason": "Bayesian PCA is based on similar ideas to Bayesian linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "ghb79f4fsjfdj1qn"
+}

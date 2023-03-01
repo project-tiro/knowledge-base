@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:22:53.253Z",
+    "url": "",
+    "cresource": "pwhk1ss9wco",
+    "ordering": -1,
+    "location_text": "Chapter 8, \"Interfaces and abstract classes: serious polymorphism,\" pages 197-234",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mw1pwbwiidd"
+}

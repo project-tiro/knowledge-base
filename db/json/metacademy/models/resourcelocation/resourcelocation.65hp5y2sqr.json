@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~mackay/itprnn/ps/302.320.pdf#page=1",
+    "cresource": "kgciyygn16",
+    "ordering": 0,
+    "location_text": "Section 22.1, \"Maximum likelihood for one Gaussian,\" pages 300-302 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "65hp5y2sqr"
+}

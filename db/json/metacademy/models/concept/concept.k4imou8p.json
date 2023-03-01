@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "queue",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 0.8327642912341753,
+    "summary": "A queue is an abstract data type which supports two operations: enqueue (put at item at the back of the queue) and dequeue (remove the element from the front). It is a first-in-first-out data structure, since elements are removed in the order they are added. ",
+    "last_mod": "2014-11-08T22:09:06.123Z",
+    "tag": "queue",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "k4imou8p"
+}

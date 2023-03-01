@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Prove the Spectral Theorem in the case where all of the eigenvalues are distinct",
+    "concept": "643uoa8t",
+    "last_mod": "2014-10-11T21:27:37.293Z"
+  },
+  "model": "graph.goal",
+  "pk": "6y1bt106ba1"
+}

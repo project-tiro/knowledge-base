@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T04:42:48.615Z",
+    "url": "",
+    "cresource": "fwp2sl44opc",
+    "ordering": -1,
+    "location_text": "Chapter 1, \"Introduction,\" up through Section 1.2, \"Analyzing algorithms,\" pages 1-11",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6rewuookcfv"
+}

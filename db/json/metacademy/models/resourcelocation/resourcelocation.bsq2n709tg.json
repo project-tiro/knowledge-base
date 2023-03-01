@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "eqlttxmtwd",
+    "ordering": 0,
+    "location_text": "Section 3.3, \"A subtheory of number theory,\" pages 202-223",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bsq2n709tg"
+}

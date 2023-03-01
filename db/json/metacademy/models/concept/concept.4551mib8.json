@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Gaussian processes",
+    "pointers": "* Gaussian processes have a variety of uses in machine learning, including:\n**  [regression](gaussian_process_regression)\n**  [classification](gaussian_process_classification)\n**  [black-box optimization](bayesian_optimization)  (where we only get to evaluate the function, and doing so is expensive)\n**  [reinforcement learning](gaussian_processes_for_reinforcement_learning)\n* Techniques for  [constructing kernel functions](constructing_kernels)",
+    "tags": ["bayesianstats", "machinelearning", "probabilitytheor"],
+    "learn_time": 1.2683745547660064,
+    "summary": "Gaussian processes are distributions over functions such that the joint distribution at any finte set of points is a multivariate Gaussian. They are commonly used in probabilistic modeling when we want to put a prior over functions without reference to an underlying parametric representation. Usually they express fairly weak beliefs about the function, such as smoothness, but more structured versions are also possible. The most common use case is nonparametric regression and classification.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "gaussian_processes",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4551mib8"
+}

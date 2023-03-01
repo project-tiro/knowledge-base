@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/automata/lecture/13",
+    "cresource": "zlo80u400ii",
+    "ordering": -1,
+    "location_text": "Lecture \"Introduction to context-free grammars\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "c7w0fx99y3c"
+}

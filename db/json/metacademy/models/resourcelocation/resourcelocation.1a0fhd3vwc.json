@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=jwYuki9GgJo",
+    "cresource": "c0qz4ikr4y",
+    "ordering": 3,
+    "location_text": "video lecture: (ML 14.9) Backward algorithm ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1a0fhd3vwc"
+}

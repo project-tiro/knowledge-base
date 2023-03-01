@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "akfrqn19",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 7,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "iplkhc1b",
+    "reason": "We try to modify the backpropagation procedure to encourage invariances."
+  },
+  "model": "graph.dependency",
+  "pk": "iplkhc1bakfrqn19"
+}

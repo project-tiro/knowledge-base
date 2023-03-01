@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/probability/independent-dependent-probability/independent_events",
+    "cresource": "wcg2kgg8ox",
+    "ordering": 0,
+    "location_text": "Lecture sequence \"Compound, independent events\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "tttammq2kv"
+}

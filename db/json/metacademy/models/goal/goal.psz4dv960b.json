@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Using the ultraproduct construction, prove the Compactness Theorem of first-order logic.",
+    "concept": "r5j38vw5",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "psz4dv960b"
+}

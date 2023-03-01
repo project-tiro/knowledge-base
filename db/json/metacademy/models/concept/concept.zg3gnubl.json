@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "analyzing recursive algorithms",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.507421760178766,
+    "summary": "Many important algorithms, such as binary search and merge sort, are most simply described in terms of a recursive procedure. Analyzing the running time of such algorithms requires solving recurrence equations. There are tricks for solving or analyzing these equations, including the Master Theorem, which covers most of the common cases.\n",
+    "last_mod": "2014-09-13T23:50:57.461Z",
+    "tag": "analyzing_recursive_algorithms",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "zg3gnubl"
+}

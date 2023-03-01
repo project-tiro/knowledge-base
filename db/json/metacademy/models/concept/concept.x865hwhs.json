@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "classes (programming)",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.3795837178561727,
+    "summary": "In programming, classes are kind of user-defined type with associated fields and methods. Classes are meant to provide an abstraction barrier, where they present a consistent interface to the client, while the underlying implementation is allowed to vary. They are the fundamental structure in object oriented programming.\n",
+    "last_mod": "2014-09-14T16:20:58.849Z",
+    "tag": "classes_programming",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "x865hwhs"
+}

@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "q3j5cjx4",
+    "last_mod": "2014-08-30T21:34:01.053Z",
+    "ordering": 425,
+    "target_goals": ["5riuz66ot7", "hjf2d445ts", "lxpo8982aj", "tzkk1l95c1"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "the optimal policy for a MDP is defined in terms of an expected reward"
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpq3j5cjx4"
+}

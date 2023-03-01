@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "dot product",
+    "pointers": "* The dot product can be used to define  [matrix multiplication](matrix_multiplication) .\n*  [Inner products](inner_product)  are generalizations of the dot product to other vector spaces. \n* The dot product is used to define the Euclidean vector norm, but there are  [other vector norms](vector_norms)  as well. ",
+    "tags": ["linearalgebra", "mvcalc"],
+    "learn_time": 1.098270822658554,
+    "summary": "The dot product is an operation on vectors. It is used to define notions such as vector length, perpendicular vectors, and angles between vectors.\n",
+    "last_mod": "2014-08-30T02:48:47.055Z",
+    "tag": "dot_product",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "bveqc1fo"
+}

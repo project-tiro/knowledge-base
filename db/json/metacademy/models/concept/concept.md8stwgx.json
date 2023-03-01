@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "projection onto a subspace",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.7608532028052588,
+    "summary": "The projection of a vector b onto a subspace X is the closest point to b contained in X. Projection is a linear operation, and can be computed using a projection matrix. It is used in linear least squares approximation.\n",
+    "last_mod": "2014-08-30T18:55:51.900Z",
+    "tag": "projection_onto_a_subspace",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "md8stwgx"
+}

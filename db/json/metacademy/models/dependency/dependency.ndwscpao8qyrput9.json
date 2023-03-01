@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8qyrput9",
+    "last_mod": "2014-08-30T21:34:01.563Z",
+    "ordering": 469,
+    "target_goals": [],
+    "source_goals": ["cc8kerabea2", "zyjqwgpxjuz"],
+    "source": "ndwscpao",
+    "reason": "Mixture of Gaussians is the canonical example of CRP clustering."
+  },
+  "model": "graph.dependency",
+  "pk": "ndwscpao8qyrput9"
+}

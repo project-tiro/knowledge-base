@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Jensen's inequality",
+    "pointers": "* Some uses of Jensen's inequality:\n** showing that  [KL divergence](kl_divergence) , a measure of distance between probability distributions, is nonnegative\n** showing that the  [EM algorithm](expectation_maximization)   [increases the likelihood function](expectation_maximization_variational_interpretation)\n**  [variational Bayes](variational_bayes) , a general framework for approximate inference in probabilistic models\n** the  [Rao-Blackwell theorem](rao_blackwell_theorem) , which shows that estimators should only consider sufficient statistics is the loss function is convex",
+    "tags": ["machinelearning", "probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "Jensen's Inequality states that the expectation of a convex function is larger than the function of the expectation. It is used to prove the Rao-Blackwell theorem in statistics, and is the basis behind many algorithms for probabilistic inference, including Expectation-Maximization (EM) and variational inference.\n",
+    "last_mod": "2014-08-30T17:02:30.355Z",
+    "tag": "jensens_inequality",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4vibtkvr"
+}

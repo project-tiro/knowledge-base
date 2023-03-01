@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Be able to compute the variance of a linear combination of random variables in terms of their variances and covariances",
+    "concept": "mxpmyv5u",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "abo3nbpsbm"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand why naive use of these functions can lead to buffer overflow bugs, and know of strategies for getting around this",
+    "concept": "99werltk",
+    "last_mod": "2014-09-06T23:11:32.272Z"
+  },
+  "model": "graph.goal",
+  "pk": "2hdlit69fzx"
+}

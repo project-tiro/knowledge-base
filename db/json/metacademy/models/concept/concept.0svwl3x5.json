@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "red-black trees",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.2431918201257788,
+    "summary": "Red-black trees are a kind of binary search tree which stays approximately balanced as insertions and deletions are performed. It is based on maintaining a set of tree invariants which together guarantee that the tree is approximately balanced.",
+    "last_mod": "2014-08-27T19:08:13.551Z",
+    "tag": "red_black_trees",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "0svwl3x5"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Hopfield networks",
+    "pointers": "*  [Boltzmann machines](boltzmann_machines)  (and in particular,  [restricted Boltzmann machines (RBMs)](restricted_boltzmann_machines) ), are a modern probabilistic analogue of Hopfield nets.\n* The  [mean field approximation](mean_field)  updates in an Ising model have a similar form to Hopfield nets.",
+    "tags": ["machinelearning"],
+    "learn_time": 3.3610113165310844,
+    "summary": "Hopfield networks are a kind of recurrent neural network which implements an associative memory. The behavior of the network can be modeled in terms of minimizing an energy function. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "hopfield_networks",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4t7kblme"
+}

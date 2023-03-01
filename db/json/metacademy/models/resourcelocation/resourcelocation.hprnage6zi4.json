@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:26:11.268Z",
+    "url": "http://www.youtube.com/watch?v=tf9p1xQbWNM",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Activation function derivative\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hprnage6zi4"
+}

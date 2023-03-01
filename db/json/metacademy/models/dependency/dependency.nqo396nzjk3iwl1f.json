@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:41:42.988Z",
+    "ordering": 5,
+    "target_goals": ["obu1s41m4uk"],
+    "source_goals": ["1wgr9u5a2dt", "ta1iefywurk", "w5c7j2apzbe"],
+    "source": "nqo396nz",
+    "reason": "One often wants to analyze the pullback of a form over a map"
+  },
+  "model": "graph.dependency",
+  "pk": "nqo396nzjk3iwl1f"
+}

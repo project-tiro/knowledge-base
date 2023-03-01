@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "7gk3xxfc",
+    "last_mod": "2014-08-30T21:34:01.259Z",
+    "ordering": -1,
+    "target_goals": [
+      "2y7caxqnjhs",
+      "6o0cahd6t21",
+      "7v3fpgefxgs",
+      "c6ekxc1rqus",
+      "lbeatz1mvd9",
+      "t5ch56ocvc5",
+      "ufyq852dkzh"
+    ],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "The Riemann integral is a precise formulation of multiple integrals."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z37gk3xxfc"
+}

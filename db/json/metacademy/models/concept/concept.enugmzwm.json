@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Cramer's rule",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 0.6234720328020608,
+    "summary": "Cramer's rule is an explicit formula for the inverse of a matrix in terms of determinants of submatrices. While it is inefficient for large matrices, it is useful for analyzing inverses of small matrices algebraically.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "cramers_rule",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "enugmzwm"
+}

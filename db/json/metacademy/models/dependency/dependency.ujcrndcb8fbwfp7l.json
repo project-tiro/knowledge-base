@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8fbwfp7l",
+    "last_mod": "2014-08-30T21:34:01.849Z",
+    "ordering": 33,
+    "target_goals": ["2n3fb9cfxq", "e28kaamj0f", "huvuer6adl"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Multidimensional scaling is formulated as an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb8fbwfp7l"
+}

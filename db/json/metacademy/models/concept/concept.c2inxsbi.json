@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian parameter estimation in exponential families",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning"],
+    "learn_time": 0.7337998729796411,
+    "summary": "Exponential families are convenient for Bayesian parameter estimation because the conjugate priors often have a convenient form, and there is a simple form for the posterior.\n",
+    "last_mod": "2014-08-31T00:03:40.691Z",
+    "tag": "bayes_param_exp_fam",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "c2inxsbi"
+}

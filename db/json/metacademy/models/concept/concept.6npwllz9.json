@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Chinese restaurant process",
+    "pointers": "* The CRP is often used for  [Bayesian clustering models](crp_clustering) .",
+    "tags": ["bayesianstats", "machinelearning", "probabilitytheor"],
+    "learn_time": 1.0758969510621432,
+    "summary": "The Chinese Restaurant Process (CRP) is a predictive rule that descripes a probability distribution on an unbounded partition (clustering). The CRP is as follows: imagine a chinese restaurant with a countably infinite number of tables, the first customer (datum) walks into a restaurant and sits at a table (cluster), the second customer walks into the restaurant and sits at the first customers table with probability 1/2 and chooses a new table with probability 1/2, the nth customer chooses a previous table with probability proportional to the number of customers at that table and chooses his own table with the remaining probability. Defining the probability from this predictive rule yields a probability distribution on an unbounded clustering.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "chinese_restaurant_process",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6npwllz9"
+}

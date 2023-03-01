@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T20:16:57.968Z",
+    "url": "",
+    "cresource": "hua6h8o18wr",
+    "ordering": -1,
+    "location_text": "Chapter 1, \"Introduction,\" up through 1.2, \"Abstraction\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jzmqri4vpj8"
+}

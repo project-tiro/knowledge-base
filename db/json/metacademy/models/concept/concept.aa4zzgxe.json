@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Lob's Theorem",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 0.6009805928009484,
+    "summary": "Lob's Theorem asserts that no formal system T can prove statements of the form \"If A is provable in T, then A is true\" unless it is also capable of proving A directly. It can be seen as a generalization of Godel's Second Incompleteness Theorem.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "lobs_theorem",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "aa4zzgxe"
+}

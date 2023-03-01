@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8axm4wao",
+    "last_mod": "2014-08-30T20:18:25.419Z",
+    "ordering": -1,
+    "target_goals": ["8khucyxixcz", "zsgagdu66la"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "We analyze EM as an algorithm for maximizing the likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5i8axm4wao"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5zwsgm7z",
+    "last_mod": "2014-08-30T21:34:00.281Z",
+    "ordering": 653,
+    "target_goals": [],
+    "source_goals": ["2tamvt5aakk", "3i9nl8t2c9g", "t509dxp2jkv"],
+    "source": "2g7ee7t1",
+    "reason": "The Dirichlet distribution is most commonly used as the conjugate prior for the multinomial distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "2g7ee7t15zwsgm7z"
+}

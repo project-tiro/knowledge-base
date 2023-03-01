@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "change of basis",
+    "pointers": "* Change of basis transformations are important for defining equivalence classes on matrices:\n**  [similar matrices](similar_matrices)\n**  [congruent matrices](congruent_matrices)\n* The  [spectral decomposition](spectral_decomposition)  of a symmetric matrix can be viewed as a change of basis.",
+    "tags": ["linearalgebra"],
+    "learn_time": 2.036337600724366,
+    "summary": "Sometimes it's convenient to perform computations in a basis other than the standard one. Change of basis matrices can be used to convert vectors and matrices from one basis to another.\n",
+    "last_mod": "2014-08-31T15:13:04.249Z",
+    "tag": "change_of_basis",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "dyfwkbip"
+}

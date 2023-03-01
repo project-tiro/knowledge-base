@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xub4wekq",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 74,
+    "target_goals": [],
+    "source_goals": ["abo3nbpsbm", "iae14vnjvk", "jvow28bvkl", "m15n6xggsj", "u843rt5bzx", "z66edo7cna"],
+    "source": "mxpmyv5u",
+    "reason": "The parameterization of a multivariate Gaussian includes a covariance matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "mxpmyv5uxub4wekq"
+}

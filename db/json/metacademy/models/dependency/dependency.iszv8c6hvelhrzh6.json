@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "velhrzh6",
+    "last_mod": "2014-08-27T18:26:05.137Z",
+    "ordering": 0,
+    "target_goals": ["0ukbeeolrvk", "db5xmld5pwg", "fq169wf3se2"],
+    "source_goals": ["art3u9zf9do", "q50kui9u6dp", "ygkvxbnss16"],
+    "source": "iszv8c6h",
+    "reason": "Merge sort is a sorting algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "iszv8c6hvelhrzh6"
+}

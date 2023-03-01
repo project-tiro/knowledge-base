@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free online programming textbook using Java",
+    "version_num": 0,
+    "title": "Introduction to Programming using Java",
+    "url": "http://math.hws.edu/javanotes/",
+    "notes": "",
+    "year": 2014,
+    "access": "free",
+    "last_mod": "2014-09-14T18:49:24.126Z",
+    "authors": "[u'David J. Eck']",
+    "edition_years": "[]",
+    "resource_type": "online textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "vb0q2xvh5qr"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9qzhetox",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 668,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "xub4wekq",
+    "reason": "Linear-Gaussian models define multivariate Gaussian distributions."
+  },
+  "model": "graph.dependency",
+  "pk": "xub4wekq9qzhetox"
+}

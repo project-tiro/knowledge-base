@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand what is meant by pointer arithmetic; i.e., be able to determine what memory address a pointer arithmetic expression evaluates to",
+    "concept": "cja1np7y",
+    "last_mod": "2014-09-07T03:25:49.098Z"
+  },
+  "model": "graph.goal",
+  "pk": "pea3zehtd5i"
+}

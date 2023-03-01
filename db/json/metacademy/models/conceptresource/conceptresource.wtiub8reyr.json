@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "gaeep1ux",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'You may want to first skim the lectures on Boltzmann machines.']",
+    "goals_covered": ["7exe2s5ykk", "dkzwt3j872", "ean1mbprv7", "ekhkqzbegz", "ofrxnj31w0"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "u33jnnulfq"
+  },
+  "model": "graph.conceptresource",
+  "pk": "wtiub8reyr"
+}

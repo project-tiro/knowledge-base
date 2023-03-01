@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "w1wa7ncemm",
+    "ordering": 1,
+    "location_text": " Section 3.2, \"Continuous distributions,\" pages 103-108",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ah8o08q200"
+}

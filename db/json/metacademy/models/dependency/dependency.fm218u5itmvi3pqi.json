@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tmvi3pqi",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 24,
+    "target_goals": ["6vipwmw7cg", "7ql1gn67ak", "9naz2yui2p", "dbrkpiwq32", "msaqx4z5o4"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "Maximum likelihood is used in the M step."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5itmvi3pqi"
+}

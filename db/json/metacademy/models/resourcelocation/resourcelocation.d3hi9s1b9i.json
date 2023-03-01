@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "fgtvezhomy",
+    "ordering": 0,
+    "location_text": "Section 4.2, \"Probabilistic generative models,\" pages 196-203",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d3hi9s1b9i"
+}

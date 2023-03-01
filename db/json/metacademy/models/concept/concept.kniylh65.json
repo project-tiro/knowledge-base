@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "natural gradient",
+    "pointers": "",
+    "tags": ["diffgeom", "optimization"],
+    "learn_time": 1.1426306505407828,
+    "summary": "The natural gradient is an operator analogous to the gradient, but which depends only on the intrinsic geometry of a manifold, not on the parameterization. Most commonly, it is used in maximum likelihood estimation, where the Riemannian metric is taken to be the Fisher metric.\n",
+    "last_mod": "2014-09-21T22:43:12.995Z",
+    "tag": "natural_gradient",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "kniylh65"
+}

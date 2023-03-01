@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Video lectures for MIT's introductory multivariable calculus class.",
+    "version_num": 0,
+    "title": "MIT Open Courseware: Multivariable Caclulus",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm",
+    "notes": "",
+    "year": 2010,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Denis Auroux']",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "zkwghunr5h"
+}

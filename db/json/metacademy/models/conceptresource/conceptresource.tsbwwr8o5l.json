@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "jnw8a0ar",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'The part about computing the normalizing constant is optional.']",
+    "goals_covered": [],
+    "edition": "7",
+    "additional_dependencies": "[]",
+    "global_resource": "776gk8arv8"
+  },
+  "model": "graph.conceptresource",
+  "pk": "tsbwwr8o5l"
+}

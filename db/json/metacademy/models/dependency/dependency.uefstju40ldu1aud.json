@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0ldu1aud",
+    "last_mod": "2014-09-14T00:25:15.872Z",
+    "ordering": -1,
+    "target_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source_goals": ["8qjyahis8fo", "fjawla4x30g", "gazubxd3m2y", "q4mjdizhua9"],
+    "source": "uefstju4",
+    "reason": "Depth-first search is often implemented using recursion"
+  },
+  "model": "graph.dependency",
+  "pk": "uefstju40ldu1aud"
+}

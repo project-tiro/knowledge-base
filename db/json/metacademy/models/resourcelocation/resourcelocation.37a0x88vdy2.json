@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T04:04:05.442Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=43",
+    "cresource": "dar3jgxbrgx",
+    "ordering": -1,
+    "location_text": "Section 6.4, \"The exterior derivative,\" pages 43-47",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "37a0x88vdy2"
+}

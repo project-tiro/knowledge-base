@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ghb79f4f",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 751,
+    "target_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "ngail3kuhl", "xdi8cq7o4y"],
+    "source_goals": [],
+    "source": "okv0c3op",
+    "reason": "Bayesian linear regression is based on the probabilistic interpretation of linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "okv0c3opghb79f4f"
+}

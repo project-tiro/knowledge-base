@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 7,
+    "dependencies": ["9791pgmch61ljzls", "9791pgmcxnsr1z4a", "h61ljzlsxnsr1z4a", "x865hwhsh61ljzls"],
+    "concepts": ["9791pgmc", "h61ljzls", "x865hwhs", "xnsr1z4a"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "xnsr1z4a"
+}

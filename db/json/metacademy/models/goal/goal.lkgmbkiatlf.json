@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how the approximate inverse Hessian computed in BFGS can be stored implicitly as a product of low-rank-plus-identity factors",
+    "concept": "egscxj83",
+    "last_mod": "2014-10-27T01:51:18.855Z"
+  },
+  "model": "graph.goal",
+  "pk": "lkgmbkiatlf"
+}

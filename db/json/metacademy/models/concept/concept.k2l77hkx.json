@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "evaluating multiple integrals: polar coordinates",
+    "pointers": "* This trick can be generalized to three dimensions:\n**  [spherical coordinates](eval_multi_int_spherical_coordinates)\n**  [cylindrical coordinates](eval_multi_int_cylindrical_coordinates)\n* This trick is an instance of the more general notion of  [change of variables](eval_multi_int_change_of_variables) .",
+    "tags": ["mvcalc"],
+    "learn_time": 1.1757240436247445,
+    "summary": "A common trick for computing double integrals is to transform them into a polar coordinate representation. Canonical examples include integrating a Gaussian and computing moments of inertia.\n",
+    "last_mod": "2014-08-30T02:52:47.886Z",
+    "tag": "eval_multi_int_polar_coordinates",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "k2l77hkx"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oq495mey",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 865,
+    "target_goals": ["4aca3ammoz", "4uyiyaj7x3", "i3e4kz5h2z", "l4m35s3t3h", "npmo4n0b58"],
+    "source_goals": ["9vbxn1gbla", "f8zcfljlqq", "htj43pzjkt", "y3om6vj7qt"],
+    "source": "m9v3pvr7",
+    "reason": "The definition of the surface integral includes a cross product."
+  },
+  "model": "graph.dependency",
+  "pk": "m9v3pvr7oq495mey"
+}

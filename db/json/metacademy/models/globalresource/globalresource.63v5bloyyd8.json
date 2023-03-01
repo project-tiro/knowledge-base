@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An introductory algorithms course (click on \"Preview\" to see the lectures)",
+    "version_num": 0,
+    "title": "Coursera: Algorithms: Design and Analysis, Part 1",
+    "url": "https://www.coursera.org/course/algo",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-29T01:31:51.258Z",
+    "authors": "[u'Tim Roughgarden']",
+    "edition_years": "[]",
+    "resource_type": "video lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "63v5bloyyd8"
+}

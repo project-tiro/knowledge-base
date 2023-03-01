@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Show that arbitrary higher-order constraints can be converted to ternary constraints (and therefore we need not consider orders higher than 3)",
+    "concept": "jo8tm547",
+    "last_mod": "2014-11-08T21:43:38.738Z"
+  },
+  "model": "graph.goal",
+  "pk": "52884tx1f50"
+}

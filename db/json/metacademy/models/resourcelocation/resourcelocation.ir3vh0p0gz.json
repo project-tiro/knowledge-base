@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "fkwtrc0vt2",
+    "ordering": 0,
+    "location_text": "Section 26.1, \"Introduction\" (of chapter 26, \"Graphical model structure learning\"), pages 907-908",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ir3vh0p0gz"
+}

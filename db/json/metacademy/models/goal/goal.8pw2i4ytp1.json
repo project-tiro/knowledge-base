@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* In particular, see why posterior inference and prediction can both decompose into independent problems associated with each CPT. What has to be true of the prior for the problem to decompose this way?",
+    "concept": "2c3j4f5b",
+    "last_mod": "2014-08-30T23:39:01.580Z"
+  },
+  "model": "graph.goal",
+  "pk": "8pw2i4ytp1"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0dp1y59v",
+    "last_mod": "2014-08-30T21:34:02.003Z",
+    "ordering": 426,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "Linear regression is an instructive example highlighting various issues of generalization."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glql0dp1y59v"
+}

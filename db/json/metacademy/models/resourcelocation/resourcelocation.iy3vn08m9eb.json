@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:13:22.288Z",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/multilin.pdf",
+    "cresource": "6v81899w4uz",
+    "ordering": -1,
+    "location_text": "Reference card on multilinear algebra",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iy3vn08m9eb"
+}

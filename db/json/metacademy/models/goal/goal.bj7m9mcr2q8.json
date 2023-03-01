@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to convert between the joint PDF and CDF",
+    "concept": "3vjwy6go",
+    "last_mod": "2014-08-31T15:49:33.728Z"
+  },
+  "model": "graph.goal",
+  "pk": "bj7m9mcr2q8"
+}

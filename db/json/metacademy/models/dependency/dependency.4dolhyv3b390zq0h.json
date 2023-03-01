@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "b390zq0h",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 415,
+    "target_goals": ["4mjb1dlm54", "4n0u0b3sdo", "uyspc07txs", "xntiq9ywo6"],
+    "source_goals": ["jo0xgzn0eg", "nfgfqkv2ll", "ngvexhb56o", "nrpe0lxi8u", "vsy8ngqezs"],
+    "source": "4dolhyv3",
+    "reason": "Bayes' rule is used to compute a posterior over models from the prior and marginal likelihoods."
+  },
+  "model": "graph.dependency",
+  "pk": "4dolhyv3b390zq0h"
+}

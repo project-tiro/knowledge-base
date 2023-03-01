@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "068x3j1s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 243,
+    "target_goals": ["b4q2f75lf6", "uvrptaumcv", "vo5778f8vv", "xzzna7gcnb"],
+    "source_goals": ["8ebp56l5b8", "f6e8p6cggs", "onppjs24q2", "ul57oe7e5a"],
+    "source": "6x87nosp",
+    "reason": "The Church-Turing thesis references Turing machines."
+  },
+  "model": "graph.dependency",
+  "pk": "6x87nosp068x3j1s"
+}

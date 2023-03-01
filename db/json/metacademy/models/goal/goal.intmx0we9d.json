@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* be able to determine if a variable occurs free in an expression",
+    "concept": "sug552ho",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "intmx0we9d"
+}

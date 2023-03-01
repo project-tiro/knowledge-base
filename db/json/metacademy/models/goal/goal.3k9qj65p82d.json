@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "When is a subtree pruned, and how do we know it's safe to prune the subtree?",
+    "concept": "qwj4lbj9",
+    "last_mod": "2014-11-08T23:21:13.328Z"
+  },
+  "model": "graph.goal",
+  "pk": "3k9qj65p82d"
+}

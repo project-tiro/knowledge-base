@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "positive definite matrices",
+    "pointers": "* The eigenvalues of a symmetric PSD matrix are closely related to the  [singular value decomposition](singular_value_decomposition)\n* Some common examples of PSD matrices:\n**  [covariance matrices](covariance_matrices) , which represent dependencies between different random variables\n**  [kernel matrices](kernel_trick) , a way of representing similarity in machine learning\n*  [Semidefinite programming](semidefinite_programming)  is a very general category of convex optimization problem.",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.4782461864533507,
+    "summary": "A symmetric matrix A is positive definite if x^T A x > 0 for any nonzero vector x, or positive semidefinite if the inequality is not necessarily strict. They can be equivalently characterized in terms of all of the eigenvalues being positive, or all of the pivots in Gaussian elimination being positive. Examples of PSD matrices include covariance matrices and Hessian matrices of convex functions. The singular value decomposition (SVD) is closely related to the eigendecomposition of a positive semidefinite matrix.\n",
+    "last_mod": "2014-10-20T00:07:16.217Z",
+    "tag": "positive_definite_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "yjhlehd7"
+}

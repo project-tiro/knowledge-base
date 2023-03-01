@@ -1,0 +1,19 @@
+{
+  "fields": {
+    "last_mod": "2014-08-13T09:59:02.411Z",
+    "concepts": ["09d4rrzl", "660f1vav", "6euy9vw3", "e2mkfu6w", "hcyt5zje", "itiw1vz6", "oraccr8b"],
+    "dependencies": [
+      "09d4rrzl6euy9vw3",
+      "09d4rrzloraccr8b",
+      "660f1vavhcyt5zje",
+      "6euy9vw3oraccr8b",
+      "e2mkfu6whcyt5zje",
+      "hcyt5zjeoraccr8b",
+      "itiw1vz6660f1vav",
+      "itiw1vz66euy9vw3"
+    ],
+    "title": "Automata theory"
+  },
+  "model": "graph.graph",
+  "pk": "3ymrfm7y"
+}

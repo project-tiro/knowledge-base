@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qxpc5lfx",
+    "last_mod": "2014-08-30T17:15:24.749Z",
+    "ordering": -1,
+    "target_goals": ["7qn1hcnhgzu", "8p9kbv8owsl", "nu0fycw97ey", "x8opko7ruan"],
+    "source_goals": ["qhvsd06flf", "urbyxx9vei", "vwb4txlsn8"],
+    "source": "ummxprtk",
+    "reason": "Lagrange duality is a property of convex optimization problems."
+  },
+  "model": "graph.dependency",
+  "pk": "ummxprtkqxpc5lfx"
+}

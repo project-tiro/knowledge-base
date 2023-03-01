@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Be able to reason intuitively about Bayes' Rule in terms of odds ratios",
+    "concept": "4dolhyv3",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "vsy8ngqezs"
+}

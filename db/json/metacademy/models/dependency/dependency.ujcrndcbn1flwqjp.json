@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n1flwqjp",
+    "last_mod": "2014-08-30T21:34:01.930Z",
+    "ordering": -1,
+    "target_goals": ["37al3i5sev1", "go6jccnod9x"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "The evidence approximation is formulated as an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbn1flwqjp"
+}

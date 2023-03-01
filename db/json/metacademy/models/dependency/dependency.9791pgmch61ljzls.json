@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "h61ljzls",
+    "last_mod": "2014-09-13T20:14:20.546Z",
+    "ordering": -1,
+    "target_goals": ["ca1dxgeox14", "g5nwv2sqkuo", "npnmcms5kfy", "t0dwo2e388m"],
+    "source_goals": ["7qso8pj5wd8", "9f8jlapr4o0", "s101ups7yen", "tcwaoad4hen"],
+    "source": "9791pgmc",
+    "reason": "Abstract data types are defined using specifications"
+  },
+  "model": "graph.dependency",
+  "pk": "9791pgmch61ljzls"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "rdlu01fzhs",
+    "ordering": 1,
+    "location_text": "Chapter 6, \"Sentences with more than one quantifier,\" up through Section 6.2, \"Mixed quantifiers,\" pages 154-159",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "77jh2d6jeq"
+}

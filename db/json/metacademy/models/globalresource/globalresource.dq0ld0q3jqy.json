@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online introduction to cryptography.",
+    "version_num": 0,
+    "title": "Udacity Applied Cryptography",
+    "url": "https://www.udacity.com/course/cs387",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-10-09T19:21:26.664Z",
+    "authors": "[u'Dave Evans']",
+    "edition_years": "[]",
+    "resource_type": "online course"
+  },
+  "model": "graph.globalresource",
+  "pk": "dq0ld0q3jqy"
+}

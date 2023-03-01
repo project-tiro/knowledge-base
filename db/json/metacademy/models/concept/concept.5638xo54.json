@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Indian buffet process",
+    "pointers": "* The  [IBP linear Gaussian model](ibp_linear_gaussian_model)  is an application of the IBP to learning latent binary representations of observe data.",
+    "tags": ["machinelearning", "probabilitytheor"],
+    "learn_time": 1.0906211966316057,
+    "summary": "The Indian Buffet Process (IBP) is a generative model for random \"feature allocations\" (a \"feature allocation\" is analogous to a clustering except a given datum can belong to more than one cluster). So while the Chinese Restaurant Process describes a generative model for dividing N integers (customers) into K partitions (table assignments), the IBP describes a generative model for dividing N integers into K subsets, where each integer can occur in an arbitrary number of subsets. These subsets are known as \"features\" and the entire set is known as a \"feature allocation\". Note: the IBP has a more formal definition in probability theory where it is known as the marginalized distribution of a Beta process.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "indian_buffet_process",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "5638xo54"
+}

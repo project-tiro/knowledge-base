@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m48dlx1l",
+    "last_mod": "2014-08-30T23:37:41.800Z",
+    "ordering": 491,
+    "target_goals": ["mxlpv0kjhn"],
+    "source_goals": ["hwjalyi7wl5", "i58krv7vmsz", "ra3yq5sw9ck"],
+    "source": "gpj01efp",
+    "reason": "The forward-backward algorithm is used to compute the E step."
+  },
+  "model": "graph.dependency",
+  "pk": "gpj01efpm48dlx1l"
+}

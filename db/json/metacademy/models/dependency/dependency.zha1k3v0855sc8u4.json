@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "855sc8u4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 6,
+    "target_goals": ["5833l4t5p3z", "qthbarjkvtj"],
+    "source_goals": ["150rtppooy", "8tvnk4f6jq", "p78kkc1vmp"],
+    "source": "zha1k3v0",
+    "reason": "The pushforward operator is based on the Chain Rule"
+  },
+  "model": "graph.dependency",
+  "pk": "zha1k3v0855sc8u4"
+}

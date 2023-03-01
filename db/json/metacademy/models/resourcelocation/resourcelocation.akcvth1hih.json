@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://videolectures.net/mackay_course_02/",
+    "cresource": "dye465c6o1",
+    "ordering": 0,
+    "location_text": "Lecture 2, \"Entropy and data compression (I): introduction to compression, information theory, and entropy\" ",
+    "location_type": "video lecture"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "akcvth1hih"
+}

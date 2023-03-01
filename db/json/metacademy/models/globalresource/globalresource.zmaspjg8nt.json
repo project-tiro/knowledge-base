@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Gradient-based learning applied to document recognition",
+    "url": "http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Yann LeCun', u'Leon Bottou', u'Yoshua Bengio', u'Patrick Haffner']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "zmaspjg8nt"
+}

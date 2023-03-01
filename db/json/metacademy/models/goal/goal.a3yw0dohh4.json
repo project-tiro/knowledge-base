@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Know the procedures for both the parametric and nonparametric bootstrap\n** When would you choose one over the other?\n** Note: for the parametric bootstrap, it may help to know about a point estimator such as  [maximum likelihood](maximum_likelihood) , but you can treat this as a black box.",
+    "concept": "u638jbmo",
+    "last_mod": "2014-09-14T21:51:50.732Z"
+  },
+  "model": "graph.goal",
+  "pk": "a3yw0dohh4"
+}

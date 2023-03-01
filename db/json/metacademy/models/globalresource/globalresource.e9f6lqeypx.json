@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online course on basic probability.",
+    "version_num": 0,
+    "title": "BerkeleyX: Introduction to Statistics: Probability",
+    "url": "https://courses.edx.org/courses/BerkeleyX/Stat2.2x/2013_April/courseware",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "e9f6lqeypx"
+}

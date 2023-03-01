@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oq495mey",
+    "last_mod": "2014-08-30T21:34:01.269Z",
+    "ordering": 864,
+    "target_goals": ["4aca3ammoz", "4uyiyaj7x3", "i3e4kz5h2z", "l4m35s3t3h", "npmo4n0b58"],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "Surface integrals are defined in terms of multiple integrals."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z3oq495mey"
+}

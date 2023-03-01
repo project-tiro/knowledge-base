@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "uninformative priors",
+    "pointers": "*  [Jeffreys priors](jeffreys_priors)  are a general way to construct uninformative priors.\n*  [Weakly informative priors](weakly_informative_priors)  keep the flexibility of uninformative priors while avoiding the problems caused by improper priors.\n* Improper priors  [can't be used](improper_priors_and_model_evidence)  when computing model evidence in Bayesian model comparison.",
+    "tags": ["bayesianstats"],
+    "learn_time": 1.2833411800074659,
+    "summary": "In Bayesian parameter estimation, uninformative priors are a way of making minimal assumptions about the model. They are commonly chosen to be invariant to certain transformations, such as translation or scaling. While uninformative priors are often improper, they can still lead to proper posterior distributions, and thereby be usable in posterior inference.\n",
+    "last_mod": "2014-08-30T20:12:10.749Z",
+    "tag": "uninformative_priors",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "mhkp5ddj"
+}

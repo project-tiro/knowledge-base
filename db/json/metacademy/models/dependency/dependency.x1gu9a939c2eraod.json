@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9c2eraod",
+    "last_mod": "2014-08-30T21:34:01.990Z",
+    "ordering": 680,
+    "target_goals": [],
+    "source_goals": ["2dpj7edmz1o", "9spfpnqxvah"],
+    "source": "x1gu9a93",
+    "reason": "The closed-form solution to linear regression generalizes to the multiple output case."
+  },
+  "model": "graph.dependency",
+  "pk": "x1gu9a939c2eraod"
+}

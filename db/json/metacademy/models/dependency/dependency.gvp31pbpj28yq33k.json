@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "j28yq33k",
+    "last_mod": "2014-08-31T15:09:49.888Z",
+    "ordering": 485,
+    "target_goals": ["3nuvfhiqv7", "jn6mq3n7bk", "vlpp9nd1am"],
+    "source_goals": ["29bxd7qr099", "35kdpx6a1pm", "m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "The statement of the theorem involves expected value and variances."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpj28yq33k"
+}

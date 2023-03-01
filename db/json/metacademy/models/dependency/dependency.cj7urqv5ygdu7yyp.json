@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ygdu7yyp",
+    "last_mod": "2014-08-30T21:34:00.849Z",
+    "ordering": 387,
+    "target_goals": [],
+    "source_goals": ["2qnttuww154", "3m6gwsfdv3z", "us8811ii19k", "ywwyl3xwtu4"],
+    "source": "cj7urqv5",
+    "reason": "MRFs are a way of organizing information about random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "cj7urqv5ygdu7yyp"
+}

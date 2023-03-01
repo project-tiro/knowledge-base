@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "cumulative distribution function",
+    "pointers": null,
+    "tags": ["freqstats", "probabilitytheor"],
+    "learn_time": 1.0276043101490293,
+    "summary": "The cumulative distribution function (CDF) of a random variable X is the function F, where F(a) is the probability that X <= a. CDFs are a convenient representation because they apply to both discrete and continuous random variables, and they can simplify many calculations.\n",
+    "last_mod": "2014-09-02T00:05:52.229Z",
+    "tag": "cumulative_distribution_function",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6jrbekjh"
+}

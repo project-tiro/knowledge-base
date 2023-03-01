@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "o86qck81",
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:24:37.064Z",
+    "ordering": -1,
+    "notes": "[u'Read about the specification conventions in Sections 3.2-3.3']",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[{u'title': u'specifications (programming)'}]",
+    "global_resource": "fyd29scy95j"
+  },
+  "model": "graph.conceptresource",
+  "pk": "azdduh1xlej"
+}

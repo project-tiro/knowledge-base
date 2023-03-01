@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "gamma function",
+    "pointers": "* The gamma function can be approximated with  [Stirling's formula](stirlings_formula) .\n* The gamma function features centrally in the  [Riemann hypothesis](riemann_hypothesis) .\n* The gamma function is needed to define several probability distributions:\n**  [gamma distribution](gamma_distribution)\n**  [beta distribution](beta_distribution)\n**  [Dirichlet distribution](dirichlet_distribution)\n* The gamma function is an example of an  [analytic function](analytic_functions) .",
+    "tags": [],
+    "learn_time": 0.6508738585308482,
+    "summary": "The gamma function is a generalization of factorials to real and complex numbers, e.g. 5.25! isn't well defined, but Gamma(5.25) is well defined. The Gamma function is formally defined as an improper integral that converges. It appears in a number of common distributions, e.g. the beta, gamma, and Dirichlet distribution.\n",
+    "last_mod": "2014-08-30T03:11:44.167Z",
+    "tag": "gamma_function",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "eah2lnit"
+}

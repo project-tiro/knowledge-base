@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know a technique for fixing the worst-case behavior (such as randomly choosing the pivot)",
+    "concept": "h0u95aab",
+    "last_mod": "2014-08-27T06:00:01.221Z"
+  },
+  "model": "graph.goal",
+  "pk": "dq8qghegzqc"
+}

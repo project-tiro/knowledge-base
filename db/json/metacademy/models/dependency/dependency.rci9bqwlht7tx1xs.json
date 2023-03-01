@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ht7tx1xs",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 854,
+    "target_goals": [],
+    "source_goals": ["2jqlt4gf7e", "378n082vvx", "i19spqsn2y"],
+    "source": "rci9bqwl",
+    "reason": "Bayes nets can be viewed as encoding a set of conditional independence assumptions."
+  },
+  "model": "graph.dependency",
+  "pk": "rci9bqwlht7tx1xs"
+}

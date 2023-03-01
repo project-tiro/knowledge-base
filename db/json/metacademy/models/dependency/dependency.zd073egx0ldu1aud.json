@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0ldu1aud",
+    "last_mod": "2014-09-14T04:00:03.393Z",
+    "ordering": -1,
+    "target_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source_goals": ["0lv6smy3d4h", "9qh3ajagtit", "fzyrr39ss6v"],
+    "source": "zd073egx",
+    "reason": "The predecessor graph (or search graph) can be represented as a tree"
+  },
+  "model": "graph.dependency",
+  "pk": "zd073egx0ldu1aud"
+}

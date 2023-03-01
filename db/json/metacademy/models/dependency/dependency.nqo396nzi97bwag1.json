@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "i97bwag1",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["ce6oa8yewvr", "idnhc0wcs3e", "mun2mvhkwzj", "qgofzm06qrg", "swhrzys2m6u", "x8l8umkugyl"],
+    "source_goals": ["1wgr9u5a2dt", "di3e9krpk5d", "ta1iefywurk", "u7idp6weub7", "w5c7j2apzbe"],
+    "source": "nqo396nz",
+    "reason": "A flow is a group of diffeomorphisms"
+  },
+  "model": "graph.dependency",
+  "pk": "nqo396nzi97bwag1"
+}

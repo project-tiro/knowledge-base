@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be familiar with the language's exception hierarchy, and understand what it means for one exception to be a subtype of another",
+    "concept": "o86qck81",
+    "last_mod": "2014-09-13T22:24:37.056Z"
+  },
+  "model": "graph.goal",
+  "pk": "x270mnh404f"
+}

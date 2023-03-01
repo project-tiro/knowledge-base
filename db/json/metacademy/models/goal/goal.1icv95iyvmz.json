@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know that the extreme must satisfy at least one of the following conditions: on the boundary, not differentiable, or all partial derivatives are zero",
+    "concept": "ujcrndcb",
+    "last_mod": "2014-08-30T18:24:27.931Z"
+  },
+  "model": "graph.goal",
+  "pk": "1icv95iyvmz"
+}

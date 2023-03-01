@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bd6229xe",
+    "last_mod": "2014-08-30T18:51:19.344Z",
+    "ordering": -1,
+    "target_goals": ["c5jl823g1hb", "f5sactlyqy9", "qayka8kwrjj", "rcop43kg3r6"],
+    "source_goals": [],
+    "source": "1q4o16ud",
+    "reason": "Probabilistic PCA involves performing inference in a model involving multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "1q4o16udbd6229xe"
+}

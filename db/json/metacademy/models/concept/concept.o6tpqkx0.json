@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Fisher metric",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 1.0956934671309673,
+    "summary": "The Fisher metric is a Riemannian metric on statistical manifolds. The coordinate representation is the Fisher information matrix. One motivation is that it gives the second-order approximation to some widely used divergences such as KL divergence.",
+    "last_mod": "2014-09-21T22:44:11.107Z",
+    "tag": "fisher_metric",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "o6tpqkx0"
+}

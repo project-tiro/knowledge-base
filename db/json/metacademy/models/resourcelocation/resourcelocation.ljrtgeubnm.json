@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/",
+    "cresource": "9xt8b1jwbj",
+    "ordering": 0,
+    "location_text": "Lecture \"Transposes, permutations, and vector spaces,\" starting from 20:00 ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ljrtgeubnm"
+}

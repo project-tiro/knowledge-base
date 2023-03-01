@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "8xlt2uvjn9",
+    "ordering": 1,
+    "location_text": "Section 2.6, \"Models of theories,\" subsection \"Finite models,\" pages 147-151",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ytcvp25u1e"
+}

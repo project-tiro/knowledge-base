@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Know what the predecessor graph (or search graph) refers to and why it is tree-structured",
+    "concept": "0ldu1aud",
+    "last_mod": "2014-11-08T21:48:44.051Z"
+  },
+  "model": "graph.goal",
+  "pk": "vy3gv08ku51"
+}

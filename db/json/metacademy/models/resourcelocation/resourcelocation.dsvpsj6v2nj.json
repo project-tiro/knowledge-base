@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T19:39:25.413Z",
+    "url": "http://en.wikipedia.org/wiki/Jeffreys_prior",
+    "cresource": "q8y2voyrs5r",
+    "ordering": -1,
+    "location_text": "Article \"Jeffreys prior\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dsvpsj6v2nj"
+}

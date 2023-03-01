@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how lines and planes can be represented as spans of vectors or as solutions to linear systems",
+    "concept": "ir16zf8s",
+    "last_mod": "2014-08-30T18:32:32.523Z"
+  },
+  "model": "graph.goal",
+  "pk": "cvt257bumh7"
+}

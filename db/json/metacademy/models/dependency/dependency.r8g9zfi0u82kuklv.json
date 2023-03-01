@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u82kuklv",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 186,
+    "target_goals": ["zajv192dbk"],
+    "source_goals": ["2j53fprhr7", "awaq2bqwrg", "u7pgwsiqjl"],
+    "source": "r8g9zfi0",
+    "reason": "One must show that the construction satisfies the field axioms."
+  },
+  "model": "graph.dependency",
+  "pk": "r8g9zfi0u82kuklv"
+}

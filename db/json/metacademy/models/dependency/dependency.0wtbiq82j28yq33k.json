@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "j28yq33k",
+    "last_mod": "2014-08-31T15:10:03.139Z",
+    "ordering": 486,
+    "target_goals": ["jn6mq3n7bk"],
+    "source_goals": ["1ztij09zfe6", "8rcp722kl04", "qais9g6qglm", "uffsmjg9q06", "zvh3xezt924"],
+    "source": "0wtbiq82",
+    "reason": "Moment generating functions are used to prove the theorem."
+  },
+  "model": "graph.dependency",
+  "pk": "0wtbiq82j28yq33k"
+}

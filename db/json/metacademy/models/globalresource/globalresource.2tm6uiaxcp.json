@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An undergraduate logic textbook aimed at philosophers, with an educational software package.",
+    "version_num": 0,
+    "title": "The Language of First-Order Logic",
+    "url": "http://www.amazon.com/The-Language-First-Order-Logic-IBM-compatible/dp/0937073903",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Jon Barwise', u'John Etchemendy']",
+    "edition_years": "[u'1991', u'1992', u'1993']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "2tm6uiaxcp"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:09:09.323Z",
+    "url": "http://introcs.cs.princeton.edu/java/42sort/",
+    "cresource": "ixxr2goath5",
+    "ordering": -1,
+    "location_text": "Section 4.2, \"Searching and sorting,\" subsection \"Binary search\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2uf6aciuxfl"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "y1719kys",
+    "last_mod": "2014-10-11T21:24:38.908Z",
+    "ordering": -1,
+    "target_goals": ["5upb6kz5zuj", "i9wfy4f7mbo", "u110xag5t1n"],
+    "source_goals": ["20v6gosbsc9", "ralmg75o0n0", "umprwxuy7dg"],
+    "source": "yjhlehd7",
+    "reason": "The SVD is equivalent to the spectral decomposition of a particular PSD matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7y1719kys"
+}

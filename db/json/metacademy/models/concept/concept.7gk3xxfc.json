@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Riemann integral",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The Riemann integral is a mathematically precise formulation of multiple integrals as sums over increasingly fine rectangular regions. Fubini's theorem shows it is equivalent to the iterated integral, which often gives a convenient way to compute it.\n",
+    "last_mod": "2014-08-30T19:19:45.630Z",
+    "tag": "riemann_integral",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "7gk3xxfc"
+}

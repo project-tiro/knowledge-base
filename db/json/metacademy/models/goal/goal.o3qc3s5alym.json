@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Understand why these three definitions are equivalent, and be able to convert between the corresponding representations",
+    "concept": "855sc8u4",
+    "last_mod": "2014-08-31T15:20:27.919Z"
+  },
+  "model": "graph.goal",
+  "pk": "o3qc3s5alym"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:39:10.481Z",
+    "url": "http://en.wikipedia.org/wiki/Statistical_manifold",
+    "cresource": "tc5lrgisy8p",
+    "ordering": -1,
+    "location_text": "Article \"Statistical manifold\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "fczp24zdq7f"
+}

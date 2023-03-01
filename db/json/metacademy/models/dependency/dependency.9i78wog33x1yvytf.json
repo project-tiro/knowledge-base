@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x1yvytf",
+    "last_mod": "2014-08-30T21:34:00.601Z",
+    "ordering": 34,
+    "target_goals": ["5c4cw97u53", "7e65781ifa", "t7k7cfbbs5"],
+    "source_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source": "9i78wog3",
+    "reason": "The particle filter is an algorithm for inference in hidden Markov models."
+  },
+  "model": "graph.dependency",
+  "pk": "9i78wog33x1yvytf"
+}

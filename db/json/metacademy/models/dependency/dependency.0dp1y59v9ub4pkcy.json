@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9ub4pkcy",
+    "last_mod": "2014-08-30T23:40:51.998Z",
+    "ordering": 902,
+    "target_goals": ["2ez7jdwsu6", "l7uzk3m3c8", "m0rsh3wia9"],
+    "source_goals": [],
+    "source": "0dp1y59v",
+    "reason": "One desideratum for Bayes net structures is that they generalize well to new data."
+  },
+  "model": "graph.dependency",
+  "pk": "0dp1y59v9ub4pkcy"
+}

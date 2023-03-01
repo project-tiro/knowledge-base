@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "tqhnc1sbofa",
+    "ordering": -1,
+    "location_text": "Chapter 11, \"The cotangent bundle,\" subsection \"Line integrals,\" pages 287-292",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ayq7bw0mufs"
+}

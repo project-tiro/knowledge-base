@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "zg3gnubl",
+    "version_num": 0,
+    "last_mod": "2014-09-07T02:14:35.737Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": ["5o14yexw71z", "6r4wqz5qrru"],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "g40vklweuuf"
+  },
+  "model": "graph.conceptresource",
+  "pk": "squtdwjo29e"
+}

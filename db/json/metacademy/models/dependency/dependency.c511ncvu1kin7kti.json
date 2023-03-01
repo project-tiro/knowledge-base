@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "1kin7kti",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 292,
+    "target_goals": ["zyusu8um7l"],
+    "source_goals": ["51pp4as8ip"],
+    "source": "c511ncvu",
+    "reason": "The Recursion Theorem is needed to define the semantics."
+  },
+  "model": "graph.dependency",
+  "pk": "c511ncvu1kin7kti"
+}

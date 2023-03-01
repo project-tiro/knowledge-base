@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "0wtbiq82",
+    "last_mod": "2014-08-30T18:12:39.994Z",
+    "ordering": -1,
+    "target_goals": ["1ztij09zfe6", "8rcp722kl04", "qais9g6qglm", "uffsmjg9q06", "zvh3xezt924"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The MGF is closely related to moments of a distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbp0wtbiq82"
+}

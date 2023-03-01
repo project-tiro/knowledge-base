@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Consider the maximum likelihood objective function for learning the parameters of an MRF given fully observed data.\n** Why doesn't the optimization problem decompose into separate optimization problems for each variable?\n** Why is it hard even to compute the objective function?\n** Derive the gradient of the objective function.\n** By setting the gradient to zero, show that for the maximum likelihood parameters, the model statistics must match the data statistics.",
+    "concept": "8e0cx8ap",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "gor92sai84"
+}

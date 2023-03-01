@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:28:57.442Z",
+    "url": "https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/courseware/Week_4/Lecture_5_CSPs_II_continued/",
+    "cresource": "y80igzfbqkw",
+    "ordering": -1,
+    "location_text": "Lecture 5, \"CSPs II,\" from Part 13, \"Local search,\" through part 14, \"Hill climbing\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pxcfjd88rc6"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Optional: show that the decision boundary in the two-class case is equivalent to performing classification with  [linear least squares](linear_regression) .",
+    "concept": "6m1m4ru9",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "4yhu1unkwn"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "skwbzslhfc",
+    "ordering": 0,
+    "location_text": "Section 4.3.5, \"Probit regression,\" pages 210-212",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2cdu4ny9cu"
+}

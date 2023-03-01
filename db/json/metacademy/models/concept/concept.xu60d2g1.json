@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "determinant",
+    "pointers": "* The determinant is used to define:\n** the  [characteristic polynomial](characteristic_polynomial)  of a matrix, which is important for dealing with eigenvalues\n**  [multivariate Gaussians](multivariate_gaussian_distribution) , a widely used probability distribution for multivariate data\n* The determinant can also be characterized as:\n** the constant term of the  [characteristic polynomial](characteristic_polynomial)\n** the product of the  [eigenvalues](eigenvalues_and_eigenvectors)  of a matrix\n* The determinant can be computed using:\n** the  [LU factorization](computing_the_determinant)\n** the  [singular value decomposition (SVD)](singular_value_decomposition)",
+    "tags": ["linearalgebra"],
+    "learn_time": 4.158464654291807,
+    "summary": "The determinant is a scalar value associated with a square matrix. It is convenient algebraically because it behaves nicely with respect to matrix multiplication, inverses, and transposes, as well as the Gaussian elimination operations. It gives the factor by which volumes are rescaled by the matrix's associated linear transformation. It also equals the product of the eigenvalues.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "determinant",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "xu60d2g1"
+}

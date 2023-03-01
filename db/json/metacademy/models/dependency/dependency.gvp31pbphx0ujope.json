@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "hx0ujope",
+    "last_mod": "2014-08-30T21:34:01.029Z",
+    "ordering": -1,
+    "target_goals": ["56h6almmmxz", "qladg96ndpw", "w0378si7g1a"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The strong law is about convergence to an expectation."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbphx0ujope"
+}

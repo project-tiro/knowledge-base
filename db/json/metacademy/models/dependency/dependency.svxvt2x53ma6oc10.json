@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3ma6oc10",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 213,
+    "target_goals": ["1kri8vlz1z", "ijs7y2fom8", "p1wzt7qcao"],
+    "source_goals": [],
+    "source": "svxvt2x5",
+    "reason": "Bayes Ball is an efficient way of computing d-separation."
+  },
+  "model": "graph.dependency",
+  "pk": "svxvt2x53ma6oc10"
+}

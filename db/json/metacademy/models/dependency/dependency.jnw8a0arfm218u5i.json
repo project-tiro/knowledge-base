@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fm218u5i",
+    "last_mod": "2014-08-30T21:34:01.188Z",
+    "ordering": 161,
+    "target_goals": [],
+    "source_goals": ["glf96o6nhgg", "jkh1n6wmem9", "jzaqk2v88hq", "s9jff82dx9l", "vuqdwu434n2", "z7fmo9r2dyo"],
+    "source": "jnw8a0ar",
+    "reason": "Fitting a Gaussian distribution is an instructive example of maximum likelihood estimation."
+  },
+  "model": "graph.dependency",
+  "pk": "jnw8a0arfm218u5i"
+}

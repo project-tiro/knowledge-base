@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l4im2jkx",
+    "last_mod": "2014-08-31T00:08:49.073Z",
+    "ordering": 0,
+    "target_goals": ["45s4lkalxjv", "cguejujbnpn", "pwfbwcnflpx"],
+    "source_goals": [],
+    "source": "0kkgvslp",
+    "reason": "The prior over covariance is easiest to express in information form."
+  },
+  "model": "graph.dependency",
+  "pk": "0kkgvslpl4im2jkx"
+}

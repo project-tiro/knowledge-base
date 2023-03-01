@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:45:09.364Z",
+    "url": "",
+    "cresource": "edprp9x8uzv",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Codage parcimonieux (Sparse coding)\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "97sxb3c1pvk"
+}

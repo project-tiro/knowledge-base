@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:40:02.542Z",
+    "url": "http://artint.info/html/ArtInt_52.html",
+    "cresource": "cnzhpon7z9z",
+    "ordering": -1,
+    "location_text": "Section 3.5, \"Uninformed search strategies\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3gcs7nbwgia"
+}

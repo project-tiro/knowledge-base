@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "bis59v968w",
+    "ordering": 1,
+    "location_text": "Section 20.2, \"The likelihood function,\" pages 944-949",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "cnga57x3zt"
+}

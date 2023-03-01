@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dccl5klt",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 134,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "5zwsgm7z",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "5zwsgm7zdccl5klt"
+}

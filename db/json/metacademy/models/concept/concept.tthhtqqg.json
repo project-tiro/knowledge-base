@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bloom filter",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 1.4544200160971321,
+    "summary": "A bloom filter is a space-efficient data structure for determining if a given item is in a set. It has a certain (small) probability of a false positive, but no chance of a false negative. ",
+    "last_mod": "2014-10-09T01:43:38.750Z",
+    "tag": "bloom_filter",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "tthhtqqg"
+}

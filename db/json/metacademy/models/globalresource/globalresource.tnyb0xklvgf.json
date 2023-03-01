@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for a course on statistical computing",
+    "version_num": 0,
+    "title": "Iowa State Stats 580, Statistical Computing (lecture notes)",
+    "url": "http://www.public.iastate.edu/~mervyn/stat580/Notes/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T16:00:56.731Z",
+    "authors": "[u'Mervyn Marasinghe']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "tnyb0xklvgf"
+}

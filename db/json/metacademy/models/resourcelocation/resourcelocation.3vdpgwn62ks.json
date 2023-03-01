@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T20:17:14.869Z",
+    "url": "",
+    "cresource": "hua6h8o18wr",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Procedural abstraction\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3vdpgwn62ks"
+}

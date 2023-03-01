@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "A* search",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 2.852002984817579,
+    "summary": "A* search is a search algorithm which makes use of a heuristic which estimates the distance from a node to a goal state. It iteratively expands nodes in order by their path cost plus their heuristic value. If the heuristic satisfies certain \"admissibility\" conditions, then A* is guaranteed to find an optimal path.\n",
+    "last_mod": "2014-11-08T21:21:15.691Z",
+    "tag": "a_star_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "6zgu0pb6"
+}

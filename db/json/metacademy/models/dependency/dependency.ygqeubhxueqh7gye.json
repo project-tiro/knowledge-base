@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ueqh7gye",
+    "last_mod": "2014-08-29T01:29:53.858Z",
+    "ordering": 1,
+    "target_goals": ["0kg4102gbl3", "dtmv57tbc07", "fz6en1b30tn", "p32em0z7iny", "wz2l6czyqfr"],
+    "source_goals": ["0rsvzyquytf", "1ic3mdidfqu", "5pb3ieh5ylo", "zff2dvy1l1v"],
+    "source": "ygqeubhx",
+    "reason": "Dijkstra's algorithm is related to breadth-first search"
+  },
+  "model": "graph.dependency",
+  "pk": "ygqeubhxueqh7gye"
+}

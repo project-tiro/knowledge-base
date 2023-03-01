@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "65t8tji2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 559,
+    "target_goals": ["80hn0e6jnp", "c2ppa363nt", "ld57feavrv", "qrzbxbyu5l", "yplt6sdie4"],
+    "source_goals": ["5wtb8aqscg", "5xmzbq5oto"],
+    "source": "d64717ph",
+    "reason": "Russell's Paradox motivates the need for axiomatic set theory."
+  },
+  "model": "graph.dependency",
+  "pk": "d64717ph65t8tji2"
+}

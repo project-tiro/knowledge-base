@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be able to convert matrices and vectors between bases algebraically",
+    "concept": "dyfwkbip",
+    "last_mod": "2014-08-31T15:13:04.142Z"
+  },
+  "model": "graph.goal",
+  "pk": "sd6di8tabv"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "singular value decomposition",
+    "pointers": "*  [Principal component analysis (PCA)](principal_component_analysis)  is a data analysis method based on the SVD.",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.4782461864533505,
+    "summary": "The singular value decomposition is a factorization of a matrix A into three matrices UDV^T, where D is diagonal and U and V have orthonormal columns. It's closely related to the eigenvalues and eigenvectors of A^T A and A A^T. It gives a way of analyzing general matrices (not necessarily square) in terms of things somewhat analogous to eigenvalues. Common applications include latent semantic analysis (LSA) and principal component analysis (PCA), a dimensionality reduction algorithm. \n\n",
+    "last_mod": "2014-08-30T19:23:15.053Z",
+    "tag": "singular_value_decomposition",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "y1719kys"
+}

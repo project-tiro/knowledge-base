@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:33:57.067Z",
+    "url": "",
+    "cresource": "56474ql6jxu",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"Quicksort,\" up through 7.2, \"Performance characteristics of quicksort,\" pages 315-324",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "g18pn36lriq"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:42:01.035Z",
+    "url": "",
+    "cresource": "3ytrrxgxbo9",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Champs markoviens conditionnels (Conditional Random Fields) - inférence\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "zmeq1dnakjd"
+}

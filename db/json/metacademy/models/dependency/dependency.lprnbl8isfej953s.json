@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sfej953s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["00ly5d3w9s8", "cxtqs128z3y", "g0blfko8cnx", "ju5uzzf9k3a", "qhc9m667iep", "rrtelxdgnet"],
+    "source_goals": ["m1kmygeblv", "p6e6v59le5", "stjcb1kgbq", "xwi3elf0qc"],
+    "source": "lprnbl8i",
+    "reason": "Line integrals are an important special case"
+  },
+  "model": "graph.dependency",
+  "pk": "lprnbl8isfej953s"
+}

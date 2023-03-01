@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for Stanford's machine learning course, aimed at graduate and advanced undergraduate students.",
+    "version_num": 0,
+    "title": "Stanford's Machine Learning lecture notes",
+    "url": "http://cs229.stanford.edu/materials.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Andrew Y. Ng']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "pgbcriymvi"
+}

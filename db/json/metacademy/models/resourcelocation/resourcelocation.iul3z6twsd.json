@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "3bxeoh5is6",
+    "ordering": 1,
+    "location_text": " Section 4.4, \"Expectation of a function of a random varible,\" pages 144-148",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iul3z6twsd"
+}

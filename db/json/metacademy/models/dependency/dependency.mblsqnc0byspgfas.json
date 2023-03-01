@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "byspgfas",
+    "last_mod": "2014-08-31T15:24:48.077Z",
+    "ordering": -1,
+    "target_goals": ["jh2zi4wzl3x", "o4b0w600ok7", "o5x898uoxub", "oerygn8zjg4"],
+    "source_goals": ["5bzak2k5sba", "ms74z6r81xd", "v8zfdf2nblq", "zr7rbb5mr2r"],
+    "source": "mblsqnc0",
+    "reason": "K-means is analogous to the EM algorithm for fitting Gaussian mixtures."
+  },
+  "model": "graph.dependency",
+  "pk": "mblsqnc0byspgfas"
+}

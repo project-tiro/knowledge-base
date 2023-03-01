@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zkmp82ll",
+    "last_mod": "2014-08-30T21:34:01.669Z",
+    "ordering": 941,
+    "target_goals": ["p22e7mcw7t"],
+    "source_goals": ["39jcgpca73z", "fknf1gn9r66", "q84jgl0d2ea"],
+    "source": "qipartpb",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "qipartpbzkmp82ll"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "o6tpqkx0",
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:34:13.475Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "ndegr172jra"
+  },
+  "model": "graph.conceptresource",
+  "pk": "okokaudsmtx"
+}

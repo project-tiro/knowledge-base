@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:27:09.154Z",
+    "url": "",
+    "cresource": "sz5x6up90di",
+    "ordering": -1,
+    "location_text": "Section 7.7, \"Interfaces\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ngoujuovvuc"
+}

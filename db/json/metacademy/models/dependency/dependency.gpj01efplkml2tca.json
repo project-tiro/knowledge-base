@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lkml2tca",
+    "last_mod": "2014-08-30T21:34:00.945Z",
+    "ordering": -1,
+    "target_goals": ["2rk64uoq57j"],
+    "source_goals": ["4ri78x1la24", "hwjalyi7wl5", "i58krv7vmsz", "iiw4v053w9l", "r9nqc9yq15l", "ra3yq5sw9ck"],
+    "source": "gpj01efp",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "gpj01efplkml2tca"
+}

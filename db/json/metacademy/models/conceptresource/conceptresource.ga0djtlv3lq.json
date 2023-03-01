@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "x2jslawy",
+    "version_num": 0,
+    "last_mod": "2014-11-19T04:00:05.703Z",
+    "ordering": -1,
+    "notes": "",
+    "goals_covered": [],
+    "edition": "",
+    "additional_dependencies": "[]",
+    "global_resource": "pce9rz8fby"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ga0djtlv3lq"
+}

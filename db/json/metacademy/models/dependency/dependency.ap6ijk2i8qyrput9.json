@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8qyrput9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 470,
+    "target_goals": [],
+    "source_goals": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "source": "ap6ijk2i",
+    "reason": "CRP clustering is a kind of Bayesian model."
+  },
+  "model": "graph.dependency",
+  "pk": "ap6ijk2i8qyrput9"
+}

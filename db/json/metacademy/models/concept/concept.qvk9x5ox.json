@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "weak law of large numbers",
+    "pointers": "* The  [strong law of large numbers](strong_law_of_large_numbers)  is a stronger form of this theorem, but which applies in more restricted cases.\n* The  [central limit theorem](central_limit_theorem)  characterizes the distribution of the average value more precisely.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.7312503533673582,
+    "summary": "Roughly, the laws of large numbers state that if a random variable is sampled many times, the average of all the values approaches the expectation. In particular, the weak law states that the probability of the average of n trials differing by more than some value epsilon goes to zero as n goes to infinity. Unlike the strong law, it only requires that the variables be uncorrelated, not necessarily independent.\n",
+    "last_mod": "2014-08-30T20:27:20.305Z",
+    "tag": "weak_law_of_large_numbers",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qvk9x5ox"
+}

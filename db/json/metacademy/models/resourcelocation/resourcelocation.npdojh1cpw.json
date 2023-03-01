@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T19:43:55.593Z",
+    "url": "http://en.wikipedia.org/wiki/Stochastic_gradient_descent",
+    "cresource": "6txz69i6an",
+    "ordering": 0,
+    "location_text": "Article: Stochastic Gradient Descent ",
+    "location_type": "wiki"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "npdojh1cpw"
+}

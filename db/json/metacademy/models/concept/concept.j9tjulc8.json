@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "unions of events",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.835674718521996,
+    "summary": "It is possible to compute or bound the probability of a union of two events in terms of the probabilities of each one separately and of their intersection. The formula can be generalized to unions of more than two events.\n",
+    "last_mod": "2014-08-30T20:13:40.818Z",
+    "tag": "unions_of_events",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "j9tjulc8"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Understand the justifications of generative pre-training: that it is supposed to find better local optima and prevent overfitting.\n** What evidence supports these claims?",
+    "concept": "uhxmipgh",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "p0hyrlascx"
+}

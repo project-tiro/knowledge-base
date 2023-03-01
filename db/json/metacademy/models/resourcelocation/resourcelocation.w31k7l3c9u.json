@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ab2624s76t",
+    "ordering": 0,
+    "location_text": "Section 4.4, \"Orthogonal bases and Gram-Schmidt,\" subsection \"The factorization A = QR,\" pages 235-238",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "w31k7l3c9u"
+}

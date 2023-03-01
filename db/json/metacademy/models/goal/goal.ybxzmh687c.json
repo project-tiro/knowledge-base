@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Show that a single-track Turing machine can simulate a multi-track Turing machine",
+    "concept": "wltj1far",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "ybxzmh687c"
+}

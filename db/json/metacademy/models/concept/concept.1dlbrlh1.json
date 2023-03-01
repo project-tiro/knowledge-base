@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "sampling from a Gaussian",
+    "pointers": "*  [How to sample from a multivariate Gaussian](sampling_multivariate_gaussian)",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "The transformation method can't be applied directly to sample from a Gaussian, since there's no closed form for the CDF. However, we can apply it using a simple trick.\n",
+    "last_mod": "2014-08-30T19:20:31.545Z",
+    "tag": "sampling_gaussian",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "1dlbrlh1"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture videos for the second term of Stanford's graduate convex optimization course",
+    "version_num": 0,
+    "title": "Stanford EE364b: Convex Optimization II",
+    "url": "http://stanford.edu/class/ee364b/videos.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-10-27T01:03:15.358Z",
+    "authors": "[u'Stephen Boyd']",
+    "edition_years": "[]",
+    "resource_type": "lecture videos"
+  },
+  "model": "graph.globalresource",
+  "pk": "fckdtb8j9py"
+}

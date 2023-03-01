@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:11:54.230Z",
+    "url": "http://en.wikipedia.org/wiki/Local_consistency#Arc_consistency",
+    "cresource": "cym52vrivis",
+    "ordering": -1,
+    "location_text": "Article \"Local consistency,\" subsection \"Arc consistency\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "s5wjvth4rvy"
+}

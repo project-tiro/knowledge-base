@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ghb79f4f",
+    "last_mod": "2014-08-30T23:47:59.698Z",
+    "ordering": 754,
+    "target_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "xdi8cq7o4y"],
+    "source_goals": [],
+    "source": "1q4o16ud",
+    "reason": "Bayesian linear regression requires conditioning and marginalizing multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "1q4o16udghb79f4f"
+}

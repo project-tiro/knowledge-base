@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kdx47zy4",
+    "last_mod": "2014-08-30T21:34:00.271Z",
+    "ordering": -1,
+    "target_goals": ["480d1je1d53", "rn9a99yvrse"],
+    "source_goals": ["k2oe2ho92ts", "scya75ka35l", "ybhjkl6pta9"],
+    "source": "26ufgluq",
+    "reason": "The forward pass of the Kalman smoother is the Kalman filter."
+  },
+  "model": "graph.dependency",
+  "pk": "26ufgluqkdx47zy4"
+}

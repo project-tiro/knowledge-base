@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to compute distances between points, lines, and planes",
+    "concept": "ir16zf8s",
+    "last_mod": "2014-08-30T18:32:58.618Z"
+  },
+  "model": "graph.goal",
+  "pk": "opc0bf6hu10"
+}

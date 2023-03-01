@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7lucjwrh",
+    "last_mod": "2014-08-30T21:34:00.545Z",
+    "ordering": -1,
+    "target_goals": ["qq3xjv260uu", "vbb3tzgzw80", "xn02wws917f"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The optimality conditions are given in terms of gradients."
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x667lucjwrh"
+}

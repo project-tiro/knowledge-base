@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:56:46.615Z",
+    "url": "",
+    "cresource": "j49xq4jq0x2",
+    "ordering": -1,
+    "location_text": "Chapter 4, \"Recurrences,\" up through 4.3, \"The master method,\" pages 53-64",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "x7lwnyznggv"
+}

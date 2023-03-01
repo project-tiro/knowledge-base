@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "computational complexity of graphical model inference",
+    "pointers": "* When exact inference is infeasible, we must resort to approximate inference algorithms, such as:\n**  [loopy belief propagation](loopy_belief_propagation) , which applies the BP update rules on non-tree graphs\n**  [Markov chain Monte Carlo](markov_chain_monte_carlo) , a sampling-based method\n**  [variational inference](variational_inference) , which tries to find a tractable approximation to the posterior",
+    "tags": ["pgm", "theorycomp"],
+    "learn_time": 0.6966948644410225,
+    "summary": "The major inference problems for graphical models (marginalization, MAP assignment, and partition function) are all intractable in the worst case. In particular, marginalization and partition function computation are both #P-complete, and MAP inference is NP-complete.\n",
+    "last_mod": "2014-08-31T15:34:50.010Z",
+    "tag": "complexity_of_inference",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "r4p17im0"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Emergence of simple-cell receptive field properties by learning a sparse code for natural images",
+    "url": "http://redwood.psych.cornell.edu/papers/olshausen_field_nature_1996.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Bruno A. Olshausen', u'David J. Field']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "9q6xn9tn3j"
+}

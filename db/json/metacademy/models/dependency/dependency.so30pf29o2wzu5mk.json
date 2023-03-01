@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o2wzu5mk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 630,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "so30pf29",
+    "reason": "Gaussian process classification builds on Gaussian process regression."
+  },
+  "model": "graph.dependency",
+  "pk": "so30pf29o2wzu5mk"
+}

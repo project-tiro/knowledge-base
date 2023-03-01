@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5zwsgm7z",
+    "last_mod": "2014-08-30T21:34:00.881Z",
+    "ordering": 652,
+    "target_goals": [],
+    "source_goals": ["dgbbyg8wi63", "v7qz6bqtp96"],
+    "source": "eah2lnit",
+    "reason": "The gamma function is part of the definition of the Dirichlet distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "eah2lnit5zwsgm7z"
+}

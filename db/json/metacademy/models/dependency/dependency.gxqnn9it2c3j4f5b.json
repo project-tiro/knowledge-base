@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "2c3j4f5b",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 496,
+    "target_goals": ["8pw2i4ytp1", "9go06loauq", "cn8zbvh8jj"],
+    "source_goals": ["3qn9wq2mf3", "49e2933rqg", "jsu04euchp"],
+    "source": "gxqnn9it",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "gxqnn9it2c3j4f5b"
+}

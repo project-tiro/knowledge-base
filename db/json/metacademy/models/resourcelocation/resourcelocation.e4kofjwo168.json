@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:17:27.368Z",
+    "url": "",
+    "cresource": "5e36v20tugf",
+    "ordering": -1,
+    "location_text": "Section 6.3, \"Alpha-beta pruning,\" pages 167-171",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "e4kofjwo168"
+}

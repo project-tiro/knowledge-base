@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/neuralnets-2012-001/lecture/85",
+    "cresource": "9qypwiepiw",
+    "ordering": 3,
+    "location_text": "Lecture \"Why it is difficult to train an RNN\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r8kdbcf911"
+}

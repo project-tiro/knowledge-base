@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "a6qfqva8ew",
+    "ordering": 0,
+    "location_text": "Section 3.4, \"Independent random variables,\" pages 84-86",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5nxqip4e79"
+}

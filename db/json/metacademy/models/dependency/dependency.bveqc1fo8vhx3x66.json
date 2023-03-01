@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "target": "8vhx3x66",
+    "last_mod": "2014-08-30T21:34:00.717Z",
+    "ordering": -1,
+    "target_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": "The linear approximation is given in terms of a dot product with the gradient."
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1fo8vhx3x66"
+}

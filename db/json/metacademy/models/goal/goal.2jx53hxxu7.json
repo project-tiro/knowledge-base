@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Derive the form of the decision boundary in the two-class case when the within-class covariance matrices are shared. In particular, show that it is always a hyperplane.",
+    "concept": "6m1m4ru9",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "2jx53hxxu7"
+}

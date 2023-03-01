@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "heap (data structure)",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.8382078966391018,
+    "summary": "A heap is a data structure which efficiently implements a priority queue, where one can insert values and retrieve the smallest value, each in logarithmic time. Conceptually, it is implemented as a binary tree where each node is smaller than either of its children. Canonical use cases include heapsort, an efficient sorting algorithm, and the priority queues used in graph search algorithms. (Note that this data structure has nothing to do with the heap where memory is allocated.)\n",
+    "last_mod": "2014-11-08T20:55:20.663Z",
+    "tag": "heap_data_structure",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "hkrsnv1p"
+}

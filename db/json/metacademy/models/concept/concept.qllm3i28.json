@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "converting between graphical models",
+    "pointers": null,
+    "tags": ["pgm"],
+    "learn_time": 1.7267115240325477,
+    "summary": "Bayes nets and MRFs are two frameworks for specifying factorization and conditional independence structure in probabilistic models. There are transformations which convert from one graphical model formalism to the other. However, sometimes these transformations must lose precision, because there are sets of independencies which can be represented as Bayes nets but not MRFs, and vice versa.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "converting_between_graphical_models",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qllm3i28"
+}

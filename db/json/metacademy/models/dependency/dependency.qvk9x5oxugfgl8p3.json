@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ugfgl8p3",
+    "last_mod": "2014-08-30T21:34:01.677Z",
+    "ordering": 305,
+    "target_goals": ["jlpi3pffcs", "sets41ek8c"],
+    "source_goals": ["7lsl1wugmu6", "j6v3te8qgog", "jchgs8wug6t", "lvt690yfebn"],
+    "source": "qvk9x5ox",
+    "reason": "The law of large numbers is needed to analyze the average distances between points in high dimensions."
+  },
+  "model": "graph.dependency",
+  "pk": "qvk9x5oxugfgl8p3"
+}

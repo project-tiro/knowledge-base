@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "m8no247q",
+    "last_mod": "2014-08-31T00:18:41.879Z",
+    "ordering": 3,
+    "target_goals": ["76lp968vl4"],
+    "source_goals": ["4e2nq1x1fa", "jrsdo9cjzm", "p2jqn3ofie", "pc4prflil4"],
+    "source": "4t7kblme",
+    "reason": "Boltzmann machines are a probabilistic version of Hopfield networks."
+  },
+  "model": "graph.dependency",
+  "pk": "4t7kblmem8no247q"
+}

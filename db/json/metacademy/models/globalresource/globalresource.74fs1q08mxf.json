@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for an undergraduate machine learning course",
+    "version_num": 0,
+    "title": "University of Toronto CSCC11: Introduction to Machine Learning and Data Mining",
+    "url": "http://www.cs.toronto.edu/~mbrubake/teaching/C11-Fall2014/notesReadings.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-21T01:53:57.238Z",
+    "authors": "[u'Marcus Brubaker']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "74fs1q08mxf"
+}

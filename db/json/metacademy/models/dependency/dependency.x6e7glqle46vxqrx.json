@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "e46vxqrx",
+    "last_mod": "2014-08-30T21:34:02.019Z",
+    "ordering": 49,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "The bias-variance decomposition holds exactly in the case of linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glqle46vxqrx"
+}

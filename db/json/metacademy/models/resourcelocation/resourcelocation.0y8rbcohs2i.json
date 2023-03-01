@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:00:47.096Z",
+    "url": "http://en.wikipedia.org/wiki/Tree_(data_structure)",
+    "cresource": "jucvm5zafht",
+    "ordering": -1,
+    "location_text": "Article \"Tree (data structure)\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0y8rbcohs2i"
+}

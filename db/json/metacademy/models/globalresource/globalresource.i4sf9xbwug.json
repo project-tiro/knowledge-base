@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook for a second course in linear algebra, with mathematical generalizations of the basic concepts.",
+    "version_num": 0,
+    "title": "Linear Algebra Done Right",
+    "url": "http://linear.axler.net/",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Sheldon Axler']",
+    "edition_years": "[u'???', u'2004']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "i4sf9xbwug"
+}

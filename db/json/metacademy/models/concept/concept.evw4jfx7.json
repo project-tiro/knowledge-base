@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "binary search trees",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 0.9731159815850174,
+    "summary": "A binary search tree is a data structure which supports efficient search, insertion, and deletion operations. In particular, it is a binary tree where each left child is less than its parent, and each right child is greater than its parent. Search, insertion, and deletion can be done in logarithmic time, assuming the tree is somehow kept balanced.",
+    "last_mod": "2014-09-14T16:35:10.853Z",
+    "tag": "binary_search_trees",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "evw4jfx7"
+}

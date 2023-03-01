@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "26ufgluq",
+    "last_mod": "2014-08-30T21:34:00.305Z",
+    "ordering": -1,
+    "target_goals": ["k2oe2ho92ts", "scya75ka35l", "ybhjkl6pta9"],
+    "source_goals": ["0dn5y4a30ff", "bj7m9mcr2q8", "f3qgin4eljt", "rvudncn4e2b", "v1aisgae154"],
+    "source": "3vjwy6go",
+    "reason": "The Kalman filter is an algorithm for marginalization."
+  },
+  "model": "graph.dependency",
+  "pk": "3vjwy6go26ufgluq"
+}

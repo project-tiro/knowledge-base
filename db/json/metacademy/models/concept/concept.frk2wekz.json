@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "PAC learning",
+    "pointers": "* The  [Occam learning](occam_learning)  formalism justifies why simple classifiers should be expected to perform well.\n*  [VC dimension](vc_dimension)  is a measure of complexity which allows these results to be generalized to continuous hypothesis spaces.\n* Some examples of PAC learning:\n**  [graphical model structures](pac_graphical_model_structures)\n**  [finite state machines](pac_finite_state_machines)\n*  [PAC-Bayesian analysis](pac_bayes)  allows us to derive PAC-style bounds for Bayesian classifiers",
+    "tags": ["theorycomp"],
+    "learn_time": 2.0233893793929796,
+    "summary": "Probably approximately correct (PAC) learning is a theoretical framework for analyzing the generalization error of a learning algorithm in terms of its error on a training set and some measure of complexity. The goal is typically to show that an algorithm achieves low generalization error with high probability.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "pac_learning",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "frk2wekz"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "c1alw8kz",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'the top answer provides a good set of links that dig into the question \"how many clusters should I use?\" (NB: this question is a Pandora\\'s box)']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "1nbbtqyd3d"
+  },
+  "model": "graph.conceptresource",
+  "pk": "quh5pvdg0x"
+}

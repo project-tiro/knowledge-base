@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Mathematical Methods in the Physical Sciences",
+    "url": "http://www.amazon.com/Mathematical-Methods-Physical-Sciences-Mary/dp/0471198269",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Mary Boas']",
+    "edition_years": "[u'???', u'1983', u'2005']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "goedpskdlx"
+}

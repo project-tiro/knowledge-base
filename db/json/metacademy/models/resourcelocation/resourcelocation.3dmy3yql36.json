@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/probability/independent-dependent-probability/addition_rule_probability",
+    "cresource": "whqbktxqbz",
+    "ordering": 1,
+    "location_text": "Lecture sequence \"Venn diagrams and adding probabilities\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3dmy3yql36"
+}

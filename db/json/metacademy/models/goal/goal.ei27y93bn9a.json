@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know that if A is independent of B, then A is also independent of B's complement",
+    "concept": "k959cyjm",
+    "last_mod": "2014-08-30T16:57:09.803Z"
+  },
+  "model": "graph.goal",
+  "pk": "ei27y93bn9a"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "x1gu9a93",
+    "last_mod": "2014-08-30T21:34:00.506Z",
+    "ordering": -1,
+    "target_goals": ["2dpj7edmz1o", "9spfpnqxvah"],
+    "source_goals": ["7wk8c4dp2ic", "l4mzu3wad29", "pbbv00pimwe", "z4rz1o7blmw"],
+    "source": "72g95twq",
+    "reason": "The linear regression parameters are fit by solving a linear least squares problem. The issues involved in linear least squares, such as stability, are important in fitting linear regression as well. Several algorithms for linear least squares have interesting statistical interpretations."
+  },
+  "model": "graph.dependency",
+  "pk": "72g95twqx1gu9a93"
+}

@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "8lles84k",
+    "last_mod": "2014-10-27T01:00:51.850Z",
+    "ordering": -1,
+    "target_goals": ["2o0h62o5myd", "h7rdf1yp04w", "jlpx3shvir1", "wbiloh1fua6"],
+    "source_goals": [
+      "5qx5yzt9i5j",
+      "8x9ahdkmf17",
+      "b9tpgjb4kvx",
+      "d95iitv0ulb",
+      "tv9zwga0i6y",
+      "ufellz3l680",
+      "z4mjgifk3ji"
+    ],
+    "source": "enkz0tvz",
+    "reason": "The truncated Newton algorithm uses conjugate gradient"
+  },
+  "model": "graph.dependency",
+  "pk": "enkz0tvz8lles84k"
+}

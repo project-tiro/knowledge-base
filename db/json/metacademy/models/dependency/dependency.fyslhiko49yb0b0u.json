@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "49yb0b0u",
+    "last_mod": "2014-08-30T23:51:11.372Z",
+    "ordering": 878,
+    "target_goals": [],
+    "source_goals": ["5zv1cyiyqh6", "96u5ytc78og", "goy0dn31fjy", "rxw7ns5pvdq"],
+    "source": "fyslhiko",
+    "reason": "Logistic regression is an instructive example of a discriminative model."
+  },
+  "model": "graph.dependency",
+  "pk": "fyslhiko49yb0b0u"
+}

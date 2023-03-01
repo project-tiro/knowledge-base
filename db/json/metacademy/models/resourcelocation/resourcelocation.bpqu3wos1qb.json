@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T04:06:27.040Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=57",
+    "cresource": "n2705ms8eyi",
+    "ordering": -1,
+    "location_text": "Section 7.1, \"Orientation,\" pages 57-61",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bpqu3wos1qb"
+}

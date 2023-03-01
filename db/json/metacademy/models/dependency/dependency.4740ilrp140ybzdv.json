@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "140ybzdv",
+    "last_mod": "2014-10-27T00:59:56.323Z",
+    "ordering": 2,
+    "target_goals": ["agctlsqph9f"],
+    "source_goals": ["rk6kg2quda6"],
+    "source": "4740ilrp",
+    "reason": "Preconditioned conjugate gradient is motivated in terms of the condition number"
+  },
+  "model": "graph.dependency",
+  "pk": "4740ilrp140ybzdv"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gluv53rd",
+    "last_mod": "2014-08-30T23:54:02.779Z",
+    "ordering": 959,
+    "target_goals": ["6umozx10ra"],
+    "source_goals": ["czfzdhezjoo", "j0ftdcd5d34"],
+    "source": "fehjcvme",
+    "reason": "The Laplace approximation is a simple way to approximate Bayesian logistic regression."
+  },
+  "model": "graph.dependency",
+  "pk": "fehjcvmegluv53rd"
+}

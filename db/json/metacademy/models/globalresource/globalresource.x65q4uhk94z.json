@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for a brief but theoretically rigorous introduction to modern cryptography, at the advanced undergraduate or introductory graduate level.",
+    "version_num": 0,
+    "title": "Lecture Notes on Cryptography",
+    "url": "http://cseweb.ucsd.edu/~mihir/papers/gb.pdf",
+    "notes": "",
+    "year": 2008,
+    "access": "free",
+    "last_mod": "2014-10-09T20:18:30.688Z",
+    "authors": "[u'Shafi Goldwasser', u'Mihir Bellare']",
+    "edition_years": "[]",
+    "resource_type": "Lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "x65q4uhk94z"
+}

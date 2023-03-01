@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "3jkfgvut",
+    "last_mod": "2014-09-13T22:52:58.167Z",
+    "ordering": -1,
+    "target_goals": ["0xmtydbomrn", "gy7h03xmy8h", "sm8ub57gget", "t9ys5m7ms1n", "ujhtyuuw9ff", "uv3mdz60oz5"],
+    "source_goals": [
+      "0frdbqwk667",
+      "2i9bp8z92wn",
+      "42rqgmnl2kb",
+      "681cl6bmb49",
+      "km7xdn7z8dg",
+      "mz97vyjyzy6",
+      "tt1m2paft7q",
+      "wbigwzyagp9"
+    ],
+    "source": "x865hwhs",
+    "reason": "Iterators are often implemented as classes"
+  },
+  "model": "graph.dependency",
+  "pk": "x865hwhs3jkfgvut"
+}

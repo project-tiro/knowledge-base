@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that the flows for two vector fields commute if and only if the Lie bracket is zero",
+    "concept": "tduhdoe9",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "bn3jvqwj0iw"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x1yvytf",
+    "last_mod": "2014-08-30T21:34:00.581Z",
+    "ordering": 35,
+    "target_goals": ["5c4cw97u53", "7e65781ifa", "t7k7cfbbs5"],
+    "source_goals": ["1fg85bbcg88", "211prlc36qi", "ei413jhsrft"],
+    "source": "91puxjry",
+    "reason": "The particle filter is a Monte Carlo algorithm."
+  },
+  "model": "graph.dependency",
+  "pk": "91puxjry3x1yvytf"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "k959cyjm",
+    "last_mod": "2014-08-30T16:57:30.084Z",
+    "ordering": -1,
+    "target_goals": ["8n0cw5qvie8", "963rufpw1ks", "ei27y93bn9a", "x4umo5csd04"],
+    "source_goals": ["8yvudaocys", "p7m89w1xr1"],
+    "source": "7yxf3ip3",
+    "reason": "The definition of independence can be thought of in terms of conditional probability."
+  },
+  "model": "graph.dependency",
+  "pk": "7yxf3ip3k959cyjm"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7pck5wk9",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 480,
+    "target_goals": ["1bnydl1hpm", "5rmggqrvzw", "edzd9mfbex", "gbmziyfhto", "nlskyjw6qx"],
+    "source_goals": ["1ml3tz2gmx", "cup5vqdjkh", "d8pynqqwiw"],
+    "source": "jfrdulg7",
+    "reason": "NP-complete problems are the hardest problems in NP."
+  },
+  "model": "graph.dependency",
+  "pk": "jfrdulg77pck5wk9"
+}

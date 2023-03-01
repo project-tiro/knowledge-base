@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "interpretations between theories",
+    "pointers": null,
+    "tags": [],
+    "learn_time": 1.6917283987895184,
+    "summary": "Somtimes one mathematical theory T1 (e.g. set theory) is powerful enough to define the objects in and derive all the theorems of another theory T0 (e.g. Peano arithmetic). An interpretation from T0 into T1 is a systematic way of translating statements in T0 into the corresponding statements in T1. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "interpretations_between_theories",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "njmyl167"
+}

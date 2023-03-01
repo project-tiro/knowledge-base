@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:39:20.214Z",
+    "url": "http://artint.info/html/ArtInt_89.html",
+    "cresource": "xveivz58nu6",
+    "ordering": -1,
+    "location_text": "Section 4.8.2.4, \"Simulated annealing\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bvt8mfwdq9k"
+}

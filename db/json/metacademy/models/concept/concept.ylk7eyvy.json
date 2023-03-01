@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "column space and nullspace",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.0031019777484738,
+    "summary": "The column space is the subspace spanned by the columns of a matrix A. The nullspace is the set of solutions to Ax = 0. Both subspaces are useful for characterizing the sets of solutions to linear systems.\n\n",
+    "last_mod": "2014-08-31T15:18:51.147Z",
+    "tag": "column_space_and_nullspace",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ylk7eyvy"
+}

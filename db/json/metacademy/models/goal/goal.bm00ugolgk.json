@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Define a register machine (there are many variants which are Turing complete)",
+    "concept": "4900tsu6",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "bm00ugolgk"
+}

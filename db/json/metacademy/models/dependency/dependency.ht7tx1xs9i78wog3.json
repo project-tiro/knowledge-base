@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "9i78wog3",
+    "last_mod": "2014-08-30T03:34:48.784Z",
+    "ordering": -1,
+    "target_goals": ["1ohde7xkpfl", "f8b39he10ol", "gfxhhge3c5l", "gqwdxpno1cn", "j17vvtfp46u", "of2q0pof4un"],
+    "source_goals": [],
+    "source": "ht7tx1xs",
+    "reason": "An HMM can be represented in terms of a Bayes net."
+  },
+  "model": "graph.dependency",
+  "pk": "ht7tx1xs9i78wog3"
+}

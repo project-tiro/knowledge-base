@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-19T03:34:07.387Z",
+    "url": "",
+    "cresource": "3o8cni4f79i",
+    "ordering": -1,
+    "location_text": "Section 8.1, \"Finite-difference derivative approximations,\" up through \"Approximating the gradient,\" pages 194-197",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "v50dgnofrms"
+}

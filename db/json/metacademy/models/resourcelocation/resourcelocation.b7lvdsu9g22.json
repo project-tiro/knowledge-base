@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:34:26.079Z",
+    "url": "",
+    "cresource": "pmjblvc7oca",
+    "ordering": -1,
+    "location_text": "Section 5.7, \"Reasoning about data abstractions\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "b7lvdsu9g22"
+}

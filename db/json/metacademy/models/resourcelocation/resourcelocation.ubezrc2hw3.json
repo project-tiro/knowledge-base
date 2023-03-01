@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "74uzv5x2j9",
+    "ordering": 1,
+    "location_text": " Section 3.9, \"Functions of two or more random variables,\" pages 165-175",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ubezrc2hw3"
+}

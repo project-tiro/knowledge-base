@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "qvk9x5ox",
+    "last_mod": "2014-08-30T21:34:01.058Z",
+    "ordering": -1,
+    "target_goals": ["7lsl1wugmu6", "j6v3te8qgog", "jchgs8wug6t", "lvt690yfebn"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "The weak law of large numbers is about convergence to an expectation."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpqvk9x5ox"
+}

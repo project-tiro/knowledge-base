@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/machlearning-001/lecture/275",
+    "cresource": "c2b1e2e2yy",
+    "ordering": 1,
+    "location_text": "Lecture \"Bagging\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "guu2rm7gkh"
+}

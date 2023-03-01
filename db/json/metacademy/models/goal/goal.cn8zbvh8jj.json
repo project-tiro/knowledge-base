@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be able to represent the Bayesian parameter estimation problem itself as a Bayes net, i.e. build a Bayes net where the parameters and data are represented as separate sets of variables. This ties together the problems of learning and inference.",
+    "concept": "2c3j4f5b",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "cn8zbvh8jj"
+}

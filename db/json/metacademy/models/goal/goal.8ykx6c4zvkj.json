@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what the incomplete Cholesky factorization is, and why it might be a better choice of preconditioner than the diagonal entries",
+    "concept": "140ybzdv",
+    "last_mod": "2014-10-27T01:01:03.864Z"
+  },
+  "model": "graph.goal",
+  "pk": "8ykx6c4zvkj"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "mxpmyv5u",
+    "last_mod": "2014-08-31T15:49:52.215Z",
+    "ordering": 634,
+    "target_goals": ["iae14vnjvk", "m15n6xggsj"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "Independent random variables have zero covariance."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98emxpmyv5u"
+}

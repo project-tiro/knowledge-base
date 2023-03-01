@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware of the motivation in terms of reducing the condition number of A (and hence understand why the preconditioning matrix M should approximate A)",
+    "concept": "140ybzdv",
+    "last_mod": "2014-10-20T01:27:39.214Z"
+  },
+  "model": "graph.goal",
+  "pk": "agctlsqph9f"
+}

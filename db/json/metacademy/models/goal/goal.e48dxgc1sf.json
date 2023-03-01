@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Understand the k-means++ initialization procedure, how it's a stochastic algorithm, and the interpretation of the optimality guarantee",
+    "concept": "etisytk7",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "e48dxgc1sf"
+}

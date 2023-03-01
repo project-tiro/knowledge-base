@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Princeton BNP Class: Lecture Notes 7",
+    "url": "http://www.cs.princeton.edu/courses/archive/fall07/cos597C/scribe/20071105.pdf",
+    "notes": "",
+    "year": 2007,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Min Sun', u'Mike Wawrzoniak']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "yp9ys8bmus"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:28:30.478Z",
+    "url": "http://www.youtube.com/watch?v=Fs-raHUnF2M",
+    "cresource": "zmvny4pwgcl",
+    "ordering": -1,
+    "location_text": "Lecture \"Model selection\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5yt0agx3r57"
+}

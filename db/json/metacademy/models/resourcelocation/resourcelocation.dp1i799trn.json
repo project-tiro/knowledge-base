@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ctg1z6d9bi",
+    "ordering": 1,
+    "location_text": "Section 8.3, \"Using first-order logic,\" pages 253-260",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dp1i799trn"
+}

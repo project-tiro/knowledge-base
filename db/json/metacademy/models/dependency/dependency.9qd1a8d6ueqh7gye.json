@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ueqh7gye",
+    "last_mod": "2014-08-29T01:29:22.034Z",
+    "ordering": 0,
+    "target_goals": ["0kg4102gbl3", "dtmv57tbc07", "fz6en1b30tn", "p32em0z7iny", "wz2l6czyqfr"],
+    "source_goals": ["4cgc1ll3rwz", "k8j9zqs1pz4", "sciukb923a9"],
+    "source": "9qd1a8d6",
+    "reason": "Dijkstra's algorithm is a graph algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "9qd1a8d6ueqh7gye"
+}

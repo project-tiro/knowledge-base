@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:20:33.174Z",
+    "url": "http://www.youtube.com/watch?v=SGZ6BttHMPw",
+    "cresource": "kv20xacggfi",
+    "ordering": -1,
+    "location_text": "Lecture \"Artificial Neuron\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yf9hu365p9o"
+}

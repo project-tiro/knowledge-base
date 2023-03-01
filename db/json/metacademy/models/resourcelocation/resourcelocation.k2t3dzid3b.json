@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "ygf4w4p6vw",
+    "ordering": 1,
+    "location_text": "Section 14.3, \"Particle systems,\" pages 547-559",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "k2t3dzid3b"
+}

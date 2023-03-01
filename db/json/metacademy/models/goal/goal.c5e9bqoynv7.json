@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "What is the interpretation of the learning rate for stochastic gradient descent compared to full gradient descent?",
+    "concept": "57amwk40",
+    "last_mod": "2014-08-30T23:33:25.286Z"
+  },
+  "model": "graph.goal",
+  "pk": "c5e9bqoynv7"
+}

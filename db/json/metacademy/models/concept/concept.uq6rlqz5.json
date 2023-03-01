@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "defining the cardinals",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 1.0098317254354081,
+    "summary": "Intuitively, one would like to define cardinal numbers as equivalence classes of sets, but unfortunately, these equivalence classes are too large to be sets. Instead, the cardinal numbers can be defined from the ordinal numbers. This construction requires the Axiom of Choice.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "defining_the_cardinals",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "uq6rlqz5"
+}

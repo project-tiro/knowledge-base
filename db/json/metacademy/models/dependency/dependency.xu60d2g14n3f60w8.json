@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4n3f60w8",
+    "last_mod": "2014-08-30T20:28:15.839Z",
+    "ordering": -1,
+    "target_goals": ["3zpbku1zz6t"],
+    "source_goals": ["l26wpxymsra"],
+    "source": "xu60d2g1",
+    "reason": "The probability density function includes a determinant."
+  },
+  "model": "graph.dependency",
+  "pk": "xu60d2g14n3f60w8"
+}

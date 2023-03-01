@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bjleobug",
+    "last_mod": "2014-09-01T23:58:07.389Z",
+    "ordering": 3,
+    "target_goals": ["1pb8m91v4t", "gt5mcrv9g2", "q1cmx9sfi2", "sak5rxzyk2", "zfxkrcthbd"],
+    "source_goals": ["29bxd7qr099", "35kdpx6a1pm", "m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "Entropy is defined in terms of an expectation."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpbjleobug"
+}

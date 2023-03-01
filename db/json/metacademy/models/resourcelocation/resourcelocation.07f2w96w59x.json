@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:51:01.371Z",
+    "url": "http://www.cs.toronto.edu/~mbrubake/teaching/C11-Fall2014/Handouts/LinearRegression.pdf",
+    "cresource": "hc014d9i9zi",
+    "ordering": -1,
+    "location_text": "Lecture notes 2, \"Linear regression\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "07f2w96w59x"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "xt7ke688qb",
+    "ordering": 1,
+    "location_text": "Lecture \"The error surface of a linear neuron\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ke19ckyteu"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "propositional logic",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 2.513007306187288,
+    "summary": "Propositional logic is a logical formalism where the variables correspond to atomic sentences which are either true or false. Formulas are constructed using the connectives AND, OR, NOT, and IMPLIES. The semantics can be defined in terms of \"truth tables,\" or equivalently boolean functions. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "propositional_logic",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "iqeem7gj"
+}

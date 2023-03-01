@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Divergence Theorem",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.0958702422060187,
+    "summary": "The Divergence Theorem is a theorem relating the flux across a surface to the integral of the divergence over the interior. It can be seen as a three-dimensional generalization of Green's Theorem.\n\n",
+    "last_mod": "2014-09-01T02:43:17.746Z",
+    "tag": "divergence_theorem",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "pgaey1hi"
+}

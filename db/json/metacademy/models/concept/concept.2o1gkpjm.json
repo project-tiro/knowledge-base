@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayesian naive Bayes",
+    "pointers": "*  [Bayesian logistic regression](bayesian_logistic_regression)  extends the logistic regression in a similar fashion as Bayesian naive Bayes extends naive Bayes",
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 1.3225964208640968,
+    "summary": "A Bayesian version of naive Bayes in which we place a prior distribution on the latent class assignment parameter.\n",
+    "last_mod": "2014-08-30T23:57:08.071Z",
+    "tag": "bayesian_naive_bayes",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "2o1gkpjm"
+}

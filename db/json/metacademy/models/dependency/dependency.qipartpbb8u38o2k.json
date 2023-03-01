@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "b8u38o2k",
+    "last_mod": "2014-08-30T21:34:01.652Z",
+    "ordering": 817,
+    "target_goals": [],
+    "source_goals": ["39jcgpca73z", "fknf1gn9r66", "q84jgl0d2ea"],
+    "source": "qipartpb",
+    "reason": "NMF is motivated as an alternative to PCA."
+  },
+  "model": "graph.dependency",
+  "pk": "qipartpbb8u38o2k"
+}

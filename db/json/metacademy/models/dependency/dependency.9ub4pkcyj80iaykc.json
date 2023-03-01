@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "j80iaykc",
+    "last_mod": "2014-08-31T15:15:23.610Z",
+    "ordering": 395,
+    "target_goals": ["4w0mc5luki", "bbfo7v0m4i", "jcai9s2yy9", "s72uqdr7ys"],
+    "source_goals": ["2ez7jdwsu6", "l7uzk3m3c8"],
+    "source": "9ub4pkcy",
+    "reason": "Chow-Liu trees are a method of Bayes net structure learning."
+  },
+  "model": "graph.dependency",
+  "pk": "9ub4pkcyj80iaykc"
+}

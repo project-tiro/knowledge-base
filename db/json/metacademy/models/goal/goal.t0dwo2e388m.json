@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "In a programming language such as Java, C++, or Python, understand how the specifications of the standard container types abstract away the implementation",
+    "concept": "h61ljzls",
+    "last_mod": "2014-09-13T20:06:48.972Z"
+  },
+  "model": "graph.goal",
+  "pk": "t0dwo2e388m"
+}

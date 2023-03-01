@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Central Limit Theorem",
+    "pointers": "*  [Proof of the theorem](central_limit_theorem_proof)\n* The theorem can be generalized to:\n**  [the multivariate case](multivariate_central_limit_theorem) .\n**  [martingales](martingale_central_limit_theorem)\n* Other results about sums of series:\n**  [Weak law of large numbers](weak_law_of_large_numbers)\n**  [Strong law of large numbers](strong_law_of_large_numbers)\n**  [Chernoff bounds](chernoff_bounds)",
+    "tags": ["freqstats", "probabilitytheor"],
+    "learn_time": 1.299073440624462,
+    "summary": "The Central Limit Theorem states that the sum of a large number of independent, identically distributed random variables is approximately Gaussian. It can be used to approximate the probability that a sum of independent random variables lies within some range, even if the distributions are otherwise hard to work with. This theorem is one of the reasons that Gaussian distributions are so ubiquitous in statistics and probabilistic modeling.\n",
+    "last_mod": "2014-08-31T15:10:03.477Z",
+    "tag": "central_limit_theorem",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "j28yq33k"
+}

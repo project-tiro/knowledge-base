@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "6o8bvixc",
+    "last_mod": "2014-08-30T21:34:01.588Z",
+    "ordering": -1,
+    "target_goals": ["7j1zifs4o1u", "nalihqciovl"],
+    "source_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source": "nw2kqzlz",
+    "reason": "The differentiability condition is necessary for the mixed partials to be symmetric."
+  },
+  "model": "graph.dependency",
+  "pk": "nw2kqzlz6o8bvixc"
+}

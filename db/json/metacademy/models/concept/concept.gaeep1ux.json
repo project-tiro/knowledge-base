@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "restricted Boltzmann machines",
+    "pointers": "* RBMs can be stacked to build deeper generative models, such as\n**  [deep belief networks](deep_belief_networks)\n**  [deep Boltzmann machines](deep_boltzmann_machines)\n* RBMs are often used in  [unsupervised pre-training](unsupervised_pre_training) , where one initializes a discriminative model from a generative one.\n*  [Persistent contrastive divergence](persistent_contrastive_divergence)  is a variant on CD which tends to learn better generative models.\n*  [Hopfield networks](hopfield_networks)  are a classic neural net model of associative memory closely related to RBMs.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.980154149333391,
+    "summary": "Restricted Boltzmann machines (RBMs) are a type of undirected graphical model typically used for learning binary feature representations. The structure consists of a bipartite graph with a layer of visible units to represent the inputs and a layer of hidden units to represent more abstract features. Training is intractable, but approximations such as contrastive divergence work well in practice. RBMs are a building block of many models in deep learning.\n",
+    "last_mod": "2014-09-21T01:42:52.325Z",
+    "tag": "restricted_boltzmann_machines",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gaeep1ux"
+}

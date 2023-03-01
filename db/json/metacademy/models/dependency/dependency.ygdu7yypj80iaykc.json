@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "j80iaykc",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 396,
+    "target_goals": ["4w0mc5luki", "bbfo7v0m4i", "jcai9s2yy9", "s72uqdr7ys"],
+    "source_goals": [],
+    "source": "ygdu7yyp",
+    "reason": "Chow-Liu trees can be viewed as MRFs."
+  },
+  "model": "graph.dependency",
+  "pk": "ygdu7yypj80iaykc"
+}

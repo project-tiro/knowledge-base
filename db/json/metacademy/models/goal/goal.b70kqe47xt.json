@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Motivate the need for the reals by showing that the square root of 2 is irrational",
+    "concept": "mtt4amj5",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "b70kqe47xt"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Hierarchical Models, Nested Models and Completely Random Measures",
+    "url": "http://www.cs.berkeley.edu/~jordan/papers/berger-festschrift.pdf",
+    "notes": "",
+    "year": 2010,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Michael I. Jordan']",
+    "edition_years": null,
+    "resource_type": "survey paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "ye0y8d76b9"
+}

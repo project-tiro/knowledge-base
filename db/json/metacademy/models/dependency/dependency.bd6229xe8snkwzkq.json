@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8snkwzkq",
+    "last_mod": "2014-08-30T21:34:00.694Z",
+    "ordering": 39,
+    "target_goals": [],
+    "source_goals": ["c5jl823g1hb", "f5sactlyqy9", "qayka8kwrjj", "rcop43kg3r6"],
+    "source": "bd6229xe",
+    "reason": "PMF can be seen as a Bayesian version of probabilistic PCA."
+  },
+  "model": "graph.dependency",
+  "pk": "bd6229xe8snkwzkq"
+}

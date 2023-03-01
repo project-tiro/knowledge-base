@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:42:18.725Z",
+    "url": "",
+    "cresource": "of5jbkr56ir",
+    "ordering": -1,
+    "location_text": "Section 4.6, \"FIFO queues and generalized queues,\" pages 166-174",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8luvk0fxw3o"
+}

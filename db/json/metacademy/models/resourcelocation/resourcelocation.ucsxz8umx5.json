@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~mackay/itprnn/ps/506.522.pdf",
+    "cresource": "dav0wyezyg",
+    "ordering": 0,
+    "location_text": "Chapter 42, \"Hopfield networks,\" pages 505-518 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ucsxz8umx5"
+}

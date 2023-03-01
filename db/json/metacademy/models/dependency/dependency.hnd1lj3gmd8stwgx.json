@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "md8stwgx",
+    "last_mod": "2014-08-30T21:34:01.090Z",
+    "ordering": -1,
+    "target_goals": ["8mmwc5b2fad", "9isuh31jfbf", "ayhxjhhbdhl", "e9rj1yz7cm4", "ttsmioadwij"],
+    "source_goals": ["3xvvxkwz3uf", "p25ucwk89hb", "xcnyp1egejw"],
+    "source": "hnd1lj3g",
+    "reason": "The projection is onto a subspace."
+  },
+  "model": "graph.dependency",
+  "pk": "hnd1lj3gmd8stwgx"
+}

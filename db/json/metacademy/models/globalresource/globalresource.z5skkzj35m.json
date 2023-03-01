@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "StackOverflow",
+    "url": "http://stackoverflow.com/questions/5466323/how-exactly-does-k-means-work",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "",
+    "edition_years": null,
+    "resource_type": "forum"
+  },
+  "model": "graph.globalresource",
+  "pk": "z5skkzj35m"
+}

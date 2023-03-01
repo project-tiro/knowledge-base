@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand the benefits of procedural abstraction:\n** that one need not understand how the procedure is implemented in order to use it\n** it gives more flexibility for changing the implementation, so long as it obeys the specification\n** that the user can replace one implementation with another if it proves to be more effective",
+    "concept": "9791pgmc",
+    "last_mod": "2014-09-13T20:17:31.572Z"
+  },
+  "model": "graph.goal",
+  "pk": "s101ups7yen"
+}

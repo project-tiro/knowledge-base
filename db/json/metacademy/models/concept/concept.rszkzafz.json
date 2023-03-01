@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "basis function expansions",
+    "pointers": "* Often basis function expansions do not give us enough flexibility to model the nonlinear structure we're interested in. More powerful methods include:\n**  [Neural networks](feed_forward_neural_nets) , which allow the basis functions to be adapted to the data.\n**  [Kernels](kernel_ridge_regression) , which a way of implicitly representing a very high-dimensional (possibly infinite dimensional) feature expansion in terms of a kernel function between data points\n**  [Representation learining](representation_learning) , an area of machine learning which tries to learn high-level feature representations automatically from the raw data",
+    "tags": ["machinelearning"],
+    "learn_time": 0.9052989183763491,
+    "summary": "A basis function expansion augments/replaces the attributes of a dataset with transformations of these attributes. For instance, given an input attribute X, a basis function expansion could map this attribute to three features: 1, X, X^2---a \"polynomial basis.\" This mapping allows various learning algorithms and statistical procedures to capture nonlinear trends in the data while still using linear models to analyze these transformed attributes. For instance, using the polynomial basis functions with linear regression allows linear regression to find polynomial (nonlinear) trends in the data; this is commonly called \"polynomial regression.\" The process of selecting the particular mapping (basis functions) is typically referred to as \"feature engineering.\"\n",
+    "last_mod": "2014-09-21T01:53:07.098Z",
+    "tag": "basis_function_expansions",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "rszkzafz"
+}

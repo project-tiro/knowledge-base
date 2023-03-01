@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:01:18.609Z",
+    "url": "http://introcs.cs.princeton.edu/java/32class",
+    "cresource": "5w9qu0g5blq",
+    "ordering": -1,
+    "location_text": "Section 3.2, \"Creating data types\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rn474vn6qs6"
+}

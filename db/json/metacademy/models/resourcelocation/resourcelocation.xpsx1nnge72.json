@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:29:28.329Z",
+    "url": "http://math.hws.edu/javanotes/c9/s2.html",
+    "cresource": "ejvt82dqgir",
+    "ordering": -1,
+    "location_text": "Section 9.2, \"Linked data structures\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xpsx1nnge72"
+}

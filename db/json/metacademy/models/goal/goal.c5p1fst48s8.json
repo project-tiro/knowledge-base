@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that if there is at least one solution, then the solution space is given in terms of any particular solution and the nullspace",
+    "concept": "et4wr4sv",
+    "last_mod": "2014-08-30T19:46:59.582Z"
+  },
+  "model": "graph.goal",
+  "pk": "c5p1fst48s8"
+}

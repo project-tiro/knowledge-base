@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Peano axioms",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 1.1254170586827876,
+    "summary": "The Peano axioms are a set of axioms, either in first- or second-order logic, for the system of natural numbers. The axioms define a successor operation and the principle of induction, and in some versions, addition, multiplication, and ordering as well. The Peano axioms serve as a formal model for number theory. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "peano_axioms",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ttwh2gui"
+}

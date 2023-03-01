@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "iyyjegsx",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'Refer to Section 2.4 for the specific deductive calculus.']",
+    "goals_covered": ["fo1xllwnmx", "ingg9xfyrt", "ivv650hy79", "qz4wsshv4p"],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "psdeikotva"
+  },
+  "model": "graph.conceptresource",
+  "pk": "7mm6q89c9b"
+}

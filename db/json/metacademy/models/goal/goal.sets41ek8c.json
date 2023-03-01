@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 0,
+    "text": "* Understand the properties of high-dimensional spaces that make it difficult to learn based on nearest neighbors, e.g.\n** if points are sampled uniformly within a high-dimensional box, most distances are similar\n** most of the volume of a ball is concentrated near the boundary\n** uniformly sampled points are unlikely to have very close neighbors",
+    "concept": "ugfgl8p3",
+    "last_mod": "2014-09-14T21:52:22.637Z"
+  },
+  "model": "graph.goal",
+  "pk": "sets41ek8c"
+}

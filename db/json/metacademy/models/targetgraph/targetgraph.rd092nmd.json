@@ -1,0 +1,5 @@
+{
+  "fields": { "depth": 1, "dependencies": ["nu5nhdxbrd092nmd"], "concepts": ["nu5nhdxb", "rd092nmd"] },
+  "model": "graph.targetgraph",
+  "pk": "rd092nmd"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dlf6i87t",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 862,
+    "target_goals": ["xl4xf18wpt"],
+    "source_goals": [],
+    "source": "ttwh2gui",
+    "reason": "One application of the L-S theorems is to show there are nonstandard models of the Peano axioms."
+  },
+  "model": "graph.dependency",
+  "pk": "ttwh2guidlf6i87t"
+}

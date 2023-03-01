@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Terse lecture notes for a course in differential geometry.",
+    "version_num": 0,
+    "title": "Budapest Semesters in Mathematics: Differential Geometry",
+    "url": "http://www.cs.elte.hu/geometry/csikos/dif/dif.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T03:08:10.062Z",
+    "authors": "[u'Balazs Csikos']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "i6q8m3ma6fr"
+}

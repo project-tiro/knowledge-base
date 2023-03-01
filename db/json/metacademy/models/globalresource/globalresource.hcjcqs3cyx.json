@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graduate-level textbook on randomized algorithms.",
+    "version_num": 0,
+    "title": "Randomized Algorithms",
+    "url": "http://www.cambridge.org/gb/knowledge/isbn/item1146626/?site_locale=en_GB",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Rajeev Motwani', u'Prabhakar Raghavan']",
+    "edition_years": "[u'1995']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "hcjcqs3cyx"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that a symmetric matrix is PD if and only if the diagonal entries of the spectral decomposition are all positive",
+    "concept": "yjhlehd7",
+    "last_mod": "2014-10-11T21:24:18.039Z"
+  },
+  "model": "graph.goal",
+  "pk": "umprwxuy7dg"
+}

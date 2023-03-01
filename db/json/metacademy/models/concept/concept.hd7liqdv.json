@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "inner product",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.07302396913684,
+    "summary": "An inner product is a kind of mathematical operator defined on a vector space which generalizes the dot product. It can be used to generalize notions like length, orthogonality, and angles to vector spaces other than the Euclidean one. \n",
+    "last_mod": "2014-08-30T17:00:46.405Z",
+    "tag": "inner_product",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "hd7liqdv"
+}

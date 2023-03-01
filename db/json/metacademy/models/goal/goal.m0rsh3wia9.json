@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be able to derive the Bayesian (marginal likelihood) score for evaluating Bayes nets.\n** What assumptions about the prior are needed for the solution to have a convenient closed form?\n** The Bayesian score implicitly penalizes complex graphs. Why does this happen?  (Hint: it's not the prior over graph structures, as you might expect!)",
+    "concept": "9ub4pkcy",
+    "last_mod": "2014-08-30T23:41:05.819Z"
+  },
+  "model": "graph.goal",
+  "pk": "m0rsh3wia9"
+}

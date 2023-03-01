@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vg0jaqar",
+    "last_mod": "2014-08-30T21:34:01.449Z",
+    "ordering": 696,
+    "target_goals": ["7l0j3kix9g", "cwrrz0yfky", "qjivwiu3ev"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "Independent random variables have zero mutual information."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98evg0jaqar"
+}

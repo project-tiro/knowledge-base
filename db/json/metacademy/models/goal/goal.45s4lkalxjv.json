@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "Derive the conjugate prior and the posterior distribution for a multivariate Gaussian with unknown mean and known covariance",
+    "concept": "l4im2jkx",
+    "last_mod": "2014-08-31T00:11:15.066Z"
+  },
+  "model": "graph.goal",
+  "pk": "45s4lkalxjv"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=6MCCB6mj8qk&list=PL17567A1A3F5DB5E4&index=20",
+    "cresource": "dphyg7tq0b",
+    "ordering": 0,
+    "location_text": "Lecture 4.1, \"Expectation for discrete random variables\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vaeu0v4bec"
+}

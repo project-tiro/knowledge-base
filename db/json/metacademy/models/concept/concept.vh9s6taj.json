@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "orthogonal subspaces",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 1.504993824403689,
+    "summary": "Two subspaces X and Y are orthogonal if any vector in X is orthogonal to any vector in Y. Canonical examples include the row space and nullspace, and the column space and left nullspace. Orthogonality is used to analyze projections and least squares approximation.\n",
+    "last_mod": "2014-10-20T00:08:14.378Z",
+    "tag": "orthogonal_subspaces",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "vh9s6taj"
+}

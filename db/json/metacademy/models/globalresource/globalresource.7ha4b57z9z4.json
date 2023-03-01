@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for Stanford's introductory course in object oriented programming",
+    "version_num": 0,
+    "title": "Stanford CS108: Object Oriented System Design",
+    "url": "http://web.stanford.edu/class/cs108/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-11T03:01:25.290Z",
+    "authors": "[u'Patrick Young']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "7ha4b57z9z4"
+}

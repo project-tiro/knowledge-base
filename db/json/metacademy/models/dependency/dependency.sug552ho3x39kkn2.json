@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x39kkn2",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 249,
+    "target_goals": ["3n0jopm0z5", "9d9fjixvlk", "dfvk3nk4ui"],
+    "source_goals": ["intmx0we9d", "nba39r8e29", "o4maylqjeh", "qn02twjqdw", "w7xjkzpzdn"],
+    "source": "sug552ho",
+    "reason": "One wants to arithmetize expressions in first order logic."
+  },
+  "model": "graph.dependency",
+  "pk": "sug552ho3x39kkn2"
+}

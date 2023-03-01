@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "tjwayjzz1b",
+    "ordering": 0,
+    "location_text": "Section 1, \"Introduction,\" page 1",
+    "location_type": "tutorial"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "958m8vqill"
+}

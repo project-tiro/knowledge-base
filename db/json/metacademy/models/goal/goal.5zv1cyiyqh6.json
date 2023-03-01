@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Know of one method for fitting the maximum likelihood solution (e.g. gradient descent)",
+    "concept": "fyslhiko",
+    "last_mod": "2014-08-30T23:52:33.870Z"
+  },
+  "model": "graph.goal",
+  "pk": "5zv1cyiyqh6"
+}

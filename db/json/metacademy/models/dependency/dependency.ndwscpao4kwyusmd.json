@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4kwyusmd",
+    "last_mod": "2014-08-30T21:34:01.552Z",
+    "ordering": 689,
+    "target_goals": [],
+    "source_goals": ["cc8kerabea2", "zyjqwgpxjuz"],
+    "source": "ndwscpao",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ndwscpao4kwyusmd"
+}

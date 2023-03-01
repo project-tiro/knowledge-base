@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Know how to define a Comparator class to pass to a generic sorting routine",
+    "concept": "f7raxdme",
+    "last_mod": "2014-09-14T18:56:05.402Z"
+  },
+  "model": "graph.goal",
+  "pk": "wfe4joby6st"
+}

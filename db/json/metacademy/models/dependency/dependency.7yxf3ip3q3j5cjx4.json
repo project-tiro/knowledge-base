@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "q3j5cjx4",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 424,
+    "target_goals": ["5riuz66ot7", "hjf2d445ts", "lxpo8982aj", "tzkk1l95c1"],
+    "source_goals": ["8yvudaocys", "p7m89w1xr1"],
+    "source": "7yxf3ip3",
+    "reason": "MDP transition probabilities are conditional probabilities"
+  },
+  "model": "graph.dependency",
+  "pk": "7yxf3ip3q3j5cjx4"
+}

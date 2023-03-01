@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wojx5447",
+    "last_mod": "2014-10-20T01:46:02.982Z",
+    "ordering": -1,
+    "target_goals": ["1bv3b2f8sbr", "apci6ondd3g", "o2bayficmk2", "q7tntfb4f6w", "zay03ee63tm"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "The gradient is the generalization of the residual to the nonlinear case"
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x66wojx5447"
+}

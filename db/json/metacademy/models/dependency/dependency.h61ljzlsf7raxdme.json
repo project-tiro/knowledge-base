@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "f7raxdme",
+    "last_mod": "2014-09-14T18:55:26.045Z",
+    "ordering": -1,
+    "target_goals": [
+      "13zks931i1n",
+      "5dm13bu360w",
+      "c9g13l6rmyj",
+      "nzypwqoewnx",
+      "ty4lqshxfmn",
+      "wfe4joby6st",
+      "xzx6ha8aqcn"
+    ],
+    "source_goals": ["ca1dxgeox14", "g5nwv2sqkuo", "npnmcms5kfy", "t0dwo2e388m"],
+    "source": "h61ljzls",
+    "reason": "Generic collections are a kind of abstract data type"
+  },
+  "model": "graph.dependency",
+  "pk": "h61ljzlsf7raxdme"
+}

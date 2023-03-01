@@ -1,0 +1,24 @@
+{
+  "fields": {
+    "target": "855sc8u4",
+    "last_mod": "2014-08-30T21:34:02.091Z",
+    "ordering": 4,
+    "target_goals": [
+      "0fblaa6li9k",
+      "4lj8wtz2iwo",
+      "5833l4t5p3z",
+      "72ymb7e61v5",
+      "n1mgrr6fbsj",
+      "o3qc3s5alym",
+      "qthbarjkvtj",
+      "t2eibk471rz",
+      "t8rg8xobeh7",
+      "ub2z1fmz2wy"
+    ],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "Partial derivative operators in a coordinate chart form a basis for the tangent space"
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5855sc8u4"
+}

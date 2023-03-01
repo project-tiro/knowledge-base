@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "au9put3g",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 91,
+    "target_goals": ["1sijixkpay", "2crxe4jhx1", "8puebibzsq", "a9doq3z87f", "tp00nvrfb1", "vn5grfnjj6"],
+    "source_goals": ["bt542acysn", "fi7bgz8kul", "mnexhk2pfw", "q28isufkhv", "tkf0l8vie6", "tyub6dpt42", "u333povn61"],
+    "source": "dg2c76qt",
+    "reason": "Ultrafilters can be defined on Boolean algebras."
+  },
+  "model": "graph.dependency",
+  "pk": "dg2c76qtau9put3g"
+}

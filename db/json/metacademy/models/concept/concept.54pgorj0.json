@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "solving difference equations with matrices",
+    "pointers": null,
+    "tags": ["linearalgebra"],
+    "learn_time": 0.6234720328020608,
+    "summary": "Difference equations, such as the recurrence formula for the Fibonacci sequence, can be represented as powers of a matrix. If that matrix is diagonalizable, the eigenvalues and eigenvectors yield a closed form solution to the difference equation.\n",
+    "last_mod": "2014-08-30T19:48:59.443Z",
+    "tag": "solving_difference_equations_with_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "54pgorj0"
+}

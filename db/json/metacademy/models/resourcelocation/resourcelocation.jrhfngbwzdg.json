@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T16:13:01.986Z",
+    "url": "http://en.wikipedia.org/wiki/Fisher_information",
+    "cresource": "ycwnj0swzv9",
+    "ordering": -1,
+    "location_text": "Article \"Fisher information,\" up through subsection \"Definition\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jrhfngbwzdg"
+}

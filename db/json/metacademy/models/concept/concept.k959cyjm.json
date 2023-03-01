@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "independent events",
+    "pointers": "* This notion of independence can be  [extended to random variables](independent_random_variables) .\n* Independence can also be characterized in terms of  [conditional distributions](conditional_distributions) .",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2592418056998638,
+    "summary": "Intuitively, two events are independent if the first event happening doesn't influence whether the second is likely to occur. Mathematically, some set of events are independent if the joint probability of some subset of the events decomposes into a product of the probabilities of the individual events. In statistics and AI, a probabilistic model often must make independence assumptions in order for things to be efficiently computable.\n",
+    "last_mod": "2014-08-30T16:57:46.126Z",
+    "tag": "independent_events",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "k959cyjm"
+}

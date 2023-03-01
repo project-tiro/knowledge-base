@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kniylh65",
+    "last_mod": "2014-08-30T23:33:19.500Z",
+    "ordering": 0,
+    "target_goals": ["4bqc4xx39pb", "n0bdcco8si6", "s3vceizsvj6", "swe5oxr9h6n"],
+    "source_goals": ["38n2ofiyffx", "7ev2lab1kk", "c5e9bqoynv7"],
+    "source": "57amwk40",
+    "reason": "Natural gradient descent is a generalization of stochastic gradient descent"
+  },
+  "model": "graph.dependency",
+  "pk": "57amwk40kniylh65"
+}

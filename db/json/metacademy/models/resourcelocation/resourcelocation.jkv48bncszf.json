@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-07T00:20:14.639Z",
+    "url": "http://en.wikipedia.org/wiki/C_dynamic_memory_allocation",
+    "cresource": "2o6hsng23dt",
+    "ordering": -1,
+    "location_text": "Article \"C dynamic memory allocation,\" up through \"Common errors\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jkv48bncszf"
+}

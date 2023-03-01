@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fop9e6ra",
+    "last_mod": "2014-08-31T00:13:00.257Z",
+    "ordering": 1,
+    "target_goals": ["36rwy4pi3z", "6cwc44e33z", "oro33d1qa0"],
+    "source_goals": ["dgbbyg8wi63", "v7qz6bqtp96"],
+    "source": "eah2lnit",
+    "reason": "The gamma function is part of the normalizing constant of the beta distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "eah2lnitfop9e6ra"
+}

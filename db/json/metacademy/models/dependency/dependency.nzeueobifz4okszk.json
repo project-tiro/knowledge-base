@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fz4okszk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 365,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "nzeueobi",
+    "reason": "Gaussian BP is an inference algorithm for Gaussian graphical models"
+  },
+  "model": "graph.dependency",
+  "pk": "nzeueobifz4okszk"
+}

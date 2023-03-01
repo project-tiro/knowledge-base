@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "C pointers",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.5028149394539803,
+    "summary": "Pointers are a data type in C which refer to a location in memory. They are used to build most of the fundamental data structures in C. Pointers are worth understanding even if you're programming in a language other than C, because it gives a language for talking about memory. This is important if you want to understand what's going on beneath the hood in higher level languages.\n",
+    "last_mod": "2014-09-14T15:46:33.741Z",
+    "tag": "c_pointers",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "cja1np7y"
+}

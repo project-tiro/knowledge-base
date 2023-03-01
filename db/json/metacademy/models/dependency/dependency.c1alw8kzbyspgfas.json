@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "byspgfas",
+    "last_mod": "2014-08-30T02:40:55.099Z",
+    "ordering": -1,
+    "target_goals": ["jh2zi4wzl3x", "o4b0w600ok7", "o5x898uoxub", "oerygn8zjg4"],
+    "source_goals": ["2a0omt8y7f", "cguf587q18", "fz54ljbh8n", "p9h5zehxzp", "rwf68erclr", "umoxvr974a"],
+    "source": "c1alw8kz",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "c1alw8kzbyspgfas"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Give an example where it finds a suboptimal solution when the heuristic is inadmissible",
+    "concept": "6zgu0pb6",
+    "last_mod": "2014-11-08T21:08:28.108Z"
+  },
+  "model": "graph.goal",
+  "pk": "gpjq8vqk642"
+}

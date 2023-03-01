@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "recurrent neural networks",
+    "pointers": "* Other models of sequence data include:\n**  [hidden Markov models](hidden_markov_models)\n**  [linear dynamical systems](linear_dynamical_systems)",
+    "tags": ["machinelearning"],
+    "learn_time": 2.5577134388265326,
+    "summary": "Recurrent neural networks (RNNs) are a kind of neural net often used to model sequence data. They maintain a hidden state which can \"remember\" certain aspects of the sequence it has seen. RNNs can be trained using backpropagation through time, although efficient training remains an open problem.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "recurrent_neural_networks",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wgrnuluh"
+}

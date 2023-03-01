@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Know how the joint probability of a configuration of random variables decomposes as a product of the conditional probabilities",
+    "concept": "7yxf3ip3",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "p7m89w1xr1"
+}

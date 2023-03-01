@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:04:56.687Z",
+    "url": "https://www.udacity.com/course/viewer#!/c-cs271/l-48678875/e-48697712/m-48688891",
+    "cresource": "uggbeq3v9tz",
+    "ordering": -1,
+    "location_text": "Part 2, \"Problem solving,\" up through \"Example: Route Finding\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "iotbzur5j5o"
+}

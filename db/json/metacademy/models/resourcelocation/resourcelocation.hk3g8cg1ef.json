@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "2pd8iojqqm",
+    "ordering": 0,
+    "location_text": "Section 5.1, \"Conditional probability,\" pages 104-107",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hk3g8cg1ef"
+}

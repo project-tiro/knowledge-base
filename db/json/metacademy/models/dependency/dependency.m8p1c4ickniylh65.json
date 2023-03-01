@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kniylh65",
+    "last_mod": "2014-09-21T22:42:21.670Z",
+    "ordering": 2,
+    "target_goals": ["n0bdcco8si6"],
+    "source_goals": ["99swkmj9duc"],
+    "source": "m8p1c4ic",
+    "reason": "Natural gradient is typically applied on statistical manifolds"
+  },
+  "model": "graph.dependency",
+  "pk": "m8p1c4ickniylh65"
+}

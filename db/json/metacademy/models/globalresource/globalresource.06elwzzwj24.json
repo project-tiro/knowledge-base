@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "a short paper explaining natural gradient",
+    "version_num": 0,
+    "title": "Why natural gradient?",
+    "url": "http://www.yaroslavvb.com/papers/amari-why.pdf",
+    "notes": "",
+    "year": 1998,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'S. Amari', u'S. C. Douglas']",
+    "edition_years": "[]",
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "06elwzzwj24"
+}

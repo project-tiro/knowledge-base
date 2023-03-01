@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uhxmipgh",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 207,
+    "target_goals": ["2gkf330rf1", "j7yejwo31z", "p0hyrlascx"],
+    "source_goals": [],
+    "source": "iplkhc1b",
+    "reason": "The fine-tuning step is done with backpropagation."
+  },
+  "model": "graph.dependency",
+  "pk": "iplkhc1buhxmipgh"
+}

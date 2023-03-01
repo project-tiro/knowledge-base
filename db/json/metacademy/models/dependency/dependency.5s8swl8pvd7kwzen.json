@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vd7kwzen",
+    "last_mod": "2014-08-30T18:49:43.708Z",
+    "ordering": -1,
+    "target_goals": ["2zr01kc6r24"],
+    "source_goals": [],
+    "source": "5s8swl8p",
+    "reason": "Justifying PCA depends on the formulation of eigenvalues as an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "5s8swl8pvd7kwzen"
+}

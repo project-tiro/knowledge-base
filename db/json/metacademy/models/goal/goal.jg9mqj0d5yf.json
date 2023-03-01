@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Given a Riemannian metric, define the distance between two points on a manifold",
+    "concept": "ex32fjyz",
+    "last_mod": "2014-09-21T22:44:10.945Z"
+  },
+  "model": "graph.goal",
+  "pk": "jg9mqj0d5yf"
+}

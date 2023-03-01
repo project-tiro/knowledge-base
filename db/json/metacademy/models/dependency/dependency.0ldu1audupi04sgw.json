@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "upi04sgw",
+    "last_mod": "2014-08-29T00:45:33.617Z",
+    "ordering": 1,
+    "target_goals": ["5sng8d36ic6", "tb5m0bt2gj8"],
+    "source_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source": "0ldu1aud",
+    "reason": "Strongly connected components can be computed using depth-first search"
+  },
+  "model": "graph.dependency",
+  "pk": "0ldu1audupi04sgw"
+}

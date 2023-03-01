@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to compute various operations on vectors: addition, scalar multiplication, and linear combination",
+    "concept": "4ocvc918",
+    "last_mod": "2014-08-30T20:22:37.005Z"
+  },
+  "model": "graph.goal",
+  "pk": "zqfd16t4kpj"
+}

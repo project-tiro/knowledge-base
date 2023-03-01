@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 5,
+    "text": "Know what code coverage refers to and why it's important, and know of a tool for measuring it",
+    "concept": "tz6a7wf6",
+    "last_mod": "2014-09-13T21:14:29.173Z"
+  },
+  "model": "graph.goal",
+  "pk": "3ep5dah8ltk"
+}

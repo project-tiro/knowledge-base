@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "cen9nzhn",
+    "last_mod": "2014-11-19T02:56:27.428Z",
+    "ordering": -1,
+    "target_goals": ["40nrrjgyglx", "hemhq4bnp4o", "wrqecvaf7bn", "yrggfekh11c"],
+    "source_goals": [
+      "160cyysa038",
+      "2m0fqttck57",
+      "75p6dip70tt",
+      "8gxlgl7bck5",
+      "9gxyxsr5rit",
+      "hswm5pju25d",
+      "ko0mk0n8zl1",
+      "ptig1jtq02g"
+    ],
+    "source": "o7nh4u08",
+    "reason": "Trust region methods are used in second-order optimization"
+  },
+  "model": "graph.dependency",
+  "pk": "o7nh4u08cen9nzhn"
+}

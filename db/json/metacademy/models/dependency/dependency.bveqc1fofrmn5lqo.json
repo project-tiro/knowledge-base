@@ -1,0 +1,23 @@
+{
+  "fields": {
+    "target": "frmn5lqo",
+    "last_mod": "2014-08-30T21:34:00.727Z",
+    "ordering": -1,
+    "target_goals": ["03nhk6qaa5l", "1p5hjzui7yw", "68u669n3fcx", "ih9qocak3p7", "m1sm56agb0g"],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": "Linear transformations are represented with matrix-vector products."
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1fofrmn5lqo"
+}

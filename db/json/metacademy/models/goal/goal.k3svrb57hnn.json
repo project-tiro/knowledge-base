@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "Show that the Fisher metric is the second-order Taylor approximation to the KL divergence between two distributions (which motivates its use as a metric)",
+    "concept": "o6tpqkx0",
+    "last_mod": "2014-09-21T22:43:12.832Z"
+  },
+  "model": "graph.goal",
+  "pk": "k3svrb57hnn"
+}

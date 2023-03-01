@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "app5zoqkqk",
+    "ordering": 1,
+    "location_text": " Section 6.5, \"Conditional distributions: continuous case,\" pages 291-296",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "qmbyatkqzb"
+}

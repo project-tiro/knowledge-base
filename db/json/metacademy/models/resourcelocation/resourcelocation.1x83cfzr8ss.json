@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:31:59.473Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap1.pdf",
+    "cresource": "vpxnp7lnv7y",
+    "ordering": -1,
+    "location_text": "Lecture 1 notes, \"Manifolds\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1x83cfzr8ss"
+}

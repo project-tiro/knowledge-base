@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qp1bbj0r",
+    "last_mod": "2014-08-30T21:34:01.999Z",
+    "ordering": 65,
+    "target_goals": [],
+    "source_goals": ["2dpj7edmz1o", "9spfpnqxvah"],
+    "source": "x1gu9a93",
+    "reason": "The IRLS updates have the same form as the linear regression solution, but with reweighted data points."
+  },
+  "model": "graph.dependency",
+  "pk": "x1gu9a93qp1bbj0r"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for Stanford's introductory computer science theory course.",
+    "version_num": 0,
+    "title": "Stanford CS103: Mathematical Foundations of Computing",
+    "url": "http://www.stanford.edu/class/cs103/keith.pdf",
+    "notes": "",
+    "year": 2013,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Keith Schwarz']",
+    "edition_years": null,
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "jd3w8oucgj"
+}

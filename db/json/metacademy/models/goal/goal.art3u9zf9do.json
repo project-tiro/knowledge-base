@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know a simple sorting algorithm (e.g. bubble sort, insertion sort) and be able to analyze its running time",
+    "concept": "iszv8c6h",
+    "last_mod": "2014-08-27T05:19:42.277Z"
+  },
+  "model": "graph.goal",
+  "pk": "art3u9zf9do"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A textbook on information retrieval techniques.",
+    "version_num": 0,
+    "title": "Introduction to Information Retrieval",
+    "url": "http://nlp.stanford.edu/IR-book/html/htmledition/irbook.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Christopher D. Manning', u'Prabhakar Raghavan', u'Hinrich Sch\\xfctze']",
+    "edition_years": "[u'2008']",
+    "resource_type": "online textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "fw05an3qmi"
+}

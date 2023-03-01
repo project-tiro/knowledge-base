@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qvk9x5ox",
+    "last_mod": "2014-08-30T21:34:01.445Z",
+    "ordering": -1,
+    "target_goals": ["7lsl1wugmu6", "j6v3te8qgog", "jchgs8wug6t", "lvt690yfebn"],
+    "source_goals": ["5rzqn1ajsud", "nfqhb0kohff"],
+    "source": "m59ed98e",
+    "reason": "The weak law of large numbers is a statement about independent random variables."
+  },
+  "model": "graph.dependency",
+  "pk": "m59ed98eqvk9x5ox"
+}

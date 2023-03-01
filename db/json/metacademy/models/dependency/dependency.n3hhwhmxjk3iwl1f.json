@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "jk3iwl1f",
+    "last_mod": "2014-09-01T02:39:55.015Z",
+    "ordering": 4,
+    "target_goals": ["b0srq1kra6", "obu1s41m4uk", "pslm2gzw5d", "wbssblfcja"],
+    "source_goals": ["0kpwlfr301", "91qgfo4cej", "emioh06iml"],
+    "source": "n3hhwhmx",
+    "reason": "Differential forms are functions which take multiple vector fields as input."
+  },
+  "model": "graph.dependency",
+  "pk": "n3hhwhmxjk3iwl1f"
+}

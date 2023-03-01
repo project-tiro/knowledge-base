@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:31:16.492Z",
+    "url": "",
+    "cresource": "ki4af0prza1",
+    "ordering": -1,
+    "location_text": "Chapter 25, \"Single-source shortest paths,\" up through 25.2, \"Dijkstra's algorithm,\" pages 514-531",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "791vdxp9cnm"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-27T01:51:08.120Z",
+    "url": "",
+    "cresource": "joypyqqfu0x",
+    "ordering": -1,
+    "location_text": "Section 7.2, \"Limited-memory quasi-Newton methods,\" pages 176-185",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "32tv8rkav9x"
+}

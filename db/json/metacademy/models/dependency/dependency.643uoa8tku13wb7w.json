@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ku13wb7w",
+    "last_mod": "2014-10-11T21:23:02.796Z",
+    "ordering": -1,
+    "target_goals": ["0e4vey24wa0", "2gw3zpuh5pc", "i4pp41euycc", "td05a2545is"],
+    "source_goals": ["jef5wb2u3sg"],
+    "source": "643uoa8t",
+    "reason": "Analyzing gradient descent requires reasoning about eigenvalues of symmetric matrices"
+  },
+  "model": "graph.dependency",
+  "pk": "643uoa8tku13wb7w"
+}

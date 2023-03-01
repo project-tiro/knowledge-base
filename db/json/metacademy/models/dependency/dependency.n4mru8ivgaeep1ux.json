@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gaeep1ux",
+    "last_mod": "2014-08-30T21:34:01.531Z",
+    "ordering": 813,
+    "target_goals": ["7exe2s5ykk", "dkzwt3j872", "ean1mbprv7", "ekhkqzbegz", "ofrxnj31w0"],
+    "source_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source": "n4mru8iv",
+    "reason": "Gibbs sampling is part of RBM training."
+  },
+  "model": "graph.dependency",
+  "pk": "n4mru8ivgaeep1ux"
+}

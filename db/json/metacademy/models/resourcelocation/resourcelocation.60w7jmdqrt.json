@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "1ln46g5t6t",
+    "ordering": 0,
+    "location_text": "Sections 15.2, up to \"Smoothing\" (pages 541-544) and 15.4 (pages 551-558)",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "60w7jmdqrt"
+}

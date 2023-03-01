@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "4551mib8",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 823,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "xub4wekq",
+    "reason": "Gaussian processes are a generalization of the multivariate Gaussian distribution to possibly infinite spaces."
+  },
+  "model": "graph.dependency",
+  "pk": "xub4wekq4551mib8"
+}

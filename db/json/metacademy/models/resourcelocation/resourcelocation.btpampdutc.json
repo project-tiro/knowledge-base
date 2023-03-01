@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.khanacademy.org/math/linear-algebra/vectors_and_spaces/dot_cross_products/v/distance-between-planes",
+    "cresource": "xvzr0kludd",
+    "ordering": 3,
+    "location_text": "Lecture \"Distance between planes\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "btpampdutc"
+}

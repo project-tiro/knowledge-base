@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "26ufgluq",
+    "last_mod": "2014-08-30T21:34:01.814Z",
+    "ordering": -1,
+    "target_goals": ["k2oe2ho92ts", "scya75ka35l", "ybhjkl6pta9"],
+    "source_goals": ["qfmwlirgw5h", "qpwczyqjcqv"],
+    "source": "u74hkbbl",
+    "reason": "The Kalman filter is an inference algorithm for linear dynamical systems."
+  },
+  "model": "graph.dependency",
+  "pk": "u74hkbbl26ufgluq"
+}

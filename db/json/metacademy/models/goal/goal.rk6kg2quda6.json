@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be aware that the number of iterations needed to achieve a given accuracy is at most proportional to the square root of the condition number of A (but that convergence can be much faster in practice)",
+    "concept": "4740ilrp",
+    "last_mod": "2014-10-20T01:23:08.393Z"
+  },
+  "model": "graph.goal",
+  "pk": "rk6kg2quda6"
+}

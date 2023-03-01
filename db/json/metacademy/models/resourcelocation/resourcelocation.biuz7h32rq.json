@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "a25p2dedpx",
+    "ordering": 0,
+    "location_text": "Chapter 8, \"The bootstrap,\" pages 107-115",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "biuz7h32rq"
+}

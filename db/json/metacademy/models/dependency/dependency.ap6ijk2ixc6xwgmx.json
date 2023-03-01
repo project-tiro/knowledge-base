@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xc6xwgmx",
+    "last_mod": "2014-08-30T17:44:07.856Z",
+    "ordering": -1,
+    "target_goals": ["ra5maz2bvl0", "u3oqs6wopwu", "wjmn4sdlyx0"],
+    "source_goals": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "source": "ap6ijk2i",
+    "reason": "MAP estimation is an approximation to Bayesian parameter estimation."
+  },
+  "model": "graph.dependency",
+  "pk": "ap6ijk2ixc6xwgmx"
+}

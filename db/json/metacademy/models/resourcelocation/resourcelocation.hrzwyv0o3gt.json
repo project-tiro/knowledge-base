@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:26:23.387Z",
+    "url": "http://math.hws.edu/javanotes/c8/s3.html",
+    "cresource": "f4eb6pgncow",
+    "ordering": -1,
+    "location_text": "Section 8.3, \"Exceptions and try..catch\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "hrzwyv0o3gt"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "inheritance (programming)",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.259230709298025,
+    "summary": "In object oriented programming, inheritance refers to a situation where a more specific class (the \"subclass\") inherits properties from a more general class (the \"superclass\"). Inheritance is commonly used to share implementations between classes with similar functionality. ",
+    "last_mod": "2014-09-14T16:24:14.305Z",
+    "tag": "inheritance_programming",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "cam6w537"
+}

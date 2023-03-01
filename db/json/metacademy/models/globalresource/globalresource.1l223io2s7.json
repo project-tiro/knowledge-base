@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Online videos on probability theory.",
+    "version_num": 0,
+    "title": "Mathematical Monk: Probability Primer",
+    "url": "http://www.youtube.com/playlist?list=PL17567A1A3F5DB5E4",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "",
+    "edition_years": null,
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "1l223io2s7"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gluv53rd",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 961,
+    "target_goals": ["6umozx10ra", "c33l2jyqr1", "s1v61ikudy"],
+    "source_goals": ["3s6sgjdtwf", "xm4gzjxchm"],
+    "source": "eoh18sqa",
+    "reason": "Decision theory tells us how to make predictions from Bayesian parameter estimation."
+  },
+  "model": "graph.dependency",
+  "pk": "eoh18sqagluv53rd"
+}

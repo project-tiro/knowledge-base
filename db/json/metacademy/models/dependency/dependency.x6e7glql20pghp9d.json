@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "20pghp9d",
+    "last_mod": "2014-08-30T21:34:02.007Z",
+    "ordering": 915,
+    "target_goals": [],
+    "source_goals": ["4fohubjebzz", "j8o4984oa7l"],
+    "source": "x6e7glql",
+    "reason": "Ridge regression is a variant on linear regression."
+  },
+  "model": "graph.dependency",
+  "pk": "x6e7glql20pghp9d"
+}

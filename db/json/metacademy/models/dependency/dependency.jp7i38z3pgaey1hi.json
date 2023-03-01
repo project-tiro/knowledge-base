@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "pgaey1hi",
+    "last_mod": "2014-09-01T02:43:17.396Z",
+    "ordering": 354,
+    "target_goals": ["49bs4gqsrt", "an4dkl0ooi", "m95agdj8x8"],
+    "source_goals": ["0c4z9zekjvj", "tnq2z9fl5zh", "wda556uapmb"],
+    "source": "jp7i38z3",
+    "reason": "The Divergence Theorem includes a triple integral."
+  },
+  "model": "graph.dependency",
+  "pk": "jp7i38z3pgaey1hi"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* For continuous random variables, why isn't it mathematically rigorous to condition on an event of probability zero?",
+    "concept": "0mk50ni3",
+    "last_mod": "2014-08-13T19:01:45.397Z"
+  },
+  "model": "graph.goal",
+  "pk": "es8usw7ao5"
+}

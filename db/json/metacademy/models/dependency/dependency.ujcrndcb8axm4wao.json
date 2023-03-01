@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8axm4wao",
+    "last_mod": "2014-08-30T21:34:01.835Z",
+    "ordering": -1,
+    "target_goals": ["8khucyxixcz", "zsgagdu66la"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "EM is an optimization algorithm."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb8axm4wao"
+}

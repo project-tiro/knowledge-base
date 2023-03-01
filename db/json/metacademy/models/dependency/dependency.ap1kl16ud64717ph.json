@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "d64717ph",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 675,
+    "target_goals": ["5wtb8aqscg", "5xmzbq5oto"],
+    "source_goals": ["0poc7m2e6u", "0uvdjfjjuh", "hkhcwgeieh", "q8heyrr9kp"],
+    "source": "ap1kl16u",
+    "reason": "Russell's paradox is an inconsistency in naive set theory."
+  },
+  "model": "graph.dependency",
+  "pk": "ap1kl16ud64717ph"
+}

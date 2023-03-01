@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be able to use representation invariants to (informally) demonstrate the correctness of the implementation of an abstract data type",
+    "concept": "xnsr1z4a",
+    "last_mod": "2014-09-13T22:34:48.659Z"
+  },
+  "model": "graph.goal",
+  "pk": "oi3knn4wj2u"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Be aware that an important advantage of the algorithm is that it does not require storing the entire history.",
+    "concept": "3x1yvytf",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "7e65781ifa"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know what a b-tree is and what invariants it maintains",
+    "concept": "7gzak8lb",
+    "last_mod": "2014-08-30T23:31:09.403Z"
+  },
+  "model": "graph.goal",
+  "pk": "eu796wqp6xs"
+}

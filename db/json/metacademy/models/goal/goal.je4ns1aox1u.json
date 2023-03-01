@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how a queue can be implemented using an array (i.e. as a circular buffer)",
+    "concept": "k4imou8p",
+    "last_mod": "2014-11-08T22:09:05.611Z"
+  },
+  "model": "graph.goal",
+  "pk": "je4ns1aox1u"
+}

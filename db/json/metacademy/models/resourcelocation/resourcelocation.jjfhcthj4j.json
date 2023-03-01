@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "em0cnl19h2",
+    "ordering": 0,
+    "location_text": "Section 1.7, \"Compactness and effectiveness,\" subsection \"Compactness,\" pages 59-60",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jjfhcthj4j"
+}

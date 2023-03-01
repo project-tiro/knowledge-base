@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "i97bwag1",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": -1,
+    "notes": "[u'This resource goes into more detail than is needed.']",
+    "goals_covered": [],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "4hhdcvj0coc"
+  },
+  "model": "graph.conceptresource",
+  "pk": "weseq4hwcng"
+}

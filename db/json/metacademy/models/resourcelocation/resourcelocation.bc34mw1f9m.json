@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=611",
+    "cresource": "uk7kcfbcbu",
+    "ordering": 1,
+    "location_text": "Section 15.3, \"Details of random forests,\" pages 592-597 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bc34mw1f9m"
+}

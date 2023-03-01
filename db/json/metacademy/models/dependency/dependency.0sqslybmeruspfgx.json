@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "eruspfgx",
+    "last_mod": "2014-08-30T21:34:00.144Z",
+    "ordering": 686,
+    "target_goals": [],
+    "source_goals": ["2tq7w36rdcj", "46qtr8756mb", "u3terd1lv8l", "v12v09ma25z"],
+    "source": "0sqslybm",
+    "reason": "The Cholesky decomposition is the LU factorization of a symmetric PSD matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "0sqslybmeruspfgx"
+}

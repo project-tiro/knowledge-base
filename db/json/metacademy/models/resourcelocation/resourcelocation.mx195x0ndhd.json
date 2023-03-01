@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:03:55.915Z",
+    "url": "",
+    "cresource": "z8tri8od2zn",
+    "ordering": -1,
+    "location_text": "Section 5.1, \"The linear conjugate gradient method,\" subsection \"Rate of convergence,\" pages 112-118",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "mx195x0ndhd"
+}

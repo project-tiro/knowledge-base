@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3x9ogztk",
+    "last_mod": "2014-08-31T15:17:57.553Z",
+    "ordering": 552,
+    "target_goals": ["rohasshogu"],
+    "source_goals": ["f0umd80ezzi", "feo5g3710xu"],
+    "source": "nt9pfhmt",
+    "reason": "Collapsed sampling is a way of improving mixing."
+  },
+  "model": "graph.dependency",
+  "pk": "nt9pfhmt3x9ogztk"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n31vwot7",
+    "last_mod": "2014-08-30T21:34:00.477Z",
+    "ordering": 12,
+    "target_goals": [],
+    "source_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source": "72682zke",
+    "reason": "The matrix of second derivatives is symmetric."
+  },
+  "model": "graph.dependency",
+  "pk": "72682zken31vwot7"
+}

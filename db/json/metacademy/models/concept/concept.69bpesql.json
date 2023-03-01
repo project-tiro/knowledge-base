@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Hamiltonian flows",
+    "pointers": "",
+    "tags": ["diffgeom"],
+    "learn_time": 0.5942507615158764,
+    "summary": "Suppose one defines a function (called the Hamiltonian) on a symplectic manifold. This defines a Hamiltonian vector field, which is somewhat analogous to the gradient. The flow for this vector field corresponds to simulating Hamiltonian dynamics.",
+    "last_mod": "2014-09-19T19:14:01.817Z",
+    "tag": "hamiltonian_flows",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "69bpesql"
+}

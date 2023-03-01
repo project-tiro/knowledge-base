@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "gradient",
+    "pointers": "*  [Gradient ascent](gradient_descent) , or 'hill climbing', is a simple and widely used optimization algorithm.",
+    "tags": ["mvcalc", "optimization"],
+    "learn_time": 1.020615221741286,
+    "summary": "The gradient of a function gives the direction of maximum increase. Its entries are given by the partial derivatives of the function. It is widely used in optimization.\n\n",
+    "last_mod": "2014-08-30T03:24:25.444Z",
+    "tag": "gradient",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8vhx3x66"
+}

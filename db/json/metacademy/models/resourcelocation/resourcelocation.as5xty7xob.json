@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www-stat.stanford.edu/~tibs/ElemStatLearn/printings/ESLII_print10.pdf#page=453",
+    "cresource": "fa2jcf4ays",
+    "ordering": 0,
+    "location_text": "Section 12.3.6, \"Support vector machines for regression,\" pages 434-436 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "as5xty7xob"
+}

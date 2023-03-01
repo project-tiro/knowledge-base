@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "4mxwxpds",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u'discusses cross validation from a decision-theoretic perspective']",
+    "goals_covered": ["c9te4syci2"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "s9u3j0waz0"
+  },
+  "model": "graph.conceptresource",
+  "pk": "ws4puan6lb"
+}

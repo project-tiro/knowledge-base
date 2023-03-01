@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "statistical hypothesis testing",
+    "pointers": "* Some examples of statistical hypothesis testing:\n**  [comparing normal populations](comparing_normal_populations)\n* Often, instead of hypothesis testing, it is preferable to compute a  [confidence interval](confidence_interval) .",
+    "tags": ["freqstats"],
+    "learn_time": 2.069572438923674,
+    "summary": "Statistical hypothesis testing is a method for deciding what conclusions can be drawn from data. A central question is determining whether an outcome is statistically significant, or unlikely to have arisen by chance. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "statistical_hypothesis_testing",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "l794phpb"
+}

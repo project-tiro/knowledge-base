@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T04:02:42.887Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=41",
+    "cresource": "zthgfaymk1b",
+    "ordering": -1,
+    "location_text": "Section 6.3, \"Working with differential forms,\" pages 41-43",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pq3b36rwkit"
+}

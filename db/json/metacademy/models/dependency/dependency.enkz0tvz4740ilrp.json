@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "4740ilrp",
+    "last_mod": "2014-10-20T00:59:40.868Z",
+    "ordering": 0,
+    "target_goals": ["7rx9qzly89i", "f79sffeknfp", "rk6kg2quda6", "vjswupbhoco"],
+    "source_goals": [
+      "5qx5yzt9i5j",
+      "8x9ahdkmf17",
+      "b9tpgjb4kvx",
+      "d95iitv0ulb",
+      "tv9zwga0i6y",
+      "ufellz3l680",
+      "z4mjgifk3ji"
+    ],
+    "source": "enkz0tvz",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "enkz0tvz4740ilrp"
+}

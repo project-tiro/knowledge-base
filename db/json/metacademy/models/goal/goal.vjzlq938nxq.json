@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why is it advantageous to explore the (seemingly) best move first at each node?",
+    "concept": "qwj4lbj9",
+    "last_mod": "2014-11-08T23:21:13.329Z"
+  },
+  "model": "graph.goal",
+  "pk": "vjzlq938nxq"
+}

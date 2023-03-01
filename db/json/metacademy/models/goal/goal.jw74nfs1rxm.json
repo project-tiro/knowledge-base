@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Be familiar with the ASCII representation system, and know why capital and lowercase letters start at the places they do",
+    "concept": "lb6bx27d",
+    "last_mod": "2014-09-07T03:43:12.775Z"
+  },
+  "model": "graph.goal",
+  "pk": "jw74nfs1rxm"
+}

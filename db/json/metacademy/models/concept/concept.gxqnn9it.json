@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayes net parameter learning",
+    "pointers": "* For any parameter learning problem, we care how well the learned parameters can  [generalize to new data](generalization) .\n*  [Bayesian parameter estimation](bayesian_estimation_bayes_net_params)  is a way to avoid overfitting and incorporate prior knowledge.\n* The  [expectation-maximization (EM) algorithm](learning_bayes_nets_missing_data)  gives a way of dealing with missing entries.\n* It's possible to  [learn the structure itself](bayes_net_structure_learning) , i.e. which edges should be included.\n* We can  [learn parameters for Markov random fields (MRFs)](mrf_parameter_learning)  using similar principles.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.9114694413354406,
+    "summary": "The parameters of a Bayes net can be estimated using maximum likelihood. In the most general parameterization, when the data are fully observed, the ML estimation problem decomposes into independent subproblems associated with each CPT. \n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bayes_net_parameter_learning",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gxqnn9it"
+}

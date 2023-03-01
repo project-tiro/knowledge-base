@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "f7raxdme",
+    "last_mod": "2014-09-14T18:55:26.688Z",
+    "ordering": -1,
+    "target_goals": [
+      "13zks931i1n",
+      "5dm13bu360w",
+      "c9g13l6rmyj",
+      "nzypwqoewnx",
+      "ty4lqshxfmn",
+      "wfe4joby6st",
+      "xzx6ha8aqcn"
+    ],
+    "source_goals": ["f8soinopf83", "j6xbhu4x11y", "jszlyv1fbrt", "kh3vlvd9bgw", "nfg60u193p4", "pmpujbd78jg"],
+    "source": "cam6w537",
+    "reason": "The collections hierarchy is an inheritance hierarchy"
+  },
+  "model": "graph.dependency",
+  "pk": "cam6w537f7raxdme"
+}

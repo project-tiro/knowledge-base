@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "VC dimension",
+    "pointers": "*  [Structural risk minimization](structural_risk_minimization)  is an idea based on VC dimension which justifies algorithms such as SVMs.\n*  [Rademacher complexity](rademacher_complexity)  is an alternative measure of model complexity.",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 0.7889199603669367,
+    "summary": "In statistical learning theory, VC dimension is a measure of the complexity of a continuous hypothesis class (such as linear classifiers). While it often corresponds to the number of parameters in a model, this isn't always the case. There is a general bound on the generalization error of a classifier in terms of its error on a training set and its VC dimension.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "vc_dimension",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9b7krlu2"
+}

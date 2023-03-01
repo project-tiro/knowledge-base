@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "random variables",
+    "pointers": "* Some important properties of random variables:\n**  [expected value](expectation_and_variance) , the value it takes \"on average\"\n**  [independence](independent_random_variables) , i.e. one variable's distribution not depending on the other\n**  [variance](expectation_and_variance) , how much the value tends to deviate from the mean\n**  [entropy](entropy) , a measure of the amount of uncertainty\n* Some distributions of interest:\n** the  [binomial distribution](binomial_distribution) , which counts the number of times an event occurs between identical and independent trials\n** the  [multinomial distribution](multinomial_distribution) , where it takes values from a discrete set, each with some probability\n** the  [Poisson distribution](poisson_distribution) , used for modeling numbers of events that happen independently, such as earthquakes\n** the  [exponential distribution](exponential_distribution)\n** the  [Gaussian distribution](gaussian_distribution) , a \"bell curve\" which appears extremely frequently in nature and is widely used in statistical modeling",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.513844412730107,
+    "summary": "Random variables are the central object of probability theory. As their name implies, can be thought of as variables whose values are randomly determined. Mathematically, they are represented as functions on a sample space. \n",
+    "last_mod": "2014-08-30T19:04:29.799Z",
+    "tag": "random_variables",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "cj7urqv5"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vw8og6fv",
+    "last_mod": "2014-11-19T03:09:58.072Z",
+    "ordering": -1,
+    "target_goals": ["5ieo3qip13s", "5xzezg20uih", "683ldhja4d0"],
+    "source_goals": ["7wk8c4dp2ic", "z4rz1o7blmw"],
+    "source": "72g95twq",
+    "reason": "The Gauss-Newton algorithm solves a series of linear least squares problems"
+  },
+  "model": "graph.dependency",
+  "pk": "72g95twqvw8og6fv"
+}

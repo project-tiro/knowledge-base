@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "recursion (programming)",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.5741147987660333,
+    "summary": "In programming, a recursive function is a function which calls itself. Many important algorithms and operations on data types are most easily expressed recursively. Recursive backtracking is an elegant and often effective search strategy.\n",
+    "last_mod": "2014-09-14T16:28:19.776Z",
+    "tag": "recursion_programming",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "uefstju4"
+}

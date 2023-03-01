@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "probabilistic Latent Semantic Analysis",
+    "pointers": "*  [Latent Dirichlet allocation](latent_dirichlet_allocation)  is a fully Bayesian version of pLSA.\n* A pLSA matrix decomposition is typically learned using the  [expectation maximization](expectation_maximization)  algorithm.",
+    "tags": ["machinelearning"],
+    "learn_time": 0.9318805697650415,
+    "summary": "Probabilistic Latent Semantic Analysis (pLSA), also known as probabilistic Latent Semantic Indexing (pLSI), is a matrix decomposition technique for binary and count data, where one component of the data is conditionally independent of the other component given some unobserved factor. pLSA is most commonly used for document modeling, where the count data is the number of times a term appears in each document (forming an observed term by document count matrix), and the factors are interpreted as the latent/unobserved topics.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "probabilistic_lsa",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "lr83iyvg"
+}

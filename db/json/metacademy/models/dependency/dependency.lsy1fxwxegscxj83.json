@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "egscxj83",
+    "last_mod": "2014-10-27T01:50:34.368Z",
+    "ordering": -1,
+    "target_goals": ["9ku8o8pwvnm", "lkgmbkiatlf"],
+    "source_goals": ["5vajiruv4bc", "a8ovt8t4x61", "j52sagy4lfv", "s9ua498cdso", "sk7ubtjcf4d"],
+    "source": "lsy1fxwx",
+    "reason": "L-BFGS is an approximation to BFGS"
+  },
+  "model": "graph.dependency",
+  "pk": "lsy1fxwxegscxj83"
+}

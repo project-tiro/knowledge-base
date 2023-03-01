@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qadmgeqi",
+    "last_mod": "2014-08-30T20:07:01.578Z",
+    "ordering": -1,
+    "target_goals": ["7ndjgfffphw", "xo0il98yzii"],
+    "source_goals": ["aux1gig1c4", "j4u9gz75vz"],
+    "source": "6jrbekjh",
+    "reason": "The transformation method involves inverting the CDF."
+  },
+  "model": "graph.dependency",
+  "pk": "6jrbekjhqadmgeqi"
+}

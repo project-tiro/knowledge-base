@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "kwlmy2tj4k",
+    "ordering": 2,
+    "location_text": "Section 3.5, \"What have we achieved?\", pages 122-124",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yxj1axq857"
+}

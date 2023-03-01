@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T19:07:52.780Z",
+    "url": "",
+    "cresource": "tdnhgdwfh3b",
+    "ordering": -1,
+    "location_text": "Section 13.3, \"Top-down 2-3-4 trees,\" pages 560-564",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6zto4g3u15r"
+}

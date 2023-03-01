@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Be aware that decision trees can be unstable, in that the structure changes dramatically with respect to small changes in the training data.",
+    "concept": "46ycc9su",
+    "last_mod": "2014-08-30T23:35:54.040Z"
+  },
+  "model": "graph.goal",
+  "pk": "4913uw4gwg"
+}

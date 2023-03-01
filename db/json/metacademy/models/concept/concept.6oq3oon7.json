@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "differential entropy",
+    "pointers": null,
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.8171622551792044,
+    "summary": "Differential entropy is a generalization of entropy to continuous random variables. It is closely related to the asymptotic entropy of increasingly fine discretizations of the continuous distribution. KL divergence and mutual information can similarly be extended to the continuous case.\n",
+    "last_mod": "2014-09-01T02:37:09.803Z",
+    "tag": "differential_entropy",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "6oq3oon7"
+}

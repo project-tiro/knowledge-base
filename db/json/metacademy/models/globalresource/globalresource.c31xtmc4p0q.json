@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "an introductory algorithms course at MIT",
+    "version_num": 0,
+    "title": "MIT OpenCourseware: Introduction to Algorithms",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-29T01:44:56.665Z",
+    "authors": "[u'Erik Demaine', u'Srinivas Devadas']",
+    "edition_years": "[]",
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "c31xtmc4p0q"
+}

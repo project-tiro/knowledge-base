@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "reversible jump MCMC",
+    "pointers": null,
+    "tags": ["bayesianstats", "machinelearning", "pgm"],
+    "learn_time": 0.5814782677956604,
+    "summary": "Reversible jump MCMC is a special case of Metropolis-Hastings where proposals are made between continuous spaces of differing dimensionality. The most common use is in Bayesian model averaging.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "reversible_jump_mcmc",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "tl3gg7oi"
+}

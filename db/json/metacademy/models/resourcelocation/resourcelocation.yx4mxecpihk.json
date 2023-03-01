@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T05:33:57.069Z",
+    "url": "",
+    "cresource": "56474ql6jxu",
+    "ordering": -1,
+    "location_text": "Section 7.5, \"Median-of-three partitioning,\" pages 331-337",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "yx4mxecpihk"
+}

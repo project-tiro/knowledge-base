@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf#page=28",
+    "cresource": "dfh6f0lvg1",
+    "ordering": 0,
+    "location_text": "Part of Section 6, \"The Axiom of Choice,\" pages 28-30 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "giec757hpf"
+}

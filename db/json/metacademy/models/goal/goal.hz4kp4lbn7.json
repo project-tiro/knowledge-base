@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "* Define what it means for two well-ordered sets to be isomorphic",
+    "concept": "jwerntgq",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "hz4kp4lbn7"
+}

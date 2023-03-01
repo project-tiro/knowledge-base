@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/neuralnets-2012-001/lecture/125",
+    "cresource": "5qz3n89ltn",
+    "ordering": 2,
+    "location_text": "Lecture \"Hopfield nets with hidden units\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "rtm8822fu2"
+}

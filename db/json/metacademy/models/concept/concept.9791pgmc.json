@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "specifications (programming)",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.554945755884748,
+    "summary": "In programming, a specification of a procedure is an abstract description of the behavior of the procedure. Typically, it would describe requirements for the inputs (preconditions), the effects (postconditions), and any possible side effects. Specifications do not describe the underlying implementation; this \"abstraction barrier\" makes them easier to understand and use, and allows the implementation to change as long as it still meets the specification.\n",
+    "last_mod": "2014-09-13T20:17:31.583Z",
+    "tag": "specifications_programming",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "9791pgmc"
+}

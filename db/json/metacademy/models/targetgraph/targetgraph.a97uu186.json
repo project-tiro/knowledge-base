@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "depth": 7,
+    "dependencies": [
+      "9791pgmch61ljzls",
+      "cam6w537a97uu186",
+      "h61ljzlsa97uu186",
+      "x865hwhsa97uu186",
+      "x865hwhscam6w537",
+      "x865hwhsh61ljzls"
+    ],
+    "concepts": ["9791pgmc", "a97uu186", "cam6w537", "h61ljzls", "x865hwhs"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "a97uu186"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "DPLL procedure",
+    "pointers": null,
+    "tags": ["logic", "symbolicai"],
+    "learn_time": 0.5001259542461962,
+    "summary": "The DPLL procedure is a backtracking-based algorithm for solving SAT instances. It is complete, in the sense that it will eventually return a satisfying assignment or prove that none exists.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "dpll_procedure",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9u2biu30"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T20:05:06.539Z",
+    "url": "http://en.wikipedia.org/wiki/Abstract_data_type",
+    "cresource": "czdfe2vwxht",
+    "ordering": -1,
+    "location_text": "Article \"Abstract data type\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1jsvl1v5skk"
+}

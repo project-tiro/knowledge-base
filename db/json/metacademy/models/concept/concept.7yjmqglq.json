@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multinomial coefficients",
+    "pointers": "* Multinomial coefficients are used to define the  [multinomial distribution](multinomial_distribution) .",
+    "tags": [],
+    "learn_time": 0.4606974398370017,
+    "summary": "Multinomial coefficients are a generalization of binomial coefficients. They give the total number of ways that n objects can be partitioned into some number of categories, when the counts for each category are given.\n",
+    "last_mod": "2014-08-30T18:16:19.394Z",
+    "tag": "multinomial_coefficients",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "7yjmqglq"
+}

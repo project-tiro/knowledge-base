@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A graduate-level textbook on convex optimization.",
+    "version_num": 0,
+    "title": "Convex Optimization",
+    "url": "http://www.stanford.edu/~boyd/cvxbook/",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Stephen Boyd', u'Lieven Vandenberghe']",
+    "edition_years": "[u'2004']",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "m8qs2fojd0"
+}

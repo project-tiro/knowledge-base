@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "topological sort",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 0.4223269466007192,
+    "summary": "A topological sort is an ordering of the nodes in a directed acyclic graph (DAG) such that if there is an edge A -> B in the graph, then A comes before B in the ordering. This can be used to determine a sequence of jobs which respects a prerequisite graph. The learning plans in Metacademy are generated using a topological sort.\n",
+    "last_mod": "2014-10-09T01:45:20.590Z",
+    "tag": "topological_sort",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "pfisxcdr"
+}

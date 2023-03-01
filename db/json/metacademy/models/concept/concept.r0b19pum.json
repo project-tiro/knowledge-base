@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "hash tables",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.285318684353982,
+    "summary": "A hash table is a data structure which implements a symbol table with constant time lookup, insertion, and deletion operations. It is based on a hash function, which should map a given key to a seemingly random location in an array. Hash tables are one of the most commonly used data structures in programming.",
+    "last_mod": "2014-09-14T15:33:12.765Z",
+    "tag": "hash_tables",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "r0b19pum"
+}

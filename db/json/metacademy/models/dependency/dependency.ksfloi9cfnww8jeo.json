@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "fnww8jeo",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["2tc3846j38f", "4cswwl58tj7", "rz9hj920nr0"],
+    "source_goals": ["8pkn5anpoa", "fxwg6bcsbxo", "hr3qfongzp", "lokwohztx6", "sjsqmpg636u"],
+    "source": "ksfloi9c",
+    "reason": "Some results about symplectic manifolds mention the exterior derivative"
+  },
+  "model": "graph.dependency",
+  "pk": "ksfloi9cfnww8jeo"
+}

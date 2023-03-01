@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "enugmzwm",
+    "last_mod": "2014-08-30T21:34:01.745Z",
+    "ordering": 398,
+    "target_goals": ["gl8dfx0jyi"],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "Cramer's rule is an explicit formula for matrix inverses."
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnafenugmzwm"
+}

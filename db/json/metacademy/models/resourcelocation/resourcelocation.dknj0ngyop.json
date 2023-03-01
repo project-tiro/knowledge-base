@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/94",
+    "cresource": "vs2762xgyc",
+    "ordering": 1,
+    "location_text": "Lecture \"Likelihood scores\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "dknj0ngyop"
+}

@@ -1,0 +1,30 @@
+{
+  "fields": {
+    "target": "f7raxdme",
+    "last_mod": "2014-09-14T18:55:26.419Z",
+    "ordering": -1,
+    "target_goals": [
+      "13zks931i1n",
+      "5dm13bu360w",
+      "c9g13l6rmyj",
+      "nzypwqoewnx",
+      "ty4lqshxfmn",
+      "wfe4joby6st",
+      "xzx6ha8aqcn"
+    ],
+    "source_goals": [
+      "0frdbqwk667",
+      "2i9bp8z92wn",
+      "42rqgmnl2kb",
+      "681cl6bmb49",
+      "km7xdn7z8dg",
+      "mz97vyjyzy6",
+      "tt1m2paft7q",
+      "wbigwzyagp9"
+    ],
+    "source": "x865hwhs",
+    "reason": "Collections are implemented as classes"
+  },
+  "model": "graph.dependency",
+  "pk": "x865hwhsf7raxdme"
+}

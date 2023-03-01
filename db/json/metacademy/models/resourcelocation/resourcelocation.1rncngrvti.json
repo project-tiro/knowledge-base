@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://www.youtube.com/watch?v=H02B3aMNKzE",
+    "cresource": "700mcep92i",
+    "ordering": 0,
+    "location_text": "Video: How to Calculate Conditional Probability ",
+    "location_type": "video"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "1rncngrvti"
+}

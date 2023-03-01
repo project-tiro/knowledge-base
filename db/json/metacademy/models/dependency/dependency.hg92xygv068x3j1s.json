@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "068x3j1s",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 245,
+    "target_goals": ["uvrptaumcv"],
+    "source_goals": ["2ao5wflvru", "cup9eaeo1n", "pfthxfog3t", "wmj4am4uzb"],
+    "source": "hg92xygv",
+    "reason": "One formulation of the Church-Turing thesis is that a function is computable if and only if it is recursive."
+  },
+  "model": "graph.dependency",
+  "pk": "hg92xygv068x3j1s"
+}

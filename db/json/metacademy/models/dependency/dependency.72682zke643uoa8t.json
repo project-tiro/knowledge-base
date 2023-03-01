@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "643uoa8t",
+    "last_mod": "2014-10-11T21:15:09.831Z",
+    "ordering": 0,
+    "target_goals": ["6y1bt106ba1", "azld5otpecr", "jef5wb2u3sg", "y083ui01s2l"],
+    "source_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source": "72682zke",
+    "reason": "The spectral decomposition applies to symmetric matrices."
+  },
+  "model": "graph.dependency",
+  "pk": "72682zke643uoa8t"
+}

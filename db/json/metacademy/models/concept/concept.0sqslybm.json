@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "LU factorization",
+    "pointers": "* If the matrix is symmetric positive definite, we never need to pivot; in this case, the factorization is known as the  [Cholesky decomposition](cholesky_decomposition) .",
+    "tags": ["linearalgebra"],
+    "learn_time": 3.545039953313007,
+    "summary": "The LU factorization is a factorization of a matrix into a lower triangular and an upper triangular matrix. It can be computed by recording the row operations used in Gaussian elimination. It can be a more efficient and numerically stable method of solving linear systems compared to matrix inverses.\n",
+    "last_mod": "2014-08-30T17:36:15.753Z",
+    "tag": "lu_factorization",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "0sqslybm"
+}

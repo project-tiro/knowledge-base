@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "uninformed search",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 2.550817018771766,
+    "summary": "Uninformed search refers to a class of highly generic search strategies which use no problem-specific structure (other than the ability to generate successor states and evaluate costs and goal conditions). Examples include depth-first, breadth-first, and uniform cost search. These algorithms aren't very effective for complex tasks, but they're good enough for some small problems. \n",
+    "last_mod": "2014-11-08T20:56:06.754Z",
+    "tag": "uninformed_search",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "cqpveand"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "expectation and variance",
+    "pointers": "* Some other statistics which are based on expected value:\n** variance, which reflects how much a random variable typically deviates from its expected value \n** moment generating functions, a mathematical representation convenient for analyzing sums of random variables  [ (go to concept)](moment_generating_functions)\n* Markov's inequality bounds the probability that a random variable takes on extreme values, based on its expected value. \n* Martingales are a kind of sequence of random variables whose expected value at the next time step is the current value. \n* Monte Carlo techniques are a way of estimating expectations by sampling from a distribution.  [ (go to concept)](monte_carlo_estimation)",
+    "tags": ["probabilitytheor"],
+    "learn_time": 3.346931866521645,
+    "summary": "The expectation of a random variable is the value that it takes \"on average,\" and the variance is a measure of how much the random variable deviates from that value \"on average.\" Expectation and variance have several convenient properties that often allow one to abstract away the underlying PDFs or PMFs.\n",
+    "last_mod": "2014-09-02T00:06:23.133Z",
+    "tag": "expectation_and_variance",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "gvp31pbp"
+}

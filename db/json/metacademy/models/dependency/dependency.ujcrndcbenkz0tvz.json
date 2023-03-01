@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "enkz0tvz",
+    "last_mod": "2014-10-20T00:07:40.625Z",
+    "ordering": 2,
+    "target_goals": [
+      "5qx5yzt9i5j",
+      "8x9ahdkmf17",
+      "b9tpgjb4kvx",
+      "d95iitv0ulb",
+      "tv9zwga0i6y",
+      "ufellz3l680",
+      "z4mjgifk3ji"
+    ],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "Conjugate gradient is formulated in terms of an optimization problem"
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcbenkz0tvz"
+}

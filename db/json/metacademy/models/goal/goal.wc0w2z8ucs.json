@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Give an example of a hypothesis class whose VC dimension is different from the number of parameters. (Hint: you can find one with a single parameter but infinite VC dimension.)",
+    "concept": "9b7krlu2",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "wc0w2z8ucs"
+}

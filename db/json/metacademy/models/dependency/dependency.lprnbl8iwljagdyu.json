@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "wljagdyu",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 934,
+    "target_goals": ["3v7juo8hji", "r990u1ofcg", "up49dw94w8", "yv5z3mt04u"],
+    "source_goals": ["m1kmygeblv", "p6e6v59le5", "stjcb1kgbq", "xwi3elf0qc"],
+    "source": "lprnbl8i",
+    "reason": "The statement of Green's Theorem involves a line integral."
+  },
+  "model": "graph.dependency",
+  "pk": "lprnbl8iwljagdyu"
+}

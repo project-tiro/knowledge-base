@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "evaluating multiple integrals: change of variables",
+    "pointers": "* Some particular examples of this trick:\n**  [polar coordinates](eval_multi_int_polar_coordinates)\n**  [spherical coordinates](eval_multi_int_spherical_coordinates)\n**  [cylindrical coordinates](eval_multi_int_cylindrical_coordinates)\n* We use the same change of variables formula to determine the  [PDF of a function of a continuous random variable](function_of_random_variable_tricks) .",
+    "tags": ["mvcalc"],
+    "learn_time": 1.1757240436247445,
+    "summary": "A useful trick for computing multiple integrals is to find a simpler parameterization of the region and apply the change of variables formula.\n",
+    "last_mod": "2014-09-02T00:03:10.846Z",
+    "tag": "eval_multi_int_change_of_variables",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wyga3wog"
+}

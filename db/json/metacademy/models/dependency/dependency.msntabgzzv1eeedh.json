@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "zv1eeedh",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["5aqtpwr2hx", "8p65dqkoxmh", "u2izpt61bb", "vilka38v2v"],
+    "source_goals": ["rtufpd0474", "zios6s80tj"],
+    "source": "msntabgz",
+    "reason": "Zorn's Lemma is equivalent to the Axiom of Choice."
+  },
+  "model": "graph.dependency",
+  "pk": "msntabgzzv1eeedh"
+}

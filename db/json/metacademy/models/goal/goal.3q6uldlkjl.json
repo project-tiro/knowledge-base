@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Show that the decision boundary is quadratic when the covariance matrices are not shared between classes.",
+    "concept": "6m1m4ru9",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "3q6uldlkjl"
+}

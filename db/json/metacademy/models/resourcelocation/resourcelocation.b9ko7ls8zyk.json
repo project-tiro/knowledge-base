@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-11T02:26:30.276Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-2/lecture-10-hashing-and-classes/",
+    "cresource": "4n1a1we3kiq",
+    "ordering": -1,
+    "location_text": "Lecture 10, \"Hashing and classes,\" starting from 35:00",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "b9ko7ls8zyk"
+}

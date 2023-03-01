@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Show that a multi-track Turing machine (and therefore also a single-track one) can simulate a nondeterministic Turing machine",
+    "concept": "wltj1far",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "2lcmpyl1i4"
+}

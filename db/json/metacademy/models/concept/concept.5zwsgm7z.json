@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Dirichlet distribution",
+    "pointers": "* We can define the Dirichlet distribution in terms of the  [gamma distribution](gamma_distribution) .\n* The  [Dirichlet process](dirichlet_process)  is a generalization of the Dirichlet distribution to possibly infinite spaces, and is useful in mixture modeling.\n* The Dirichlet distribution is a  [conjugate prior](bayesian_parameter_estimation)  to the categorical and multinomial distribution.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 0.5267481975829947,
+    "summary": "The Dirichlet distribution specifies a distribution on a n-dimensional vector and can be viewed as a probability distribution on a n-1 dimensional simplex (a simplex is an n-dimensional generalization of a triangle). Its parameters determine the distribution of mass on this simplex. The Dirichlet distribution is a conjugate prior to the categorigal and multinomial distributions, and for this reason, it is common in Bayesian statistics. Also, the Dirichlet distribution is a generalization of the beta distribution to higher dimensions (for n=2 it is the beta distribution).\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "dirichlet_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "5zwsgm7z"
+}

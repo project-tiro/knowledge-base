@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "strongly connected components",
+    "pointers": "",
+    "tags": ["algorithms"],
+    "learn_time": 0.6830861689370901,
+    "summary": "The strongly connected components of a graph G are maximal subgraphs S of G such that there is a directed path from any node of S to any other node of S. The graph of strongly connected components is a directed acyclic graph (DAG). The strongly connected components can be computed using depth-first search.\n",
+    "last_mod": "2014-08-29T00:47:24.491Z",
+    "tag": "strongly_connected_components",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "upi04sgw"
+}

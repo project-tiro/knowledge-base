@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-28T23:54:17.741Z",
+    "url": "",
+    "cresource": "k28jgwb7zii",
+    "ordering": -1,
+    "location_text": "Section 23.2, \"Breadth-first search,\" pages 469-476",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gdxo0yh8ecg"
+}

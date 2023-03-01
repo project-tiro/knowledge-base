@@ -1,0 +1,31 @@
+{
+  "fields": {
+    "target": "nw2kqzlz",
+    "last_mod": "2014-08-30T21:34:00.750Z",
+    "ordering": -1,
+    "target_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source_goals": [
+      "1my4310wyrd",
+      "2r4coxilxc1",
+      "3fa2racqc15",
+      "9y3wwg9ch7u",
+      "fkh5gxvh2jf",
+      "hghjvy74h63",
+      "l4swd56iv1p",
+      "x5ljypecoj8",
+      "z9zj7yzz453"
+    ],
+    "source": "bveqc1fo",
+    "reason": "The linear approximation is given in terms of a dot product."
+  },
+  "model": "graph.dependency",
+  "pk": "bveqc1fonw2kqzlz"
+}

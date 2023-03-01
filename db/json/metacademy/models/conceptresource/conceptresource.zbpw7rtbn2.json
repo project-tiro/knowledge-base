@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "o4lo1hx5",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 0,
+    "notes": "[u\"Some of the examples may use concepts you haven't seen. If so, just try to get the gist.\"]",
+    "goals_covered": ["7iak06bdhf", "92ajs6nh73", "xmdmbe19j8", "yp0gaqw0cl"],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "m8qs2fojd0"
+  },
+  "model": "graph.conceptresource",
+  "pk": "zbpw7rtbn2"
+}

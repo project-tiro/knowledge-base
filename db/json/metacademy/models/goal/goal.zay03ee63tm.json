@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why don't the linear CG updates maintain conjugacy in the nonlinear setting, with the gradient in place of the residual?",
+    "concept": "wojx5447",
+    "last_mod": "2014-10-20T01:47:59.342Z"
+  },
+  "model": "graph.goal",
+  "pk": "zay03ee63tm"
+}

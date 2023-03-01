@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Multidimensional scaling, tree-fitting, and clustering",
+    "url": "http://www.columbiauniversity.net/itc/sociology/watts/w3233/client_edit/shepard_scaling.pdf",
+    "notes": "",
+    "year": null,
+    "access": "paid",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Roger N. Shepard']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "cnr0fmp715"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-29T01:06:16.368Z",
+    "url": "",
+    "cresource": "mbs28xcw4z8",
+    "ordering": -1,
+    "location_text": "Chapter 24, \"Minimum spanning trees,\" pages 498-510",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kbqvzja8d6g"
+}

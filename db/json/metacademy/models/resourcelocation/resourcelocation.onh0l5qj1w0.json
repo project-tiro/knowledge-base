@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:42:12.042Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap7.pdf#page=6",
+    "cresource": "mhmr6kjpd8w",
+    "ordering": -1,
+    "location_text": "Lecture 7, \"Lie brackets and integrability,\" Section 3, \"Integrability of families of vector fields,\" pages 6-11",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "onh0l5qj1w0"
+}

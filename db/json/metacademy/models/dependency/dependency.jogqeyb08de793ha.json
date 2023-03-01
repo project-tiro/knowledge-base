@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "8de793ha",
+    "last_mod": "2014-08-30T21:34:01.227Z",
+    "ordering": -1,
+    "target_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "Gaussian elimination is a method for solving linear systems."
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb08de793ha"
+}

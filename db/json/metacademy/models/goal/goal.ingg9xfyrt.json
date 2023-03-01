@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Prove Godel's Completeness Theorem (Henkin's proof in particular)",
+    "concept": "iyyjegsx",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "ingg9xfyrt"
+}

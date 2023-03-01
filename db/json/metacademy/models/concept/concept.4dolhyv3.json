@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Bayes' rule",
+    "pointers": "*  [Bayes nets](bayes_nets)  are a framework for sophisticated probabilistic reasoning about many variables of interest using things like Bayes' rule.\n*  [Bayesian statistics](bayesian_parameter_estimation)  is a branch of statistics loosely inspired by Bayesian reasoning.",
+    "tags": ["bayesianstats", "machinelearning", "probabilitytheor"],
+    "learn_time": 1.798171354589782,
+    "summary": "Bayes' rule is a formula for combining prior beliefs with observed evidence to obtain a \"posterior\" distribution. It is central to Bayesian statistics, where one infers a posterior over the parameters of a statistical model given the observed data.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bayes_rule",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "4dolhyv3"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "46ycc9su",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 4,
+    "notes": "[u\"Read sections 18.1 and 18.2 if you're not familiar with the basic machine learning setup.\"]",
+    "goals_covered": ["4913uw4gwg", "fw67icdhff", "h6we5wxj24", "nq2mwmif7f", "qwlyz5cz5k"],
+    "edition": "2",
+    "additional_dependencies": "[]",
+    "global_resource": "4rzkc5z6at"
+  },
+  "model": "graph.conceptresource",
+  "pk": "gu9dg9w6qk"
+}

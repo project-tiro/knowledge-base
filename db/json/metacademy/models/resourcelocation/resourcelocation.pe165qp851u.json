@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:46:17.559Z",
+    "url": "",
+    "cresource": "lfq6afis3zh",
+    "ordering": -1,
+    "location_text": "Lecture sequence \"Vision par ordinateur avec réseaux de neurones\"",
+    "location_type": "lsc"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "pe165qp851u"
+}

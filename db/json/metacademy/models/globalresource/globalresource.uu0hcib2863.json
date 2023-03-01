@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Terse lecture notes for a course on differential geometry",
+    "version_num": 0,
+    "title": "Cambridge M24: Differential Geometry (lecture notes)",
+    "url": "https://www.dpmms.cam.ac.uk/~agk22/teaching.html",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-19T15:10:15.633Z",
+    "authors": "[u'Alexei Kovalev']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "uu0hcib2863"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Understand how a Riemannian metric provides a natural isomorphism between the tangent and cotangent bundles, and how this corresponds to \"raising\" and \"lowering\" indices",
+    "concept": "ex32fjyz",
+    "last_mod": "2014-09-21T22:43:44.705Z"
+  },
+  "model": "graph.goal",
+  "pk": "tfeqf2j0885"
+}

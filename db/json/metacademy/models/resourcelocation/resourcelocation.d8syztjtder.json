@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T04:43:22.896Z",
+    "url": "",
+    "cresource": "fwp2sl44opc",
+    "ordering": -1,
+    "location_text": "Section 2.1, \"Asymptotic notation,\" pages 23-32",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d8syztjtder"
+}

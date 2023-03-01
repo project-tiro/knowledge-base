@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "971gbcsw",
+    "last_mod": "2014-08-30T17:01:29.916Z",
+    "ordering": -1,
+    "target_goals": ["egt6bbrw20g", "em2zsaofty2"],
+    "source_goals": ["8cpngwrgof", "9awbz3spah", "qu2nxd0ccq", "w8dwzsjx7s", "y8c9wxr457", "zwhtnmt65o"],
+    "source": "ap6ijk2i",
+    "reason": "The Jeffreys prior can be used in Bayesian parameter estimation."
+  },
+  "model": "graph.dependency",
+  "pk": "ap6ijk2i971gbcsw"
+}

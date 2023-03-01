@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "0l92uz537e",
+    "ordering": 3,
+    "location_text": "Lecture \"Dimension of the column space or rank\"",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ret7jlvuox"
+}

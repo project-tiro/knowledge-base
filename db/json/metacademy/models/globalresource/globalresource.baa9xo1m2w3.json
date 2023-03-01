@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Lecture notes for MIT's introductory course on software engineering, taught in Java",
+    "version_num": 0,
+    "title": "MIT OpenCourseware: Elements of Software Construction",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-005-elements-of-software-construction-fall-2011/index.htm",
+    "notes": "",
+    "year": 2011,
+    "access": "free",
+    "last_mod": "2014-09-13T22:54:08.784Z",
+    "authors": "[u'Robert Miller']",
+    "edition_years": "[]",
+    "resource_type": "lecture notes"
+  },
+  "model": "graph.globalresource",
+  "pk": "baa9xo1m2w3"
+}

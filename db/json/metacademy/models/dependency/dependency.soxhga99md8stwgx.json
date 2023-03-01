@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "md8stwgx",
+    "last_mod": "2014-08-30T21:34:01.699Z",
+    "ordering": -1,
+    "target_goals": ["8mmwc5b2fad", "9isuh31jfbf", "ayhxjhhbdhl", "e9rj1yz7cm4", "ttsmioadwij"],
+    "source_goals": ["1z3pszxqr3m", "d3hkmi4jdu0", "hdpf4w1zceo", "m3rgg91pkwe", "mc4018ewirg", "r5ymh04n5zj"],
+    "source": "soxhga99",
+    "reason": "Applying the projection formula requires finding a basis."
+  },
+  "model": "graph.dependency",
+  "pk": "soxhga99md8stwgx"
+}

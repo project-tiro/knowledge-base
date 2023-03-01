@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An in-depth review of exact and approximate inference methods for graphical models.",
+    "version_num": 0,
+    "title": "Graphical models, exponential families, and variational inference",
+    "url": "http://www.eecs.berkeley.edu/~wainwrig/Papers/WaiJor08_FTML.pdf",
+    "notes": "",
+    "year": 2008,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Martin J. Wainwright', u'Michael I. Jordan']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "dmsfbuvplz"
+}

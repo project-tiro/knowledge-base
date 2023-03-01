@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:50:21.801Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap12.pdf",
+    "cresource": "gewrsd4ntaw",
+    "ordering": -1,
+    "location_text": "Lecture 12 notes, \"Tensors,\" up through 12.7, \"A test for tensorality,\" pages 1-7",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "d7ggb0v63ym"
+}

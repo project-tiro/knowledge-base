@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Extend the definitions of mutual information and KL divergence to the continuous case.\n** Note: unlike differential entropy, the continuous versions of mutual information and KL divergence behave like their discrete counterparts. Therefore, in a sense, they are more fundamental.",
+    "concept": "6oq3oon7",
+    "last_mod": "2014-09-01T02:36:47.762Z"
+  },
+  "model": "graph.goal",
+  "pk": "dsdsniu3tw"
+}

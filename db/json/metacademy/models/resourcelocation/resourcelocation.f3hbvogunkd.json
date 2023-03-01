@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-27T18:51:54.764Z",
+    "url": "https://class.coursera.org/algo-004/lecture/76",
+    "cresource": "9dfit2tpdgq",
+    "ordering": -1,
+    "location_text": "Lecture \"Red-black trees\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "f3hbvogunkd"
+}

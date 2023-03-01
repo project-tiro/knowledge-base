@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know how the stack is modified when a procedure is called, and when the procedure returns",
+    "concept": "yws89ctj",
+    "last_mod": "2014-09-07T00:28:38.800Z"
+  },
+  "model": "graph.goal",
+  "pk": "q105klrq9ll"
+}

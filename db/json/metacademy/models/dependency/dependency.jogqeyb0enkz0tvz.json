@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "enkz0tvz",
+    "last_mod": "2014-10-20T00:06:58.627Z",
+    "ordering": 0,
+    "target_goals": [
+      "5qx5yzt9i5j",
+      "8x9ahdkmf17",
+      "b9tpgjb4kvx",
+      "d95iitv0ulb",
+      "tv9zwga0i6y",
+      "ufellz3l680",
+      "z4mjgifk3ji"
+    ],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "Conjugate gradient is a method for solving large linear systems"
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb0enkz0tvz"
+}

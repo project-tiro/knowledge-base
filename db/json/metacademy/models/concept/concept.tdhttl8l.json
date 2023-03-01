@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "gamma distribution",
+    "pointers": "* The gamma distribution is used to construct a  [prior for the scale parameters](bayesian_parameter_estimation_gaussian)  in Bayesian parameter estimation. \n* The gamma distribution is a member of the  [exponential family](exponential_family) .\n* The  [Wishart distribution](wishart_distribution)  is a generalization of the gamma distribution to positive semidefinite matrices.\n* Some special cases of the gamma distribution:\n**  [exponential distribution](exponential_distribution)\n**  [chi-squared distribution](chi_squared_distribution)\n* The  [student-t distribution](student_t_distribution)  is a heavy-tailed distribution constructed from the Gaussian distribution and gamma distribution.\n* Gamma distributions are used to model the  [intervals between neuronal firings](neuronal_firings_gamma) .",
+    "tags": ["machinelearning", "probabilitytheor"],
+    "learn_time": 0.6623474507948829,
+    "summary": "The gamma distribution is a continuous distribution which gives the waiting time for n events to occur, when each event is equally likely to happen at any point in time. It is also commonly used in Bayesian statistics as a prior for scale variables.\n",
+    "last_mod": "2014-08-30T03:10:42.813Z",
+    "tag": "gamma_distribution",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "tdhttl8l"
+}

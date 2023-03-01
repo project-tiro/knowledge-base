@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/machlearning-001/lecture/289",
+    "cresource": "bpsydza555",
+    "ordering": 2,
+    "location_text": "Lecture \"Learning hidden layer representations\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "y85hdod9ca"
+}

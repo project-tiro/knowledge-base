@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Viterbi algorithm",
+    "pointers": "* The Viterbi algorithm  [can be interpreted](hmm_inference_as_bp)  as a special case of  [belief propagation](max_product_on_trees) .\n* The Viterbi algorithm is an example of  [dynamic programming](dynamic_programming) .",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 0.8620247157196836,
+    "summary": "The Viterbi algorithm is an algorithm for finding the most likely state sequence in the posterior for an HMM. It is based on dynamic programming and has linear time complexity in the length of the sequence. \n",
+    "last_mod": "2014-08-30T20:24:52.613Z",
+    "tag": "viterbi_algorithm",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "uyuyaft6"
+}

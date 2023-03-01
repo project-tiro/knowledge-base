@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qllm3i28",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 576,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "svxvt2x5",
+    "reason": "Reasoning about representational power requires the conditional independence interpretation."
+  },
+  "model": "graph.dependency",
+  "pk": "svxvt2x5qllm3i28"
+}

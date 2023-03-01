@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "5jxe1iig",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u'a full understanding of SVD is not needed for this introduction']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "ohdjrk9k61"
+  },
+  "model": "graph.conceptresource",
+  "pk": "xd7j8w3lcn"
+}

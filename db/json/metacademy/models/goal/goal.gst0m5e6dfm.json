@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know of at least one condition or method which prevents the step size from being too small (e.g. Wolfe, Goldstein, or backtracking)",
+    "concept": "brscvy9d",
+    "last_mod": "2014-10-11T21:01:46.828Z"
+  },
+  "model": "graph.goal",
+  "pk": "gst0m5e6dfm"
+}

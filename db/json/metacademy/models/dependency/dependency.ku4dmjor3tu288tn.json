@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "3tu288tn",
+    "last_mod": "2014-08-30T21:34:01.351Z",
+    "ordering": 596,
+    "target_goals": ["0bpgdp6248", "5pvbx5g4wh"],
+    "source_goals": ["7idje59eeg9", "d0y4m5cnwtm", "ks4c4ck0uc2"],
+    "source": "ku4dmjor",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ku4dmjor3tu288tn"
+}

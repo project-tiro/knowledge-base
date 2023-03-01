@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "An online AI course taught by two leading figures in the field (and one of the original MOOCs)",
+    "version_num": 0,
+    "title": "Udacity: Intro to Artificial Intelligence",
+    "url": "https://www.udacity.com/course/cs271",
+    "notes": "",
+    "year": null,
+    "access": "reg",
+    "last_mod": "2014-11-08T23:19:46.232Z",
+    "authors": "[u'Sebastian Thrun', u'Peter Norvig']",
+    "edition_years": "[]",
+    "resource_type": "online course"
+  },
+  "model": "graph.globalresource",
+  "pk": "xr4yuzzva7i"
+}

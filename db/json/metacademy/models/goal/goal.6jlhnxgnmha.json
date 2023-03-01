@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Show that eigenvectors corresponding to distinct eigenvalues are linearly independent",
+    "concept": "kquxsbij",
+    "last_mod": "2014-10-20T01:02:12.992Z"
+  },
+  "model": "graph.goal",
+  "pk": "6jlhnxgnmha"
+}

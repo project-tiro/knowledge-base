@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "l4im2jkx",
+    "last_mod": "2014-08-31T00:09:12.145Z",
+    "ordering": 4,
+    "target_goals": ["cguejujbnpn", "pwfbwcnflpx"],
+    "source_goals": ["2nsalb4rw9", "3lquv7b2zc"],
+    "source": "553vdk1m",
+    "reason": "The predictive distribution is a student-t distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "553vdk1ml4im2jkx"
+}

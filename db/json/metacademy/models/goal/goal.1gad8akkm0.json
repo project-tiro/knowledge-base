@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Should you use precision or recall for ranked retrieval sets?",
+    "concept": "q09afwzo",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "1gad8akkm0"
+}

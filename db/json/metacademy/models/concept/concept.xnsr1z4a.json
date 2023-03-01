@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "representation invariants",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 1.137756203210028,
+    "summary": "Representation invariants are a mathematical tool for checking the correctness of implementations of abstract data types (ADTs). A set of invariants are defined which together guarantee the internal consistency of the data structure. Each method is required to preserve these invariants. To show correctness, one also needs an abstraction function, which maps the underlying representation back to the ADT's abstract types.\n",
+    "last_mod": "2014-09-13T22:34:48.670Z",
+    "tag": "representation_invariants",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "xnsr1z4a"
+}

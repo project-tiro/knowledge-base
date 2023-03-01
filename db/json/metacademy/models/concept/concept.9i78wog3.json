@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "hidden Markov models",
+    "pointers": "* Some common applications of HMMs:\n**  [speech recognition](hmms_in_speech)\n**  [tracking objects](hmms_for_tracking)\n*  [Hidden semi-Markov models](hidden_semi_markov_models)  are an elaboration of HMMs which explicitly model the duration distribution of each state\n* We can perform exact inference efficiently in an HMM using the  [forward-backward algorithm](forward_backward_algorithm) .\n* We can learn the parameters of an HMM using the  [Baum-Welch algorithm](baum_welch_algorithm) .\n* HMMs can be seen as a kind of  [Bayesian network](hmms_as_bayes_nets) .\n*  [Dynamic Bayes nets](dynamic_bayes_nets)  are a kind of time series model which has multiple variables at each time step which influence each other\n* The  [particle filter](particle_filter)  is a way of performing inference in HMMs when the state space is too large to represent exactly.\n*  [Kalman filters](kalman_filter)  are a widely used special case of HMMs where all of the variables are Gaussian.\n*  [Recurrent neural networks](recurrent_neural_networks)  are another class of model often applied to sequence data.",
+    "tags": ["machinelearning", "pgm"],
+    "learn_time": 1.5489133557597579,
+    "summary": "Hidden Markov models (HMMs) are a kind of probabilistic model widely used in speech and language processing. There is a discrete latent state which evolves over time as a Markov chain, and the current observations depend stochastically on the current latent state. HMMs are popular because they support efficient exact inference algorithms.\n",
+    "last_mod": "2014-08-30T03:35:08.040Z",
+    "tag": "hidden_markov_models",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "9i78wog3"
+}

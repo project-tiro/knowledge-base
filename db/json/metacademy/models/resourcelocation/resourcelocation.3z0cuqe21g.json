@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.stanford.edu/class/cs103/keith.pdf#page=261",
+    "cresource": "lq75s3qkin",
+    "ordering": 0,
+    "location_text": "Section 5.2, \"Equivalence relations,\" pages 261-271 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3z0cuqe21g"
+}

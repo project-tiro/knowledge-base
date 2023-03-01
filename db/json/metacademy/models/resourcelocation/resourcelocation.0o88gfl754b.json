@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T22:35:32.699Z",
+    "url": "",
+    "cresource": "5t918asr5uq",
+    "ordering": -1,
+    "location_text": "Section 4.3, \"Local search algorithms and optimization problems,\" subsection \"Simulated annealing search,\" page 115",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "0o88gfl754b"
+}

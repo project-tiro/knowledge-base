@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "sjfdj1qn",
+    "last_mod": "2014-08-31T00:10:19.118Z",
+    "ordering": 264,
+    "target_goals": ["vchyj8yc5c", "x3484d3u16"],
+    "source_goals": ["37al3i5sev1", "go6jccnod9x"],
+    "source": "n1flwqjp",
+    "reason": "The evidence approximation can be used to select the dimensionality."
+  },
+  "model": "graph.dependency",
+  "pk": "n1flwqjpsjfdj1qn"
+}

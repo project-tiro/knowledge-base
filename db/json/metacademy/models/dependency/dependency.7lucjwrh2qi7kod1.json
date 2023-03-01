@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "2qi7kod1",
+    "last_mod": "2014-08-30T21:34:00.510Z",
+    "ordering": 296,
+    "target_goals": [],
+    "source_goals": ["qq3xjv260uu", "vbb3tzgzw80", "xn02wws917f"],
+    "source": "7lucjwrh",
+    "reason": "The optimality conditions are an instance of the KKT conditions."
+  },
+  "model": "graph.dependency",
+  "pk": "7lucjwrh2qi7kod1"
+}

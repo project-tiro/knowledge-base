@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "whufj93ejp",
+    "ordering": 0,
+    "location_text": "A.6",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "74mmspwr6p"
+}

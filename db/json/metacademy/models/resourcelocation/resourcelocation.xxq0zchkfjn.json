@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T21:03:52.354Z",
+    "url": "https://courses.edx.org/courses/BerkeleyX/CS188.1x/2013_Spring/courseware/Week_2/Lecture_3_Informed_Search_continued/",
+    "cresource": "9dp3tt91lnx",
+    "ordering": -1,
+    "location_text": "Lecture 3, \"Informed search,\" including \"continued\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xxq0zchkfjn"
+}

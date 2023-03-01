@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "0sqslybm",
+    "last_mod": "2014-08-30T21:34:00.521Z",
+    "ordering": -1,
+    "target_goals": ["2tq7w36rdcj", "46qtr8756mb", "u3terd1lv8l", "v12v09ma25z"],
+    "source_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source": "8de793ha",
+    "reason": "Gaussian elimination is used to compute the LU factorization."
+  },
+  "model": "graph.dependency",
+  "pk": "8de793ha0sqslybm"
+}

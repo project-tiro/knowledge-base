@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "qfzexdq8",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 527,
+    "target_goals": ["7coi54wpsq", "d06x379joc"],
+    "source_goals": ["abo3nbpsbm", "iae14vnjvk", "jvow28bvkl", "m15n6xggsj", "u843rt5bzx", "z66edo7cna"],
+    "source": "mxpmyv5u",
+    "reason": "The proof of the theorem uses properties of covariance."
+  },
+  "model": "graph.dependency",
+  "pk": "mxpmyv5uqfzexdq8"
+}

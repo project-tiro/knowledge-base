@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "bias-variance decomposition",
+    "pointers": "* The variance term depends on the  [effective number of parameters](effective_num_parameters)  of a model.\n*  [Statistical learning theory](statistical_learning_theory)  gives a way of analyzing bias and variance of estimators more generally.\n*  [Cross-validation](cross_validation)  is a simple and general technique for managing the bias-variance tradeoff.  [ (go to concept)](cross_validation)",
+    "tags": ["freqstats", "machinelearning"],
+    "learn_time": 0.6580260563711819,
+    "summary": "The bias-variance decomposition (often referred to as the bias-variance tradeoff) is a frequentist analysis of the generalization capability of an estimator, i.e. a learning algorithm.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "bias_variance_decomposition",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "e46vxqrx"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "oijzu9k7",
+    "last_mod": "2014-09-07T03:25:48.648Z",
+    "ordering": 0,
+    "target_goals": ["ngq5na7g13s", "tbow8nrdb49"],
+    "source_goals": ["beqfwlsw6i2", "j56eqohb5u3", "pea3zehtd5i"],
+    "source": "cja1np7y",
+    "reason": "Talking about memory organization requires pointers"
+  },
+  "model": "graph.dependency",
+  "pk": "cja1np7yoijzu9k7"
+}

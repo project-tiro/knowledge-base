@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "t6x3pnaf",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u'Watch the \"Functions and linear transformations\" lecture sequence if you\\'re not used to thinking of matrices as linear transformations.']",
+    "goals_covered": [],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "83707b6jpo"
+  },
+  "model": "graph.conceptresource",
+  "pk": "f1uqfxozbz"
+}

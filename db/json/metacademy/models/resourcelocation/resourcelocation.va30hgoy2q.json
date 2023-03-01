@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://research.microsoft.com/en-us/um/people/cohn/Courses/18.510F13/settheory.pdf#page=19",
+    "cresource": "afz8wzagel",
+    "ordering": 1,
+    "location_text": "Section 5, \"Ordinals and well-ordered sets,\" pages 19-25 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "va30hgoy2q"
+}

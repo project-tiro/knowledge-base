@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bd6229xe",
+    "last_mod": "2014-08-30T21:34:01.656Z",
+    "ordering": -1,
+    "target_goals": ["c5jl823g1hb", "f5sactlyqy9", "qayka8kwrjj", "rcop43kg3r6"],
+    "source_goals": ["39jcgpca73z", "fknf1gn9r66", "q84jgl0d2ea"],
+    "source": "qipartpb",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "qipartpbbd6229xe"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "70chyyirg5",
+    "ordering": 1,
+    "location_text": "Chapter 4, \"Conditionals and biconditionals,\" up through Section 4.2, \"Biconditional symbol,\" pages 91-97",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9x5s4v9f0k"
+}

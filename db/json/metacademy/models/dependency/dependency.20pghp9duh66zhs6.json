@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uh66zhs6",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 953,
+    "target_goals": [],
+    "source_goals": [],
+    "source": "20pghp9d",
+    "reason": "Kernel ridge regression is the standard example used to introduce kernels."
+  },
+  "model": "graph.dependency",
+  "pk": "20pghp9duh66zhs6"
+}

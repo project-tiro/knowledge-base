@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "w4m9x996i0",
+    "ordering": 0,
+    "location_text": "Chapter 11, \"Advanced topics in FOL,\" up through subsection 11.3, \"Truth and satisfaction, revisited,\" pages 258-268",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bfo13c01d8"
+}

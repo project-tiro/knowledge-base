@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "gkkm9vcp",
+    "last_mod": "2014-11-19T03:33:23.222Z",
+    "ordering": -1,
+    "target_goals": ["plh2adtmfe0"],
+    "source_goals": ["4i11h5qaycz", "sdaa6t2df42", "twrybtcq5g3", "vjjemzufa90", "wme7jdls3xc"],
+    "source": "8vhx3x66",
+    "reason": "Finite differences are commonly used to check gradient computations"
+  },
+  "model": "graph.dependency",
+  "pk": "8vhx3x66gkkm9vcp"
+}

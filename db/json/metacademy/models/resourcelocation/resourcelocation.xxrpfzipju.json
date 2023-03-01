@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/pgm/lecture/53",
+    "cresource": "xtvqezf43t",
+    "ordering": 2,
+    "location_text": "Lecture \"Properties of belief propagation\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xxrpfzipju"
+}

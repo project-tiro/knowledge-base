@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.stanford.edu/class/cs103/keith.pdf#page=13",
+    "cresource": "ekjd2d7o7d",
+    "ordering": 1,
+    "location_text": "Section 1.2, \"Operations on sets,\" pages 13-16 ",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ydm101r8mb"
+}

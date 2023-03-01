@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "In a language such as Java, Python, or C++, know the syntax for defining classes, creating instances, accessing fields, etc.",
+    "concept": "x865hwhs",
+    "last_mod": "2014-09-11T02:30:06.069Z"
+  },
+  "model": "graph.goal",
+  "pk": "tt1m2paft7q"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "vb48h13n",
+    "last_mod": "2014-08-30T21:34:00.873Z",
+    "ordering": -1,
+    "target_goals": ["94itqg8lwxt", "m7bewsny7mp", "qx4yuqu3hrr", "ruh8kxlh5ix", "ybb3mn8yvf5"],
+    "source_goals": ["8fj8lm8rzbh", "hmp334zr5ya", "on5x0psvprs", "qqckxwupr7i"],
+    "source": "e6wbweue",
+    "reason": "HMC is an example of an M-H sampler."
+  },
+  "model": "graph.dependency",
+  "pk": "e6wbweuevb48h13n"
+}

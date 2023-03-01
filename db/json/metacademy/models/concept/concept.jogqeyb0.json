@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear systems as matrices",
+    "pointers": "* There are many techniques for solving linear systems that involve matrix operations such as:\n**  [matrix multiplication](matrix_multiplication)\n**  [matrix transpose](matrix_transpose)\n**  [matrix inverse](matrix_inverse)\n* Computing the  [LU factorization](lu_factorization)  is a computationally efficient method for solving linear systems",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.6677769506354785,
+    "summary": "We can represent systems of linear equations in terms of matrices and vectors. This allows us to analyze and solve them using the tools of linear algebra.\n",
+    "last_mod": "2014-08-30T17:31:23.499Z",
+    "tag": "linear_systems_as_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jogqeyb0"
+}

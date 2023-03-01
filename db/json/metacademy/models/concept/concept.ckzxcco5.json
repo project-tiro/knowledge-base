@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Godel's Incompleteness Theorems",
+    "pointers": null,
+    "tags": ["logic"],
+    "learn_time": 2.319799762762488,
+    "summary": "Godel's Incompleteness Theorems are fundamental results showing the limitations of formal mathematics. The First Incompleteness Theorem shows that in any consistent logical system which includes arithmetic, some statements cannot be proved or disproved. Equivalently, the set of true statements about the natural numbers is undecidable. The Second Incompleteness Theorem states that no formal system which includes arithmetic can prove its own consistency, or that of a more powerful theory.\n\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "godels_incompleteness_theorems",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "ckzxcco5"
+}

@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "Define tangent vectors in terms of coordinate vectors in a coordinate chart.",
+    "concept": "855sc8u4",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "0fblaa6li9k"
+}

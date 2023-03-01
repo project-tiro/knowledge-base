@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "What does it mean for multiple events to be independent, and why is this stronger than pairwise independence?",
+    "concept": "k959cyjm",
+    "last_mod": "2014-08-30T16:57:29.345Z"
+  },
+  "model": "graph.goal",
+  "pk": "963rufpw1ks"
+}

@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "6zgu0pb6",
+    "last_mod": "2014-11-08T20:56:25.671Z",
+    "ordering": 1,
+    "target_goals": [
+      "8e7da15ybq3",
+      "8me51xljc0i",
+      "9t0v71ivs82",
+      "gpjq8vqk642",
+      "jeg2sqzva7i",
+      "l88degzqr02",
+      "uphetywpvdq",
+      "xszo2u2oekx"
+    ],
+    "source_goals": ["246z5s3q6vc", "58ab8u7kc4h", "5stylb6ltat", "nos1t19gous", "zq2llagdy6c", "zshysmdzqxx"],
+    "source": "cqpveand",
+    "reason": "Uninformed search algorithms serve as a template for A* search"
+  },
+  "model": "graph.dependency",
+  "pk": "cqpveand6zgu0pb6"
+}

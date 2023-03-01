@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "nw2kqzlz",
+    "last_mod": "2014-08-30T21:34:01.379Z",
+    "ordering": -1,
+    "target_goals": [
+      "7z8g8fia1nh",
+      "ajuwpvlc4vl",
+      "f385o6f1wxq",
+      "kjszqgpglkm",
+      "n71zbfch9z4",
+      "qaz9c7mnf2b",
+      "yg5p6277qzo"
+    ],
+    "source_goals": ["6bxxpeuogr8", "gridahsxg2b", "i4keo3dxhff"],
+    "source": "m3bm96b5",
+    "reason": "The linear approximation is computed from partial derivatives."
+  },
+  "model": "graph.dependency",
+  "pk": "m3bm96b5nw2kqzlz"
+}

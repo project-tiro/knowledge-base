@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.cs.toronto.edu/~mackay/itprnn/ps/336.342.pdf#page=6",
+    "cresource": "s51ggtkgyx",
+    "ordering": 0,
+    "location_text": "Section 26.3, \"The min-sum algorithm,\" pages 339-340 ",
+    "location_type": "online textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "8ermy2dbn8"
+}

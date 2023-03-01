@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf#page=237",
+    "cresource": "gzyqp00x2c",
+    "ordering": 1,
+    "location_text": "Section 5.2, \"The Lagrange dual problem,\" pages 223-231 ",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ugizcobehp"
+}

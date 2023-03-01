@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T03:43:02.339Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=6",
+    "cresource": "2g8kz4rhxvt",
+    "ordering": -1,
+    "location_text": "Chapter 2, \"Manifolds,\" up through 2.3, \"Further examples of manifolds,\" pages 6-13",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "q77ggbgep88"
+}

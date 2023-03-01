@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Know that the probability of a union of events is bounded by the sum of the probabilities (this is a surprisingly useful fact!)",
+    "concept": "j9tjulc8",
+    "last_mod": "2014-08-30T20:13:40.816Z"
+  },
+  "model": "graph.goal",
+  "pk": "rmhpdqjxpbh"
+}

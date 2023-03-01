@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "loopy belief propagation",
+    "pointers": "* The  [Brouwer fixed point theorem](brouwer_fixed_point_theorem)  implies that loopy BP has at least one fixed point.\n* Loopy BP  [can be viewed](loopy_bp_as_variational)  as a  [variational inference](variational_inference)  algorithm which tries to minimize the Bethe free energy. \n* In the case of Gaussian graphical models, loopy BP is  [guaranteed to converge](gaussian_loopy_belief_propagation)  to the correct mean. \n* Loopy BP is  [guaranteed to converge](loopy_bp_single_loop)  in graphs with a single loop.",
+    "tags": ["pgm"],
+    "learn_time": 2.205606650844465,
+    "summary": "The sum-product and max-product algorithms give exact answers for tree graphical models, but if we apply the same update rules on a general graph, it often gives pretty reasonable results. This is known as loopy belief propagation, and it is a widely used approximate inference algorithm in coding theory and low level vision.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "loopy_belief_propagation",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "wiyafj74"
+}

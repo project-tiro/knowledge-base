@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:49:12.715Z",
+    "url": "",
+    "cresource": "8hnsc8hi9ro",
+    "ordering": -1,
+    "location_text": "Chapter 16, \"Data structures: collections and generics,\" pages 529-580",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "9omdn9qi553"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "",
+    "cresource": "q9udd0x88kk",
+    "ordering": -1,
+    "location_text": "Chapter 6, \"The cotangent bundle,\" up through subsection \"Pullbacks,\" pages 124-138",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ha2zzb9hubo"
+}

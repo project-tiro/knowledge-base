@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "nqo396nz",
+    "last_mod": "2014-08-30T21:34:02.083Z",
+    "ordering": 3,
+    "target_goals": ["1wgr9u5a2dt", "di3e9krpk5d", "ta1iefywurk", "u7idp6weub7", "w5c7j2apzbe"],
+    "source_goals": ["ursdf81jhmp", "vas6nh65ern"],
+    "source": "ryrhok32",
+    "reason": "The definition of differentiability mentions open sets."
+  },
+  "model": "graph.dependency",
+  "pk": "ryrhok32nqo396nz"
+}

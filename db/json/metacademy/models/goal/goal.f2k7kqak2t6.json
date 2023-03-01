@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Know of a technique for resolving collisions (e.g. chaining)",
+    "concept": "r0b19pum",
+    "last_mod": "2014-08-27T21:56:55.394Z"
+  },
+  "model": "graph.goal",
+  "pk": "f2k7kqak2t6"
+}

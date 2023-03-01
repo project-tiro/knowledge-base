@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "frk2wekz",
+    "last_mod": "2014-08-30T21:34:01.297Z",
+    "ordering": 314,
+    "target_goals": ["05tfyyu9pn", "os11sc1f40", "yh1t727gsu", "zzhro891ja"],
+    "source_goals": ["8n0cw5qvie8", "963rufpw1ks", "ei27y93bn9a", "x4umo5csd04"],
+    "source": "k959cyjm",
+    "reason": "The analysis assumes that the training examples are independent draws from the distribution."
+  },
+  "model": "graph.dependency",
+  "pk": "k959cyjmfrk2wekz"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7cedq6br",
+    "last_mod": "2014-11-08T22:26:47.885Z",
+    "ordering": -1,
+    "target_goals": ["34ezvgrvep3", "6xfdjbsn2b4", "hn3hpprd7k3", "rcr2cuiq2u4"],
+    "source_goals": ["5a0sbkdff9u", "bzmtb4zbq4i"],
+    "source": "4mger90x",
+    "reason": "Local search is a kind of search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "4mger90x7cedq6br"
+}

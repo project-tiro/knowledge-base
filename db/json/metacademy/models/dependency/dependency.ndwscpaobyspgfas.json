@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "byspgfas",
+    "last_mod": "2014-08-30T21:34:01.568Z",
+    "ordering": -1,
+    "target_goals": ["jh2zi4wzl3x", "o4b0w600ok7", "o5x898uoxub", "oerygn8zjg4"],
+    "source_goals": ["cc8kerabea2", "zyjqwgpxjuz"],
+    "source": "ndwscpao",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "ndwscpaobyspgfas"
+}

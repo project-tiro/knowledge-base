@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u74hkbbl",
+    "last_mod": "2014-08-30T17:23:14.646Z",
+    "ordering": -1,
+    "target_goals": ["qfmwlirgw5h", "qpwczyqjcqv"],
+    "source_goals": [],
+    "source": "xub4wekq",
+    "reason": "Linear dynamical systems are defined in terms of multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "xub4wekqu74hkbbl"
+}

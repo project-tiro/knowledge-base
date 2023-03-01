@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T18:26:14.328Z",
+    "url": "",
+    "cresource": "s84cwxpt728",
+    "ordering": -1,
+    "location_text": "Chapter 3, \"Object oriented programming in Java,\" subsection \"Interfaces,\" pages 135-140",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "2391unzcis2"
+}

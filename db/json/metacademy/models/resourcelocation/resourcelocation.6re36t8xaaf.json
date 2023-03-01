@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T23:12:03.746Z",
+    "url": "",
+    "cresource": "9lozfss9t5d",
+    "ordering": -1,
+    "location_text": "Chapter 7, \"Type hierarchy\"",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "6re36t8xaaf"
+}

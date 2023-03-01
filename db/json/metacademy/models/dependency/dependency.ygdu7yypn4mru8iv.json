@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "n4mru8iv",
+    "last_mod": "2014-08-30T03:21:56.446Z",
+    "ordering": -1,
+    "target_goals": ["2mmu89vk7qf", "j7qoldtsh8h", "tcfsmm06955"],
+    "source_goals": [],
+    "source": "ygdu7yyp",
+    "reason": "The structure of a graphical model shows why the Gibbs updates can be computed efficiently."
+  },
+  "model": "graph.dependency",
+  "pk": "ygdu7yypn4mru8iv"
+}

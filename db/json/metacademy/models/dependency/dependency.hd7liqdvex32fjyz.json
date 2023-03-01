@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ex32fjyz",
+    "last_mod": "2014-08-30T21:34:02.142Z",
+    "ordering": 1,
+    "target_goals": ["azyqmhdfvtp", "cysntmjm75v", "jg9mqj0d5yf", "oxqerx3mdts", "tfeqf2j0885", "z3f1k7eyhf4"],
+    "source_goals": ["55729ahbpy3", "sqe14w72r1z", "w5fbm1fk6kf", "xdgc7kdmjk8", "y8kovmmv6b9"],
+    "source": "hd7liqdv",
+    "reason": "A Riemannian metric assigns an inner product to the tangent space at each point"
+  },
+  "model": "graph.dependency",
+  "pk": "hd7liqdvex32fjyz"
+}

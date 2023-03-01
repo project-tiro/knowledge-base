@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T04:02:06.546Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=33",
+    "cresource": "zthgfaymk1b",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Tensor products,\" pages 33-38",
+    "location_type": "chp"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "vz98hv63c70"
+}

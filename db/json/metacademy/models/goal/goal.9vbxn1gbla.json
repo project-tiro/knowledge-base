@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 1,
+    "text": "* Know the \"right-hand rule\" for cross products",
+    "concept": "m9v3pvr7",
+    "last_mod": "2014-08-31T15:52:05.468Z"
+  },
+  "model": "graph.goal",
+  "pk": "9vbxn1gbla"
+}

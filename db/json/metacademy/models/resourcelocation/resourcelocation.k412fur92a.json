@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "za0rfizx2d",
+    "ordering": 2,
+    "location_text": "Section 8, \"Cardinal arithmetic,\" pages 34-40",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "k412fur92a"
+}

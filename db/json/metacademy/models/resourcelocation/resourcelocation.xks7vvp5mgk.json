@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:34:13.236Z",
+    "url": "http://math.hws.edu/javanotes/c9/s4.html",
+    "cresource": "vaytey2siu4",
+    "ordering": -1,
+    "location_text": "Section 9.4, \"Binary trees,\" up through 9.4.1, \"Tree traversal\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "xks7vvp5mgk"
+}

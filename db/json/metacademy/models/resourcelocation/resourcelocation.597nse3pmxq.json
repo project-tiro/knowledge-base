@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-13T22:20:44.941Z",
+    "url": "http://en.wikipedia.org/wiki/Exception_handling",
+    "cresource": "ik27ckdx9li",
+    "ordering": -1,
+    "location_text": "Article \"Exception handling\": introduction, and subsection \"Exception handling in software\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "597nse3pmxq"
+}

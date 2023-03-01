@@ -1,0 +1,9 @@
+{
+  "fields": {
+    "depth": 2,
+    "dependencies": ["ap1kl16ud64717ph", "iqeem7gjsug552ho", "sug552hod64717ph"],
+    "concepts": ["ap1kl16u", "d64717ph", "iqeem7gj", "sug552ho"]
+  },
+  "model": "graph.targetgraph",
+  "pk": "d64717ph"
+}

@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "tl3gg7oi",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 1,
+    "notes": "[u'This covers the special case where the proposals add or delete parameters.']",
+    "goals_covered": ["rid51tb46o", "v07jb2sb4y", "vszt49gv3w"],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "3wys7sfc6x"
+  },
+  "model": "graph.conceptresource",
+  "pk": "e4te5zicaa"
+}

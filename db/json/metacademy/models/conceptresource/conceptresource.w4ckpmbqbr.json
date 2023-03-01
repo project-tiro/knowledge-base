@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "wyga3wog",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u'You can skip the proofs as far as this node is concerned.']",
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[]",
+    "global_resource": "zrkt0mc0kr"
+  },
+  "model": "graph.conceptresource",
+  "pk": "w4ckpmbqbr"
+}

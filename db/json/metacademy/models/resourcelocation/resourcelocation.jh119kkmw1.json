@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "7wuuek6t9g",
+    "ordering": 1,
+    "location_text": "Section 7.3, \"The class NP,\" pages 264-270",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "jh119kkmw1"
+}

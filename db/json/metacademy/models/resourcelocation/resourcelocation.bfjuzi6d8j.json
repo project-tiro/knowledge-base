@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "g2qv2nwi15",
+    "ordering": 2,
+    "location_text": "Section 8.7, \"Efficiency and the Cramer-Rao lower bound,\" not including 8.7.1, pages 298-302",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "bfjuzi6d8j"
+}

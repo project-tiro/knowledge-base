@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "functions of several variables",
+    "pointers": null,
+    "tags": ["mvcalc"],
+    "learn_time": 1.4108816089771254,
+    "summary": "Multivariable calculus deals with functions of multiple variables. For two dimensions, we can visualize these with graphs or with level sets.\n",
+    "last_mod": "2014-08-30T03:09:01.852Z",
+    "tag": "functions_of_several_variables",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "kp6axa2i"
+}

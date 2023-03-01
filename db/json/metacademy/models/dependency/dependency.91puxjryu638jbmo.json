@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "u638jbmo",
+    "last_mod": "2014-08-30T21:34:00.597Z",
+    "ordering": 220,
+    "target_goals": ["8gbauivtgd", "a3yw0dohh4", "nie24b42kd"],
+    "source_goals": ["1fg85bbcg88", "211prlc36qi", "ei413jhsrft"],
+    "source": "91puxjry",
+    "reason": "The bootstrap is a Monte Carlo estimator."
+  },
+  "model": "graph.dependency",
+  "pk": "91puxjryu638jbmo"
+}

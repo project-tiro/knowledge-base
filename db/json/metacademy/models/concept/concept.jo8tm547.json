@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "constraint satisfaction problems",
+    "pointers": "",
+    "tags": ["symbolicai"],
+    "learn_time": 1.2052859207614786,
+    "summary": "Constraint satisfaction problems (CSPs) are a kind of search problem in AI, where the objective is to assign values to each variable, such that the values obey specified constraints. Many relatively large-scale problems can be solved using off-the-shelf CSP solvers.\n",
+    "last_mod": "2014-11-08T21:43:38.747Z",
+    "tag": "constraint_satisfaction_problems",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "jo8tm547"
+}

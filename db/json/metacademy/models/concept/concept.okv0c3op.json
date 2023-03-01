@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear regression as maximum likelihood",
+    "pointers": "* Viewing linear regression as maximum likelihood estimation leads to a number of generalization, including:\n**  [Bayesian linear regression](bayesian_linear_regression)\n**  [Other noise models](robust_linear_regression)\n* Linear regression is a kind of  [generalized linear model](generalized_linear_models) .",
+    "tags": ["machinelearning"],
+    "learn_time": 0.9627737777645236,
+    "summary": "One way to solve a standard linear regression problem, y=w*x, is to assume the likelihood of the observed y, p(y; w*x, sigma^2) is Gaussian. This assumption means that we believe the observed values of y are a deterministic function of w*x plus some random Gaussian noise: y = w*x + e, where e is random Gaussian noise. If we assume a known sigma, the maximum likelihood estimator for w is obtained by minimizing the sum-of-squares error, Sum[(y-w*x)^2] for all y and x pairs, which has a closed form solution.",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "linear_regression_as_maximum_likelihood",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "okv0c3op"
+}

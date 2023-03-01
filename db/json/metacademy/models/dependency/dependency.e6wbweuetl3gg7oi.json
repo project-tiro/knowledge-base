@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tl3gg7oi",
+    "last_mod": "2014-08-30T21:34:00.869Z",
+    "ordering": 129,
+    "target_goals": ["rid51tb46o", "v07jb2sb4y", "vszt49gv3w"],
+    "source_goals": ["8fj8lm8rzbh", "hmp334zr5ya", "on5x0psvprs", "qqckxwupr7i"],
+    "source": "e6wbweue",
+    "reason": "Reversible jump MCMC is a special case of Metropolis-Hastings."
+  },
+  "model": "graph.dependency",
+  "pk": "e6wbweuetl3gg7oi"
+}

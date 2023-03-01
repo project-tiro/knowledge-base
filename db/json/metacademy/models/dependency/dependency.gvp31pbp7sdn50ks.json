@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "7sdn50ks",
+    "last_mod": "2014-08-31T00:16:06.446Z",
+    "ordering": 216,
+    "target_goals": ["r51au6tf21"],
+    "source_goals": ["35kdpx6a1pm", "m8nx4zatadu", "nte8w095vsl", "pqk34371k5u"],
+    "source": "gvp31pbp",
+    "reason": "The binomial distribution is parameterized in terms of its mean."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbp7sdn50ks"
+}

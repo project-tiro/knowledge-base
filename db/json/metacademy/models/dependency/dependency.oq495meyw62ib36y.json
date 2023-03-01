@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "w62ib36y",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 873,
+    "target_goals": ["2ugh0ma4r0", "7q9uheb6xl", "c49m3kl8uo", "qibxg8tohn"],
+    "source_goals": ["4aca3ammoz", "4uyiyaj7x3", "i3e4kz5h2z", "l4m35s3t3h", "npmo4n0b58"],
+    "source": "oq495mey",
+    "reason": "Stokes' Theorem is a theorem about surface integrals."
+  },
+  "model": "graph.dependency",
+  "pk": "oq495meyw62ib36y"
+}

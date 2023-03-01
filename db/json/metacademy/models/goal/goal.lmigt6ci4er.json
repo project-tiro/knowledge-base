@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Be aware of the distinction between average case and worst case complexity",
+    "concept": "mnj2e4z2",
+    "last_mod": "2014-08-27T04:38:44.523Z"
+  },
+  "model": "graph.goal",
+  "pk": "lmigt6ci4er"
+}

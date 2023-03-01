@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T04:02:36.042Z",
+    "url": "http://people.maths.ox.ac.uk/hitchin/hitchinnotes/Differentiable_manifolds/manifolds2012.pdf#page=38",
+    "cresource": "zthgfaymk1b",
+    "ordering": -1,
+    "location_text": "Section 6.1, \"The bundle of p-forms,\" pages 38-39",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "zn0k18b562e"
+}

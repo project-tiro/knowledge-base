@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 4,
+    "text": "* Be able to tell if a vector field is conservative by determining if the curl is 0",
+    "concept": "kj19sehg",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "877wwgikft"
+}

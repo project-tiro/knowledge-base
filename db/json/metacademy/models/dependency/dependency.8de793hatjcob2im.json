@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "tjcob2im",
+    "last_mod": "2014-08-30T21:34:00.532Z",
+    "ordering": -1,
+    "target_goals": ["4ngj9uttv2h", "756aj5q871r", "og422t01mws", "psmyyyvrqsn"],
+    "source_goals": ["87dybv4aqdd", "b4ydwyqvi1f", "ejrqki6r12f"],
+    "source": "8de793ha",
+    "reason": "Gaussian elimination is used to compute bases for the subspaces."
+  },
+  "model": "graph.dependency",
+  "pk": "8de793hatjcob2im"
+}

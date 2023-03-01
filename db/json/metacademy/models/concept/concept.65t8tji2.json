@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Zermelo-Frankl axioms",
+    "pointers": null,
+    "tags": ["logic", "settheory"],
+    "learn_time": 1.665411519618718,
+    "summary": "The Zermelo-Frankl axioms are the standard formalization of set theory in mathematics. They include the Axiom of Extensionality (two sets are equal if they have the same elements), various comprehension axioms (which enable one to construct sets), and the Axiom of Regularity (which rules out certain pathological sets). Most of mathematics can be derived from these axioms.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "zermelo_frankl_axioms",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "65t8tji2"
+}

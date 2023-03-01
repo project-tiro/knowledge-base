@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "mo9blgv3rj",
+    "ordering": 0,
+    "location_text": "Section 7.1, \"The idea of a linear transformation,\" pages 375-379, and Section 7.2, \"The matrix of a linear transformation,\" up to \"The identity transformation and the change of basis matrix,\" pages 384-390",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5tkn8lmbcy"
+}

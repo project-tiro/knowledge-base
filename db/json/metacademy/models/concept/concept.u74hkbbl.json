@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear dynamical systems",
+    "pointers": "* Other models of sequence data include:\n**  [hidden Markov models](hidden_markov_models)\n**  [recurrent neural networks](recurrent_neural_networks)",
+    "tags": ["pgm"],
+    "learn_time": 2.4011423010257213,
+    "summary": "Linear dynamical systems (LDSs) are a kind of probabilistic model where a latent state evolves over time, all the variables are jointly Gaussian, and all the dependencies are linear. They are commonly used in robotics, computer vision (for tracking), and time series modeling. They are useful because we can perform exact posterior inference using Kalman filtering and smoothing. Algorithms for LDSs form the basis for analogous techniques in more general state space models, where some of the assumptions are not satisfied.\n",
+    "last_mod": "2014-08-30T17:23:21.930Z",
+    "tag": "linear_dynamical_systems",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "u74hkbbl"
+}

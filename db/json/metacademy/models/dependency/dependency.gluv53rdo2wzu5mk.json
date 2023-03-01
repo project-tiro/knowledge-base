@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o2wzu5mk",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 631,
+    "target_goals": [],
+    "source_goals": ["6umozx10ra", "c33l2jyqr1", "s1v61ikudy"],
+    "source": "gluv53rd",
+    "reason": "Gaussian process classification is a kernelized version of Bayesian logistic regression."
+  },
+  "model": "graph.dependency",
+  "pk": "gluv53rdo2wzu5mk"
+}

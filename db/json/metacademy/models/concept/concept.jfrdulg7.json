@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "NP complexity class",
+    "pointers": null,
+    "tags": ["theorycomp"],
+    "learn_time": 2.1601293038260194,
+    "summary": "NP, or \"nondeterministic polynomial,\" is the complexity class of problems with \"polynomial time verifiers.\" I.e., if the problem has a solution, it must be possible to verify the solution in polynomial time, even if finding the solution is much harder. Equivalently, it is the class of problems which can be solved efficiently by nondeterministic Turing machines. The \"P vs. NP\" question, whether all NP problems can be solved in worst-case polynomial time, is the central question in computational complexity theory.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "np_complexity_class",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "jfrdulg7"
+}

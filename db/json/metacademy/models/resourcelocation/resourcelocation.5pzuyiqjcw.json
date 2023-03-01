@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=C3nIFH649wY&list=PLD0F06AA0D2E8FFBA&index=70",
+    "cresource": "2vgob85qqq",
+    "ordering": 0,
+    "location_text": "Lecture: bias-variance decomposition (ML 11.5) ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "5pzuyiqjcw"
+}

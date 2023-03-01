@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "dlf6i87t",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 860,
+    "target_goals": ["6qbc3aax7t"],
+    "source_goals": ["80hn0e6jnp", "c2ppa363nt", "ld57feavrv", "yplt6sdie4"],
+    "source": "65t8tji2",
+    "reason": "Skolem's Paradox is about Zermelo-Frankl set theory."
+  },
+  "model": "graph.dependency",
+  "pk": "65t8tji2dlf6i87t"
+}

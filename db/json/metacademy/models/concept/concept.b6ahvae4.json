@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "trie (data structure)",
+    "pointers": "",
+    "tags": ["algorithms", "programming"],
+    "learn_time": 0.7353855665397311,
+    "summary": "A trie (pronounced \"try\") is a data structure which indexes strings by their prefixes. It can be used to efficiently implement autocomplete.\n",
+    "last_mod": "2014-09-07T02:28:21.251Z",
+    "tag": "trie_data_structure",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "b6ahvae4"
+}

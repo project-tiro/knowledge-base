@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "5p5nsbin",
+    "last_mod": "2014-10-11T21:33:15.872Z",
+    "ordering": -1,
+    "target_goals": ["ajmq9xf6uqj", "f8g08eea0s5", "h1ld8my0ilw", "qwmnba0lhht", "w59cvdkbx09", "wpohi04zswf"],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "The Fisher information matrix is PSD."
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd75p5nsbin"
+}

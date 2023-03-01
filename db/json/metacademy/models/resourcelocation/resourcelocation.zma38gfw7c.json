@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=MPmrFu4jFk4",
+    "cresource": "c0qz4ikr4y",
+    "ordering": 2,
+    "location_text": "video lecture: (ML 14.8) Forward algorithm (part 2) ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "zma38gfw7c"
+}

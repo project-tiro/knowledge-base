@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 2,
+    "text": "* Using the least upper bound property, show that there exists a real number x such that x^2 = 2",
+    "concept": "mtt4amj5",
+    "last_mod": "2014-08-13T09:59:02.253Z"
+  },
+  "model": "graph.goal",
+  "pk": "zzyua2m7re"
+}

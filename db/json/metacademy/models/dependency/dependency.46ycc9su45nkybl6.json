@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "45nkybl6",
+    "last_mod": "2014-08-30T23:35:53.497Z",
+    "ordering": 67,
+    "target_goals": ["fwexm4f7g6", "yd910p3481"],
+    "source_goals": ["4913uw4gwg", "fw67icdhff", "h6we5wxj24", "nq2mwmif7f", "qwlyz5cz5k"],
+    "source": "46ycc9su",
+    "reason": "Decision trees are a major motivating example for bagging."
+  },
+  "model": "graph.dependency",
+  "pk": "46ycc9su45nkybl6"
+}

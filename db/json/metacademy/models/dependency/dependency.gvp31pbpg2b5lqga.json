@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "g2b5lqga",
+    "last_mod": "2014-08-30T21:34:01.025Z",
+    "ordering": 555,
+    "target_goals": ["1g3eemq2ak", "9m41e376n2", "nd8c9fggpp"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "KL divergence is defined as an expectation."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbpg2b5lqga"
+}

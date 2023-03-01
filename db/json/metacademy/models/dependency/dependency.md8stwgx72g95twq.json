@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "72g95twq",
+    "last_mod": "2014-08-30T21:34:01.489Z",
+    "ordering": -1,
+    "target_goals": ["7wk8c4dp2ic", "l4mzu3wad29", "pbbv00pimwe", "z4rz1o7blmw"],
+    "source_goals": ["8mmwc5b2fad", "9isuh31jfbf", "ayhxjhhbdhl", "e9rj1yz7cm4", "ttsmioadwij"],
+    "source": "md8stwgx",
+    "reason": "Projection is used in the solution."
+  },
+  "model": "graph.dependency",
+  "pk": "md8stwgx72g95twq"
+}

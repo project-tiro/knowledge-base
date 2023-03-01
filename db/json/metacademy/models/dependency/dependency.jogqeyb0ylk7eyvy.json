@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ylk7eyvy",
+    "last_mod": "2014-08-31T15:18:50.958Z",
+    "ordering": 768,
+    "target_goals": ["u0uybnqekd"],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "The column space and nullspace have to do with the solutions to linear systems."
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb0ylk7eyvy"
+}

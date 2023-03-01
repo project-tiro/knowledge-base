@@ -1,0 +1,21 @@
+{
+  "fields": {
+    "target": "91puxjry",
+    "last_mod": "2014-08-30T21:34:00.985Z",
+    "ordering": -1,
+    "target_goals": ["1fg85bbcg88", "211prlc36qi", "ei413jhsrft"],
+    "source_goals": [
+      "29bxd7qr099",
+      "35kdpx6a1pm",
+      "kxy50es4079",
+      "m8nx4zatadu",
+      "nte8w095vsl",
+      "pqk34371k5u",
+      "uuwetzkg19h"
+    ],
+    "source": "gvp31pbp",
+    "reason": "Monte Carlo methods are a way of estimating expectations."
+  },
+  "model": "graph.dependency",
+  "pk": "gvp31pbp91puxjry"
+}

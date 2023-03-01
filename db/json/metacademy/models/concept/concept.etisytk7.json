@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "k-means++",
+    "pointers": null,
+    "tags": ["machinelearning"],
+    "learn_time": 1.1426306505407828,
+    "summary": "The k-means++ algorithm is a simple stochastic procedure for choosing the initial cluster centers for the classic k-means algorithm. This initialization guarantees that the expected objective of the final clustering solution will be within a constant factor of the optimal objective. Briefly stated, k-means++ selects the initial cluster centers as follows: the first center is chosen randomly from the input data points. Next, each subsequent cluster center is chosen from the remaining data points with probability proportional to its squared distance from the point's closest existing cluster center.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "k_means_pp",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "etisytk7"
+}

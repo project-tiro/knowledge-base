@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "ghb79f4f",
+    "last_mod": "2014-08-30T23:47:41.916Z",
+    "ordering": 753,
+    "target_goals": ["0zx7w3s9th", "erjzgolvug", "jrdias5tp9", "ngail3kuhl", "xdi8cq7o4y"],
+    "source_goals": ["45s4lkalxjv"],
+    "source": "l4im2jkx",
+    "reason": "Bayesian linear regression uses some of the same computations as Bayesian inference for multivariate Gaussians."
+  },
+  "model": "graph.dependency",
+  "pk": "l4im2jkxghb79f4f"
+}

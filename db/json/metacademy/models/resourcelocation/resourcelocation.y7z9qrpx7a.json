@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "za0rfizx2d",
+    "ordering": 0,
+    "location_text": "Section 6, \"The Axiom of Choice,\" only the parts dealing with the \"Well-Ordering Theorem,\" pages 25-28",
+    "location_type": "lecture notes"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "y7z9qrpx7a"
+}

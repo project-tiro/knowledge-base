@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "equivalence relations",
+    "pointers": null,
+    "tags": ["settheory"],
+    "learn_time": 0.8986029123646367,
+    "summary": "A relation is an equivalence relation if it is reflexive, symmetric, and transitive. Equivalence relations can be used to partition a set into equivalence classes. Examples include equality, isomorphism, and graph connectivity.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "equivalence_relations",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "exxfwv5u"
+}

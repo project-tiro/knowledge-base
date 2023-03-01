@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-19T14:45:17.644Z",
+    "url": "http://maths-people.anu.edu.au/~andrews/DG/DG_chap9.pdf",
+    "cresource": "eisoqvcesmo",
+    "ordering": -1,
+    "location_text": "Chapter 9, \"Riemannian metrics,\" up through 9.2, \"Length and distance,\" pages 1-2",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "i5jq0yjhafh"
+}

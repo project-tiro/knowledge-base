@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "bjleobug",
+    "last_mod": "2014-09-01T23:58:25.005Z",
+    "ordering": 4,
+    "target_goals": ["1pb8m91v4t", "gt5mcrv9g2", "zfxkrcthbd"],
+    "source_goals": ["d5lp6goj19", "es8usw7ao5", "mm5erjzlqf"],
+    "source": "0mk50ni3",
+    "reason": "Conditional distributions are needed to define conditional entropy."
+  },
+  "model": "graph.dependency",
+  "pk": "0mk50ni3bjleobug"
+}

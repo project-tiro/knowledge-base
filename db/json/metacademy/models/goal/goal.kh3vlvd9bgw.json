@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "In a programming language such as Java, C++, or Python, know the syntax for defining subclasses and the rules for overriding methods",
+    "concept": "cam6w537",
+    "last_mod": "2014-09-11T03:17:48.087Z"
+  },
+  "model": "graph.goal",
+  "pk": "kh3vlvd9bgw"
+}

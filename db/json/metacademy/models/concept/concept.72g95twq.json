@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "linear least squares",
+    "pointers": "* Linear least-squares is the basis for  [linear regression](linear_regression_closed_form) , a widely used statistical model.\n* Some ways of solving the linear least-squares problem include:\n** the  [QR decomposition](qr_decomposition)\n** the  [pseudoinverse](pseudoinverse)",
+    "tags": ["linearalgebra"],
+    "learn_time": 1.5995103666338841,
+    "summary": "Linear least squares gives a value of x which minimizes the norm of Ax - b. It is well defined even in cases where Ax = b has no solution. It is the basis of linear regression, one of the most widely used methods in statistics.\n",
+    "last_mod": "2014-11-19T03:09:58.218Z",
+    "tag": "linear_least_squares",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "72g95twq"
+}

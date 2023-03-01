@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "unit testing",
+    "pointers": "",
+    "tags": ["programming"],
+    "learn_time": 1.9801146770557954,
+    "summary": "In programming, a unit test is a test of a single function or data type in isolation from the rest of the system. Most modern high-level programming languages have unit testing frameworks which allow large numbers of unit tests to be run quickly and automatically.\n",
+    "last_mod": "2014-09-13T21:15:29.727Z",
+    "tag": "unit_testing",
+    "exercises": "",
+    "is_shortcut": false,
+    "software": ""
+  },
+  "model": "graph.concept",
+  "pk": "tz6a7wf6"
+}

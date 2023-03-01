@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T19:42:59.545Z",
+    "ordering": -1,
+    "target_goals": [
+      "160cyysa038",
+      "2m0fqttck57",
+      "75p6dip70tt",
+      "8gxlgl7bck5",
+      "9gxyxsr5rit",
+      "hswm5pju25d",
+      "ko0mk0n8zl1",
+      "ptig1jtq02g"
+    ],
+    "source_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source": "t6x3pnaf",
+    "reason": "The Newton update includes a matrix inverse"
+  },
+  "model": "graph.dependency",
+  "pk": "t6x3pnafo7nh4u08"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cqpveand",
+    "last_mod": "2014-11-08T20:42:02.320Z",
+    "ordering": 1,
+    "target_goals": ["58ab8u7kc4h", "5stylb6ltat", "908iyypiafw", "a9csgloznzv"],
+    "source_goals": ["n9t7qbe818g", "td6b8hvrilw", "vy3gv08ku51"],
+    "source": "0ldu1aud",
+    "reason": "Depth first search is a canonical example of an uninformed search algorithm"
+  },
+  "model": "graph.dependency",
+  "pk": "0ldu1audcqpveand"
+}

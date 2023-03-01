@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "asymptotics of maximum likelihood",
+    "pointers": "* Because of the  [Cramer-Rao bound](cramer_rao_bound) , no unbiased estimator can achieve lower variance than the ML estimator.\n* The ML estimator depends only on  [sufficient statistics](sufficient_statistics)  of the distribution.",
+    "tags": ["freqstats"],
+    "learn_time": 2.7895319929859395,
+    "summary": "Under certain regularity conditions, the maximum likelihood estimator is consistent, i.e. it asymptotically approaches the true value. Its sampling distribution (when rescaled appropriately) approaches a normal distribution whose variance is determined by the Fisher information. Because of the Cramer-Rao bound, this is the best we can do. The asymptotic analysis is useful for constructing confidence intervals for parameter estimates.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "asymptotics_of_maximum_likelihood",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "5iolqypn"
+}

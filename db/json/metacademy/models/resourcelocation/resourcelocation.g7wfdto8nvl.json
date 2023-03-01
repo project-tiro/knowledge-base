@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T20:39:06.517Z",
+    "url": "http://artint.info/html/ArtInt_49.html",
+    "cresource": "cnzhpon7z9z",
+    "ordering": -1,
+    "location_text": "Section 3.3, \"Graph searching\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "g7wfdto8nvl"
+}

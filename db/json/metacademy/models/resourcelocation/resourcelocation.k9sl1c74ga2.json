@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:09:26.064Z",
+    "url": "http://cslibrary.stanford.edu/101/EssentialC.pdf#page=33",
+    "cresource": "mttnk3a2u76",
+    "ordering": -1,
+    "location_text": "Section 6, \"Advanced arrays and pointers,\" pages 33-40",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "k9sl1c74ga2"
+}

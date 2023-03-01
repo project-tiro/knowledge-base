@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "elrnkt05mr",
+    "ordering": 0,
+    "location_text": "Sections 1-3 provide core material and sections 4-7 provide examples and further technical details",
+    "location_type": "tutorial paper"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "ex7x4uatzg"
+}

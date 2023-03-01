@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": -1,
+    "text": "Why doesn't the step size formula from linear CG choose the optimal step size?  Know of at least one heuristic for choosing a step size.",
+    "concept": "wojx5447",
+    "last_mod": "2014-10-20T01:47:59.344Z"
+  },
+  "model": "graph.goal",
+  "pk": "o2bayficmk2"
+}

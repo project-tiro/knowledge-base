@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "lr83iyvg",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 383,
+    "target_goals": ["6mfkdu2n9n", "rstg5clahw"],
+    "source_goals": [],
+    "source": "fm218u5i",
+    "reason": "pLSA is fit using maximum likelihood."
+  },
+  "model": "graph.dependency",
+  "pk": "fm218u5ilr83iyvg"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T16:20:58.847Z",
+    "url": "http://math.hws.edu/javanotes/c5/index.html",
+    "cresource": "9cibft720cw",
+    "ordering": -1,
+    "location_text": "Chapter 5, \"Programming in the large II: objects and classes,\" up through 5.4, \"Programming example: card, hand, deck\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "gegw82yiwid"
+}

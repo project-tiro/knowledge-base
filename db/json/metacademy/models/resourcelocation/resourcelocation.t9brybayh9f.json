@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-10-20T01:27:53.235Z",
+    "url": "http://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf#page=38",
+    "cresource": "fuycfv45m5w",
+    "ordering": -1,
+    "location_text": "Section 9, \"Convergence analysis of conjugate gradients,\" pages 32-37",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "t9brybayh9f"
+}

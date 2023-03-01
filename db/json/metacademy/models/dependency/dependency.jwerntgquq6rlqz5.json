@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "uq6rlqz5",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": -1,
+    "target_goals": ["5uq7ki9qf2", "gzggsmb0bn", "q0ofito8z39", "qw73b8mq7y"],
+    "source_goals": ["6rxv0i7ls7", "6u1qhkv1a9", "evxd2brt2i", "hz4kp4lbn7", "n73lgocqoo", "v34qab7sha"],
+    "source": "jwerntgq",
+    "reason": "The cardinal numbers are constructed from the ordinal numbers."
+  },
+  "model": "graph.dependency",
+  "pk": "jwerntgquq6rlqz5"
+}

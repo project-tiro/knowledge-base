@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "t6x3pnaf",
+    "last_mod": "2014-08-30T21:34:01.246Z",
+    "ordering": -1,
+    "target_goals": ["afggmj7hrkq", "blz50gmopil", "ec5fco0y6py", "f0popcx01az", "i9myknlnccs", "qu1adoyxsej"],
+    "source_goals": ["nn4t05c2752", "rq0j9042yrm"],
+    "source": "jogqeyb0",
+    "reason": "The matrix inverse is defined in terms of systems of linear equations."
+  },
+  "model": "graph.dependency",
+  "pk": "jogqeyb0t6x3pnaf"
+}

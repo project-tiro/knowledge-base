@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o86qck81",
+    "last_mod": "2014-09-13T21:59:50.540Z",
+    "ordering": -1,
+    "target_goals": ["1iq8u64dm4s", "4nueyxdgqm5", "dm6jfqy1iqk", "dqw0lfltvn5", "nshy9luaq5j", "x270mnh404f"],
+    "source_goals": ["l9r0la0i3r9", "lw3ogmcj0sv", "q105klrq9ll"],
+    "source": "yws89ctj",
+    "reason": "Reasoning about control flow for exceptions requires understanding the call stack"
+  },
+  "model": "graph.dependency",
+  "pk": "yws89ctjo86qck81"
+}

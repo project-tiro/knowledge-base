@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xa9pvisu",
+    "last_mod": "2014-08-30T20:16:03.687Z",
+    "ordering": -1,
+    "target_goals": ["8z7po8mscoq", "hilizkf6tui", "tudpch1dz08", "xlh5s08y6oj"],
+    "source_goals": ["m7u2tnehc7", "o1ptax2ica"],
+    "source": "xij1in6b",
+    "reason": "Unitary matrices are a kind of complex matrix."
+  },
+  "model": "graph.dependency",
+  "pk": "xij1in6bxa9pvisu"
+}

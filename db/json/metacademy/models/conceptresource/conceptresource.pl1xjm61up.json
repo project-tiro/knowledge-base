@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": true,
+    "concept": "wltj1far",
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.389Z",
+    "ordering": 2,
+    "notes": "[u'Click on \"Preview\" to see the lecture videos.']",
+    "goals_covered": ["2lcmpyl1i4", "qmwmwpi30i", "ybxzmh687c"],
+    "edition": null,
+    "additional_dependencies": "[]",
+    "global_resource": "watni627vu"
+  },
+  "model": "graph.conceptresource",
+  "pk": "pl1xjm61up"
+}

@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "covariance matrices",
+    "pointers": "* The  [multivariate Gaussian](multivariate_gaussian_distribution)  is a widely used distribution parameterized in terms of a mean vector and covariance matrix.\n* The  [Cauchy-Schwartz inequality for covariance](cauchy_schwarz_inequality_probability)  follows from the fact that covariance matrices are PSD.\n*  [Principal component analysis](principal_component_analysis)  is a data analysis method applied to the covariance matrix.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "A covariance matrix generalizes the idea of variance to multiple dimensions, where the i-th j-th element in the covariance matrix is the covariance between the i-th and j-th random variables. Covariance matrices are common throughout both statistics and machine learning and often arise when dealing with multivariate distributions.\n",
+    "last_mod": "2014-10-11T21:32:55.594Z",
+    "tag": "covariance_matrices",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "djpu1udn"
+}

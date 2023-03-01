@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "multinomial logistic regression",
+    "pointers": "* Here are some other commonly used multiway classification algorithms:\n**  [naive Bayes](naive_bayes)\n**  [multi-class support vector machines (SVMs)](multiclass_svms)\n* Multinomial logistic regression is a  [discriminative model](generative_vs_discriminative) .\n* Multinomial logistic regression is a kind of  [generalized linear model](generalized_linear_models) .",
+    "tags": ["machinelearning"],
+    "learn_time": 0.4958394310665583,
+    "summary": "Multinomial logistic regression is a generalization of logistic regression to the case where there are more than two categories.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "multinomial_logistic_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8emciktc"
+}

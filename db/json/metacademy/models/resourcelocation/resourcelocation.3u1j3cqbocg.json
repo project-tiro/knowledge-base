@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-11-08T23:20:16.182Z",
+    "url": "https://www.udacity.com/course/viewer#!/c-cs271/l-48720299/e-48730209/m-48691548",
+    "cresource": "8mcownz2ye3",
+    "ordering": -1,
+    "location_text": "Part 13, \"Games,\" starting from \"Time complexity question\"",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "3u1j3cqbocg"
+}

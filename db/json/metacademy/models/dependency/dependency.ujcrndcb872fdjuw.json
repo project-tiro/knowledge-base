@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "872fdjuw",
+    "last_mod": "2014-08-30T21:34:01.830Z",
+    "ordering": 816,
+    "target_goals": ["ov6zzoq4nw"],
+    "source_goals": ["1icv95iyvmz", "dyq2j3mkbne", "snfeofd46wm"],
+    "source": "ujcrndcb",
+    "reason": "We characterize the maximum likelihood solutions in terms of solutions to an optimization problem."
+  },
+  "model": "graph.dependency",
+  "pk": "ujcrndcb872fdjuw"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "kqwbso0y",
+    "last_mod": "2014-08-31T00:06:48.290Z",
+    "ordering": 2,
+    "target_goals": ["epyjp474w4b", "rh85fruo1mm"],
+    "source_goals": ["42f4u1q3zl7", "9h7vvv7o43l", "d5w26hzy1iq", "jpyow51ihbm"],
+    "source": "tdhttl8l",
+    "reason": "The inverse gamma distribution is the conjugate prior for the scale parameter."
+  },
+  "model": "graph.dependency",
+  "pk": "tdhttl8lkqwbso0y"
+}

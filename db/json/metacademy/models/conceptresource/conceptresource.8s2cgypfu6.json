@@ -1,0 +1,16 @@
+{
+  "fields": {
+    "core": false,
+    "concept": "n1flwqjp",
+    "version_num": 0,
+    "last_mod": "2014-09-14T21:52:30.767Z",
+    "ordering": 1,
+    "notes": null,
+    "goals_covered": [],
+    "edition": "1",
+    "additional_dependencies": "[{u'title': u'Bayesian linear regression'}]",
+    "global_resource": "0itr0mhzfe"
+  },
+  "model": "graph.conceptresource",
+  "pk": "8s2cgypfu6"
+}

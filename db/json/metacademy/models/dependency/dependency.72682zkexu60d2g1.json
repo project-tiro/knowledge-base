@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "xu60d2g1",
+    "last_mod": "2014-08-30T21:34:00.494Z",
+    "ordering": -1,
+    "target_goals": ["ex1wkbnbgxh", "lz48237ty44"],
+    "source_goals": ["0cnna1l6y00", "88d7ptx438w", "lv44gcarxm9", "n9buz7efe8t", "op25rojvhl1"],
+    "source": "72682zke",
+    "reason": "the matrix transpose preserves the determinant"
+  },
+  "model": "graph.dependency",
+  "pk": "72682zkexu60d2g1"
+}

@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "2ebjq6h8n5",
+    "ordering": 0,
+    "location_text": "Chapter 6, \"Cardinal numbers and the Axiom of Choice,\" up through subsection \"Ordering cardinal numbers,\" pages 128-150",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "500d5girg9"
+}

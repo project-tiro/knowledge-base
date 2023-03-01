@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "https://class.coursera.org/machlearning-001/lecture/161",
+    "cresource": "votena8iby",
+    "ordering": 0,
+    "location_text": "Lecture \"Decision trees\" ",
+    "location_type": "online lectures"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "kn0ggqj975"
+}

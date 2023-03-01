@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T15:49:33.958Z",
+    "url": "http://publications.gbdirect.co.uk/c_book/the_c_book.pdf#page=145",
+    "cresource": "82hse8fmn0t",
+    "ordering": -1,
+    "location_text": "Section 5.4.3, \"Untyped pointers,\" pages 145-146",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "7zyd1h3ceo0"
+}

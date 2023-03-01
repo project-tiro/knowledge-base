@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T03:29:03.513Z",
+    "url": "http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/unit-3/lecture-21-using-graphs-to-model-problems-part-1/",
+    "cresource": "itqs9hnztnh",
+    "ordering": -1,
+    "location_text": "Lecture 31, \"Using graphs to model problems, part 1,\" starting from 29:30",
+    "location_type": ""
+  },
+  "model": "graph.resourcelocation",
+  "pk": "du7qfp3iti6"
+}

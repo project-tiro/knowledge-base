@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "o7nh4u08",
+    "last_mod": "2014-10-11T21:35:26.412Z",
+    "ordering": 8,
+    "target_goals": ["2m0fqttck57", "hswm5pju25d"],
+    "source_goals": ["ralmg75o0n0"],
+    "source": "yjhlehd7",
+    "reason": "Showing that Newton's method gives a descent direction requires a property of positive definite matrices"
+  },
+  "model": "graph.dependency",
+  "pk": "yjhlehd7o7nh4u08"
+}

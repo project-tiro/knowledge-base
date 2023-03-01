@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A free collaboratively-edited online book on C programming",
+    "version_num": 0,
+    "title": "WikiBooks: C Programming",
+    "url": "http://en.wikibooks.org/wiki/C_Programming",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-07T00:42:20.647Z",
+    "authors": "[u'']",
+    "edition_years": "[]",
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "vpgn9wnhq90"
+}

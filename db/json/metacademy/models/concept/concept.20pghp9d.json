@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "ridge regression",
+    "pointers": "* The  [closed-form solution](linear_regression_closed_form)  to linear regression can be extended to ridge regression.\n* Ridge regression is an example of  [regularization](regularization) .\n* Ridge regression can be  [viewed as a Bayesian model](bayesian_linear_regression)  with a Gaussian prior over the parameters. \n* The  [number of effective parameters](smoother_matrix)  in ridge regression is smaller than the actual number of parameters.",
+    "tags": ["machinelearning"],
+    "learn_time": 0.8404056888543632,
+    "summary": "A problem with vanilla linear regression is that it can overfit, by forcing the learned parameters to match all the idiosyncrasies of the training data. Ridge regression, or regularized linear regression, is a way of extending the cost function with a regularizer which penalizes large weights. This leads to simpler solutions and often improves generalization performance. This idea of regularization can be used to improve the generalization performance of many other statistical models as well.\n",
+    "last_mod": "2014-09-21T01:54:37.005Z",
+    "tag": "ridge_regression",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "20pghp9d"
+}

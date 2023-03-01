@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "apf478vy",
+    "last_mod": "2014-08-13T09:59:02.279Z",
+    "ordering": 93,
+    "target_goals": ["6xodgczm15"],
+    "source_goals": ["intmx0we9d", "nba39r8e29", "o4maylqjeh", "qn02twjqdw", "w7xjkzpzdn"],
+    "source": "sug552ho",
+    "reason": ""
+  },
+  "model": "graph.dependency",
+  "pk": "sug552hoapf478vy"
+}

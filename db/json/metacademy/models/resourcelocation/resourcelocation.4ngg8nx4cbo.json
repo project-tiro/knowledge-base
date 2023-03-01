@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-14T04:02:47.331Z",
+    "url": "http://en.wikipedia.org/wiki/Tree_traversal",
+    "cresource": "jucvm5zafht",
+    "ordering": -1,
+    "location_text": "Article \"Tree traversal\"",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "4ngg8nx4cbo"
+}

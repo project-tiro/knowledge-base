@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "Online lectures for a Stanford course on programming paradigms",
+    "version_num": 0,
+    "title": "Stanford CS107: Programming Paradigms",
+    "url": "http://see.stanford.edu/see/lecturelist.aspx?coll=2d712634-2bf1-4b55-9a3a-ca9d470755ee",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-09-07T04:03:54.671Z",
+    "authors": "[u'Jerry Cain']",
+    "edition_years": "[]",
+    "resource_type": "online lectures"
+  },
+  "model": "graph.globalresource",
+  "pk": "nzi6f76r1f9"
+}

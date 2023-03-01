@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-09-21T01:53:07.093Z",
+    "url": "http://www.cs.toronto.edu/~mbrubake/teaching/C11-Fall2014/Handouts/NonlinearRegression.pdf",
+    "cresource": "tw9nj9krtkb",
+    "ordering": -1,
+    "location_text": "Lecture 3, \"Nonlinear regression,\" Section 1, \"Basis function regression,\" pages 1-3",
+    "location_type": "sec"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "htl228b06nw"
+}

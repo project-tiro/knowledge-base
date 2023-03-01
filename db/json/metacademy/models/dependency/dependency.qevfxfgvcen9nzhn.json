@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "cen9nzhn",
+    "last_mod": "2014-11-19T02:56:44.139Z",
+    "ordering": -1,
+    "target_goals": ["40nrrjgyglx", "hemhq4bnp4o", "wrqecvaf7bn", "yrggfekh11c"],
+    "source_goals": ["430djp4ky94", "hci7ppry17c", "viutc6y9mmf"],
+    "source": "qevfxfgv",
+    "reason": "Solving the trust region optimization problem requires Lagrange multipliers"
+  },
+  "model": "graph.dependency",
+  "pk": "qevfxfgvcen9nzhn"
+}

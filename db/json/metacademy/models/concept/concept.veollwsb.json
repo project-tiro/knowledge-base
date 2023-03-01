@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "expectimax search",
+    "pointers": "* Expectimax search is an alternative to  [minimax search](minimax_search) , which instead of maximizing the expected utility, minimax search minimizes the maximum loss.",
+    "tags": ["reinforcementlea", "symbolicai"],
+    "learn_time": 1.363967354121512,
+    "summary": "Expectimax search is a search/decision-making algorithm that maximizes the average (expected) reward. It is typically applied to trees that have stochastic nodes, where the outcome of an action is uncertain.\n",
+    "last_mod": "2014-11-08T23:21:53.017Z",
+    "tag": "expectimax_search",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "veollwsb"
+}

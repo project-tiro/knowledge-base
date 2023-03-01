@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "method of moments",
+    "pointers": "* Some other parameter estimation methods include:\n**  [maximum likelihood](maximum_likelihood)\n**  [Bayesian parameter estimation](bayesian_parameter_estimation)\n* In  [exponential families](exponential)  families, the maximum likelihood solution  [is equivalent](maximum_likelihood_in_exponential_families)  to moment matching.",
+    "tags": ["freqstats"],
+    "learn_time": 1.2455353305008718,
+    "summary": "The method of moments is a simple method for estimating the parameters of a probability distribution from data. The parameters are chosen so that the model moments match the empirical moments.\n",
+    "last_mod": "2014-08-13T09:59:02.294Z",
+    "tag": "method_of_moments",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "8c05m9cb"
+}

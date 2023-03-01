@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "Lagrange multipliers",
+    "pointers": "* We can't always find a closed form solution to an optimization problem. Here are some computational techniques we can use:\n**  [projected gradient descent](projected_gradient_descent)\n**  [interior point methods](interior_point_methods)\n* Some widely used classes of optimization problems:\n**  [convex optimization problems](convex_optimization)\n**  [linear least squares](linear_least_squares)\n**  [linear programs](linear_programs)\n**  [quadratic programs](quadratic_programs)\n**  [second-order conic programs](second_order_conic_programs)\n**  [semidefinite programs](semidefinite_programs)",
+    "tags": ["optimization"],
+    "learn_time": 1.2051061806596453,
+    "summary": "Lagrange multipliers are a tool for solving optimization problems with equality or inequality constraints. In particular, some linear combination of the gradients of the constraints must match the gradient of the function. Lagrange multipliers are a key idea behind Lagrange duality, a central concept in convex optimization.\n",
+    "last_mod": "2014-08-30T17:13:23.080Z",
+    "tag": "lagrange_multipliers",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "qevfxfgv"
+}

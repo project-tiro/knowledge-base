@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "target": "hkrsnv1p",
+    "last_mod": "2014-09-14T04:00:04.241Z",
+    "ordering": -1,
+    "target_goals": ["37ji7hifyc4", "6o1q7e1vp25", "cflo8wwrheh", "upn4rf2kfhi"],
+    "source_goals": ["0lv6smy3d4h", "9qh3ajagtit", "fzyrr39ss6v"],
+    "source": "zd073egx",
+    "reason": "A heap is a kind of tree"
+  },
+  "model": "graph.dependency",
+  "pk": "zd073egxhkrsnv1p"
+}

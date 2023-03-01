@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "A linear algebra textbook with proofs.",
+    "version_num": 0,
+    "title": "A First Course in Linear Algebra",
+    "url": "http://linear.ups.edu/",
+    "notes": "",
+    "year": 2012,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Robert A. Beezer']",
+    "edition_years": null,
+    "resource_type": "textbook"
+  },
+  "model": "graph.globalresource",
+  "pk": "zrk3u92u9v"
+}

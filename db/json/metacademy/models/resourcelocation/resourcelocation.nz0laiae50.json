@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": "http://www.youtube.com/watch?v=rVviNyIR-fI&feature=youtu.be&t=3m20s",
+    "cresource": "09yh0031kh",
+    "ordering": 0,
+    "location_text": "Lecture 9.1 \"Linear regression - Nonlinearity via basis functions\" ",
+    "location_type": "youtube videos"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "nz0laiae50"
+}

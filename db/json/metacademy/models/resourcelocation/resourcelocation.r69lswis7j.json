@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "version_num": 0,
+    "last_mod": "2014-08-13T09:59:02.342Z",
+    "url": null,
+    "cresource": "gkcckglp7s",
+    "ordering": 0,
+    "location_text": "Sections 2.6, \"Elimination = factorization: A = LU\", and 2.7, \"Transposes and permutations,\" pages 95-113",
+    "location_type": "textbook"
+  },
+  "model": "graph.resourcelocation",
+  "pk": "r69lswis7j"
+}

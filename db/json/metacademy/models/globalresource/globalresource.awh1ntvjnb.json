@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "description": "",
+    "version_num": 0,
+    "title": "Walk-sums and belief propagation in Gaussian graphical models",
+    "url": "http://ssg.mit.edu/~willsky/publ_pdfs/185_pub_MLR.pdf",
+    "notes": "",
+    "year": null,
+    "access": "free",
+    "last_mod": "2014-08-13T09:59:02.311Z",
+    "authors": "[u'Dmitry M. Malioutov', u'Jason K. Johnson', u'Alan S. Willsky']",
+    "edition_years": null,
+    "resource_type": "paper"
+  },
+  "model": "graph.globalresource",
+  "pk": "awh1ntvjnb"
+}

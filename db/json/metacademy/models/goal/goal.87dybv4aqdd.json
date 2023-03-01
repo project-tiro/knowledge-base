@@ -1,0 +1,10 @@
+{
+  "fields": {
+    "ordering": 3,
+    "text": "Know what happens in the algorithm when there is one solution, no solutions, or many solutions",
+    "concept": "8de793ha",
+    "last_mod": "2014-08-30T03:18:33.594Z"
+  },
+  "model": "graph.goal",
+  "pk": "87dybv4aqdd"
+}

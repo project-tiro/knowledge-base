@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "version_num": 0,
+    "title": "KL divergence",
+    "pointers": "*  [Variational Bayes](variational_bayes)  is a class of approximate inference algorithms which try to minimize the KL divergence between distributions.\n* KL divergence is a special case of more general families of divergences:\n**  [alpha divergences](alpha_divergences)\n**  [Bregman divergence](bregman_divergence)\n* KL divergence is  [locally approximated](fisher_information_metric_approximates_kl_divergence)  by the  [Fisher information metric](fisher_information_metric) .\n*  [Mutual information](mutual_information)  can be  [defined](mutual_information_and_kl_divergence)  in terms of KL divergence.",
+    "tags": ["probabilitytheor"],
+    "learn_time": 1.2833411800074659,
+    "summary": "KL divergence, roughly speaking, is a measure of the distance between two probability distributions P and Q, and corresponds to the number of extra bits required to encode samples from P using an optimal code for Q. It is not truly a distance function, because it's not symmetric and it doesn't satisfy the triangle inequality. Despite this, it's widely used in information theory and probabilistic inference.\n",
+    "last_mod": "2014-08-30T21:39:01.755Z",
+    "tag": "kl_divergence",
+    "exercises": null,
+    "is_shortcut": false,
+    "software": null
+  },
+  "model": "graph.concept",
+  "pk": "g2b5lqga"
+}
