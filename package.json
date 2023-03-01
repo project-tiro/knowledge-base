@@ -3,7 +3,9 @@
   "author": "George Bockari <bit@creight.dev>",
   "scripts": {
     "commit": "cz",
-    "format:data": "scripty"
+    "generate:json": "scripty",
+    "generate:readme": "scripty",
+    "format:data": "prettier -w db/**"
   },
   "devDependencies": {
     "@types/node": "^18.14.2",

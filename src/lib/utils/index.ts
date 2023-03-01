@@ -1,1 +1,1 @@
-export * from './format-data'
+export * from './generate-json'
